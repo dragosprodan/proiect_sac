@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200001/cmhansrd/vo001211/debtext/01211-06.htm#01211-06_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>11 December 2000</date>
+               <date when="2000-12-11"></date>
+               <activity>Enlargment, Treaty of Nice</activity>
+               <locale>Nice</locale>
+               <persName>Blair I</persName>
+               <name>90th ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="HAGUE">
+                  <persName>Mr. William Hague</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Richmond (Yorks)</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="SMITH">
+                  <persName>Mr. Iain Duncan Smith</persName>
+                  <sex>male</sex>
+                  <occupation>Shadow Secretary of State for Defence</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Chingford and Woodford Green</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="RADICE">
+                  <persName>Mr. Giles Radice</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North Durham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Ross, Skye and Inverness, West</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="MACSHANE">
+                  <persName>Mr. Denis MacShane</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Rotherham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ANDERSON">
+                  <persName>Mr. Donald Anderson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Swansea, East</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="CURRY">
+                  <persName>Mr. David Curry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Skipton and Ripon</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="DALYELL">
+                  <persName>Mr. Tam Dalyell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Linlithgow</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="TAYLOR-JOHN">
+                  <persName>Mr. John D. Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Ulster Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Strangford</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="MACKINLAY">
+                  <persName>Mr. Andrew Mackinlay</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Thurrock</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="HOWARD">
+                  <persName>Mr. Michael Howard</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Folkestone and Hythe</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="RAMMELL">
+                  <persName>Mr. Bill Rammell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Harlow</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="BROOKE">
+                  <persName>Mr. Peter Brooke</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Cities of London and Westminster</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="SPICER">
+                  <persName>Sir Michael Spicer</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>West Worcestershire</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="CASALE">
+                  <persName>Mr. Roger Casale</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Wimbledon</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="BARNES">
+                  <persName>Mr. Harry Barnes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North-East Derbyshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="CHIDGEY">
+                  <persName>Mr. David Chidgey</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Eastleigh</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="MAPLES">
+                  <persName>Mr. John Maples</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stratford-on-Avon</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="LEIGH">
+                  <persName>Mr. Edward Leigh</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Gainsborough</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="KING">
+                  <persName>Mr. Tom King</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Bridgwater</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="REDWOOD">
+                  <persName>Mr. John Redwood</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Wokingham</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="BANKS">
+                  <persName>Mr. Tony Banks</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>West Ham</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="DAVIES-DENZIL">
+                  <persName>Mr. Denzil Davies</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Llanelli</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="STARKEY">
+                  <persName>Dr. Phyllis Starkey</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Milton Keynes, South-West</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="BERCOW">
+                  <persName>Mr. John Bercow</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Buckingham</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="WIGLEY">
+                  <persName>Mr. Dafydd Wigley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Caernarfon</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="CAMPBELL-SAVOURS">
+                  <persName>Mr. Dale Campbell-Savours</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Workington</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="TAYLOR-TEDDY">
+                  <persName>Sir Teddy Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Rochford and Southend, East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Louth and Horncastle</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>After five gruelling days, victory was secured - I am sure the whole House would
+               like to send our congratulations to the English cricket team on its triumph. With
+               permission, Mr. Speaker, I shall make a statement on the European Council which took
+               place from 7 to 10 December. A copy of the conclusions has been placed in the Library
+               of the House, and a copy of the Nice treaty will be deposited as soon as the final
+               version is available from the Council secretariat. This summit was the culmination of
+               a year-long conference called to deal with issues on which agreement could not be
+               reached at Amsterdam three and a half years ago. Agreement was essential to open the
+               door to the enlargement of the European Union, the goal of successive British
+               Governments. An agreement was reached in the early hours of this morning which
+               removes all remaining institutional obstacles to enlargement. It is extraordinary to
+               think that, a few years ago, those countries in central and eastern Europe were still
+               under the communist yoke of the old Soviet bloc. Today, there is the real prospect of
+               uniting western and eastern Europe for the first time in generations. The primary
+               objective in the negotiation has therefore been successfully accomplished. But there
+               were also key British interests. Our first priority was to get more voting strength
+               for the United Kingdom. The agreement reached increases the weight of Britain's vote.
+               It raises the threshold for qualified majority voting up, when the EU comprises 27
+               members, to more than 74 per cent. of votes. It adds two further tests. Any proposal
+               must have at least a majority of states on-side, as well as crossing the 74 per cent.
+               threshold. And a new population threshold at 62 per cent. of the EU is also
+               introduced. So the three biggest countries will continue, even as the EU enlarges, to
+               be able to block together. This now can be placed alongside the changes in Britain's
+               financial contributions. Ever since we joined the EU, Britain has made a far greater
+               proportionate contribution to Europe's finances than France or Italy despite, until
+               recently, being a slightly smaller economy. By 2006, on the assumption of only six
+               new member states, we shall be making a net contribution roughly equivalent to France
+               and Italy's, for the first time in our membership. Secondly, on defence, the European
+               Council agreed the arrangements for European security that we have been negotiating
+               over the past two years. It was made plain, first, that European defence would
+               operate only when NATO chooses not to be engaged; secondly, that it be limited to
+               peacekeeping, humanitarian and crisis management tasks; and, thirdly, as the text
+               puts it, that the commitment of national assets to any EU-led operation will be based
+               on "sovereign national decisions." Collective defence will remain the responsibility
+               of NATO. The next step is for the two organisations, the EU and NATO, to agree on the
+               necessary arrangements. Any significant operation will require NATO assets and any
+               such operation will be planned at NATO by the planning staff at Supreme Headquarters
+               Allied Powers Europe- <seg>This underlines the EU's aim to develop a strategic
+                  partnership with NATO. So here, too, Britain's essential national interest has
+                  been protected.</seg> Thirdly, we have retained unanimity where necessary and
+               extended qualified majority voting where necessary. Of the articles that move to QMV,
+               11 deal with appointments or changes in rules of procedure. One of these is important
+               - the nomination of the Commission President, where it is essential that, in an EU of
+               27 or 30, one small state cannot block the right appointment. Nine of the changes
+               deal with freedom of movement where we - that is, Britain - have an absolute right to
+               decide whether to take part or not, thanks to the protocol that we secured at
+               Amsterdam. The remaining changes are primarily about the efficiency of economic
+               management and the single market, where majority voting is in this country's national
+               interest: financial management of the EU budget, industrial policy, trade in
+               services. All that means new markets for Britain's financial services and the jobs
+               and prosperity that go with them. And within even these articles, we have kept
+               unanimity where we need it: unanimity in respect of harmonisation and anti-
+               discrimination measures, unanimity for passports, unanimity for anything to do with
+               taxation and social security. There were areas where it would not have been in our
+               interests to agree to any QMV, in particular for taxation and social security. As we
+               undertook to the House, those matters will remain subject to unanimity. In the field
+               of justice and home affairs, the special protocol that we agreed at Amsterdam
+               continues to mean that we - Britain - decide where to join in co-operation in our
+               national interest, for example, in dealing with problems of asylum. On all these
+               issues, we said that we would protect the national interest and, contrary to the dire
+               warnings of the Conservative party, that is exactly what we did. The House will note
+               with some amusement the Tories claims now that those issues were never under threat.
+               In an enlarged European Union, there will inevitably be issues on which member states
+               can move ahead faster than others. It is in Britain's interests, as one of the
+               leading partners of the EU, for that to be possible. We have secured conditions for
+               this co-operation which fully safeguard the single market, prevent discrimination in
+               trade between member states, cannot conflict with existing agreements, and are open
+               to all. In the field of foreign policy, the common strategies of the Union, however,
+               will continue to be set by unanimity. Any co-operation between groups of member
+               states has to be consistent with a prior agreement reached by all, and is therefore
+               subject to the national veto if necessary. These enhanced co-operation agreements,
+               incidentally, will not apply to defence - another key British objective. On numbers
+               of Commissioners, those are unchanged up to 2005, except for one for any applicant
+               country. Then, from 2006, there will be one Commissioner per country, up to a maximum
+               of 27 - at present there are 20 - with an agreement to reduce numbers in 2010,
+               following a review. Since the Amsterdam summit of three and a half years ago, we have
+               tried to rebuild British policy in Europe to get the best out of Europe for Britain
+               while shaping Europe's future. On each occasion, we were told that it was impossible:
+               that Britain  Europe was the only game in town. At Amsterdam, we were told we could
+               not protect our borders. We did. Two years ago, in Berlin, we were told we could not
+               protect the British rebate. We did better; we put Britain's contributions on a more
+               equitable footing for the first time. At Lisbon, we were told Europe could not accept
+               the agenda for economic reforms. It did. Earlier this year, at the June summit, we
+               were told we could not win the argument on the withholding tax. It is won. The rest
+               of Europe is now going to adopt exchange of information, not a new tax, as the way
+               forward. Finally, on defence, we were told that we could not improve Europe's defence
+               capability - a vital NATO as well as EU interest - without undermining NATO, and that
+               we would be isolated on tax and social security. We secured those objectives without
+               its even being suggested that we were an obstacle in the way of enlargement. It is
+               possible, in our judgment, to fight Britain's corner, get the best out of Europe for
+               Britain and exercise real authority and influence in Europe. That is as it should be.
+               Britain is a world power. To stand aside from the key alliance - the European Union -
+               right on our doorstep, is not advancing Britain's interests; it is betraying British
+               interests. Enlargement will now happen. British interests were advanced, but we
+               cannot continue to take decisions as important as this in this way. That is not a
+               criticism of the French presidency, which did well in immensely difficult
+               circumstances, but the ideas for future reform in the European Union which Britain
+               put forward a few weeks ago are now essential so that a more rational way of decision
+               making is achieved. This, too, is a debate in which we should be thoroughly and
+               constructively engaged; and we will be. The Europe that this Government are striving
+               for is one of nation states with their own traditions, cultures and special interests
+               which work together in their own interests and in those of Europe as a whole. That
+               means, on the one hand, making common decisions at a European level where that makes
+               sense and, on the other hand, making decisions at a national or, indeed, regional
+               level where that makes sense. It means embracing all the countries of Europe - east
+               and west - in a way that would have been unimaginable throughout most of the troubled
+               history of our continent. That is a goal that moved significantly forward at the Nice
+               summit. I commend its conclusions to the House.</seg>
+         </u>
+
+         <u who="#HAGUE">
+            <seg>Is not the truth, when we cut through the spin, that the agreement represents three
+               more major steps to a European superstate? First, the Prime Minister has signed away
+               the veto in 23 new areas - in fact, one Government official put the number of new
+               areas that could now be decided by majority vote as high as 39. By doing that, has
+               the Prime Minister not granted European institutions the opportunity to impose
+               further integration in future? Will not a court that reinterpreted the working time
+               directive as a health and safety measure now use the further loss of the veto to
+               impose precisely the sort of regulation that could cost jobs in this country in
+               future? Will not the loss of the veto on structural funds mean that future
+               Governments will not be able to stop British regions losing money? Will not the
+               weakening of the veto on the environment mean further interference in town and
+               country planning? However much it is hemmed about by ambiguous language, how does the
+               Prime Minister think the European Court will interpret the clause allowing Europe to
+               fund states in severe difficulties because of so-called "exceptional occurrences" now
+               that he has signed away our veto on that? Could it not be seriously against this
+               country's interests no longer to have a veto over the appointment of the Commission
+               President? Will the Prime Minister confirm that he has abandoned the veto on groups
+               of countries integrating more closely - so-called "enhanced co-operation" - and that
+               we cannot stop them, even when our national interest is being harmed? Can he confirm
+               that the EU will now be able to fund European political parties directly, without a
+               national veto? Does not all that represent a major step toward European integration
+               and does not the charter of fundamental rights represent the second major step toward
+               that superstate? Everyone but the Prime Minister has been open about what the charter
+               will lead to, irrespective of whether it is in the treaties. The European Commission
+               says: It can reasonably be expected that the Charter will become mandatory through
+               the Court's interpretation of it as belonging to the general principles of Community
+               law.</seg>
+            <seg>The Commission's website asks:<quote>Will the Charter lead to a large rise in the
+                  number of law suits...?</quote> and answers: <quote>This cannot be
+                  excluded...,</quote> adding that the charter of fundamental rights means that
+                  <quote>the European Union has entered a new, more resolutely political stage of
+                  integration. The Charter will be a very important milestone on the road towards
+                  this political Europe.</quote> Does not the move to a Euro-army represent the
+               third step to such a superstate? Has not the Prime Minister signed up at Nice to an
+               independent and autonomous European identity, with only ad hoc arrangements linking
+               it to NATO? Is it not the case that duplicate and conflicting structures are being
+               set up? Does not annexe 7 of the draft presidency report, which has just been
+               released, refer on defence matters to the autonomy of EU decision making, to the EU
+               and NATO dealing with each other on an equal footing, and to the EU Council adopting
+               strategic options with NATO... informed of developments in the situation...?</seg>
+            <seg>As currently constituted, the EU defence force will progressively move away from
+               NATO. Is that not why President Chirac said that the force would be independent of
+               the alliance's headquarters, why British Government officials said that his remarks
+               were a statement of the obvious, and why former United States Assistant Defence
+               Secretary Richard Perle describes the Nice agreement as <quote>"a catastrophe for
+                  NATO"</quote> and <quote>"a British defeat"</quote>?</seg>
+            <seg>If this is a European army - and it is - what is the point of inserting sentences
+               in the communique saying otherwise? Is not the real reason revealed this morning in a
+               German newspaper? It states that Because the advance election campaign has begun in
+               Great Britain, the chiefs decided to insert the army secretly... to play down its
+               establishment as much as possible... Blair and Chirac... saw to it that a real step
+               by the Europeans towards more integration was concealed. So Nice represents three
+               major steps towards a more deeply integrated Europe. It has ended up being about
+               integration rather than enlargement. Reweighting the votes and limiting the size of
+               the Commission are important for enlargement, but they are not enough. Surely a
+               summit genuinely about enlargement would have tried to reform the greatest obstacle
+               of all to enlargement, which is the common agricultural policy. Surely a summit
+               genuinely about enlargement would have introduced real flexibility, returning more
+               decision making over new laws to the nation states of the EU. Surely a treaty
+               genuinely about enlargement would have meant less integration, not more.</seg>
+            <seg>If the Prime Minister is worried that Europe will not be able to force through as
+               much legislation in future, why is the answer not less legislation in future?
+               Continuing the relentless ratchet of integration makes successful enlargement less
+               likely, not more likely. It is not surprising, therefore, that there is no clear
+               commitment in the communique to entry dates for the applicant countries, as President
+               Chirac has made clear. It is not surprising either that, with Europe moving in this
+               direction, the Prime Minister has agreed to yet another summit, whose purpose will be
+               to start drafting a Euro-constitution, which in the words of the German-Italian paper
+               on this subject, will be with a view to the further development of European
+               integration...?</seg>
+            <seg>The Prime Minister emerged with a treaty that takes Europe in the wrong direction,
+               and a Conservative Government will not ratify it as it stands. If the Government wish
+               to sign up to the three major steps, including the charter of rights and the European
+               army, they should first consult the people of this country in a referendum. The Prime
+               Minister has missed the best opportunity of his premiership to put the case for the
+               sort of Europe that is supported by the majority of people in the United Kingdom. He
+               has missed that opportunity because that is not the sort of Europe in which he
+               believes. Instead, the summit has represented three more major steps on the road to a
+               superstate. It will be up to us, the Opposition, to put the case for a different
+               direction, for a modern, reformed and flexible Europe. It will be for us to put the
+               case for a European Union that is right for Britain and for Europe as a whole; and to
+               put the case for being in Europe, not run by Europe.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I preferred the right hon. Gentleman with the jokes. What he is saying about
+               qualified majority voting is extraordinary. Nine of the measures relating to justice
+               and home affairs come within our protocol protection. As for 11 of the other
+               articles, we have, for example, the appointment of the Deputy Secretary-General of
+               the Council, the pension arrangements for the registrar of the court and the approval
+               of the rules of procedure of the Court of Auditors. Should we have blocked the
+               enlargement treaty for these things? It is ridiculous.</seg>
+            <seg>As for what the right hon. Gentleman says about the Commission President, it is
+               vital for our interests that we do not end up in a situation where, as the EU
+               enlarges, that appointment can be blocked by one small member state. Did we not learn
+               that when the Conservative party was in power and the Commission President before
+               last was appointed? Let us just say that, as a result of the rules, there were many
+               candidates at the time whom it would have been a good idea to have had forward in the
+               frame, but we were not able to do that. That is a classic example of what I am
+               saying. There are certain areas - for example, trade in services - where Britain has
+               to take on other countries and secure unanimity. It finds that it cannot do so
+               because another country blocks the approach, for various protectionist reasons.
+               Qualified majority voting allows us to proceed in that way. It cannot be that QMV is
+               always in other countries' interests but not in ours. The shadow Foreign Secretary
+               said a couple of days ago, which I know is quite a long time in policy-making
+               terms:</seg>
+            <quote>I don't have a doctrinal view that any qualified majority voting is wrong, we
+               signed up for it to complete the single market.</quote>
+            <seg>Presumably, the difference is simply which areas he would block - the rules of
+               procedure of the Court of Auditors? It is absurd. I shall deal with some of the
+               factual points. The right hon. Gentleman said that he was opposed to moving to QMV,
+               although the move to QMV for the social and cohesion funds - the structural funds -
+               is not for some years to come. It is hugely in this country's interest to have QMV
+               there. At present we cannot get a proper deal on structural and cohesion funds
+               because there are certain interests, mainly in the south of Europe, that block it via
+               unanimity. If we were able to move to QMV, we would get a better deal for this
+               country. In the course of the negotiation, I was arguing that we should move to QMV
+               quicker, because it was in our interest to move there more quickly. The right hon.
+               Gentleman mentioned countries in financial difficulties. That is subject to the
+               budget ceilings that exist, and there is no bale-out in respect of the euro, because
+               that is secured in another article under the Chancellor's negotiation. Incidentally,
+               the right hon. Gentleman mentioned the support for European political parties. I
+               point out to him that that was requested by the European People's Party, which is the
+               association of European political parties and of which his party is a member - but
+               let us leave that to one side. In relation to enhanced co-operation, the right hon.
+               Gentleman says that he is in favour of a more flexible Europe, but he opposes the
+               idea of enhanced co-operation, which means that if countries want to, they can go
+               ahead, and other countries have a choice whether to join. Surely that is the very
+               flexibility that he is talking about. The right hon. Gentleman goes on about the
+               charter of fundamental rights. The reason the Commission is asking for it to have
+               legal status is that it does not have legal status. Our case is that it should not
+               have legal status, and we do not intend it to. We will have to fight that case. When
+               the right hon. Gentleman speaks of the word "integration" being wrong in respect of
+               any European treaty, does he not remember the Maastricht treaty and the Single
+               European Act? One can go back to any European treaty and find the word mentioned
+               there. On the Euro-army, we reach the realms of the right hon. Gentleman's fantasies.
+               As I made clear, it applies, first, where NATO as a whole chooses not to be engaged;
+               secondly</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>No.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Let me read to the hon. Gentleman from the presidency report. Is he listening? The
+               document states:</seg>
+            <quote>This applies where NATO as a whole is not engaged.</quote>
+            <seg>Shall I go on? The report continues:</seg>
+            <quote>This does not involve the establishment of a European army. The commitment of
+               national resources by member states to such operations will be based on their
+               sovereign decisions. As regards the member states, NATO remains the basis of our
+               collective defence.</quote>
+            <seg>I have an even better supporter on my side. Here is what the shadow Foreign
+               Secretary said two days ago:</seg>
+            <quote>If NATO decides it doesn't want to do it, then obviously this can go
+               ahead.</quote>
+            <seg>That is precisely what the proposal is, but the Opposition still say that they do
+               not support it. The Leader of the Opposition commented on the common agricultural
+               policy, and it is right that far more reform of the CAP is needed. The difficulty is
+               that that must be done by unanimity, so that is a problem, but none the less we did
+               our very best, and we did get significant changes. That was the topic at the previous
+               negotiation, in Berlin. We have achieved more in the reform of the common
+               agricultural policy than the right hon. Gentleman ever did when he was in office. As
+               for the idea of a future intergovernmental conference, it will deal primarily with
+               the issue of subsidiarity. Again, that is a major British interest, which we should
+               support. We have set out why we believe the treaty to be in the interests of this
+               country and in the interests of Europe. The right hon. Gentleman has again stated
+               firmly from the Dispatch Box today that he would block the treaty. Let me explain the
+               full rounded idiocy of the position that the right hon. Gentleman has got himself
+               into. He is saying that he would not have agreed any treaty unless everyone agreed to
+               what he calls his pick-and-choose policy on future legislation. Is it not right that
+               that is Conservative policy? I have asked the right hon. Gentleman this question
+               before, and perhaps I can get an answer now that the European summit is over. Will he
+               name one country that supports the proposal, when all 15 have to support it? Let us
+               have silence, so that he can shout out the answer. The right hon. Gentleman would
+               need the other 14 to agree, but he cannot name one. Let us try this. Will the right
+               hon. Gentleman name one other Conservative party in Europe that supports his
+               proposal? The right hon. Gentleman is saying that he would go to the Council and say
+               that, unless Britain has a pick-and-choose policy, he would block the treaty.
+               However, he is also saying that he would block flexibility for everyone else. That
+               would be a pretty intelligent policy, would it not? The right hon. Gentleman says
+               that he would have no QMV at all but that, it there were any QMV, he would have a
+               referendum in the UK. By the end of that process, he would have alienated every
+               country in the European Union and every country waiting to come into it. If he had
+               been negotiating, he would have come back today saying either that he had blocked
+               enlargement - which would be a great thing for Britain to have in its history and
+               tradition - or that he had agreed QMV on the court registrar's' pension and was going
+               to hold a referendum on it. I am sorry, but that is the right hon. Gentleman's
+               policy. We did not have a referendum on the Single European Act or Maastricht. The
+               right hon. Gentleman is not even offering the British people a referendum on the
+               single currency. However, on the question of the vital strategic interest of the
+               pension of the court officials, we would all be trooping off to the polling stations.
+               Does the right hon. Gentleman want to be taken seriously by anyone in Britain, Europe
+               or elsewhere? The true agenda of a large part of his party - and the Conservative
+               party will stay in this position until the right hon. Gentleman confronts this - is
+               to have this country next door to the exit sign in Europe. That would be a disaster
+               for Britain and Europe. It is wrong, and we shall not do it. We shall win the
+               argument, because that is in the true national interest of Britain.</seg>
+         </u>
+
+         <u who="#RADICE">
+            <seg>We have heard ludicrous hype about the slippery slope to the European superstate,
+               and heard it again this afternoon from the Opposition Front Bench in the most
+               extraordinary statement that I have ever heard in debate on any European statement
+               during my time in the House of Commons. After all that, is it not the case that the
+               Nice summit has produced important, but limited, changes that will prepare the
+               European Union for enlargement, which is both a vital national interest and vital for
+               the future of Europe? Is it not also the case that, once again, we have demonstrated
+               clearly that it is possible to achieve British national objectives while at the same
+               time making a positive contribution to Europe and its future? Does that not show that
+               British membership of the European Union pays if it is exercised in a constructive
+               way?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It is true that we have secured our interests in a way that has not left Britain
+               isolated or marginalised, which would not be in our interest. We have to return to
+               negotiations with other countries to get things that advance our own interests
+               -</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I shall make one point to those Opposition Members who are shouting at me. There
+               was a time when the Conservative party played a constructive part in Europe. During
+               the Single European Act preparations, it did an immense amount to improve Europe and
+               the way that Europe worked. It is therefore important that we have enough confidence
+               in our own ability to win those arguments, to go into Europe, and to advance British
+               national interests.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>For Opposition Members who wanted the Nice summit to succeed, it is with a sense of
+               relief, but not rapture, that we look at the outcome. It is good that an outcome was
+               achieved; the alternative would have been a disentanglement of Europe. The Government
+               should be complimented on maintaining the British veto in areas on which Labour and
+               the Liberal Democrats agreed previously. With regard to Conservative Members'
+               responses, does the Prime Minister agree that there is a distinct sense in the
+               Chamber that the Tory fox on Europe has been well and truly shot as a result of the
+               agreement? Does he concur with Chris Patten that, to use his word, it would be
+               "barking" to deny the people of Britain a referendum on a single currency while
+               imposing one in respect of the treaty of Nice? That position is completely illogical.
+               Does the right hon. Gentleman acknowledge - he publicly commented on this point when
+               he left the summit - that, 14 years after the collapse of the Berlin wall</seg>
+         </u>
+
+         <u who="#MACSHANE">
+            <seg>It is 11 years.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>If the hon. Gentleman will allow me to continue, the accessor countries will gain
+               admission to the European Union 14 years after the collapse of the Berlin wall. That
+               is an intolerable time to take to enable the developed, integrated countries of
+               Europe to open their doors to the supplicant accessor countries. Does the Prime
+               Minister agree that more needs to be done to speed up the process of European
+               decision making?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The right hon. Gentleman says that the changes were modest. That is true in some
+               senses, but this was an historic summit in the sense that it cleared the obstacles to
+               enlargement. Fifteen countries were arguing their own national interests. For anyone
+               sitting through the negotiations, the idea that national interest is not alive and
+               well in Europe would have been a strange thought. It is important to realise what has
+               been achieved. All those obstacles to enlargement have been cleared, and, as for the
+               time at which the countries enter the European Union, the reason why no specific date
+               is given to each country - [Hon. Members: "Why?"] I am about to explain why. There is
+               an accession process, whereby the countries must meet particular economic objectives
+               in order to enter. </seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>  Conservative Members are shouting that such countries have to meet too many
+               objectives, but I remind them that their leader has just committed himself to
+               blocking the treaty. It is necessary to recognise that those countries will have to
+               meet certain requirements. That is why we cannot give them a precise date, but we
+               hope that they will be there by 2004. Partly at our insistence, they will take part
+               in the next intergovernmental conference in 2004.</seg>
+         </u>
+
+         <u who="#ANDERSON">
+            <seg>The leader of the Liberal party has honestly recognised a national success that was
+               achieved because we are no longer on the margins, but are seen by our European
+               partners as a full team player. Is it not sad that the Leader of the Opposition
+               cannot recognise such a success and cannot bring himself to say anything positive
+               about the European Union? Now that my right hon. Friend the Prime Minister has had a
+               change of shirt and is less exhausted, will he tell us how the applicant countries
+               have responded to the Nice treaty? What would be their response if the ratification
+               process in this Parliament were blocked?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Essentially, those countries were delighted that the obstacles in the way of
+               enlargement, institutionally, have been cleared. They obviously strongly support that
+               - it is hugely important for those countries, often in terms of their own democracy.
+               For them, the idea that they can see a future in the European Union is a spur to
+               economic reform and to making the necessary changes. They would be absolutely
+               horrified - as, indeed, several of them said at the press conference that my right
+               hon. Friend the Foreign Secretary held in Nice - at the prospect of any country,
+               particularly a country with a history, as Britain has, as a friend of enlargement,
+               saying that it would not ratify the treaty.</seg>
+         </u>
+
+         <u who="#CURRY">
+            <seg>The Prime Minister was quite right to agree to the extension of qualified majority
+               voting. That has long been the principal motive of the achievement of British
+               objectives in the European Union. Does he agree that Britain and Germany have
+               increasing common interests - devolved Administrations and, in our case at least, a
+               semi-federal state - in seeking to define what is done by national Government; what
+               is done locally; and what must, but no more than what must, be done internationally?
+               People ask, "Where does it end?" The forthcoming intergovernmental conference gives
+               them a chance to answer that. Will the right hon. Gentleman start work now to ensure
+               that the answer is a convincing one?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I entirely agree with that. The important thing about this new debate is that it is
+               about the issue of subsidiarity and the definition of the competencies as between the
+               European Union and the nation state. There was a very broad acceptance around the
+               table of the fact that there are areas in which Europe has to co-operate - indeed,
+               co-operate more closely - but that there are also areas in which the European Union
+               does not need to be present. There are indeed areas in which some of its powers could
+               be returned to the nation state. Therefore, that argument is of crucial national
+               importance for the future of this country and of Britain in Europe. As a result of
+               what we have agreed, we should be able to participate in that process. The right hon.
+               Gentleman was quite right to say that Britain and Germany in particular have many
+               interests in common there.</seg>
+         </u>
+
+         <u who="#DALYELL">
+            <seg>What was said about the possible role of the rapid reaction force in dealing with
+               the chaos and murder that is taking place on the Kosovo-Serbia border, the
+               Kosovo-Macedonia border and the Kosovo-Albania border?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There was a discussion not specifically on that issue but, obviously, on the
+               Balkans and the situation in Kosovo. It is very important for us to make sure that,
+               having fought that war against ethnic cleansing, we do not see ethnic cleansing being
+               visited on Serbs by the other side. We are acutely conscious of that. Of course,
+               Kosovo is not such an example - it is important to say that. The rapid reaction force
+               is not, I repeat, a standing army; it is merely a capability that we should have. It
+               is limited to the so-called Petersberg tasks, which are peacekeeping and humanitarian
+               missions. It would not be used to fight, for example, the Kosovo conflict or the Gulf
+               war. However, it could, for example, be used for peacekeeping operations in
+               circumstances in which NATO decided that it did not wish to be involved.</seg>
+         </u>
+
+         <u who="#KING">
+            <seg>May I join the Prime Minister in expressing satisfaction at the opportunity that a
+               number of former Warsaw pact countries have to join the EU, and thank him for the
+               implicit tribute to the Governments of Baroness Thatcher and of my right hon. Friend
+               the Member for Huntingdon (Mr. Major) for the considerable contribution that they
+               made to bringing freedom to those countries? Was anyone surprised by President
+               Chirac's statement that he looked for an independent force? There was nothing
+               improper about that remark. It is consistent with French policy since President de
+               Gaulle took France out of the military structure, since President Mitterrand failed
+               to rejoin it and since President Mitterrand refused at the beginning of the Gulf war
+               to allow French troops to come under American command. Is it any surprise, therefore,
+               that the French have a different objective and that, whatever might have been in the
+               communique, there remain very real difficulties ahead?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It is right - I choose my words carefully - that France comes from a different
+               tradition in respect of such things, especially in respect of attitudes to NATO, but
+               that is precisely why we have made sure that the matter is absolutely bolted down
+               with the conditions that we have stated. Let me explain why it is important that we
+               take part, because sometimes I read that it is simply a matter of politics in the EU.
+               The truth is - this came home to me graphically during the Kosovo conflict - that
+               European defence capability is not nearly as good as it needs to be. It has been a
+               constant plea from the other side of the water - from the Americans themselves - that
+               Europe has to develop better defence capability. I believe that it is important that
+               we develop that in a way that is wholly consistent with NATO. If we had opted out of
+               that debate altogether, that would still have happened. After all, a common defence
+               policy was one of the matters agreed at Maastricht. That would still have happened,
+               but not in a way that was consistent with our proper national interests. As a result
+               of that, it is interesting - I say no more than that, and I am not suggesting that
+               these policies are directly connected - that 11 out of 15 EU countries will this year
+               increase their defence budgets for the first time in many years. If the proposal is
+               implemented sensibly, it will work in this country's interests. Of course, there are
+               risks, but it is precisely for that reason that we have spent the past two and a half
+               years making sure that those risks do not materialise.</seg>
+         </u>
+
+         <u who="#STARKEY">
+            <seg>Does the Prime Minister agree that the extension of QMV to trade is in the UK's
+               interest? Does he also agree that the cultural exception won for the French film
+               industry is a helpful and imaginative way of improving decision making overall while
+               preserving cultural diversity for the benefit of everyone throughout Europe?</seg>
+         </u>
+
+         <u who="#BERCOW">
+            <seg> The people of Buckingham do not write to me about that.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>If hon. Members think that this issue is not an important national interest for
+               France, they are wrong. My hon. Friend is right. Qualified majority voting in trade
+               and services is very important. Obviously, we would have liked that measure to have
+               gone further. We would have preferred even greater qualified majority voting in trade
+               and services, because that would be in our interests, but we have none the less made
+               considerable progress.</seg>
+         </u>
+
+         <u who="#WIGLEY">
+            <seg>As the Nice summit confirmed that both taxation and social security were matters
+               for member states, will the right hon. Gentleman confirm that operating aids, such as
+               the variation of corporation tax or national insurance, within objective 1 areas are
+               a matter for London and the Treasury and not for Brussels, and that he will consider
+               positively the requests made by the Lib-Lab Government in Cardiff in this
+               respect?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes, that is right, although we must always be careful that other countries do not
+               try to use these measures as a means of unfair competitive practice. Subject to that,
+               the right hon. Gentleman is absolutely right.</seg>
+         </u>
+
+         <u who="#CAMPBELL-SAVOURS">
+            <seg>From listening to today's exchanges in the House of Commons, is it not clear that
+               my right hon. Friend and his Foreign Secretary played a blinder in the negotiations?
+               Indeed, they have secured everything for which the Tories asked before Nice. The
+               Tories are now changing their agenda.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>As we have noted before, the bandwagon is a flexible vehicle.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>Having had the pleasure of listening to several Prime Ministers over the years
+               reporting great victories that sadly have proved to be disappointments, to say the
+               least, I urge the Prime Minister to consider the danger of over-confidence. Is it not
+               the case that we cannot have enlargement of the European Union without fundamental
+               reform of the common agricultural policy, of which there is no prospect? Does he
+               recall previous Prime Ministers and Ministers saying that there will be reductions in
+               our contributions? To allow us to check up on that, will he tell us what he
+               anticipates our gross net contribution will be in 2001 and what it was the year he
+               came to power?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I do not have those precise figures at my fingertips.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>Send them to me.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I will certainly send them to the hon. Gentleman. He says that we have made
+               absolutely no progress on the common agricultural policy, but that is not true. As a
+               result of what was agreed at Berlin, the saving is about £64 a year for the average
+               British family. However, the hon. Gentleman is right that we would have preferred to
+               go much further. He should have the honesty to admit - in a sense he does - that he
+               does not believe that Britain should be in the European Union. He believes that
+               Britain should come out. That is a perfectly honourable position - it is not one that
+               I agree with, but it is an honourable position. I am afraid that it is now obvious
+               that the hon. Gentleman's view is shared by increasing numbers of Conservative
+               Members. That is the real argument that we shall be having over the next few
+               months.</seg>
+         </u>
+
+         <u who="#DAVIES-DENZIL">
+            <seg>As my right hon. Friend has said, a number of national vetoes, many of which are
+               not very important, have gone as a result of the Nice agreement, and a number of
+               national vetoes, many of which are fundamental, have been retained. Does he agree
+               that the time has now come to draw a line under any further erosion of national
+               vetoes? Will he give an assurance that the national veto will not be on the agenda at
+               the next constitutional conference?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No, I will not, for a simple reason. The implication of my right hon. Friend's
+               question is that we have suddenly reached a point at which we should have no more
+               qualified majority voting. In my view, that is not the right way to approach the
+               issue. The way in which we should approach it is to say,</seg>
+            <quote>"There are certain areas in which it is in our national interest to retain the
+               veto, and there are certain areas, which we should judge on a case-by-case basis, in
+               which it is in our interest to move to qualified majority voting."</quote>
+            <seg>For example, suppose that we were in the situation at the moment where we had
+               unanimity rather than QMV for agricultural policy - in fact, because of what the
+               Conservative party, which agreed to many, many items of QMV when it was in power,
+               agreed, it is QMV for agricultural policy - that would be an area in which I would be
+               saying that we need to move forward. We mentioned another a moment ago, in relation
+               to the structural fund. Where is in this country's interest to unblock the veto of
+               others. When people use the word "veto", one would think that only Britain had the
+               ability to veto something. What the veto means is that something is decided by
+               unanimity. If the European Union is extended from 15 to 20, 25, 27 or 30, it means
+               that a country the size of, say, Estonia, Lithuania or Slovakia could block essential
+               British national interests using the unanimity rule. It is not our veto; it is simply
+               a consequence of the unanimity rule enjoyed by everyone. I think that the most
+               sensible approach is to say, as the Conservative party used to when it was in office
+               - or at least for several years of its time in office - that we judge it on a
+               case-by-case basis. Such matters as defence, our border controls, tax, social
+               security and treaty change must be agreed by unanimity. One of the statements that I
+               made during our Council meeting was an explanation of why issues of taxation - the
+               levels at which taxes are set - are, in my view, matters of fundamental national
+               sovereignty, which must be dealt with by national Governments and national
+               Parliaments. But there are other areas in which that is not the case. I think that we
+               judge it on a case-by-case basis.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>When our Prime Minister comes back from an important international conference and
+               clowns about at the Dispatch Box in reply to the Leader of the Opposition, as he did
+               today, is it not a clear sign that he has a guilty conscience about the small print
+               that is to follow in due course? May I pursue the point raised by my right hon.
+               Friend the Member for Bridgwater (Mr. King), a former Secretary of State for Defence?
+               Why did the Prime Minister and his Defence Secretary repeatedly tell the House, and
+               me personally, that France had no aim of creating a rapid reaction force separate
+               from NATO in operational and planning matters, given that in the past two days
+               President Chirac used exactly those words to describe the continuing aim of the
+               French? Is it because the right hon. Gentleman was trying to conceal the reality from
+               the House of Commons, or was he misled by President Chirac in his constituency
+               pub?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>As I just indicated in my reply to the right hon. Member for Bridgwater (Mr. King),
+               I understand that the French come from a different perspective. The difference
+               between us, on this issue and on many others, is that I believe that we should argue
+               our case and make sure that we secure our objectives, which we have done. The hon.
+               Gentleman cannot really argue against that when it is so clear in the presidency
+               report that the red lines that we have put around this should be maintained. If we do
+               not engage at all in this debate on European defence, it will not stop the debate
+               happening. The debate will happen; Britain will not participate. That, during the
+               last and worst years of the Conservative Government, was their habitual way of
+               conducting diplomacy. The result was that three and a half years ago this country was
+               marginalised and without influence - and that is not in Britain's interest.</seg>
+         </u>
+
+         <u who="#BANKS">
+            <seg>Does the Prime Minister not find it rather sad that the Leader of the Opposition
+               clearly still prefers the handbag and the megaphone to constructive dialogue in
+               Europe? I congratulate my right hon. Friend on the outcome of the Nice summit. What
+               discussions did he have with Gerhard Schroder on the preservation of the football
+               transfer system, and what was their outcome?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The German Chancellor and I - and many others, certainly the main footballing
+               nations - are wholly opposed to the Commission's proposals. I think that they are
+               misguided and wrong, and we shall continue to make sure that we get them changed. The
+               transfer fee system is central to the future of many clubs. We do not want smaller
+               clubs, in particular, to go to the wall as a result of a misguided
+               intervention.</seg>
+         </u>
+
+         <u who="#REDWOOD">
+            <seg>Given that the common fisheries policy has decimated our fishing fleet and the
+               Government do nothing about it, and given that the common agricultural policy has
+               done so much damage to our farmers under the Government and they can do nothing about
+               it, why has the Prime Minister given away our right to our own industry policy? Does
+               he not fear that a common industry policy with our partners, with no veto for
+               Britain, could do to British industry what his Government and their agricultural and
+               fishing policies are doing to our fishing fleet and our farmers?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>As ever, the right hon. Gentleman's opportunism is extraordinary. The fishing
+               industry is in trouble because, as he well knows, there are problems with the amount
+               of stocks in the sea. Everyone knows that that is true. That is why not merely our
+               fishing industry but every fishing industry throughout Europe is in trouble. Our
+               farming industry faces two problems, which are not to do with the operation of CAP.
+               They are, first, the strength of the pound vis-a-vis the euro. </seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>There is a Pavlovian reaction to the mention of the word "euro". The second problem
+               is that, in the aftermath of BSE, British farmers face very high regulatory burdens.
+               The combination of those two things, plus a collapse in world commodity prices, has
+               meant considerable difficulties for them. That is why their position has changed. The
+               right hon. Gentleman knows that. I know that. It is absurd to say that the
+               difficulties should be blamed on Europe. They are caused by a combination of the
+               circumstances that I have outlined. The answer is to do the things that we can do at
+               a European level to help: for example, to ensure that the rules on BSE that affect
+               our farmers are introduced throughout Europe. Again, that can be done only if other
+               countries agree. Again, that is an argument for constructive negotiation in Europe,
+               not withdrawal from Europe, which is his position.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>Will the Prime Minister confirm that the concept of ever-closer union began with
+               the treaty of Rome in 1957; was enhanced when we joined the single market, or the
+               common market, under the right hon. Member for Old Bexley and Sidcup <note>Sir E.
+                  Heath</note>; was enhanced further when Baroness Thatcher took us through the
+               Single European Act in 1985; and was enhanced still further, under the treaty of
+               Maastricht, by the right hon. Member for Huntingdon <note>Mr. Major</note>? Has not
+               the Prime Minister done well at Nice on taxation, social security and the rapid
+               reaction force through articulation and persuasion? Has he not impressed our partners
+               in Europe with those tactics, rather than the obduracy or recalcitrance that we might
+               have seen from the Opposition?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is right to say that words about closer union were in virtually
+               every European treaty that was signed by the Conservative party in all those years,
+               but his other important point is that there is an argument about the nature of
+               Europe. There are people who see the future of Europe as a federal superstate. I do
+               not believe that they are in the majority; I think that they are in the minority. In
+               either event, it is important for us to participate in that argument. We shall
+               participate in it, advance and win our arguments. I am confident that we can.</seg>
+         </u>
+
+         <u who="#TAYLOR-JOHN">
+            <seg>We on the Unionist Benches want enlargement of the European Union and greater
+               co-operation, but we definitely do not want a federal Europe, or a movement towards a
+               more integrated Europe. To that extent, I can welcome the Prime Minister's statement,
+               but the detail will be in the Nice agreement. Was the common agricultural policy
+               discussed at all? It is fundamental to enlargement of the European Union. Was there
+               any discussion of the size of the European Parliament - the number of Members of the
+               European Parliament - and, if so, what was the outcome? It is not mentioned in the
+               statement. Does the right hon. Gentleman agree that the Commission will be far too
+               large and that the issue of the number of commissioners has been fudged in his
+               statement? The question of security causes anxiety to many of us in Europe. Will the
+               Prime Minister explain why he prefers the United Kingdom to co-operate with neutral
+               countries in a European force, rather than with European members of NATO?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The simple answer to the last point is that I do not. It is perfectly right that we
+               co-operate with European partners that are members of NATO, as indeed we do. We are
+               doing it now in Kosovo, in Bosnia and in many other parts of the world. All European
+               defence does is give an additional string to our bow for limited operations -
+               peacekeeping and humanitarian tasks - in which NATO does not want to become involved.
+               Anyone who studies the history of Bosnia, particularly in the early 1990s, when the
+               United States did not want to become involved, will find that Britain and France
+               struggled in ad hoc co-operation to try to maintain the situation. Thousands of
+               people died as a result. European defence is important as an additional string to our
+               bow. I emphasise again that - whatever the French position on these issues may be -
+               it is not a standing army and every decision on every mission will be the subject of
+               a national, sovereign decision. Therefore, if we did not wish to participate - even
+               if we were part of European defence - we would not have to participate. Although the
+               decision on the Commission is a compromise, it is not quite as great a compromise as
+               some people are implying in their comments. Eventually, the decision will be reviewed
+               and the number will be brought back down. The cap on the number of Members of the
+               European Parliament has been extended by around 40, but that number will apply when
+               the European Union comprises 27 members. I think that, in terms of the ratio of
+               Members to population, the proportion is still relatively good. Therefore, although
+               the cap has been extended, it has not been extended unduly. The common agricultural
+               policy was discussed at Nice. However, that is a policy matter, and changing policy
+               is the way in which it will be reformed. At Nice, we were primarily discussing treaty
+               change. I agree with the right hon. Gentleman on his first point - that we want a
+               Europe of nation states and not a federal superstate. I am wholly confident that that
+               argument can be won. However, to win it, we have to engage in it.</seg>
+         </u>
+
+         <u who="#MACKINLAY">
+            <seg>I congratulate the Prime Minister on the negotiations. Using his Warsaw speech as a
+               backdrop and checklist, what progress has been made on the other issues that he
+               raised in that speech, such as the possibility of allowing applicant countries to
+               participate in the next European elections? The Prime Minster has mentioned the
+               important opportunities for British trade and the banking and financial sector, which
+               has been extremely tardy in becoming involved in central Europe. Why have not any of
+               the three Secretaries of State for Trade and Industry since 1997 visited Poland,
+               Hungary, the Czech Republic, Slovenia or Estonia?</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>It is time that they did so, bearing in mind that one of them went to Australasia,
+               one to South America and one to India.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>In respect of the last point, my right hon. Friend the Secretary of State for
+               Foreign and Commonwealth Affairs tells me that he has been to all those countries. As
+               my hon. Friend will know, I have recently been to Poland. However, we shall certainly
+               pass on his point. What has been called the post-Nice agenda is important for us,
+               because it allows us to mount the arguments on subsidiarity and how to involve
+               national institutions more in the European institutions, which is very important. We
+               also secured agreement - although it was the consensus - that the applicant countries
+               should participate in that process. The text specifically stated that it would not be
+               right for that to be an additional hurdle to enlargement.</seg>
+         </u>
+
+         <u who="#HOWARD">
+            <seg>Almost everyone agrees that European defence capability needs to be enhanced; the
+               question is whether it should be done inside or outside NATO. Does not the Prime
+               Minister understand the difference between a situation in which NATO chooses not to
+               be engaged - which are the words that he used today at the Dispatch Box - and a
+               situation in which NATO is not engaged, possibly as a result of the decisions of
+               others, which were the words that he read from the presidency report? Might his
+               failure to understand that difference be one of the reasons why he has led the
+               country into such dangerous territory on the issue?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I thought that the right hon. and learned Gentleman received a very good response
+               on that from other Conservative Members, which augurs well for the future. However, I
+               hope that he and other right. hon. and hon. Members who have doubts about the matter
+               will talk to those who are engaged in working it out. There is no way in which the
+               force will be a rival to NATO or act in circumstances other than those in which NATO
+               chooses not to be involved. The reason for that is simple: many European Union
+               countries are, like the United Kingdom, NATO members. As I said, in each individual
+               decision, we will all have to choose to be involved. The force will operate only in
+               the circumstances that I have just outlined. The idea that this will be an
+               independent standing force set aside from NATO is nonsense. The right hon. and
+               learned Gentleman asked whether it was better to develop our defence capability
+               inside NATO. The whole purpose of the proposal is that it will allow us to do that
+               inside NATO as well. That point has been made by our American allies, apart from
+               people such as Richard Perle, who take a different point of view. <note>Hon. Members:
+                  "Bill Cohen."</note> Bill Cohen did not take the opposite point of view. He said
+               exactly what we have been saying, which is that, provided that the force is not an
+               independent military planning capability and a rival to NATO, its establishment is in
+               America's interest. Countries in the European Union may believe that it should be
+               such a force; we do not. With our American allies and others in Europe who do not
+               share that view, we shall ensure that we succeed. Over the next few months, the final
+               arrangements will be made between NATO and the European Union. Let us debate them
+               again then.</seg>
+         </u>
+
+         <u who="#RAMMELL">
+            <seg>Given that the Conservative party has been claiming for months that the Government
+               would be forced to concede qualified majority voting on social security and tax, is
+               it not astonishing that we have not heard a word about that today? Does not the
+               manner in which individual nation states defended what they perceived to be their
+               national interests through the veto this weekend show that we are light years away
+               from the prospect of the European superstate with which the Conservative party is
+               trying to frighten the people of this country?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is absolutely right. We protected our national interests in a way
+               that allowed the matter not to become the sole issue of the summit and which
+               prevented us from being painted into a corner. That would not have been in Britain's
+               interests either. We needed to discuss a series of issues, as well as simply to
+               defend our own capability. It is important that we recognise that success.</seg>
+         </u>
+
+         <u who="#BROOKE">
+            <seg>Why does the Prime Minister continue to say that the British rebate under the
+               European Union budget was under threat, when it can be changed only by a free-will
+               decision by the British Government?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>That can be said about all treaty change. The rebate was certainly under threat,
+               because we had to argue for it fiercely at Berlin. The securing of the rebate was
+               done on precisely the same basis, because the Council could not agree the original
+               rebate unless all the member states agreed. I am sorry to have to remind the right
+               hon. Gentleman, but the constant complaint of Conservative Front Benchers - although
+               not the right hon. Gentleman - was that we would sell out on the rebate. However, a
+               couple of days before the conference, they got worried that that might not happen,
+               and changed their tune. They have done precisely the same on tax and social security
+               this time.</seg>
+         </u>
+
+         <u who="#MACSHANE">
+            <seg>Mr. Speaker, before your elevation, you heard many statements from Prime Ministers
+               on treaties and summits. There would always be one or two Labour Members - on the
+               Opposition Benches at the time - who would welcome them. I hope that, before the
+               statement is over, we shall hear one Conservative Member welcoming this historic
+               accomplishment. Has my right hon. Friend the Prime Minister seen the reports in
+               today's newspapers that the shadow Foreign Secretary's spin doctor was sent to act as
+               a bluebottle in Nice, spreading the unilateral disengagement from European politics
+               philosophy of the Conservative party? Is it right to spend Short money on that?</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order. The hon. Gentleman should put a question on the statement. I think that the
+               Prime Minister has got the point.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I do not think that I need to comment on that, Mr. Speaker, except to say that I
+               gather that the exchanges between my press secretary and that of the shadow Foreign
+               Secretary, the right hon. Member for Horsham (Mr. Maude), were one of the more
+               amusing aspects of the Nice summit.</seg>
+         </u>
+
+         <u who="#SPICER">
+            <seg>Why did the Prime Minister sign up to a new tax which compensates countries
+               suffering from being in the euro?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I have already explained that we did not. The articles that have been secured make
+               it clear that the so-called bale-out provision cannot be used in respect of the
+               euro.</seg>
+         </u>
+
+         <u who="#CASALE">
+            <seg>I congratulate my right hon. Friend the Prime Minister on the agreements reached in
+               Nice in respect of the rapid reaction force, and on making it clear that the new
+               capability will be consistent with our existing defence alliances and complementary
+               with NATO. Is it not further proof of the fundamental lack of judgment of the
+               Conservative party - if further proof were needed - that it chooses to attack the
+               rapid reaction force simply on the grounds that it has something to do with Europe?
+               It has primarily to do with Britain's national defence interests. The Conservative
+               party has demonstrated that it cannot be trusted with our nation's economy, but it
+               will never be forgiven for this demonstration that it cannot be trusted with our
+               nation's defence.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It might be helpful to read out the words of Senator Hagel, who is the leading
+               Republican senator on the Senate Foreign Relations Committee: America supports a
+               strong and capable Europe. Greater European military capabilities will make the
+               Alliance stronger, lift some of the burden the United States now carries in having to
+               act in every crisis, and make the US-European relationship a more equal partnership.
+               I could not have put it better myself.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>Will the Prime Minister explain why the annexes to the French presidency report, on
+               which most of the questions relating to defence and European security depend, are not
+               yet available in their current form? In relation to the contentious issue of the
+               planning and military intelligence capability of the European Union, as compared with
+               NATO, will he also explain why it says that in developing this autonomous capacity,
+               there must be due regard for the decision-making autonomy of the two organisations?
+               Does that not make it clear that there is in fact a distinct operational planning and
+               military intelligence system? What is the Prime Minister going to do about it - will
+               we have to wait another three months?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No. The report does not mean that at all. It draws the clearest distinction between
+               decision-making capacity, which is the decision of the European Union - which is a
+               separate body from NATO - and the military planning capability that is to be
+               exercised in NATO. That will become clearer as the eventual terms of agreement
+               between the EU and NATO are worked on over the next few months. In most
+               circumstances, NATO assets will be used, even though NATO as a whole will not be
+               engaged. All of this is being bolted down in the most careful way. It is
+               extraordinary that Conservative Members believe that good members of NATO such as
+               Germany, Holland and Spain, which are utterly and passionately committed to NATO and
+               would not conceivably agree to something that undermined it, would go along with any
+               country, whether France or any other, that wanted to achieve that objective.</seg>
+         </u>
+
+         <u who="#BARNES">
+            <seg>As an enlarged European Union will include a number of ex-communist nations which
+               have been through terrible periods of bureaucratic centralism, it is important that
+               they do not become part of creeping, bureaucratic centralist arrangements in the
+               European Union. Is not the answer to that a healthy dose of European democracy, which
+               goes beyond qualified majority voting?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I think that issues of democracy are very important to the European Union.
+               Democratic legitimacy will be an important issue for the intergovernmental conference
+               in 2004 to consider. However, I also believe that it is time we recognised that
+               national Governments and national Parliaments are as good demonstrations of our own
+               democratic legitimacy, within the European Union as well as here at home, as anything
+               else.</seg>
+         </u>
+
+
+         <u who="#CHIDGEY">
+            <seg>On the rapid reaction force and defence budgets, the Prime Minister will be aware
+               that the European Union already spends two thirds the total budget of the United
+               States and yet, as Kosovo and other theatres have shown, it has only a fraction of
+               America's capability. The Prime Minister mentioned that 11 out of 15 of the nation
+               states have agreed to increase their budget. Britain is already a major contributor
+               to defence spending in terms of its gross domestic product. Have those 11 nations
+               agreed significantly to increase their budget in line with ours, and is Great Britain
+               to increase its budget as part of the agreement?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>As part of the comprehensive spending review we did, in real terms, increase the
+               defence budget for the first time in many years. I do not have a list, but 11
+               European Union countries, including ourselves, are increasing their defence budgets
+               this year. That is a big change, because for years they have been cutting them.
+               However, I do not think that it is simply a matter of the amount of money that is
+               spent: it is a matter of spending that money far better and deciding what strategic
+               capabilities the European Union uses.</seg>
+         </u>
+
+         <u who="#MAPLES">
+            <seg>The Prime Minister prayed in aid a statement by Senator Hagel. However, he has
+               misinterpreted Chuck Hagel, with whom I had a meeting last summer. Senator Hagel said
+               that he has considerable misgivings about the development of capability outside the
+               NATO framework, which is what we are talking about here. The St. Malo agreement,
+               which the Prime Minister presumably looked at very carefully before it was signed,
+               talks about autonomous capability. Article 3 says: the European Union will... need to
+               have recourse to... military means... within NATO's European pillar or... outside the
+               NATO framework... Is it not absolutely clear that what has always been intended is
+               that there will be military means available to the European Union on an autonomous
+               basis outside the NATO framework?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No. Let me try to explain again. In circumstances where NATO decides that it does
+               not want to be involved - perhaps an operation limited to the Petersberg tasks, where
+               America decides that it does not want to be involved, for example, Bosnia in the
+               early 1990s - then the European Union acts, but not with a military strategic
+               capability outside NATO. That is absolutely clear from the documents that we have
+               negotiated. For example, it was not an Under-Secretary from the 1980s, but the
+               American Secretary of State who, just a few weeks ago, said: This EU force will be
+               available to both NATO and the EU, in those cases where the Alliance as a whole is
+               not militarily engaged. It offers a valuable complement to the efforts and
+               capabilities of NATO. The only people who see that as a great threat to the NATO
+               alliance are either those in the Conservative party or - in part as a result of
+               things that those Conservatives have said and that others have written - those who
+               are told that the force is a rival organisation to NATO. Anyone who has studied the
+               matter realises that that is not the case. The point made by Chuck Hagel and others -
+               as Bill Cohen was saying about a week ago - is that if there is the development of a
+               rival, strategic military planning capability to NATO, then, yes, that would be a
+               threat to NATO. But that is not what has been agreed and, as far as we are concerned,
+               it will not be agreed.</seg>
+         </u>
+
+         <u who="#LEIGH">
+            <seg>We are told constantly that we should not be concerned about the European charter
+               of fundamental rights - because it is not subject to the treaties and will not be
+               enforceable by law - but is there not a smidgen of concern in the Prime Minister's
+               mind that the European Court will base its future decisions on that charter? After
+               these summits, we always hear soothing words from the Dispatch Box. Prime Ministers
+               come and go, but the European Court stays and, remorselessly, year by year, our rule
+               of law based on common law and parliamentary democracy is replaced by a rule of law
+               based on a European supreme court.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The extraordinary thing is that the hon. Gentleman receives so much support from
+               his own side. Presumably he is saying that we should -</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>If we withdraw from the European Court, we are withdrawing from the European Union.
+               The European Court is there because, in order to police the rules of the EU, we need
+               an independent European Court. That is an advantage for the EU, not a problem. If the
+               hon. Gentleman reads the charter, he will see that it is specifically declared to be
+               a political declaration and not legally binding. That is why the argument - not in
+               this place, but in the entirety of the rest of Europe - is made by some people who
+               claim that they want it to become legally binding. They make that claim only because
+               they accept that at present the charter is not legally binding.</seg>
+         </u>
+         <incident>
+            <desc>Several hon. Members rose</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. The statement has run for an hour and 12 minutes, so we must move on.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

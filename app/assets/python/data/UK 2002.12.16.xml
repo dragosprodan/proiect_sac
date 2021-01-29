@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200203/cmhansrd/vo021216/debtext/21216-06.htm#21216-06_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>16 December 2002</date>
+               <date when="2002-12-16"></date>
+               <activity>Enlargment</activity>
+               <locale>Copenhagen</locale>
+               <persName>Blair II</persName>
+               <name>91st ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="SMITH">
+                  <persName>Mr. Iain Duncan Smith</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Chingford and Woodford Green</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="ANCRAM">
+                  <persName>Mr. Michael Ancram</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader and Shadow Foreign Secretary</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Devizes</residence>
+               </person>
+
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ross, Skye and Inverness, West</residence>
+               </person>
+
+               <person xml:id="MACKINLAY">
+                  <persName>Andrew Mackinlay</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Thurrock</residence>
+               </person>
+
+               <person xml:id="QUIN">
+                  <persName>Joyce Quin</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Gateshead, East and Washington, West</residence>
+               </person>
+
+               <person xml:id="HOGG">
+                  <persName>Mr. Douglas Hogg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sleaford and North Hykeham</residence>
+               </person>
+
+               <person xml:id="CORMACK">
+                  <persName>Sir Patrick Cormack</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>South Staffordshire</residence>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="CLARKE">
+                  <persName>Mr. Kenneth Clarke</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rushcliffe</residence>
+               </person>
+
+               <person xml:id="DAVID">
+                  <persName>Mr. Wayne David</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Caerphilly</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="SALMOND">
+                  <persName>Mr. Alex Salmond</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Banff and Buchan</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="LEWIS">
+                  <persName>Dr. Julian Lewis</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>New Forest, East</residence>
+               </person>
+
+               <person xml:id="SKINNER">
+                  <persName>Mr. Dennis Skinner</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bolsover</residence>
+               </person>
+
+               <person xml:id="WILKINSON">
+                  <persName>Mr. John Wilkinson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ruislip-Northwood</residence>
+               </person>
+
+               <person xml:id="GRIFFITHS-JANE">
+                  <persName>Jane Griffiths</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Reading, East</residence>
+               </person>
+
+               <person xml:id="CURRY">
+                  <persName>Mr. David Curry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Skipton and Ripon</residence>
+               </person>
+
+               <person xml:id="KAUFMAN">
+                  <persName>Mr. Gerald Kaufman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Gorton</residence>
+               </person>
+
+               <person xml:id="MACKAY">
+                  <persName>Mr. Andrew Mackay</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bracknell</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="CLIFTON-BROWN">
+                  <persName>Mr. Geoffrey Clifton-Brown</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Cotswold</residence>
+               </person>
+
+               <person xml:id="PLASKITT">
+                  <persName>Mr. James Plaskitt</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Warwick and Leamington</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>With permission, Mr. Speaker, I shall make a statement on the European Council that
+               took place in Copenhagen on 12 and 13 December. Negotiations were successfully
+               concluded to admit to membership 10 countries from eastern and central Europe, and
+               Cyprus and Malta. We hope that Romania and Bulgaria will be ready to follow in 2007.
+               Today, we take it for granted that the 10 countries are all democratic nations living
+               by the same values as the rest of Europe, but for anyone who remembers the Hungarian
+               uprising of 1956, the Prague spring of 1968 or the imposition of military rule in
+               Poland in 1981, the transformation of those countries from tyranny to democracy and
+               now to full European Union membership is a huge achievement of which Europe and
+               Britain can be justly proud. We have long been the champions of European enlargement.
+               The negotiations for membership began during the British presidency of the EU in
+               1998, and I should like to pay tribute particularly to the Danish presidency and the
+               Commission, which brought the negotiations to a successful conclusion. Details of the
+               final package are annexed to the conclusions of the meeting. Membership will bring
+               immediate economic benefits to the candidates. It will create a single market of 450
+               million people. Our trade has increased nearly 10 times as fast with those new
+               countries as with the rest of the world, and 14,000 UK firms now export to east and
+               central Europe. Membership of the EU will boost the gross domestic product of those
+               countries by nearly 1.5 per cent., and our own by up to nearly #2 billion. The new
+               member states are countries that have only recently rediscovered their national
+               identity. They, like us, will want the further integration of the Union to be firmly
+               rooted in the democratic accountability of the nation state. They shall be our allies
+               in developing a European Union on those lines. For some time, Turkey has been
+               knocking on the door of the European Union. The response of the Union has rightly
+               been to encourage a closer economic and political relationship, but to say that full
+               membership would be possible only when Turkey met the necessary human rights
+               criteria. In the past year, Turkey has made enormous strides by abolishing the death
+               penalty and adopting a range of human rights laws. The new Turkish Government have
+               promised a detailed legislative timetable to accelerate that progress. I believe that
+               it is massively in our interests to see Turkey as a modern democratic partner in
+               Europe. For that reason, I have been urging our partners to offer Turkey a date to
+               open negotiations for membership, provided that the so-called Copenhagen criteria are
+               met. I am pleased to report to the House that that was achieved in Copenhagen. The
+               Commission will report on Turkey's progress and if, in December 2004, on a
+               recommendation from the Commission, the European Council decides that Turkey fulfils
+               the Copenhagen political criteria, accession negotiations with Turkey will open
+               without delay. That agreement has contributed to a better climate on the
+               long-standing Cyprus dispute. The Secretary-General of the United Nations and his
+               special representative, Mr. De Soto, have been tireless in their efforts, as has our
+               own special representative, Lord Hannay. A settlement remains within reach. I urge
+               all parties to continue their efforts to find a comprehensive settlement, which would
+               allow a reunited Cyprus to join the European Union, as set out in the conclusions of
+               the European Council. We were also able to resolve differences between Turkey and
+               Greece that have delayed the agreement between the European Union and NATO necessary
+               to allow the implementation of a European security and defence policy. We have now
+               established the essential linkage with NATO, which means that where NATO is not
+               involved the European Union can undertake peacekeeping operations using NATO
+               planning, with the option of using NATO headquarters and NATO assets as well. As a
+               result, the European Union stands ready to take over the military operation in
+               Macedonia, in consultation with NATO, and to lead a military operation in Bosnia
+               following SFOR. The European Council issued a declaration on the middle east in
+               advance of the Quartet ministerial meeting in Washington. The Quartet brings together
+               the European Union, the United States, Russia and the United Nations, and its meeting
+               on 20 December will take us a further step forward. In the short term, progress on
+               the Israeli side will be limited by the general election campaign in Israel. However,
+               I believe that we should use the intervening period to maximise the chances of
+               successful implementation of the road map once a new Israeli Government are in place.
+               That means continuing to do what we can to secure an end to violence, and to reverse
+               the deteriorating humanitarian situation. It also means ensuring that Palestinian
+               reform is effective. To that end, I can announce today that I am inviting leading
+               Palestinians to come to Britain in January for a conference, along with members of
+               the Quartet and other countries from the region closely involved in supporting the
+               reform effort. The participants will discuss progress on reform and consider how the
+               international community can help. It is in the interests of Palestinians and Israelis
+               that the reform efforts succeed, so that we can make a reality of President Bush's
+               vision of two states, Israel and Palestine, living side by side in peace and
+               security. The European Council also issued a declaration on Iraq, giving its full and
+               unequivocal support for Security Council resolution 1441 and urging Iraq to seize
+               this final opportunity to comply with its international obligations. Finally, we
+               speak against the background of serious problems confronting our fishing industry. In
+               the past 30 years, cod stocks in the North sea have fallen from 250,000 tonnes to
+               35,000 tonnes. If fishing continues at the present rate there is a risk of there
+               being no viable cod fishing industry left. That is why the European Commission has
+               suggested a reduction in fishing of 80 per cent., to enable the cod stock to recover
+               to its absolute minimum viable level. Scientists believe that the safe minimum is
+               150,000 tonnes. We share the objective of enabling fish stocks to recover, but we
+               believe that much more moderate measures could deliver recovery while maintaining a
+               viable industry. I have talked extensively both with the President of the Commission
+               at Copenhagen and with Commissioner Fischler previously. Fisheries Ministers are now
+               meeting in Brussels to reach agreement on the issue. The UK fishing industry has
+               benefited over the past year from #36 million of funding to support adjustment
+               through decommissioning. This includes the Scottish Executive's action to help
+               preserve fish stocks and ensure the industry's long-term viability with a #27 million
+               aid package. If there are further cuts arising from the ongoing negotiations in
+               Brussels, the UK Government and the Scottish Executive stand ready to help the
+               fishing communities affected. I will meet leaders of the industry in the new year,
+               and financial assistance will be made available if necessary, but the priority for
+               now must be to get a fair deal for our fishing industry. The summit was a remarkable
+               achievement. It redefines the future shape of Europe. It describes a future in which
+               Europe is reunited, a Europe of proud and sovereign nation states, working together
+               economically, socially and politically in their common interest. The prospect of
+               Turkey's membership has even more dramatic implications. A nation that borders the
+               Arab world, that is Muslim, that is none the less striking out on a path leading to
+               liberal democracy, is set in time to join the traditional nations of Europe. The
+               implications for the future of Europe are profound. In time, all these new countries
+               will be part of the European economy, part of monetary union, part of European
+               defence, part of the European political system. For us in Britain, the implications
+               are equally profound. It is our job to be part of the new Europe that is developing,
+               to be a leading power within it and to understand the degree to which our national
+               interest is bound up with it. Isolation from Europe in this new world is absolute
+               folly. That is why we shall continue to fight for our interests, but recognise that
+               they are best served inside the European Union, not on its margins.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>I thank the Prime Minister for his statement and join him in welcoming the
+               conference that he has apparently announced today for leading Palestinian reformers,
+               involving representatives of the EU, the UN, Russia and the United States. We will
+               await more details on that before dealing with it in detail ourselves. This historic
+               summit is a tribute to the long, hard and sometimes lonely battles fought by
+               successive British Governments to extend the benefits of EU membership to the former
+               communist states of central and eastern Europe. Like the Prime Minister, I, too,
+               congratulate the Danish presidency and in particular Prime Minister Rasmussen, who
+               has been a diligent and honest broker for a working settlement on enlargement.
+               However, I think that I speak for many on both sides of the House, as well as for
+               millions elsewhere in Europe, when I express my regret at how long enlargement has
+               taken. As the Prime Minister knows, for all British Governments it is 13 years since
+               the Berlin wall came down: 13 years of excluding central and eastern European
+               countries from western European markets, all because Brussels insisted on full
+               compliance with social legislation. Only now has the EU lived up to its obligations;
+               as I have said, it was successive British Governments who tried to lead the way.
+               Enlargement may be the European Union's finest hour, but its delay reveals the vested
+               interests in parts of the EU with which we have become all too familiar. The
+               Copenhagen summit showed a side to the Franco-German axis with which the Prime
+               Minister is also becoming all too familiar. Back in October in Brussels, he was
+               outflanked by France and Germany when they delayed common agricultural policy
+               reform—a move that will greatly increase the cost of EU membership to accession
+               states and to existing member states alike. Last week in Copenhagen, he was again
+               outflanked —</seg>
+            <incident>
+               <desc> Interruption. </desc>
+            </incident>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order. The House must come to order.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>Last week in Copenhagen, the Prime Minister was again outflanked by France and
+               Germany over membership negotiations for Turkey. The Turks wanted them to start
+               before the current round of enlargement was implemented, and they were supported not
+               just by the UK Government, but by the Spanish, the Italians and even the Greeks. Yet,
+               once again, France and Germany prevailed. Negotiations have been delayed until
+               December 2004—well after enlargement will have been completed. Does the Prime
+               Minister agree that those actions by France and Germany have been to the detriment of
+               the European Union? Does he also agree that it is imperative that we encourage
+               Turkey, as a NATO ally and as a secular, democratic Muslim nation, to play a full
+               role in the European Union at the earliest possible opportunity? We are constantly
+               urging the benefits of democracy on the Islamic world, yet here is the EU telling
+               Turkey that she must prove her intentions all over again. Does not the Prime Minister
+               think that direct negotiations would provide the strongest possible incentive for
+               Turkey to meet the highest standards on human rights? Does he also agree that
+               negotiations would provide the ideal opportunity to ensure that Cyprus—now to be an
+               EU member itself—became a united island again? Was not the decision to delay these
+               negotiations a snub for the Government of Turkey and for all those nations that
+               supported her? The Prime Minister says that the Euro army has reached an agreement
+               with NATO that will allow it to use the alliance's planning, assets and headquarters.
+               This, he said, means that the Euro army Xstands ready" to take over military
+               operations in Macedonia. Is that not in fact an admission that the Euro army should
+               have been inside NATO all along? Now we have the rather ridiculous sight of the Prime
+               Minister pretending that the EU has no military competence other than NATO deciding
+               what it will or will not do. Surely the Government's position on this throughout has
+               been seen for what it is—baseless and solely part of a wider negotiation with France.
+               Last week I wrote to the Prime Minister asking him to raise the severe proposed cuts
+               to British fishing quotas. There was not one word about the common fisheries policy
+               in the presidency's conclusions. That seems strange, given that before Copenhagen the
+               Prime Minister wrote that Scottish fishermen would have the Government's full backing
+               Xright to the very top". According to today's statement, that amounted to the Prime
+               Minister holding a conversation with Romano Prodi on the margins of the Copenhagen
+               summit. With 40,000 jobs at stake on the basis of a contested scientific report,
+               Britain's fishing community surely deserves better than just a conversation. Instead,
+               it seems that the Government fully accepted that further savage cuts would be
+               necessary. Why did the Prime Minister not force discussion of the fundamental issues
+               of the CFP on to the table, as would have been required? It seems doubly strange that
+               the conclusions refer to Spanish fishermen and Portuguese farmers, whose concerns
+               were raised and registered at the same summit, whereas our fishermen have been left
+               out. The Prime Minister is right: this ought to have been a truly historic moment for
+               our continent, when the cold war divisions were replaced with a new European
+               settlement on prosperity, stability and mutual co-operation. Instead, all too often,
+               the EU élites, to which he never refers, are bent on creating some sort of
+               superpower. The common agricultural policy and the common fisheries policy, which the
+               Prime Minister simply fails to sort out, are left unreformed as part of wider
+               discussions. The forces of old Europe seem reluctant to let go: making them do so
+               will take more than the Prime Minister talking tough before meetings and backing down
+               after he has been there.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Where does one begin, Mr. Speaker? First, for the right hon. Gentleman to say that
+               the enlargement process has been a great setback for the European Union is
+               bizarre. </seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>  I am sorry, but he effectively said that it was disgraceful that it had taken so
+               long. I think that it is remarkable that, 13 years after the Berlin wall fell, we
+               have managed to get 10 countries into the European Union.</seg>
+         </u>
+
+         <u who="#ANCRAM">
+            <seg>My right hon. Friend welcomed it.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>If I may say so, it was a slightly grudging welcome. Given the interests at stake,
+               it is a remarkable tribute to the vitality of the European Union that these countries
+               have been accepted. The Leader of the Opposition had to make this attack because at
+               the very time when a large part of the Conservative party is queueing up to get out,
+               this other lot is queueing up to get in. As for what the right hon. Gentleman said
+               about Turkey, what happened was not to do with the French and German objections. It
+               is correct that Britain, Italy, Spain and probably Greece would have gone further,
+               but many countries were deeply hesitant about whether Turkey could fulfil the
+               criteria. The key was to get a date, and we have got a date. It could have been a few
+               months earlier, but it is, again, a tremendous step forward in Europe's relations
+               with Turkey. Although I am a huge supporter of Turkey's membership of the European
+               Union, there are issues to do with human rights that must be addressed. It is
+               important that we address them and that Turkey's new leadership, who are really
+               trying to address the issues, are given time to do so properly. It is churlish to
+               suggest that the European Union was snubbing us or snubbing Turkey. Given where we
+               were, it is a big step forward. On European defence, the whole point about Macedonia
+               is that NATO does not wish to be involved. That is why it is sensible for European
+               defence, using the full support of NATO, to do it. The reason that it is so important
+               to have European defence—but on the right basis, fully consistent with NATO—is
+               precisely because there may be situations when, for whatever reason, NATO does not
+               want to be involved. It is important, therefore, that Europe has the capability to do
+               that for itself. The British Conservative party is against European defence, but even
+               America now supports it as the right way forward for Europe and for NATO. The most
+               disastrous thing that we could do in respect of the CFP would be to adopt what I
+               assume is now the policy of the Conservative party and withdraw from it. That would
+               give us no protection whatsoever. It would not actually stop cod stocks being fished
+               before they migrate to British waters—it would not actually help our fishermen at
+               all. We must recognise that there is a huge problem. We are fighting hard to get the
+               best deal possible, but it is a cruel deception to pretend to the fishing industry
+               either that there is not an issue or that there is some simple solution—neither is
+               correct. As for the Leader of the Opposition's statement that with the Conservative
+               party we should get a better deal in Europe, I do not know of a Conservative party—it
+               will be interesting to see whether Opposition Members can name one—anywhere else in
+               Europe, in the existing EU, in the countries that are about to join or in countries
+               that may join later, that supports the completely foolish, backward and isolationist
+               policy of the British Conservative party.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>I thank the Prime Minister for his statement and join him in congratulating the
+               successful Danish presidency. Judging from the House's reaction to the remarks of the
+               leader of the Conservative party, it widely shares the view that we felt no sense of
+               history when the right hon. Gentleman described a time of such historic
+               groundbreaking achievement for Europe and for the spread of democracy, stability,
+               peace and security across the continent as 13 wasted years. I thought that that
+               referred to a different period in history relating to the Conservative party. None
+               the less, the 18 years of unbroken Conservative Government in this country certainly
+               helped to build the single European market. It helped to extend qualified majority
+               voting—thanks to Mrs. Thatcher and the Conservative party—and it even helped to pave
+               the way for the enlargement process on which Conservative Members seem to be trying
+               to pour cold water today. They have no sense of history and even less sense of the
+               future—that is the Conservative party. Given that some of the continuing entrenched
+               aspects of the common agricultural policy have become even more entrenched as a
+               result of some of the decisions that were reached at the summit, what prospect does
+               the Prime Minister see, with enlargement ahead of us, of achieving the genuine,
+               long-term reform of the CAP that is inevitable, desirable and will come about only if
+               our country plays its full part at the top table of Europe? It will not be achieved
+               on the country club membership basis advocated by certain people. Would not Britain's
+               hand in Europe be strengthened more generally if we showed greater political resolve
+               on the single European currency? Increasingly, we risk marginalising ourselves, as
+               well as suffering domestic economic disadvantage, due to continuing uncertainty about
+               a referendum and about the Government's long-term political commitment on the issue.
+               I welcome the decision reached about Turkey. It is important that over the next two
+               years there is full and active engagement with the Turkish authorities—not least as
+               regards human rights—to ensure that as and when accession negotiations with Turkey
+               are held, they are based on stability and dependable understanding as regards not
+               only the commitment of the Turkish democratic authorities to Europe itself, but the
+               need to maintain the fundamental values of human rights that Europe enshrines and to
+               which we are signatories. Does the Prime Minister agree that it does not help
+               intelligent discussion of matters European in this country to speak in a completely
+               misleading fashion, bandying about such shorthand terms as XEuro army"? In fact,
+               there is a strategic and sensible basis on which NATO and the EU can co-operate when
+               they want to do so or whereby they can pursue different or varying agendas when that
+               is the most sensible course. Does the right hon. Gentleman agree that that message
+               from the summit, following the most recent NATO discussions, is welcome and must be
+               the sane way forward? Fisheries are a major concern to many of our communities, not
+               least those in Scotland, so I welcome today's statement from the Commission that it
+               wishes to defer decisions on quotas for a further three months. In his discussions
+               with the leaders of the fishing representatives after the turn of the year, will the
+               Prime Minister take every opportunity to carry them with him on the discussions that
+               must ensue about the scientific evidence? The fact that our domestic fleet has
+               already made a good contribution must be recognised in Brussels to a greater and more
+               sensitive extent than it has been so far. Finally, I welcome the Palestine
+               conference, which the Prime Minister has announced today, but will he underscore the
+               need for Europe to be seen to be contributing to restarting the middle east peace
+               process? Will he acknowledge that it would be appropriate for the Defence Secretary
+               or the Foreign Secretary to make a statement before the recess about any possible
+               British troop deployments vis-a-vis Iraq during the parliamentary recess?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I agree entirely with the right hon. Gentleman about enlargement. It is worth
+               pointing out that Britain has always done best in Europe when it has been engaged.
+               Although, of course, the Conservative party's history in Europe when it was in office
+               has been somewhat rewritten, the fact is that Mrs. Thatcher was engaged in Europe for
+               the first seven or eight years of her premiership, and the Conservatives were
+               responsible for putting through the single market proposals. It is important to
+               realise that, in the end, they were a lot more sensible then than they are now, and
+               perhaps the same could be said of us. The key is to ensure that we carry on getting
+               the best possible deal for Britain. That is also true in relation to CAP reform. The
+               leader of the Conservative party was quite wrong. CAP reform was not blocked at the
+               Brussels summit. Indeed, the disagreement was about over insistence that the mid-term
+               review should go back into the conclusions of the Brussels summit, so the agriculture
+               reform programme continues, as the Commissioner indicated a few days ago. The right
+               hon. Gentleman knows that the position on the euro has not changed. I agree with what
+               he says about Turkey. On the CFP, I also agree that it is important that we try to
+               work out the very best deal that we can possibly secure for our fishing industry,
+               recognising that there is a genuine problem. I simply say that people who complain
+               that the Government are not doing enough but refuse to recognise that a fundamental
+               issue has to be tackled—whoever was in government would have to tackle it—are not
+               doing a service to the Scottish fishing industry because they are pretending that
+               there is an easy solution when there is not one. The right hon. Gentleman is right
+               about European defence. The benefit of engagement is absolutely clear. The tragedy is
+               that if we were not engaged as a country in the debate about European defence, it
+               would not mean that European defence would not take place; it would simply mean that
+               it would take place without us.</seg>
+         </u>
+
+         <u who="#MACKINLAY">
+            <seg>Is it not a fact that, for many people in central Europe, what has been agreed this
+               weekend will represent a remedy to the great outrage of Munich and to the invasion of
+               Poland on 1 September 1939? Is it not a great tragedy that the great statesman from
+               Chingford cannot rejoice about the fact that the sacrifice of those 17 per cent. of
+               the few who fought above this place, recklessly in our interests as well as theirs,
+               will have the satisfaction that their countries will come into the family of European
+               nations? May I ask the Prime Minister whether he will now ensure that the United
+               Kingdom Government and those in our commerce and industry go on an offensive to
+               ensure that we get in on the markets of the new member states? Under the Labour
+               Government, Secretaries of State for Trade and Industry have been insufficiently in
+               attendance in those countries, and I hope that—</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I am sure that we will make every effort in that regard. Important commercial
+               opportunities will exist for our business and industry. Those countries that will
+               come into the European Union under enlargement will offer tremendous opportunities
+               for our companies and we must ensure that we seize them.</seg>
+         </u>
+
+         <u who="#CORMACK">
+            <seg>In welcoming much of the Prime Minister's statement, may I ask why there was no
+               mention of Zimbabwe? Was not the plight of southern Africa in general, and the
+               terrible fate awaiting Zimbabwe in particular, raised during the summit? We were
+               assured by a Foreign Office Minister last week, in an appearance before the Foreign
+               Affairs Committee, that it would be raised. Why was it not?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It was discussed at the Foreign Ministers meeting. I say again to the hon.
+               Gentleman—I know that he feels passionately about this issue, as everybody does—that
+               we must have the specific remedies that will work in this situation.</seg>
+         </u>
+
+         <u who="#QUIN">
+            <seg>I welcome enlargement, which is a tremendous cause for celebration. Given the
+               impressive and widespread use of English in many of the enlargement countries, will
+               my right hon. Friend lead an effort across Government not only to encourage industry
+               to take opportunities in the new market, but to increase public awareness in Britain
+               of the significance of this historic achievement?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My right hon. Friend is absolutely right on this matter, and I know that she has
+               done a lot of work on it. It is interesting, as my right hon. Friend the Foreign
+               Secretary has pointed out to me, that of the 13 countries to come in under this
+               enlargement or to come in subsequently, 12 gave their addresses in the English
+               language.</seg>
+         </u>
+
+         <u who="#HOGG">
+            <seg>Can the right hon. Gentleman confirm that, when in Copenhagen, he discussed with
+               other Heads of Government their support for military action against Iraq? Can he tell
+               us how many are so persuaded of the moral case for war, as against a legal cover
+               afforded by the Security Council resolution, that they are prepared to pledge troops
+               and assets in a military deployment?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Of course the issue was raised and discussed on the margins of the summit with many
+               countries. I assure the right hon. and learned Gentleman that all the countries to
+               which I talked are fully in support of the UN resolution and recognise that if there
+               is a breach of that resolution by Saddam, action should follow. Whether they
+               participate or not is up to them.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>May I congratulate my right hon. Friend on the personal role that he has played in
+               the enlargement process? As well as being a champion for enlargement, will he
+               continue to be a champion for reform, and ensure that the points that he set out in
+               his joint letter with Chancellor Schröder of 25 February this year, which will see
+               the reform of the European Union, are followed? We will have a Europe of 25 nations.
+               I know how much he enjoys these summits, but with 25 countries at a summit, it is
+               very important that it should be as efficient and as effective as possible.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Likewise I pay tribute to my hon. Friend, and all that he did when he was Minister
+               for Europe to push forward the process of enlargement, which was important. Secondly,
+               in relation to the Council and the Convention, one of the interesting things is that
+               when we talk, in the European Convention, about the reform process in Europe, most
+               people recognise that we must make fundamental changes in the way that Europe works.
+               It was interesting that when President Giscard d'Estaing addressed the Council he
+               made it clear that we had to strengthen all parts of the European Union, including
+               the European Council.</seg>
+         </u>
+
+         <u who="#CLARKE">
+            <seg>Will the Prime Minister accept whatever share of the credit is his due for the
+               success of the Copenhagen summit? Will he agree, however, that probably the lion's
+               share of the credit should go to the Danish President of the Commission, who is, I
+               believe, the political ally of the British Conservative party —</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>  He is a Danish Conservative. Would the Prime Minister agree that that underlines
+               the special urgency of achieving institutional reform of the European Union within
+               the next 12 months, during which it will be decided whether we can have a better
+               decision-making process for 25 member states than we have at the moment for 15? Does
+               the Prime Minister intend to stick to his principles of a clear leadership of the
+               Council of Ministers, a clear leadership role within the Union for the Council of
+               Ministers, intergovernmental approaches to foreign and security policy rather than
+               the Community method, and greater democracy at the same time? Does he think that he
+               can achieve all that? Will the new members be on his side or not in the difficult
+               negotiations over the next 12 months?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I certainly pay tribute to the Danish President. I agree that the negotiations were
+               conducted superbly by him, but he is actually President of the Council, not the
+               Commission. I do not know whether he is an ally of this Conservative leader—but who
+               knows whether he may not be an ally of any other Conservative leader. I agree
+               entirely with the right hon. and learned Gentleman's other points. The proper red
+               lines for our national interest in the convention are that we have the Council able
+               to play its full role and that it is properly organised. In our judgment, there
+               cannot be a Communitisation of the common foreign and security policy. We have to
+               make sure that we increase the democratic accountability of the European Union. I
+               entirely agree about the new members of the EU. After all, these states fought to be
+               nations again. I said in my statement that they had rediscovered their national
+               identity, but they have always had their national identity. What they have not had is
+               the opportunity to express it. These countries will be our allies in the EU, which is
+               why it is important that they see us playing our full part in the EU and are not at
+               its margins.</seg>
+         </u>
+
+         <u who="#DAVID">
+            <seg>I congratulate my right hon. Friend the Prime Minister on a truly historic summit
+               that was good for Britain and for the whole European continent. However, will he use
+               his good offices to apply pressure to the Turkish Government who, in turn, should
+               apply pressure on the Turkish Cypriots to come to an agreement for the unification of
+               the whole of the island under the Kofi Annan plan?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I hope very much that all sides in the Cyprus negotiations take them forward
+               constructively. There is no point in my entering into the details now, but the United
+               Nations proposal is an immensely clever and intelligent proposal that offers a way
+               forward. I still believe that it is possible for the countries to come to an
+               agreement. For years and years, as a result of disagreements between Turkey and
+               Greece, many of these issues have been held up. However, what is interesting about
+               this summit and the way it took place is that Greece was in favour of Turkey being
+               given an even earlier date for the opening of accession negotiations. A few years
+               ago, I would have been surprised to have been told that such a change would happen
+               now.</seg>
+         </u>
+
+         <u who="#SALMOND">
+            <seg>The Prime Minister mentioned cod stocks. However, he must be aware that, on the
+               same scientific measurement, whiting and haddock stocks are at their highest for a
+               generation and that they will be caught up in the same draconian cuts by the European
+               Commission. Does that not indicate that time is required to come up with a management
+               plan that conserves fish without provoking the economic destruction of entire coastal
+               communities? The Prime Minister seemed surprised to find out that that view was
+               emerging this afternoon in the talks. Will he now put his weight behind it and ask
+               for a delay for pause and for thought, instead of rushing headlong to disaster over
+               the next few days?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Of course that is precisely what we are trying to do. All that I have pointed out
+               to the hon. Gentleman and to anyone else who has raised the issue is that we have to
+               recognise that we will be fighting for the interests of the Scottish and UK fishing
+               industry against the background of heavily depleted cod stocks. I agree that that is
+               not the only issue, but it is important to recognise that it is the case. We will
+               strive to get the very best deal that we possibly can, and that is precisely what
+               Ministers are now engaged upon in Brussels.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>Does my right hon. Friend agree that this historic and marvellous achievement has
+               been brought about by work done by many people over many years to create pluralistic
+               democratic societies in central and eastern Europe? Does he agree that the job is not
+               yet complete? Other European states still wish to join the EU, so can we ensure that,
+               over the next few years, we continue to give support for pluralistic civil society
+               and democracy building in countries to the east of the existing EU?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is absolutely right. I pay tribute to the work that he has done over
+               many years to encourage countries that are now applicant countries and countries that
+               may become applicant countries to improve their democracy. I have no doubt at all
+               that, in years to come, for countries in the Balkan region, in particular, EU
+               membership will be the same magnet for change and reform as European membership has
+               been for the 10 accession countries now. It is extraordinary how much change they
+               have managed to undertake in a short time, but they have managed to undertake it only
+               because there has been the goal and the vision of EU and NATO membership to aim
+               for.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>Does the Prime Minister agree on the need for a fair and balanced public debate in
+               the candidate countries, especially in the run-up to their referendums on membership,
+               to ensure genuine public support? If so, would he end the practice of EU budget
+               funding for one side of the debate in those countries? Will he look into the known
+               and documented abuses that have taken place and ensure that public money, some of
+               which comes from this country, is not used in that partial way?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There are rules that have to be followed, and they should be followed. I know that
+               the right hon. Gentleman is a sceptic about enlargement, but I think that European
+               enlargement is of fundamental importance to our future peace and stability. As I
+               said, there are rules in Europe. We are not pressing for changes, but any of those
+               rules that are in existence have to be followed properly.</seg>
+         </u>
+
+         <u who="#GRIFFITHS-JANE">
+            <seg>May I, too, congratulate my right hon. Friend and all involved on achieving the
+               historic outcome of the European Council? He will know that as each country has
+               acceded to the European Union since 1973, British exports to them have surged. Does
+               he agree that the economic and political future of Europe looks good for Britain and
+               casts the carpers, nit-pickers and isolationists into the outer darkness where they
+               belong?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There is no doubt that British companies have done well as a result of enlargement.
+               We have increased our exports to those countries by something like 10 times. Those
+               people who are hesitant about the benefits of enlargement fail to understand that in
+               the end we all benefit from a more prosperous Europe. Every time the European Union
+               has enlarged, there has been increased prosperity for existing EU members as well as
+               for the new ones.</seg>
+         </u>
+
+         <u who="#CURRY">
+            <seg>As the Prime Minister says, this enlargement is merely the prelude to a new
+               enlargement, and we can easily envisage 32 or 33 states in the European Union; but
+               that further enlargement towards the Balkans will raise even more difficult questions
+               because it will introduce income disparities of a factor of 10 between the richest
+               and the poorest members. It is therefore essential that the union begin at an early
+               stage to help the states prepare for membership. What does the Prime Minister think
+               should be done about that? Where does he think that the eastern and south-eastern
+               borders of the European Union properly lie?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>In respect of the latter point, it is important that we encourage Balkan countries
+               to move towards the prospect of European Union membership. As the right hon.
+               Gentleman implies, that is obviously some way off, and the income disparity is very
+               great. In the meantime, however, the European Union has conducted agreements with
+               most of those countries—in fact, probably all of them—to help them in that process.
+               Again, the advantages for us are immense. This is the first period for years and
+               years—other than during the appalling domination of the old Soviet bloc—when those
+               countries seem to be reaching towards some sort of stability. We have got to
+               encourage that. The way to do it is to help them financially, which the European
+               Union is doing, and also to start, over time, to offer them a more obvious path to
+               European integration.</seg>
+         </u>
+
+         <u who="#KAUFMAN">
+            <seg>In congratulating my right hon. Friend on the indispensable role that he played at
+               Copenhagen which resulted, among many other achievements, in the accession of two
+               Commonwealth countries to the European Union and in the Turkish timetable, may I
+               thank him for convening the conference with the Palestinians in London next month?
+               May I also thank him for his courage in meeting the President of Syria, as the
+               hazards of peace are much preferable to the death and danger of war?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I hope that we can make real progress on political reform. After all, we are only
+               going to get the peace process moving again in the middle east if the right elements
+               are in place. One key element is the political reform process in the Palestinian
+               Authority, and I very much look forward to discussing that with those who will come
+               and contribute to the meeting. I have no doubt that it is better to engage with
+               countries and try to bring them towards the peace process than to isolate them.</seg>
+         </u>
+
+         <u who="#MACKAY">
+            <seg>The Prime Minister was absolutely right to say that it is massively in our
+               interests for Turkey to join us as a democratic partner in Europe. Was he not just a
+               little saddened that at an otherwise excellent summit, where so many countries from
+               central Europe joined the European Union, Turkey's application was so badly delayed
+               owing to the behaviour of Germany and France? Will he redouble his efforts to get
+               that application moved forward because, as he knows, Turkey's human rights record is
+               considerably better than that of some of the later applicant countries now entering
+               the EU?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>If the right hon. Gentleman had asked me a week ago whether I thought it likely
+               that we would get a firm date for opening the accession negotiations, I would have
+               been doubtful, so we have come a long way in the last few days. It was not only
+               France and Germany that took the position to which he referred. That may be common
+               myth, as many of these things are. In fact that position was taken by France, Germany
+               and probably a significant number of the other countries. It was we, along with the
+               Italians, the Spanish and the Greeks, who argued for a more forward position for
+               Turkey. Those negotiations are two years away.</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>The process will start without delay. During our presidency, we began accession
+               negotiations almost immediately, so it is possible that, in this process, Turkey's
+               accession negotiations will start in two years. The right hon. Gentleman is right to
+               say that Turkey has made great strides forward, but this is still a pretty good
+               timetable. It is not quite as good as we would have liked, but as people in Turkey
+               reflect on it, they will see that after 40 years of trying to get a firm date, they
+               now have one, and it is only two years away.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>The Prime Minister would have been justified in making more of the progress made on
+               the European security and defence policy and the way in which the EU and NATO can
+               work together. When it comes to further negotiations on Turkey, may I have his
+               reassurance that we will have objective assessment criteria, such as the Copenhagen
+               criteria, not ones based on the desire of some people in Europe to maintain a
+               European Union of Christian countries?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is right. The important thing is that the Copenhagen criteria on
+               political and human rights are clear, and we should follow them without fear or
+               favour, treating Turkey exactly the same as any other country. It has no desire to be
+               treated as a special member of the club. One of the great potential benefits of
+               Turkey's membership of the EU is the notion that Europe can welcome in a nation that
+               is predominantly Muslim, especially as almost all EU nations—including certainly our
+               country and many other large countries—already have a significant Muslim
+               population.</seg>
+         </u>
+
+         <u who="#CLIFTON-BROWN">
+            <seg>Does the Prime Minister agree that the first presidency of the enlarged European
+               Union in 2004 will be a very important job? Will he therefore be allowing his name to
+               go forward?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Thank you — I am very happy being the British Prime Minister.</seg>
+         </u>
+
+         <u who="#PLASKITT">
+            <seg>My right hon. Friend was surely right to describe the agreement as redefining the
+               European Union. The EU will be much larger but it will also be very different. Does
+               he agree that the young democracies coming in from the east should be joining
+               state-of-the-art democratic institutions, not ones that are in many cases 40 years
+               old and prone to democratic deficit? Will he use enlargement to help to speed up the
+               process of reform?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes, it is extremely important that we do so because there is no way Europe can
+               function effectively as a Union of 25 or, as some have pointed out, perhaps 30
+               countries with the existing rules. The only point that I would make is that people
+               often see this as a battle between the Council, the intergovernmental approach, and
+               the Commission, the Community approach. In fact, we need to strengthen both. We need
+               a strong, independent Commission to drive through processes such as economic reform,
+               but we also need a strong Council, able to handle the management of the affairs of 25
+               or more nations, to give the EU a strong external voice and to set the agenda for
+               Europe.</seg>
+         </u>
+
+         <u who="#WILKINSON">
+            <seg>Did the French President express appreciation both of the Prime Minister's
+               sycophantic eulogy to him in Paris Match and of the fact that the British Prime
+               Minister should take refugees from Sangatte? Why did the Prime Minister not include
+               in his statement any comment about the immigration implications of enlargement? Why
+               have the British Government decided to waive a transition period on immigration from
+               countries coming into the European Union?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, the President did express appreciation of that eulogy in Paris Match, and I
+               received it gratefully. Secondly, of course we take seriously immigration issues to
+               do with enlargement. However, we took the right decision in being forward—after all,
+               we have been forward on the whole enlargement process. My advice is that that does
+               not pose a great problem for us, and it is far more important to make sure that the
+               enlargement process goes through in those countries. Many of them, such as Poland,
+               will be fighting referendums on that issue, and it is important that they
+               succeed.</seg>
+         </u>
+
+         <u who="#SKINNER">
+            <seg>Just a word of caution after the cheering has ended. Does my right hon. Friend
+               agree that when those visionaries way back in the early 1970s took part in that
+               historic vote to take us into the Common Market, we were promised economies of scale
+               and that we would be able to compete with the rest? If we joined the six, we were
+               told, it would be wonderful. We had the same thing with the Single European Act and
+               Maastricht. When the Union was enlarged to 15, we were told we would be able to trade
+               more effectively. In all that time, they have never bought a cobble of coal from
+               Britain, even though it is the cheapest deep-mined coal in Europe. What reassurance
+               can my right hon. Friend give me that 450 million people in the enlarged Europe will
+               change their ways and buy British goods? Our manufacturing industries have been going
+               to the wall throughout that period. A fortnight ago, the balance of trade deficit was
+               the largest ever. At some point, that must end. All I say to my right hon. Friend is
+               that the summit can be historic in many ways, but it ain't been all that good for
+               people here who are working at the sharp end.</seg>
+         </u>
+
+         <incident>
+            <desc>Hon. Members: Hear, hear.</desc>
+         </incident>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend knows of my admiration for his general political perspectives on
+               these things -</seg>
+         </u>
+
+         <u who="#SKINNER">
+            <seg>Unlike the Opposition, I never change my mind.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Perhaps we can leave that aside for a moment. If we were outside the European
+               Union, that would not help our industry. In fact, tariffs would be imposed on our
+               goods going into Europe. My hon. Friend is right that we need to knock down a lot of
+               barriers that still exist—that is extremely important. However, we are better placed
+               to do so if we are inside rather than outside. Finally, someone famously asked what
+               good has come out of Europe in the past 50 years. I would say peace, security—they
+               are important—and rising prosperity for years and years.</seg>
+         </u>
+
+         <u who="#LEWIS">
+            <seg>NATO.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes, of course NATO has played a part, but the European Union has too —</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>Now I am told that Europe has done nothing in the past 50 years. I know that the
+               alternative leadership has left the Chamber, but I simply tell the Conservative party
+               that until it adopts a sensible attitude on Europe, it will find itself a long way
+               from office.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

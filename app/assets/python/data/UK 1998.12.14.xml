@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm199899/cmhansrd/vo981214/debtext/81214-06.htm#81214-06_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+               <setting>
+                  <orgName>House of Commons</orgName>
+                  <date>14 December 1998</date>
+                  <date when="1998-12-14"></date>
+                  <activity>Vienna Strategy for Europe</activity>
+                  <locale>Vienna</locale>
+                  <persName>Blair I</persName>
+                  <name>90th ministry</name>
+               </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="DAVIES-DENZIL">
+                  <persName>Mr. Denzil Davies</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Llanelli</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HAGUE">
+                  <persName>Mr. William Hague</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Richmond (Yorks)</residence>
+               </person>
+
+               <person xml:id="ANDERSON">
+                  <persName>Mr. Donald Anderson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Swansea, East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Madam Speaker</persName>
+                  <sex>female</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CAMPBELL-MENZIES">
+                  <persName>Sir Menzies Campbell</persName>
+                  <sex>male</sex>
+                  <occupation>Shadow Spokesperson for Defence and Foreign and Commonwealth Affairs</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North East Fife</residence>
+               </person>
+
+               <person xml:id="BARNES">
+                  <persName>Mr. Harry Barnes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North-East Derbyshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="WILKINSON">
+                  <persName>Mr. John Wilkinson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ruislip-Northwood</residence>
+               </person>
+
+               <person xml:id="GODMAN">
+                  <persName>Dr. Norman A. Godman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish Labour Party</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Greenock and Inverclyde</residence>
+               </person>
+               <person xml:id="KAUFMAN">
+                  <persName>Mr. Gerald Kaufman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Gorton</residence>
+               </person>
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Louth and Horncastle</residence>
+               </person>
+               <person xml:id="RADICE">
+                  <persName>Mr. Giles Radice</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North Durham</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="TAYLOR-IAN">
+                  <persName>Mr. Ian Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Esher and Walton</residence>
+               </person>
+               <person xml:id="TAYLOR-TEDDY">
+                  <persName>Sir Teddy Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rochford and Southend, East</residence>
+               </person>
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+               <person xml:id="RAMMELL">
+                  <persName>Mr. Bill Rammell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Harlow</residence>
+               </person>
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="MADEL">
+                  <persName>Sir David Madel</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>South-West Bedfordshire</residence>
+               </person>
+
+               <person xml:id="FORTH">
+                  <persName>Mr. Eric Forth</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bromley and Chislehurst</residence>
+               </person>
+
+               <person xml:id="MCINTOSH">
+                  <persName>Miss Anne McIntosh</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Vale of York</residence>
+               </person>
+
+               <person xml:id="TURNER">
+                  <persName>Dr. George Turner</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North-West Norfolk</residence>
+               </person>
+
+               <person xml:id="SHELDON">
+                  <persName>Mr. Robert Sheldon</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ashton-under-Lyne</residence>
+               </person>
+
+               <person xml:id="GUMMER">
+                  <persName>Mr. John Gummer</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Suffolk, Coastal</residence>
+               </person>
+
+               <person xml:id="SPICER">
+                  <persName>Sir Michael Spicer</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>West Worcestershire</residence>
+               </person>
+
+               <person xml:id="DAFIS">
+                  <persName>Mr. Cynog Dafis</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ceredigion</residence>
+               </person>
+
+               <person xml:id="CORBETT">
+                  <persName>Mr. Robin Corbett</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Erdington</residence>
+               </person>
+
+               <person xml:id="GALE">
+                  <persName>Mr. Roger Gale</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North Thanet</residence>
+               </person>
+
+               <person xml:id="PROSSER">
+                  <persName>Mr. Gwyn Prosser</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Dover</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>With permission, Madam Speaker, I will make a statement about the meeting of the
+               European Council on 11 and 12 December which I attended in Vienna along with my right
+               hon. Friends the Foreign Secretary and the Chancellor of the Exchequer and the
+               Minister of State, Foreign and Commonwealth Office, my right hon. Friend the Member
+               for Gateshead, East and Washington, West.</seg>
+            <note>Ms Quin</note>
+            <seg>The Council conclusions have been placed in the Library. The Council concentrated
+               on employment and economic issues, Agenda 2000, enlargement, the future development
+               of Europe and a number of foreign policy questions. At Vienna - the last Council
+               before the introduction of the euro by 11 member states - we confirmed and
+               strengthened the strategy on economic reform and employment agreed at Amsterdam and
+               Luxembourg last year and reinforced at Cardiff earlier this year. Macro-economic
+               stability provides the essential basis for long-term growth. Supply-side reform must
+               go hand in hand with that. Member states have now submitted national progress reports
+               on the reform of product and capital markets. Those will be subject to rigorous peer
+               review in the first part of next year. There will be a parallel review of national
+               employment action plans, the first set of which were submitted during the UK
+               presidency. At Vienna, we agreed revised employment guidelines on which next year's
+               national action plans will be based. The new guidelines fully reflect British
+               priorities. They place particular emphasis on tackling long-term unemployment;
+               promoting equal opportunities; making a reality of lifelong learning; exploiting
+               fully the potential of the service sector; creating the right climate for
+               entrepreneurship; and reviewing tax and benefit systems to provide incentives for the
+               unemployed to take up work or training. They promote social inclusion and examine
+               regulations to ensure that they reduce barriers to employment. That work will be
+               carried forward under the German presidency to produce an employment pact within the
+               framework of a wider process aimed at employment, growth, stability and economic
+               reform. Jobs remain Europe's top priority. The strategy developed over the last 18
+               months is beginning to bear fruit, with more than 1 million new jobs created in the
+               EU in the past year, including more than 250,000 in the UK, and the overall rate of
+               EU unemployment falling below 10 per cent. for the first time since 1992. However,
+               member states need to step up their efforts to implement real reforms in their labour
+               markets, learning from one another. It was noteworthy that at Vienna representatives
+               of small business people were included for the first time in the dialogue between
+               Heads of Government, employers and unions. Also in the economic field, we agreed new
+               measures to complete the internal market, not least in financial services; to improve
+               innovation; to increase the availability of risk capital; and to strengthen
+               investment in infrastructure. We agreed on the gravity of the challenge posed by the
+               millennium bug and the particular need to protect national and international
+               infrastructure. We also discussed the desirability of better economic policy
+               co-ordination. A small part of that discussion concerned tax policy. The Council
+               agreed that co-operation in that area is not aimed at achieving uniform tax rates or
+               preventing fair tax competition; rather its aim is to reduce harmful distortions in
+               the single market, prevent excessive losses of tax revenue and encourage
+               employment-friendly tax structures. Work will continue on long-standing proposals on
+               energy taxation and on taxation of savings, with a view to reaching agreement by next
+               December. The UK Government will ensure that British interests - including those of
+               the City of London - are fully protected and promoted in those discussions. On a
+               separate tax matter, I and others called for a review of the 1991 decision to end
+               duty-free sales in Europe from next year, not least since the proposed successor
+               arrangements risked ridicule. The Council asked the Commission and Finance Ministers
+               to examine by next March possible means of addressing the problem, including a
+               limited extension of the transition arrangements. Unanimity is required to secure
+               such a change, but a door that seemed firmly closed is now at least half open. The
+               Council endorsed the Finance Ministers' report on external representation of the euro
+               area. The UK's essential interests are protected - our membership of the G7 and other
+               international forums will continue as before. We also confirmed an agenda for reform
+               of the international monetary and financial system very much in line with the ideas
+               for which my right hon Friend the Chancellor and I have been arguing: more
+               transparency in international and national financial markets, better co-operation
+               between the International Monetary Fund and other actors, and strengthened prudential
+               and regulatory standards. Much of the discussion in Vienna was about Agenda 2000.
+               This is a wide-ranging and important negotiation embracing the reform of the common
+               agricultural policy to help the consumer, to create a more efficient and competitive
+               agriculture sector and to reduce the burden to the taxpayer; and reforms to the
+               structural and cohesion funds to ensure that they are fair and affordable, including
+               after enlargement. On future financing, the UK is among a large group of member
+               states arguing for stabilisation of expenditure at current levels by 2006. Vienna
+               confirmed the political objective of reaching overall agreement at a special meeting
+               of the European Council on 24 and 25 March. As for the British budget rebate, I
+               repeat what I said in Vienna. The rebate is still fully justified and will remain.
+               Even with it, the UK is the fifth largest net contributor in per capita terms, while
+               we are ninth or 10th in terms of gross national product. We still pay far more than
+               countries such as France, for example, with the equivalent population and slightly
+               higher national income. On enlargement, the European Council welcomed the fact that
+               the first practical results have been reached in negotiations with Cyprus, Hungary,
+               Poland, Estonia, the Czech Republic and Slovenia. It also welcomed progress made by
+               Romania, Slovakia, Latvia, Lithuania and Bulgaria. It welcomed the reactivation of
+               Malta's application, and recognised the importance of implementing the European
+               Union's strategy to prepare Turkey for membership. Work in all these areas will
+               intensify next year. During the UK presidency, my right hon Friend the Deputy Prime
+               Minister led work in the European Union on integrating environmental policy into
+               other community policies. The Austrian presidency carried forward this work in
+               transport, energy and agriculture. At Vienna, we agreed that it should be developed
+               further into the spheres of international development, the internal market and
+               industry. At Cardiff, I launched a debate on the future development of the European
+               Union which was carried forward at the informal summit in Portschach in October. We
+               agreed in Vienna further steps to make a reality of subsidiarity and improve the
+               effectiveness of EU institutions. We will issue a millennium declaration setting out
+               the Union's priorities for the period ahead at the end of next year, to coincide with
+               a new Commission taking office. At Portschach, I urged the strengthening of the EU's
+               foreign policy, not least by backing it with a credible capability for military
+               action in regional crises where the US or NATO as a whole does not wish to be
+               engaged. The joint declaration agreed with the French at St. Malo on 4 December gave
+               us a sound basis on which to build this initiative. It was widely welcomed by
+               partners at Vienna. We agreed that work should be taken forward under the German
+               presidency. There is, of course, no question of undermining NATO in any way.
+               Strengthening European defence capability will, I believe, strengthen NATO. On
+               current foreign policy issues, we underlined the urgency of bringing the parties in
+               Kosovo to a political agreement and the importance of the European Union continuing
+               its political and economic support for the middle east peace process. We repeated our
+               readiness to help Russia overcome its present severe difficulties, and agreed that
+               Russia should be the subject of one of the first common foreign and security policy
+               common strategies when the Amsterdam treaty enters into force. The Vienna Council
+               also made useful progress on the economic and employment points, and above all laid a
+               solid foundation for the difficult Agenda 2000 negotiations in the next three months.
+               Britain's interests were safeguarded and promoted without difficulty. We defended our
+               positions in a constructive way, just as others defended theirs. In the days before
+               Vienna, we issued joint statements with Spain on structural reform, with Sweden on
+               social policy, with France on defence and with Germany on tax. All of those were
+               welcomed in the discussion and reflected in the conclusions. At Vienna itself, we
+               helped shape the debate on economic and employment issues, on Agenda 2000, on
+               enlargement and on other issues, in sensible directions fully consistent with our own
+               national interests. This Government, I believe, have transformed Britain's relations
+               with the rest of the European Union since they took office. It is in the fundamental
+               interests of this country that we remain fully engaged in the debate on the
+               development of the European Union. On the Government Benches, we have the confidence
+               in our arguments, and in our ability to build support for them, to believe that we
+               can win the debates in Europe in favour of economic reform and an open and
+               decentralised Europe. Those who would end up by taking us out of Europe, or so far to
+               its margins as to eclipse any serious influencein Europe, would profoundly damage
+               this country. This Government will not be swayed from their positive and constructive
+               European policy because I have no doubt at all that this is the right course for
+               Britain's future.</seg>
+         </u>
+
+         <u who="#HAGUE">
+            <seg>On behalf of the Opposition, may I support some of the conclusions reached at
+               Vienna, including the strong commitment to the universal declaration of human rights,
+               statements on the importance of the middle east peace process, work on Kosovo and the
+               desire to assist Russia, Ukraine and the western Balkans? May I welcome the
+               Government's efforts to retain duty free? Does the Prime Minister agree that none of
+               the steps set out in the original agreement is in place, so there is an overwhelming
+               case for duty free to continue? Will he tell the Secretary of State for Health that,
+               as he seems to have a different policy from the rest of the Government at the moment?
+               Is not the Prime Minister's habit of saying one thing to one audience in one place
+               and another to an audience in another place finally catching up with him? He referred
+               to the British rebate. Will he confirm that, while he was telling the British media
+               that the rebate was not up for negotiation, he was busily telling the Austrian media
+               that there would be wide-ranging negotiations in which the rebate would come up for
+               discussion? If he did say that, did he mean it? If he did not mean it, why did he say
+               it? If he did mean it, why not say the same thing in Britain? Will he cease his habit
+               of saying one thing at home and something completely different abroad? Would not that
+               be a much more effective way in which to ensure that his thoughts are reported
+               accurately than simply whining about the British press? Nothing causes the Prime
+               Minister to complain louder than the British public being told about plans for tax
+               harmonisation. He made great play of the fact that the communique rules out the
+               possibility of <quote>"uniform tax rates"</quote>. Apparently, that phrase was
+               inserted at the Government's insistence. Why did we insist on that, when uniform tax
+               rates are not the threat? Why did not the Prime Minister insist instead on an end to
+               tax harmonisation? Why did he not call for the removal of references to <quote>"a tax
+                  policy package", "reinforced tax policy co-operation", or the far-reaching
+                  Commission "study on company taxation"</quote>? Why does not he guarantee to veto
+               moves on the withholding tax or the so-called exchange of information - both and
+               either of which would hit the City hard? Would not arguing against those real threats
+               have demonstrated more backbone than arguing against imaginary threats? Why did the
+               French and Germans point out that the wording of the communique did not rule out
+               harmonisation of specific taxes? Is that what the Prime Minister agreed? Why did the
+               Luxembourg Economic Minister report: <quote>"Everybody said there would be more tax
+                  harmonisation"</quote>? How on earth did he get that impression? Presumably, the
+               Prime Minister was there, standing up for Britain's interests. If so, why did nobody
+               notice? Why did not the Luxembourg Economics Minister notice? If the Prime Minister
+               was prepared to say in Vienna that there would be more tax harmonisation, why will he
+               not say that in Britain? Why will he not tell this House and the British public what
+               he tells other Heads of Government? What are the Prime Minister's guiding principles
+               on Europe? What has happened to his defence policy? The Labour party manifesto
+               states: <quote>"Our security will continue to be based on Nato"</quote>, and contains
+               a commitment to the Western European Union, which is clearly under threat. Following
+               the Amsterdam summit, the Prime Minister described proposals along precisely the
+               lines now being suggested as, <quote>"an ill-judged Franco-German transplant
+                  operation"</quote>. Why has he changed his mind so dramatically? Do not the
+               proposals in fact endanger our commitment to NATO? The Prime Minister says that he
+               wants to be fully engaged in Europe, but would it not be more accurate to say that,
+               whatever the circumstances, he will go with the flow? Earlier this year, the
+               Government promised to make EU enlargement a priority. Why is the Prime Minister now
+               content for the timetable for the entry of countries such as Poland and Hungary to
+               slip further? Will he confirm that they may not be able to join the European Union
+               until 2005 or later - 15 years after they threw off communism and first expressed an
+               interest in joining? In their original Foreign Office mission statement, the
+               Government promised to work for a Europe of independent nation states. How does that
+               promise fit with this agreement at Vienna - an agreement that can be summarised in
+               the first sentence of the communique: <quote>"European integration has gained new
+                  momentum"</quote>? The Prime Minister obviously agrees that that is a true
+               statement of the facts, as he signed up to the communique. What has happened to the
+               Foreign Secretary's assertion in August that <quote>"Maastricht was the high-water
+                  mark of European integration"</quote>? <quote>"European integration has gained new
+                  momentum"</quote> is the first phrase of the communique that the Prime Minister
+               has signed - and it has done so while he has been Prime Minister, saying one thing in
+               one place and something else in another. So let us have some straight answers. Is
+               that greater integration something that the Prime Minister welcomes? If it is, why
+               does he not say so, instead of running around Europe giving more false impressions
+               than Rory Bremner? If that is not something that he welcomes, why does he not do
+               something about it? And if he does not know whether it is something that he welcomes,
+               he does not deserve to be Prime Minister.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, let me deal with some of the issues of fact. The right hon. Gentleman took
+               me to task on duty free. Might I remind him that the people that agreed to abolish
+               duty free were the previous Conservative Government, in 1991? Of course, the
+               difficulty that we have had in the duty free argument is that unanimity is required
+               to change the plans precisely because of the agreement that the Conservative
+               Government made. As for the right hon. Gentleman's claim that I said one thing to the
+               Austrian newspapers and another to the British press, that is apparently based on an
+               interview that I gave to an Austrian newspaper, a transcript of which we provided to
+               the British press; so I hardly think that that is consistent with saying a different
+               thing to them. Finally on the points of detail, the right hon. Gentleman said that we
+               had agreed to shove the enlargement timetable back. We agreed no such thing. He said
+               that our agreement on defence somehow undermined NATO. I suggest that he reads the
+               recent words of Madeleine Albright, who has agreed that it is very sensible that
+               Europe, in circumstances where the US does not want to become engaged, is able to do
+               more of the cleaning up of problems in its own back yard. Only the Conservative party
+               could see that as a negative move. As for the right hon. Gentleman's strictures on
+               tax, on unfair tax competition, he asks why I did not come out against the whole
+               notion of greater tax co-operation. It could have been for the following reasons.
+               First, before the general election, it was agreed by the previous Government that
+               they endorsed <quote>"the concern expressed... about the effects of special tax
+                  arrangements... and unfair competition"</quote>, and believed <quote>"that
+                  consideration is urgently needed of possible remedies to this problem".</quote>
+               They then agreed, at the Dublin summit in 1996, to set up the taxation policy group,
+               and the first meeting of the group took place under the previous Conservative
+               Government. I feel that that would have somewhat inhibited me in saying that it was
+               all wrong. Of course, the then Government were quite right in doing that, because
+               some of the tax practices across Europe are harmful to this country, so it is
+               perfectly sensible to have a discussion about them. I may say that the code of
+               conduct on tax says in terms, right at the beginning, that it is a political
+               commitment, not a legal one. As for tax harmonisation, yes, we did agree words that
+               made it very clear that uniform tax rates were ruled out, and made it very clear that
+               no one was opposed to proper and fair tax competition. In the House of Commons on 9
+               December, I read the right hon. Gentleman a list of all those other Heads of
+               Government who had made the same thing clear on behalf of their Governments - the
+               French Prime Minister, the Spanish Prime Minister, the Irish Deputy Prime Minister
+               and the Italian Finance Minister. I also read a quote from the Euro CBI, expressing a
+               similar view. I can add to that list now. The Austrian Prime Minister said:
+                  <quote>"We are not against competition, and I am not against tax
+                  competition."</quote> Let us see what the Greek Prime Minister said. <quote>"Any
+                  effort to create a common tax policy would be pointless."</quote> I could quote to
+               the right hon. Gentleman virtually any newspaper anywhere in Europe, ruling out tax
+               harmonisation in the terms that he has described it. There is only one discordant
+               note on tax harmonisation - the person who said this: <quote>"We always accepted
+                  there was a case for minimal tax harmonisation... It was perfectly well known
+                  there was a case for minimal tax harmonisation for the development of the single
+                  market."</quote>
+            </seg>
+            <seg><bibl type="source">Official Report, 9 December 1998; Vol. 322, c. 382.</bibl> Who
+               was that? The shadow Chancellor last week. What did the Leader of the Opposition say
+               this morning? He described the communique as the greatest threat to British
+               independence for decades. More important than the Maastricht treaty, or the Single
+               European Act? That statement shows how extreme the Conservative party has become. If
+               the Conservative party was in power today, we would not have an ally anywhere. We
+               would have no influence, no authority and no ability to get our own way - nothing.
+               The Leader of the Opposition says that he wants to build alliances in Europe: for
+               heaven's sake, he cannot even build alliances in his own party. I think it was the
+               previous Prime Minister who said that the small group of Euro-sceptics was trying to
+               give his leadership the run-around. He said that that group needed the men in white
+               coats to come to rescue him. Under the present leader of the Conservative party, the
+               lunatics have taken over the asylum. That is the position into which the right hon.
+               Gentleman has put his party. He is not in charge of it. He is not running his party.
+               The policy of the right hon. Gentleman's party is determined by the headbangers with
+               whom he has surrounded himself in his shadow Cabinet. That is the truth, and the
+               right hon. Gentleman is driven before them. However extreme the right hon.
+               Gentleman's position and that of his party, the country's national interest lies in
+               being part of Europe. That is the way to win in Europe and that is what this
+               Government shall do.</seg>
+         </u>
+
+         <u who="#ANDERSON">
+            <seg>My right hon. Friend is justified in saying that the Opposition have form on key
+               matters such as taxation and duty free and, therefore, are not credible in what they
+               are now saying in their isolationist stance. However, will my right hon. Friend say a
+               little more about the future, and particularly about subsidiarity? He will recall
+               that he initiated the debate on the future of the European Union in Cardiff. That was
+               followed through at the special summit in October in Austria. Can my right hon.
+               Friend say what specifically was decided at Vienna on subsidiarity?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes, I can. My hon. Friend is right to draw attention to the importance of
+               subsidiarity. We agreed at Vienna on specific measures to imbed subsidiarity more
+               firmly in the way in which the European Union works. In particular, we have agreed
+               that the subsidiarity protocol - the Amsterdam treaty - should be applied
+               immediately. We intend to examine existing laws when significant new legislation is
+               proposed to ascertain whether they should be modified or repealed. That agenda on
+               subsidiarity is making progress, but we must not let up on it at all. We must be
+               eternally vigilant in pushing this agenda forward. I believe that most people in
+               Europe can see that there are certain areas in which Europe should work more closely
+               together and integrate more closely. There are other areas where it is important that
+               we push power downwards.</seg>
+         </u>
+
+         <u who="#CAMPBELL-MENZIES">
+            <seg>May I welcome the Prime Minister's statement, and particularly those parts of it
+               which deal with the common foreign and security policy and the need for better
+               defence co-ordination in Europe? May I congratulate the right hon. Gentleman on his
+               apparent recent conversion to the view that Government policy on Europe will be
+               determined by what is best for Britain, not by what is least offensive to certain
+               newspaper proprietors? Does he accept that there is no point in attempting to placate
+               the implacable? So long as the reasons for the rebate remain, so too must the rebate.
+               Does the right hon. Gentleman accept also that if there is wholesale reform of the
+               common agricultural policy resulting in a substantial reduction in the European Union
+               budget, inevitably different considerations would apply? Is it not now abundantly
+               clear that the United Kingdom will best maximise its influence in Europe with
+               membership of the single European currency? Why today does the right hon. Gentleman
+               not declare the intention in principle to join and to prepare for a referendum to
+               obtain the British people's endorsement?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The answer to the hon. and learned Gentleman's final point is: precisely because I
+               believe the British national economic interest should determine our membership. For
+               the reasons that we have given, we do not believe that that is satisfied by entry
+               into the single currency. We have set out the very test that would be applied to a
+               decision whether to join the single currency. I welcome some of the hon. and learned
+               Gentleman's other remarks, but I pick him up on the common agricultural policy and
+               the rebate. On any basis of CAP reform now being proposed, the British rebate will
+               remain justified. I agree that we need fundamental reform of the CAP, and we are
+               certainly prepared to examine mechanisms such as co-financing to try to get that
+               reform through. On any basis, Britain will still be a big net contributor to the EU.
+               We are at present the second largest cash contributor after Germany.</seg>
+         </u>
+
+         <u who="#KAUFMAN">
+            <seg>Will my right hon. Friend confirm that the best way to gain concessions in Europe,
+               such as those on duty free or the beef ban, is not by the tantrums and boycotts in
+               which the Conservatives indulged when they were in government, but by co-operation
+               and winning friends? Will he also confirm that Britain's national interest, of which
+               he and the Government are guardians, is best served by sane and sensible discussion
+               with our European partners? In expounding and assessing Government policy, will my
+               right hon. Friend compare the hostility of the Leader of the Opposition to
+               democracies in Europe with his support for a south American dictator accused of
+               murder and torture?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I agree entirely with my right hon. Friend that the best way to get results in
+               Europe is to build alliances and to be constructive. All other countries in Europe
+               find no difficulty in standing up for their national interests and still being
+               constructive about Europe. For the life of me, I cannot see why we are incapable of
+               doing the same in our country. If there are issues, such as the beef ban or the
+               rebate, on which we have to remain firm, we do so. We argue our case on the basis of
+               reason. That is the best way to get results. As we showed with the lifting of the
+               beef ban, when we approach issues in that way, people respond. What is the point of
+               being in Europe if we always treat the rest of Europe as something that is done to
+               Britain rather than something from which we can get an advantage? That is the worst
+               thing that we can do.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>What exactly is meant by the words in the Vienna communique about closer British
+               association with European defence and security policy? Bearing in mind the momentum
+               that apparently innocuous European suggestions often develop on their own, can the
+               Prime Minister give us an absolute guarantee that we shall not in due course be asked
+               to put a European or a German finger on the British nuclear trigger?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes, I certainly can say that. No one is even suggesting such a thing. There are
+               situations in which closer co-operation between European countries makes sense. We
+               are already setting up an individual to be Mr. or Ms CFSP, and a deputy. A whole
+               apparatus already exists to develop closer common foreign and security policy links.
+               The most intelligent thing for this country to do is not to pretend that that debate
+               is not happening, but to get in there and shape it so that we act in a way that is
+               consistent with NATO and do not allow the agenda to be set by those - I do not think
+               that there are many - who want to undermine NATO. That is the right way to get
+               results for this country.</seg>
+         </u>
+
+         <u who="#RADICE">
+            <seg>Does not the Vienna summit show that it is not a question of Britain standing
+               alone, but of discussions and agreements that are of mutual benefit to the United
+               Kingdom and to the European Union? Let us forget for a moment about the Conservative
+               party and consider the Euro-sceptic press. Is it not time that they stopped trying to
+               whip up anti-European hysteria and started reporting the facts about European
+               affairs?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>People are entitled to their views on Europe, but it is best that we should judge
+               everything according to the facts as much as we can. From a reading of the press in
+               the rest of Europe on the Vienna summit and the British contribution, if there are
+               criticisms of the summit they are not that it was the greatest step towards
+               integration for decades, but that not as much was decided there as some would have
+               liked, although I personally think that it was a successful summit. But the important
+               fact is that the British contribution was welcomed. That is in our country's
+               interests. We can satisfy the British national interest and be constructive in Europe
+               because they are one and the same thing.</seg>
+         </u>
+
+         <u who="#TAYLOR-IAN">
+            <seg>Does the Prime Minister accept that after the publicity of the past few weeks, he
+               has to do even more to persuade the British public and one or two people closer to
+               home that positive engagement in the European Union is in the British national
+               interest? When making that case, will he explain that reforms, such as that of the
+               common agricultural policy, and enlargement will probably cost more money? Will he
+               also explain that of course there needs to be a discussion about taxation in a single
+               market as well as a single monetary zone? Those matters are on the agenda. When there
+               are differences of opinion, the British view must be put across clearly. That view
+               would be more emphatic if there was a clearer statement from the Prime Minister about
+               the timetable towards euro entry and the fact that his economic policy is designed to
+               secure the prospect of that entry.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I have set out our position on the euro. On the other points that the hon.
+               Gentleman raised, it is important not to disengage from the argument on tax
+               competition or unfair tax competition in the European Union because there is much to
+               be gained by co-operating on these issues and much to be lost if we disengage. I hope
+               that we have tried to explain that in the context of the Vienna summit. It would help
+               - not to intrude too much on other disagreements - if people such as the hon.
+               Gentleman were given a bit more support from their Front Benchers, as having a
+               legitimate view about Europe in the Conservative party.</seg>
+         </u>
+
+         <u who="#DAVIES-DENZIL">
+            <seg>I believe that my right hon. Friend mentioned that there is to be a Commission
+               study into the taxation of savings. Will it involve looking at the different ways
+               that income tax is imposed on savings, and the different rates of income tax on
+               savings, in the different countries?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The issue of savings tax has been raised specifically by countries that are
+               worried about what they consider to be unfair tax advantages given in certain
+               European countries. The withholding tax idea is something about which we have
+               difficulties, because of the Eurobond market in the City of London. We have other
+               difficulties with it, too. We are not the only country with problems there, and we
+               have no intention of agreeing to anything that would sacrifice essential British
+               interests.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>Having listened to optimistic and positive statements from European Council
+               meetings for 23 years, one tends to look at the small print, where proper guidance is
+               given. What exactly does the Prime Minister mean by saying that the Government, along
+               with the others, are committed to long-standing proposals on energy taxation and the
+               taxing of savings, with a view to reaching agreement by December of next year? Will
+               he say clearly and precisely what ideas he and the others have for taxing energy, to
+               be agreed by next December? What proposals does he have in mind for taxing savings by
+               next December - and is that the basis for the reported flight of a great deal of
+               money from Britain, and, indeed, from Jersey and Guernsey, to Switzerland over the
+               past few days?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> In relation to energy, that work has been going on for a long time, through the
+               Deputy Prime Minister and others. Domestic energy is specifically excluded from that,
+               but we are all trying to make sure that we meet our obligations under the agreement
+               concluded, for example, at the Kyoto climate conference which has just taken place.
+               As I have already said, as a country, we have great difficulties with doing anything
+               in respect of the savings tax. The question is, what do we do when we are faced with
+               proposals</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>You agreed to it.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We are not saying that we agree with the proposals on savings taxes. The document
+               and the communique actually say that there is an attempt to conclude an agreement by
+               Helsinki next year. That does not mean that we will agree to it. With the greatest
+               respect to the hon. Gentleman, if we disengage from that debate, all it would mean is
+               that the debate would happen without a British voice. There is nothing that is being
+               proposed there that we need fear in the least, which is why we will carry on arguing
+               the British case constructively. If we do that, we are more likely to win.</seg>
+         </u>
+
+         <u who="#SHELDON">
+            <seg>My right hon. Friend voiced his criticism of the Euro-sceptic press, quite
+               justifiably. Will he explain more fully to our country the advantages of joining the
+               euro and - even more important - the disadvantages of not joining?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I have nothing to add to the statements that the Chancellor of the Exchequer and I
+               have already made on that issue, but people are perfectly entitled to their views,
+               for or against. It is important that the debate takes place on the basis of facts.
+               The truth is that the debate about tax harmonisation for the past two or three weeks
+               has had, in certain quarters, precious little at all to do with facts.</seg>
+         </u>
+
+         <u who="#GUMMER">
+            <seg>Does the Prime Minister accept that those of us who are in favour of as much
+               engagement in Europe as is suitable for the United Kingdom are also concerned about
+               his statement about Agenda 2000? After all, he managed to speak about the reform of
+               the common agricultural policy without mentioning the environment once. The one area
+               where the environment is most important is making sure that we reform the CAP in a
+               way that pays farmers for looking after the land, instead of producing too much and
+               dumping it on third-world countries. The Prime Minister need not look at his notes,
+               because he did not mention the environment then, but later, in respect of other
+               things. None of those other things matter anything like as much as putting over our
+               point of view on the environment in the agricultural debate.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I certainly agree that it is extremely important to take the environment into
+               account in common agricultural policy reform. We are ahead of the other countries in
+               arguing for reform - the more fundamental it is, the better. As I think I pointed out
+               in my statement, our arguments on the environment have been strengthened by the work
+               of the Deputy Prime Minister, who has insisted that the environment be taken into
+               account across a range of issues where currently it is not.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>The House may have overlooked the earlier comments of my right hon. Friend the
+               Prime Minister that 1 million new jobs have been created in the European Union in the
+               past year and that the unemployment rate has fallen to less than 10 per cent. Does
+               not that suggest that jobs can be created by following a vigorous micro-economic
+               policy within the framework of low inflation, low interest rates and a fixed element
+               to the currency? My right hon. Friend mentioned influence and authority; does he
+               recall the words of a former Prime Minister, Winston Churchill, who said: "To jaw-jaw
+               is better than to war-war"? Is not persuasive diplomacy better than the clanging
+               cymbals of the Conservative party?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> If we do not try to persuade people, we are not listened to at all. The Leader of
+               the Opposition said this morning that he wanted to build alliances with other
+               centre-right parties in Europe, but I do not know who would build an alliance with
+               him. I do not think that the Belgian Prime Minister or the Spanish Prime Minister
+               would; to be honest, I do not think that any of them would. May I correct something
+               that the right hon. Member for Suffolk, Coastal <note>Mr. Gummer</note> said? I said
+               in my statement - I apologise for not finding this when I replied to his question -
+               that, under the United Kingdom presidency, my right hon. Friend the Deputy Prime
+               Minister led work in the European Union on integrating environmental policy into
+               other community policies and that the Austrian presidency carried forward that work
+               in transport, energy and agriculture.</seg>
+         </u>
+
+         <u who="#MADEL">
+            <seg>The German Government are paying a huge bill towards the modernisation of east
+               Germany and they are now insisting on paying less towards the European Union budget.
+               If Germany, as the biggest contributor, pays less, there will be consequences for the
+               time scale of enlargement. What is the Government's attitude to Chancellor Schroder's
+               insistence that Germany should pay less?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I understand why the hon. Gentleman says that. The answer is stabilisation of the
+               finances and then reform of expenditure. The best thing that we can do to put our
+               national case forward most sensibly is to argue for limits on expenditure, about
+               which the Germans and others are naturally concerned. That is the way forward; it is,
+               in fact, the central argument in European Union financing. If we agreed stabilisation
+               and fundamental reform of the CAP, that would go a long way towards meeting German
+               concerns.</seg>
+         </u>
+
+         <u who="#RAMMELL">
+            <seg>Will my right hon. Friend the Prime Minister confirm that the decisions made on
+               taxation at the summit were totally at odds with what, in the run-up to the summit,
+               the Euro-sceptic press led us to believe would happen? Is it not a cause for concern
+               that our people are so ill informed by our national newspapers on this issue? Is it
+               not time for the Government to go on the offensive to rebut the distortions,
+               half-truths and downright untruths of the Euro-sceptics? During 18 years in
+               opposition, the Labour party learned to put straight the record straight away when
+               our political opponents misled - that is more important on Europe than on many other
+               issues.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I think that many members of the public understand exactly what is going on. They
+               want us to present the facts calmly, which is what we try to do - it is the best
+               antidote to scare stories of any kind.</seg>
+         </u>
+
+         <u who="#SPICER">
+            <seg>Did not the Prime Minister miss the real point on tax in his statement? The single
+               currency is bound to lead to a massive increase in the tax burden, as resources have
+               to be shifted from the north of Europe to the otherwise impoverished south.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I do not agree. There is no reason why the single currency should mean a higher
+               tax burden in Europe. The northern countries in particular want their tax burdens
+               reduced, which is one reason why it was so false to say that the rest of Europe
+               wanted tax harmonisation to bump up taxes all over Europe. Many countries are trying
+               to reduce their tax burdens and we should be working with them to achieve that.</seg>
+         </u>
+
+         <u who="#CORBETT">
+            <seg>I welcome my right hon. Friend's assurance that the talks on the admission of
+               Cyprus to the European Union are proceeding and are on track. What progress has been
+               achieved between the Commission and Turkey on making it clearer to the Turkish
+               authorities what they have to do, and over what time scale, to enhance their
+               prospects of entry?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> In respect of Cyprus, we made it clear that the accession negotiations should
+               continue. Obviously, it would help the negotiations to proceed faster and better if
+               we got a resolution of the essential problem of Cyprus. On Turkey, we specifically
+               and in terms endorsed the European strategy vis-a-vis Turkey which was agreed at the
+               Cardiff summit, and we will continue to pursue that. As I have made clear on many
+               occasions, we want relations between the EU and Turkey to be developed and
+               strengthened. I believe that they can be strengthened.</seg>
+         </u>
+
+         <u who="#DAFIS">
+            <seg>Does the Prime Minister accept that in a single market with a single currency,
+               there will be a trend to strengthen advantaged regions and to weaken disadvantaged
+               regions unless there are strong mechanisms for financial transfers - which, in
+               Europe, means structural funds? Does the Prime Minister understand that, as we move
+               into a single currency, his opposition to the strengthening of structural funds is
+               diametrically opposed to the interests of the economies of Wales, Scotland and some
+               of the English regions - especially when that is compounded by the Government's
+               support for the Fontainebleau agreement, which provides a disincentive to using
+               European structural funds? If he cares about Wales and Scotland, will he reconsider
+               his position on that matter?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> We have done our very best to secure the position of Wales in particular during
+               the negotiations. It was as a result of the Government's intervention during the
+               United Kingdom presidency that we underpinned objective 2 financing. We have managed
+               to secure significant advances in relation to objective 1 funding, precisely because
+               of the way in which we have approached the negotiations. Within the context of
+               enlargement, we are doing as well as we possibly can.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>Does the Prime Minister agree with the former Chancellor who said yesterday that
+               there is no question of majority voting on matters of tax, either now or in the
+               future?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Yes, I agree. That point has been made, to my certain knowledge, by at least three
+               or four Heads of Government over the weekend. That matter is simply not on the
+               agenda, and most people understand why - because it is right that Parliaments set
+               national taxes in the way that they wish.</seg>
+         </u>
+
+         <u who="#GALE">
+            <seg>I am sure that the House welcomes the initiative instigated by the Irish Government
+               to carry out a review of the effects of the abolition of duty free trade before that
+               is done. It is a pity that the Prime Minister has sought to claim credit for that.
+               The review should have been carried out as a prerequisite before any implementation
+               of the 1991 agreement. The Prime Minister made his view clear in three parliamentary
+               answers in May, and his Government did nothing about the matter during the entire
+               United Kingdom presidency of the EU. Will he flesh out his triumph a little, and
+               indicate who will carry out the review, how long it will take, whether it will report
+               to the Commission or the Council of Ministers and what weight it will be given?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> To be honest, it really does not matter who takes credit for the initiative, but
+               we have worked closely with the Irish Government on this matter. The hon. Gentleman's
+               interpretation would be regarded as a trifle bizarre by most of those who were at the
+               Vienna summit. The only inhibition that we have about this matter is the fact that
+               the Conservative Government agreed to the abolition - that is our problem. Not only
+               did they agree to abolition, they agreed that the matter could not be reopened,
+               except by unanimity. We have worked on the matter recently because, first, it has
+               become clear that the successor regime will not work properly - that is the reason
+               for the review - and secondly, we have been able to build the type of alliances that
+               he and the rest of his party would not wish us to have with anyone in Europe. The
+               review will be conducted by the Commission and the Finance Ministers, and we will
+               make our views known very clearly indeed. For the first time, we have managed to get
+               the door a little bit open, thanks to this Government and no thanks to the previous
+               Government.</seg>
+         </u>
+
+         <u who="#PROSSER">
+            <seg>Is my right hon. Friend aware how heartened my constituents are that he has managed
+               to prise open that door to duty free in Europe, which the Tories wanted to slam shut?
+               May I remind him of the 20,000 jobs that duty free supports in Dover, in east Kent
+               and throughout the United Kingdom? The Government's approach to duty free along with
+               our more positive engagement in Europe shows that we are on line to look after our
+               own interests while becoming more closely involved in European affairs.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>That is absolutely right. I do not believe that we would ever have succeeded in
+               getting other countries behind us in trying to reopen the issue if we had not had a
+               different attitude. There is a long way to go. The door is open, where it was
+               previously shut. I do not pretend that all the difficulties are over with - they are
+               not at all - but at least we have the chance to argue the case. I am quite sure that,
+               as with the beef ban, we do better in the end by being constructive.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>What percentage of gross domestic product does the Prime Minister think should go
+               to Europe? Does he understand that factors including the enlargement process, the
+               costs of the common agricultural policy, high unemployment, the structural and
+               cohesion funds, the intention to increase taxation to a level that is more
+               satisfactory to Germany and pension liabilities are all bound to put more and more
+               pressure on the budget? What should be the level of our European budget, and how will
+               he be able to contain it while at the same time preventing tax harmonisation?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> As the hon. Gentleman knows, there is a 1.27 per cent. ceiling. We will argue for
+               stabilisation of expenditure. I simply do not know what he means by saying that the
+               Germans want to set our tax rate. Mr. John Bercow (Buckingham): He did not say that.
+               The Prime Minister: The hon. Gentleman did effectively say that. He was effectively
+               saying that Germany wants to ensure that everyone's tax rates go up to its level. If
+               we carry on conducting his type of argument in the way that he wants to conduct it,
+               this country might as well leave Europe. That is what he wants. The tragedy for his
+               party is the fact that his views now dominate the Conservative Front Bench. In a
+               sense, he should be rejoicing: he was once a small minority in the Conservative
+               party, and now he runs the party's policy. That is its tragedy.</seg>
+         </u>
+
+         <u who="#GODMAN">
+            <seg>Despite my right hon. Friend's commendable commitment to enlargement, might I
+               suggest that it is in fact a far distant prospect? We need to conclude the reform of
+               the common agricultural policy, the budget and other institutional matters. Given
+               those near intractable problems, have the applicant countries been told that they are
+               engaged in a long, long game?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Yes, there will obviously be long negotiations, but we will conclude them as
+               quickly as possible. It is worth restating why enlargement is important for the
+               European Union: it allows us to bring in the former communist countries of eastern
+               Europe, which will not only bring them greater security and prosperity for their
+               future but be good for the whole of Europe. I was just reading what the previous
+               Prime Minister said about enlargement. He was absolutely right when he said that it
+               would require "imagination, flexibility and generosity." We will have to ensure that
+               we bring those countries in as quickly as possible. It was under our presidency, at
+               Cardiff, that we started the pre-accession process properly.</seg>
+         </u>
+
+         <u who="#FORTH">
+            <seg>Can the Prime Minister guarantee that the net contribution by the British taxpayer
+               to the European Union budget will not increase, and is he prepared to be judged on
+               that criterion?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> We have made it clear that we will fight for the stabilisation of European Union
+               expenditure. On any basis, even if we keep the rebate, British net contributions will
+               be the second largest in the European Union. That is why we will carry on fighting
+               for British national interests.</seg>
+         </u>
+
+         <u who="#TURNER">
+            <seg>Before we go much further towards restoring duty free, will my right hon. Friend
+               consult the Secretary of State for Health to see whether it is in British interest
+               for duty free to continue for cigarettes and tobacco products coming into this
+               country? If there is a case for tax co-operation in Europe, might not that mean that
+               taxes should be raised in Europe to this country's levels on such products?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The reason for extending the existence of duty free is to establish a sensible
+               successor regime. We do not have that at the moment. We are not arguing that we
+               should reverse the 1991 decision: that would be impossible to achieve even if we
+               sought it. However, there is a growing view that a successor regime is not properly
+               in place and, to safeguard our interests and those of many people who work in
+               companies connected with the trade, it is important to get an extension. We seek an
+               extension, not an overall reversal of the decision.</seg>
+         </u>
+
+         <u who="#MCINTOSH">
+            <seg>The Prime Minister said that the door is now half open on duty free, so by
+               definition it must be still half closed. I understand that Denmark is one of the
+               countries that are still against any extension of duty free. What measures are the
+               Government pursuing to bring other countries on board? I welcome the fact that small
+               businesses were represented at the Vienna summit for the first time at that level,
+               and small firms in the vale of York will welcome it also. Does the Prime Minister
+               agree that we need less, not more, employment policy and a more flexible social
+               policy from Brussels?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> On the latter point, the employment chapter that was agreed at the Amsterdam
+               summit specifically focused on measures that Governments could take on training,
+               skills and apprenticeships and direct measures to help the unemployed, rather than on
+               regulation. We have tried to move the argument away from that and the best way to do
+               so is to make the argument within the European Union. I agree with the hon. Lady's
+               point on duty free: the door is still half closed. That is an improvement, but I
+               cannot mislead people by saying that the deal has been done. We have a chance to do
+               it, and probably only two or three countries now stand in the way. We will make what
+               attempts we can to persuade them, but we now have a large and impressive majority in
+               favour of an extension.</seg>
+         </u>
+
+         <u who="#BARNES">
+            <seg> I can accept a lot - the euro, tax harmonisation and even European armed forces -
+               but only if we first tackle the most serious problem in the European Union, which is
+               its massive democratic deficit. It is said that if the European Union applied for
+               membership of itself, it would be refused on the grounds that it does not have
+               democratic institutions. Is anything being done to change that situation?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I am not sure that I can completely satisfy my hon. Friend on that point. The
+               dilemma is that most of us want to see as much democracy in the European Union as
+               possible, but that it must be consistent with national Governments having a strong
+               role to play. We have discussed the issue of tax and tax harmonisation and most
+               people would wish to proceed cautiously on that issue. When we talk about
+               thedemocratic deficit in the European Union, we should not forget that the
+               Governments of the European Union are democratically elected. When they come together
+               to negotiate, they do so on a democratic basis. Most people would be concerned if we
+               took too much power away from national Governments in the negotiation of European
+               issues.</seg>
+         </u>
+
+         <u who="#WILKINSON">
+            <seg>Why did not the Prime Minister raise - at least, he did not report that he raised -
+               the issue of European Union subsidies for tobacco growing? Does he recall his words
+               in the article he wrote for The Times today: <quote>"if Europe proposes something
+                  foolish, I will work to stop it. If necessary, I will do it alone."</quote>? Why
+               has he had so little success? I am sure that the Secretary of State for Health
+               regards it as foolish that British taxpayers' money should be devoted to the subsidy
+               of tobacco growing. Is it because the Prime Minister finds stability sexy, or does he
+               have a soft spot for tobacco sponsorship in Europe?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No, it is probably for the same reason that the Conservative Government did not get
+               very far on the issue in 18 years. Some very big interests are at stake, and they
+               push their case firmly. Let me repeat that the negotiations to reform financing in
+               the European Union for the purposes of enlargement give us the best chance to try to
+               make progress on tobacco and other issues. The big negotiation will take place on
+               future financing, and that is where we can make much of the case for fundamental
+               reform of the common agricultural policy. To the hon. Gentleman, I must say that we
+               are better able to make that case if we engage in it constructively rather than being
+               isolated and negative.</seg>
+         </u>
+
+         <incident>
+            <desc>Several hon. Members rose</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. We must now move on to the main business of the day.</seg>
+         </u>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<header class="section-header py-4">
+  <div class="container">
+  </div>
+</header>
+
+<style>
+  .center_elem {
+    text-align: center;
+  }
+</style>
+
+<div class="container">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="main_nav">
+
+      <ul class="navbar-nav">
+
+        <% if @current_user != nil %>
+          <li class="nav-item active"> <%= link_to "Home", '/', method: :get, class: "nav-link"%> </li>
+          <li class="nav-item active"> <%= link_to "Test the app!", '/home', method: :get, class: "nav-link"%> </li>
+          <li class="nav-item active"> <%= link_to "Recommend", '/recommend_score', method: :get, class: "nav-link"%> </li>
+          <li class="nav-item active"> <%= link_to "Logout", '/logout', method: :post, class: "nav-link"%> </li>
+        <% else %>
+          <li class="nav-item active"> <%= link_to "Home", '/', method: :get, class: "nav-link"%> </li>
+          <li class="nav-item active"> <%= link_to "Login", '/login', method: :get, class: "nav-link"%> </li>
+          <li class="nav-item active"> <%= link_to "Sign Up", '/register', method: :get, class: "nav-link"%> </li>
+        <% end %>
+
+      </ul>
+
+    </div>
+
+  </nav>
+
+  <p>Run the algorithm:</p>
+  <% if @list_of_files != nil %>
+    <% if @list_of_files.length() > 1 %>
+      <table class="table table-condensed">
+        <thead>
+        <tr>
+          <th>Count</th>
+          <th>Name</th>
+          <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        <% for i in 1...@list_of_files.length() %>
+          <tr>
+            <td><%= i %></td>
+            <td><%= @list_of_files[i] %></td>
+            <td>
+              <%= button_to "Run", {:controller => "pymain", :action => "run_stt", :filename => @list_of_files[i]} , :method => :post %>
+              <%= button_to "Delete", {:controller => "home", :action => "delete_upload", :audio_name => @list_of_files[i]} , :method => :delete %>
+            </td>
+          </tr>
+        <% end %>
+        </tbody>
+      </table>
+    <% else %>
+      <p>You need first to upload some file!</p>
+    <% end %>
+  <% else %>
+    <p>You need first to upload some file!</p>
+  <% end %>
+
+</div>

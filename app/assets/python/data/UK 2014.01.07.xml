@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140107/debtext/140107-0001.htm#14010734000001"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>7 January 2014</date>
+               <date when="2014-01-07"></date>
+               <activity>First thematic debate on defence since the Lisbon Treaty</activity>
+               <locale>Brussels</locale>
+               <persName>Cameron I</persName>
+               <name>94th ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="LEWIS">
+                  <persName>Dr. Julian Lewis</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>New Forest, East</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="LIDINGTON">
+                  <persName>Mr David Lidington</persName>
+                  <sex>male</sex>
+                  <occupation>Minister of State for Europe (Minister for Europe)</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="BRYANT">
+                  <persName>Chris Bryant</persName>
+                  <sex>male</sex>
+                  <occupation>Shadow Minister for Welfare Reform</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rhondda</residence>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ROBERTSON-ANGUS">
+                  <persName>Angus Robertson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Moray</residence>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="HARVEY">
+                  <persName>Sir Nick Harvey</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North Devon</residence>
+               </person>
+
+               <person xml:id="MCCARTHY">
+                  <persName>Kerry McCarthy</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bristol East</residence>
+               </person>
+
+               <person xml:id="HOWARTH-GERALD">
+                  <persName>Sir Gerald Howarth</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Aldershot</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="GRAY">
+                  <persName>Mr James Gray</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North Wiltshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="LEADSOM">
+                  <persName>Andrea Leadsom</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>South Northamptonshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="REES-MOGG">
+                  <persName>Jacob Rees-Mogg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North East Somerset</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BARON">
+                  <persName>Mr John Baron</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Basildon and Billericay</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="JENKIN">
+                  <persName>Mr Bernard Jenkin</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Harwich and North Essex</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CLAPPISON">
+                  <persName>Mr James Clappison</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Hertsmere</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="NUTTALL">
+                  <persName>Mr David Nuttall</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Bury North</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ELLWOOD">
+                  <persName>Mr Tobias Ellwood</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Bournemouth East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BONE">
+                  <persName>Mr Peter Bone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Wellingborough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HOLLOBONE">
+                  <persName>Mr Philip Hollobone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Kettering</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HEATON-HARRIS">
+                  <persName>Chris Heaton-Harris</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Daventry</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CHISHTI">
+                  <persName>Rehman Chishti</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Gillingham and Rainham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="MCCARTNEY">
+                  <persName>Jason McCartney</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Colne Valley</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="OPPERMAN">
+                  <persName>Guy Opperman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Hexham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HOPKINS">
+                  <persName>Kelvin Hopkins</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Luton North</residence>
+               </person>
+
+               <person xml:id="MCFADDEN">
+                  <persName>Mr Pat McFadden</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wolverhampton South East</residence>
+               </person>
+
+               <person xml:id="MURRAY">
+                  <persName>Ian Murray</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Edinburgh South</residence>
+               </person>
+
+               <person xml:id="DAVID">
+                  <persName>Mr. Wayne David</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Caerphilly</residence>
+               </person>
+
+               <person xml:id="BAIN">
+                  <persName> Mr William Bain</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Glasgow North East</residence>
+               </person>
+
+               <person xml:id="SHEERMAN">
+                  <persName>Mr Barry Sheerman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Huddersfield</residence>
+               </person>
+
+               <person xml:id="LAZAROWICZ">
+                  <persName>Mark Lazarowicz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Edinburgh North and Leith</residence>
+               </person>
+
+               <person xml:id="WILSON">
+                  <persName>Sammy Wilson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Democratic Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>East Antrim</residence>
+               </person>
+
+               <person xml:id="SHANNON">
+                  <persName>Jim Shannon</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Democratic Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Strangford</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#STUART">
+            <seg>
+               <note>Urgent Question</note>To ask the Prime Minister if he will make a statement on
+               the European Council meeting of 19 and 20 December 2013.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I have been asked to reply. The European Council focused on three things: defence;
+               economic and monetary union; and EU enlargement and association agreements. On
+               defence, the Prime Minister made it clear that NATO would remain the bedrock of our
+               national defence. As a result of United Kingdom lobbying, NATOs Secretary-General
+               Rasmussen was invited to attend and address the Council as a symbol of the importance
+               of the European Unions efforts, which complement rather than duplicate the role of
+               NATO in our collective security. It is right for European countries to co-operate on
+               defence issues such as tackling piracy, and this country has consistently supported
+               other European allies, including the French efforts in Mali. However, it is important
+               that defence co-operation is driven by nations themselves, on a voluntary basis,
+               according to their own priorities and needs, and not by the Brussels institutions. My
+               right hon. Friend the Prime Minister ensured that the conclusions excluded any
+               ambiguous language or proposals that could lead to new bureaucracy, new EU
+               institutions or increased EU competence on defence and security matters, including
+               any ambitions to own dual-use capabilities such as remotely piloted air systems. The
+               conclusions of the Council were clear that nations, not the EU institutions, were in
+               the driving seat of defence policy and would remain there. On economic and monetary
+               union, the United Kingdom is not in the eurozone and will not be joining the euro,
+               but we want our trading partners in Europe to have a strong and stable currency and
+               we support their efforts to achieve that, provided that Britains interest are
+               properly protected. My right hon. Friend ensured that there would be no financial
+               liability for this country from banking union or from any future euro area mechanism
+               of loans or guarantees for eurozone countries The conclusions also reiterate the
+               importance of making the EU more competitive, including cutting red tape for
+               business. On enlargement and association agreements, the European Council welcomed
+               the initialling of association agreements with Moldova and Georgia, and made it clear
+               that the EUs offer to Ukraine remained open. The United Kingdom has long supported
+               enlargement because the prospect of EU membership has proved a huge driver for peace,
+               prosperity and reform across our continent. My right hon. Friend made it clear that
+               he continued to support enlargement and saw it as one of the European Unions greatest
+               strengths. At the same time, however, he argued that when new countries join the EU
+               in future, we should look again at the transitional arrangements for the free
+               movement of workers. He argued, too, that the free movement of workers was different
+               from the free movement of people seeking the best benefit deal. Other member states
+               share our concerns about this matter, and we look forward to continuing those
+               discussions over the coming year.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>Delightful as it is to see the Europe Minister here today, it is the Prime Minister
+               who is meant to make statements following European Council meetings. Why is the Prime
+               Minister not here today? If he has a good excuse for not being here today, why could
+               he not have made a statement yesterday? Is it now Government policy not to make
+               statements following European Council meetings, even though the House has observed
+               that practice for many years? It would be particularly regrettable if that were the
+               case, given that we no longer have pre-Council debates. Does the Minister think, on
+               reflection, when he reads the written ministerial statement, that even if the Prime
+               Minister had to make such a statement, the one published inHansardis not brief, but
+               tawdry? It really is quite an insult, particularly when compared with the official
+               Council conclusions. The written statement makes it clear that there will be no EU
+               ownership, no EU headquarters, no reference to Europes armed forces, no European
+               pooled acquisition mechanisms, no EU assets and fleets, no EU drones and no EU
+               air-to-air refuelling tankers. Of course, that leaves one to wonder what there will
+               be, given that this meeting was the first since the Lisbon treaty came into force
+               where the Council had a themed debate focusing on defence. How does the Governments
+               statement square with the Council conclusions, which say: The European Council
+               remains committed to delivering key capabilities and addressing critical shortfalls
+               through concrete projects by Member States, supported by the European Defence Agency?
+               Given that whole list of noes, including on the institutions, what is the role and
+               function of the European Defence Agency? Similarly, given that there are meant to be
+               no EU drones, what are we to make of the Council conclusion that we remain committed
+               to a 2020 to 2025 time frame for the preparations for a programme of a
+               next-generation European Medium Altitude Long Endurance RPAS; the establishment of an
+               RPAS user community group and European Commission regulations on that? The Council
+               conclusions also state: The European Council welcomes the Commission communication
+               Towards a more competitive and efficient defence and security sector. It notes the
+               intention of the Commission to develop, in close cooperation with the High
+               Representative and the European Defence Agency, a roadmap for implementation of a
+               more co-ordinated defence industry. Will the Minister comment on the clear
+               contradiction between the written ministerial statement and the conclusions? I have
+               two final points to make. First, how does the statement square with the French Prime
+               Ministers demand for the setting up of a permanent fund to finance operations such as
+               Frances operation in the Central African Republic? Secondly, did the Prime Minister
+               have any discussions with the new German Defence Minister, Ursula von der Leyen, who
+               until that point had been personally very deeply committed to a united states of
+               Europe?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>First, I am grateful for the hon. Ladys words of welcome. Let me respond to her
+               first question by reminding her that since May 2010 my right hon. Friend the Prime
+               Minister has made no fewer than 18 oral statements here following Councils that took
+               place while Parliament was sittingthat is double the number of such oral statements
+               given by his immediate predecessor. It has been the practice of successive
+               Governments not to make an oral statement following Councils taking place during a
+               recess, and my right hon. Friend therefore made a full written ministerial statement
+               on Monday, which set out in detail the key outcomes from this Council. On the hon.
+               Ladys important points about common security and defence policy, the key is to
+               understand the distinction between ownership by the EU of defence capabilities, which
+               we do not support and have resisted successfully, and co-operation by European
+               countries in providing greater defence and security capabilities. What was good about
+               the conclusions both of the December European Council and of the previous weeks
+               Foreign Affairs Council on CSDP matters was that they made it very clear that the EU
+               first had to work with, and not duplicate, the efforts of NATO and work alongside
+               other partners in different parts of the world. Secondly, they made it clear that the
+               EU would look for ways in which to encourage co-operation on capabilities, for
+               example, on drones, which she mentioned. That is not some new EU-directed operation,
+               but a facility that individual members of the EU can decide whether or not to take
+               part in. There is no secret plan to direct some Euro drone out of the Berlaymont; it
+               is very different. It is about co-operation between willing member states. On the
+               defence industry point, the conclusions made it clear that the European defence
+               sector needed to become more competitive and efficient. The language that we
+               successfully negotiated makes it clear that rather than there being any question of
+               European national champions, the defence sector must comply with European law, which
+               means that there must not be illegal state subsidies, except where subsidies are
+               explicitly protected under the treaties. The language also makes it very clear that
+               we, or indeed any other country, are not in any way constrained from continuing to
+               work with the United States or other international partners on our defence
+               industries. When the hon. Lady comes to look in more detail at the conclusions, I
+               hope that she will agree that it was a good outcome for the United Kingdom and a
+               successful negotiation.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>This morning, the European Scrutiny Committee cross-examined the Minister for
+               Europe on these issues. I have written to the Prime Minister accordingly in relation
+               to the fact that he is not here today, as he should be and as our Committee
+               recommended in our recent European scrutiny report. The substantive matter is that,
+               on the one hand, the Prime Minister did say in his press statement that defence must
+               be driven by the nations and not by Brussels diktat, but, on the other, Mr Van Rompuy
+               states that we must have credible European scrutiny and a strong, credible, common
+               security and defence policy. He also suggests that there is a greater role for
+               European defence. Does my right hon. Friend agree that it is impossible to compare
+               and to reconcile those different approaches given that there is an ever-increasing
+               competence towards European defence irrespective of what the Minister has just
+               said?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>On my hon. Friends first point, I am aware that he has written to the Prime
+               Minister about the matter of oral statements. There is of course that recommendation
+               in his Committees report. I am sure that my right hon. Friend will reply to the
+               letter. For the record, I repeat the Governments commitment to give their full
+               detailed response to the European Scrutiny Committees report in due course, and I
+               pledge to do that as soon as we are able. On his point about CSDP matters, I do not
+               agree with him. I, too, want to see a European arm of the Atlantic alliance that is
+               more credible and effective than it is at the moment. That is certainly a message
+               that I hear consistently from the other side of the Atlantic as well. But there is a
+               difference between that and the European Union and its institutions owning and
+               directing those policies. What we support and advocate is a system in which European
+               countries take more seriously their obligations to deliver effective security and
+               defence contributions to that trans-Atlantic alliance, and that is where the
+               conclusions of the European Council represented a clear victory for our vision. It
+               advocated an emphasis on capabilities and political commitment, not on new EU
+               institutions and not on the EU ownership. Rather, it insisted on the EU complementing
+               NATO and working with the grain of member state responsibility and competence over
+               defence policy.</seg>
+         </u>
+
+         <u who="#BRYANT">
+            <seg>I rather agree with much of what the Minister has said and congratulate him on
+               being a rather fine Minister for Europe in that he does not subscribe to some of the
+               looney-tunes ideas proposed by some of the people sitting behind him. May I ask him
+               about the European Council and whether there was any discussion about who will be the
+               new British commissioner? The European Parliament will get to have a view, so should
+               not this House get to have a view on who the next British commissioner should
+               be?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>The straight answer to the hon. Gentlemans question is that there was no discussion
+               by this country or any of the other member states of who their nominee might be later
+               this year. That is a matter, as always, on which the Government will come to a view
+               and we will nominate a man or woman in due course. I must advise the hon. Gentleman
+               to be patient for a bit longer.</seg>
+         </u>
+
+         <u who="#HARVEY">
+            <seg>I commend the Government on successfully resisting the idea of EU-owned military
+               assets or capabilities and underline the support of the Liberal Democrats for
+               European co-operation in defence to be based on nation states putting their forces
+               into joint operations when appropriate, which works very well with the naval
+               counter-piracy mission and various land operations in Africa. Given that the US is
+               rebalancing its defence efforts to the Pacific and is taking 20% of its defence spend
+               out of Europe, is it not more important than ever that the 28 member states of Europe
+               should share their capabilities and expertise where possible to ensure the best
+               possible return on limited investment?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I agree with my hon. Friends points. One thing that the habit of working together
+               on security and defence matters through the EU does is enable us to bring in those
+               countries that are members of the EU but are not, for historical and constitutional
+               reasons, allies of ours in NATO. The very fact that Secretary-General Rasmussen not
+               only spoke at the summit but warmly welcomed its conclusions as pointing the way
+               towards a more effective European arm of defence that complemented and supported what
+               NATO was doing should give us all confidence.</seg>
+         </u>
+
+         <u who="#MCCARTHY">
+            <seg>I thank my hon. Friend the Member for Birmingham, Edgbaston</seg>
+            <note>Ms Stuart</note>
+            <seg>for securing the opportunity to discuss this issue in the Chamber today and I share
+               her regret that the Prime Minister broke with precedent by not appearing in person to
+               answer her question. Let me first touch briefly on the banking union. We welcome the
+               progress that has been made, but what discussions were had during the summit to
+               ensure that the European Central Banks risk assessments, which are due to be
+               conducted later this year, will be sufficiently rigorous? On migration, I welcome the
+               Prime Ministers statement that there will be further discussions on the need to find
+               a better approach to tackle free movement abuse at an EU level. As we in the
+               Opposition have said before, we need to reform the way free movement works so it is
+               not seen as a part of a race to the bottom in the world of work. This means looking
+               again at the transitional controls, including extending them over longer periods so
+               that when new countries move into the European Union we learn the lessons from the
+               past. With the recent lifting of transitional controls on Romania and Bulgaria, will
+               the Minister set out what steps the Government are taking to address practical
+               problems around those who exploit migrant workers to undercut local businesses and
+               staff? EU reform will be achieved through building alliances for change among other
+               EU member states rather than escalating rhetoric and alienating allies, so can the
+               Minister set out who will be leading the negotiations on any proposed EU reform
+               agenda on behalf of the Government? The summit should have been a vital opportunity
+               to build coalitions to secure the changes that must be made in Europe for Britain
+               yet, once again, it seems the Prime Minister viewed it as merely providing the
+               opportunity for securing headlines rather than securing change.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>The hon. Lady is being unusually churlish. If she looks again at the Councils
+               conclusions, she will see that we not only managed to secure important and positive
+               British interests that take the development of the common security and defence policy
+               in the direction that the UK has long advocated, butand she omitted to mention this
+               in her questionwe secured key safeguards on the operation of the banking union to
+               ensure that the taxpayers of this country are not liable for the consequences of any
+               solvency decision made by our eurozone colleagues. The Opposition might have had the
+               grace to pay tribute to what the Prime Minister achieved; otherwise people might come
+               to think that the Opposition are somehow dismissive of the interests of British
+               taxpayers and of safeguarding them against such liabilities. The hon. Lady asked
+               directly about the safeguards that the Government were putting in place for people
+               who might be exploited if they came here from other parts of the EU or elsewhere in
+               the world. I can reassure her that the Government are doubling the fine for people
+               who employ illegal workers and quadrupling the fine for paying people below the
+               statutory minimum wage. Under the previous Labour Government, the fine for paying
+               somebody below the minimum wage was 5,000 per employer. Under this Government, the
+               fine will be 20,000 per employee, not per employer. When it comes to the protection
+               of exploited workers, the Oppositions record does not give them anything of which to
+               be proud.</seg>
+         </u>
+
+         <u who="#HOWARTH-GERALD">
+            <seg>I warmly welcome the Prime Ministers repeated assertion that NATO remains the
+               cornerstone of the defence of the United Kingdom and, of course, of western Europe.
+               However, may I put it to my right hon. Friend the Minister that the observations made
+               by the hon. Member for Birmingham, Edgbaston</seg>
+            <note>Ms Stuart</note>
+            <seg>and my hon. Friend the Member for Stone</seg>
+            <note>Mr Cash</note>
+            <seg>illustrate that there is no reduction in the enthusiasm of some of our continental
+               partners about creating an EU defence identity in conflict with NATO? Should not
+               those countries be working within NATO to strengthen NATOs capabilities as the United
+               States inevitably reduces its interest in Europe in favour of the Pacific? I remind
+               my right hon. Friend that we have a veto on defence matters in the EU and I hope that
+               he will ensure that that is maintained.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>Yes, we not only have a veto but we have legislated in the European Union Act 2011
+               to require a referendum were anybody to propose that that veto be lost and that we
+               should move to a system of qualified majority voting instead. Those safeguards,
+               thanks to this Government, are written into law. If my hon. Friend looks again at the
+               detail of the language in the European Council and Foreign Affairs Council
+               conclusions, he will see a welcome emphasis on the need for the EU to complement NATO
+               and the importance of capabilities. The issue of an EU operational headquarters,
+               which was the cause of a rancorous debate 12 months ago, was not even pursued this
+               year. That is evidence that we are winning the argument on the direction in which the
+               European CSDP should go.</seg>
+         </u>
+
+         <u who="#ROBERTSON-ANGUS">
+            <seg>On the question of European enlargement and immigration, I pay tribute to the
+               overwhelming majority of citizens from elsewhere in the European Union who, in my
+               constituency in Scotland and in the rest of the UK, work hard, pay their taxes and
+               are a benefit to society. Will the Minister take the opportunity to confirm that more
+               than 2 million UK citizens live elsewhere in the European Union, and that the
+               Department for Work and Pensions is right in confirming that the percentage of
+               benefit claimants in the UK is significantly lower among EU nationals than among UK
+               citizens?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>Statistically, as far as I am aware, the hon. Gentleman is right on that point,
+               although of course it in part reflects the fact that the majority of people from
+               elsewhere in the EU who are here are of working age and not retired and in receipt of
+               pensions, so it is not an exact comparison. I very much agree that we should
+               acknowledge that the great majority of people from other EU countries who come here
+               do so to work, to pay taxes and to contribute to society, but that does not mean that
+               we should dismiss the cases in which there is evidence that people have either tried
+               to exploit our benefits system or have engaged in organised or perhaps low-level but
+               still very antisocial crime. It is right that action is taken to tighten up access to
+               benefits and free public services in the way that the Government are proposing. That
+               is important in order to maintain public support and confidence for the principle of
+               free movement of workersand workers alone.</seg>
+         </u>
+
+         <u who="#GRAY">
+            <seg>I, too, welcome much of the language used by the Prime Minister at the time of the
+               Council and by my right hon. Friend in the early part of his statement indicating our
+               opposition to a move towards European stand-alone defence capabilities of any kind.
+               However, I also very much share the scepticism voiced particularly by the hon. Member
+               for Birmingham, Edgbaston</seg>
+            <note>Ms Stuart</note>
+            <seg>as to whether this is for real. Surely my right hon. Friend agrees that if defence
+               and foreign affairs are the primary and exclusive role of nation states, now is the
+               time to start moving towards abolishing the CSDP, not praising it as he has
+               done.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>No, I do not agree. I think we should look to the CSDP within the European Union as
+               we look to our co-operative defence and security arrangements, bilaterally with other
+               European countries and with countries elsewhere in the world, as mechanisms by which
+               we can enhance and strengthen the United Kingdoms security and defence and take
+               forward our global security objectives. Provided that that is done in the right way
+               without the accretion of new powers to EU institutions or the establishment of new EU
+               institutions, then we can succeed in benefiting from sensible, pragmatic co-operation
+               between willing European countries in a way that strengthens the transatlantic
+               alliance as a whole and our national security.</seg>
+         </u>
+
+         <u who="#HOPKINS">
+            <seg>The Minister made reference to economic and monetary union. It is clear that a
+               number of countries have suffered terrible economic experiences as a result of
+               membership of the eurozone. Eurozone membership is now having a deflationary impact
+               in France, and its economy is definitely going in the wrong direction. Has there been
+               any discussion about the likely longer-term implications of France suffering the same
+               kind of experiences as other countries in southern Europe?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>It is for French Ministers to defend French economic policy, including membership
+               of the euro. I am very glad that the United Kingdom remains outside the euro and has
+               no intention of joining it, and that this Government have introduced a statutory
+               referendum lock against any future prospect of our doing so. However, in all my
+               conversations with ministerial colleagues from those countries that have elected to
+               join the single currency, their political commitment remains very strong, and we have
+               to respect the sovereign decisions that they have taken.</seg>
+         </u>
+
+         <u who="#LEADSOM">
+            <seg>Will my right hon. Friend confirm once and for all that, notwithstanding what
+               Labour Members say about the value of immigrants to this country and the fact that
+               they claim fewer benefits than the indigenous population, it is perfectly right and
+               legitimate for British taxpayers to be concerned about the speed and rate of
+               immigration, particularly under the previous Government, and that we are therefore
+               right to be doing something not only about reducing immigration overall but
+               specifically about the unintended consequences of free movement of labour? What is
+               his assessment of Angela Merkels decision to hold an inquiry into the unintended
+               consequences of free movement, and does he think that that will give us the
+               opportunity to sort out a sensible solution that works for the British
+               taxpayer?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>We need to do two things. First, we need to make sure that our law and European
+               rules distinguish clearly people who want to travel in order to work or who are
+               genuinely able to support themselves, from those who are not able to do soa principle
+               of free movement to work that benefits a large number of United Kingdom citizens as
+               well as people from other European Union countries. Secondly, when we come to look
+               towards future enlargement of the European Unionwe are some years away from any other
+               country being ready to join the EUwe need to revisit the issue of transitional
+               controls and ask ourselves whether simply having a specified, perhaps somewhat
+               arbitrary, number of years after which all controls come off is the right way to
+               address the issue. My right hon. Friend the Prime Minister alluded to that and
+               started a debate on it in his article in theFinancial Timesjust before Christmas. On
+               that matter and on the relationship between freedom of movement and the benefits
+               system, we are indeed looking forward to taking discussions forward over the next
+               year, not only with our German colleagues but with other member states.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>I have known the Minister for Europe since he was 20 years of age, and he has
+               always been very cheerful and talented, but I am afraid he is not a substitute for
+               the Prime Minister. I agree with the hon. Member for Stone</seg>
+            <note>Mr Cash</note>
+            <seg>and my hon. Friend the Member for Birmingham, Edgbaston</seg>
+            <note>Ms Stuart</note>
+            <seg>: this is a European Council statement that ends the Lithuanian presidency and
+               begins the Greek presidency, and it ought to have been given by the Prime Minister as
+               soon as the House sat yesterday. Is it now the policy of this Government to veto
+               enlargement unless we have agreement on transitional arrangements? What exactly are
+               we providing under presidency conclusion 41? Are we giving additional support to
+               countries such as Greece?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I will have to advise my right hon. Friend the Prime Minister to divert his flight
+               to Luton airport when he next comes back from a Council meeting so that he can be
+               sure of seeing the right hon. Gentleman in person. I refer the right hon. Gentleman
+               to what I said earlier, which is that when Parliament has been in recess during a
+               European Council, successive Governments have followed the practice of giving a full
+               written ministerial statement rather than an oral statement. His strictures should
+               therefore be as much directed against the right hon. Member for Kirkcaldy and
+               Cowdenbeath</seg>
+            <note>Mr Brown</note>
+            <seg>as against my right hon. Friend the Prime Minister. In his time as Prime Minister,
+               my right hon. Friend has given twice as many oral statements on EU summits as his
+               immediate predecessor, so I do not think he has anything to apologise for.</seg>
+         </u>
+
+         <u who="#REES-MOGG">
+            <seg>My right hon. Friend is very precise in his languagehe is a model for a learned
+               lexicographer. I wonder therefore how he might construe this phrase in the
+               conclusions of the Council of Ministers on the CSDP that was endorsed by the European
+               Council, which says that the EU is to engage in all domainsland, air, maritime, space
+               and cyber. How does that equal his assurance that what will be done will be mainly
+               intergovernmental?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I take my hon. Friends description of me as a compliment, though I recall that Dr
+               Johnson described a lexicographer as a harmless drudgeif I remember the quote from
+               his dictionary accurately. The answer to my hon. Friends question is that we must
+               again go back to the distinction between a policy that is directed by and owned by
+               the EU collectively and its institutions, which we do not have, and a broad policy on
+               security and defence that rests on free co-operation between willing national
+               Governments working together so that their capabilities complement one another, and
+               working in partnership particularly with NATO but with other partners around the
+               world as well. There is nothing to fear from the latter version of the common
+               security and defence policy, and that is the version embodied in the European Council
+               conclusions.</seg>
+         </u>
+
+         <u who="#MCFADDEN">
+            <seg>In advance of the summit, the Prime Minister made great play of new rules regarding
+               access to benefits for EU migrant workers. What proportion of claimants for
+               working-age benefits are made up of EU migrant workers?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>As my right hon. Friend the Secretary of State for Work and Pensions has said in
+               this House before, one of the difficulties we have had is that the previous
+               Government chose not to collect statistics for social security benefits categorised
+               by nationality of claimants. He and his team at the DWP are now changing that, and I
+               am sure that they will produce those figures in due course, but they do not exist for
+               the period of years that the right hon. Gentleman wants, because his Government did
+               not bother to collect them.</seg>
+         </u>
+
+         <u who="#BARON">
+            <seg>I suggest that the vast majority of immigrants come here for work and not for
+               benefits. Nevertheless, as the Prime Minister suggested at his press conference after
+               the Council meeting, if not during it, the issue of migration needs to be addressed.
+               Will the Minister enlighten the House on how the Prime Minister proposes to move this
+               issue forward in negotiations with his EU partners, given that this is a fundamental
+               right and freedom which might require treaty change by all members?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>We are at an early stage of those discussions. As my right hon. Friend the Prime
+               Minister made clear when he wrote for theFinancial Timesjust before Christmas, he
+               wants to start a debate about how we should manage these matters better in the
+               future. As my hon. Friend the Member for Basildon and Billericay</seg>
+            <note>Mr Baron</note>
+            <seg>knows, this subject causes concerns, particularly among Interior Ministers and
+               Social Security Ministers in a number of different European countries. The
+               conversations are being taken forward by my right hon. Friends the Home Secretary,
+               the Secretary of State for Work and Pensions and, of course, the Prime Minister. We
+               are at an early stage, but we will be taking the discussions forward over the next 12
+               months.</seg>
+         </u>
+
+         <u who="#WILSON">
+            <seg>Conclusion 36 indicates that the Council is calling for further discussions on tax
+               evasion, aggressive tax planning, base erosion and so on. Does that include changes
+               in EU regulations which currently permit workers posted to the UK for less than two
+               years to avoid paying tax here and to opt to pay tax in their own country while still
+               being eligible for benefits in the United Kingdom?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I think the appropriate Minister will have to write to the hon. Gentleman about the
+               particular issue he mentions about posted workers. The key point about the conclusion
+               on tax is that it is part of taking forward the G8 agenda on tax transparency that
+               the Prime Minister led at the Enniskillen summit last year.</seg>
+         </u>
+
+         <u who="#JENKIN">
+            <seg>If EU defence is really just harmless intergovernmentalism, why do we have
+               directives that have the force of law in the field of defence? Why do these
+               conclusions include invitation after invitation for the Commission, which is not an
+               intergovernmental institution, to lead on initiatives? Why are we still in the
+               European Defence Agency, which contains expensive provision for qualified majority
+               voting on defence? Is not my right hon. Friend becoming somewhat blind to the fact
+               that we are moving towards a federal defence policy and a European army? He is in
+               denial.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>My hon. Friend is mistaken in his analysis of the EDA. The Under-Secretary of State
+               for Defence, my hon. Friend the Member for Ludlow</seg>
+            <note>Mr Dunne</note>
+            <seg>, who has responsibility for defence procurement, took a very hard line and
+               successfully won a flat-cash settlement for the EDA this year. We held out and it
+               required unanimity for that budget to be agreed. It is simply not the case that we
+               can be overridden by a QMV vote.</seg>
+            <note>Official Report, 15 January 2014, Vol. 573, c. 11MC.</note>
+            <seg>The Commission has a role under the treaties with regard to industrial policy and,
+               of course, the operation of the single market. However, the single market as regards
+               defence is qualified in the treaties by articles that make it clear that certain
+               matters are reserved from normal single market arrangements because they are critical
+               to national security. Embodied in the European Council conclusions is a very clear
+               direction from all 28 Heads of State and Government that the Commission should stick
+               to what is given under the treaties, that there should be no attempt at competence
+               creep and that there should be no move towards national European champions or a
+               circumvention of the freedom of member states to strike sensible defence partnerships
+               with countries outside Europe, and instead that the Commission should work on ways to
+               make Europes defence industries more competitive and its defence markets more open in
+               a way that, incidentally, would provide great opportunities for the United Kingdoms
+               first-class defence suppliers. That move towards greater openness in areas of defence
+               procurement is something that United Kingdom companies have been pressing Ministers
+               to achieve.</seg>
+         </u>
+
+         <u who="#DAVID">
+            <seg>The conclusions of the European Council state: The European Council welcomes the
+               signature this week of the biggest ever single EU humanitarian financial allocation
+               to Syria. Why did the Prime Minister not make any reference to that in his written
+               statement? Indeed, why has the Minister not mentioned it in his response this
+               afternoon?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>There is a lot in the European Council conclusions. I do not think it would serve a
+               huge purpose if a written statement simply rehearsed every single item when there is
+               a link in the statement on the Council conclusions to the full text itself. I am also
+               somewhat constrainedquite properlyby the time permitted to respond to the urgent
+               question asked by the hon. Member for Birmingham, Edgbaston</seg>
+            <note>Ms Stuart</note>
+            <seg>. The hon. Member for Caerphilly</seg>
+            <note>Wayne David</note>
+            <seg>, however, is right: this was a very important breakthrough. There was a commitment
+               by all 28 Heads of State and Government for European countries to do more to help
+               people in Syria who have been displaced and are in need and those who have taken
+               refuge in neighbouring countries who face huge problems. What is also neededwe have
+               supported the efforts of other EU countries on thisis some declaration, if we cannot
+               get a resolution, at the United Nations Security Council to provide safe passage for
+               humanitarian organisations to reach people in Syria who are in desperate need and
+               find it impossible to get access to the aid available.</seg>
+         </u>
+
+         <u who="#CLAPPISON">
+            <seg>My right hon. Friend the Prime Minister has undoubtedly won some crucial victories
+               in our national interest, in the face of the unremitting efforts of the Brussels
+               institutions to fulfil ambitions that are set out in the treaties for all to see,
+               including that of having a European army. Sadly, there are some new commitments in
+               the conclusions, including one in paragraph 9 for an EU Maritime Security Strategy by
+               June 2014, on the basis of a joint Communication from the Commission and the High
+               Representative, taking into account the opinions of Member States. Is that not
+               precisely a case of the Brussels institutions being in the driving seat and an open
+               invitation for them to indulge in more competence creep?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>The maritime security strategy is about trying to make the different efforts of the
+               28 European Governments over matters such as piracy and port security more cohesive
+               and co-ordinated than they are at present. It does not involve any kind of direction.
+               It is trying to establish a framework for effective partnership and working together
+               so that we have fewer weak links in securitywhether it be maritime or
+               terrestrialanywhere across the continent of Europe. Any weakness in security
+               arrangements elsewhere in Europe can end up providing a point of entry for people who
+               want to threaten our interests directly, so this sort of effective working together
+               is very much in the interests of this country.</seg>
+         </u>
+
+         <u who="#LAZAROWICZ">
+            <seg>What the Minister has told us about the European Council discussions is obviously
+               welcome, but six days before the European Council an Amnesty International report
+               said: European leaders should hang their heads in shame over the pitifully low
+               numbers of refugees from Syria they are prepared to resettle. Is it not the fact that
+               Europe as a whole, with the exception of Germany, has been failing in its
+               humanitarian duty to support refugees from Syria? Should not this have been pursued
+               more actively by our own Prime Minister at the European Council, and should not it be
+               taken forward in other European forums as well?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>It is a pity that the hon. Gentleman did not acknowledge the very significant sums
+               of humanitarian relief that this country has provided through the Department for
+               International Development. What we surely want to see in Syria is a ceasefire leading
+               to a political settlement that enables Syrian people to return home, rather than to
+               be dispersed into a diaspora community around the rest of the world.</seg>
+         </u>
+
+         <u who="#NUTTALL">
+            <seg>Once again in its conclusions the Council has restated the need to cut EU-imposed
+               red tape on businesses, but British companies want action now, not just words. Is my
+               right hon. Friend able to indicate when any of the existing EU-imposed rules and
+               regulations, such as those on the registration, evaluation and authorisation of
+               chemicals, will actually be repealed?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>In fairness, I think that what the industry has been calling for is modification of
+               the registration, evaluation, authorisation and restriction of chemicals directive
+               REACH and flexibility in its interpretation, rather than its outright repeal. I can
+               point my hon. Friend to the agreement by all Governments to exempt micro-businesses
+               from future EU regulations as the default position. I can also point him to the
+               Commissions refit package published earlier this year. Among other things, the
+               Commission has announced that it will withdraw some proposals to impose extra
+               regulations on professions such as hairdressing, and it will also take action about
+               the over-prescriptive aspects of the soils directive. A lot more can and should be
+               done. That is why we have pressed very hard for the recommendations of the Prime
+               Ministers business taskforce to be taken forward, and why we strongly welcome the
+               fact that the taskforce report has had strong support from Government leaders
+               representing all the main political families right across the European Union.</seg>
+         </u>
+
+         <u who="#SHANNON">
+            <seg>I thank the Minister for his response to the urgent question. I note that there was
+               no discussion at the Council about a Spanish naval ships unlawful incursion into
+               Gibraltars territorial waters. The EU is adamant that member states must respect each
+               others sovereignty, but Spain is obviously ignoring that agreement. What steps will
+               he take to address that issue?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>We make it clear every time there is a Spanish incursion into British Gibraltar
+               territorial waters that that is unacceptable through a formal protest of some kind to
+               the Spanish Government, which, depending on the circumstances, has ranged from a note
+               verbale to a public summoning of the Spanish ambassador. We continue to make
+               representations to Spain at the highest level about the fact that this sort of
+               behaviour is not tolerable, as well as the fact that Spain would be better off
+               recognising that a large number of Spanish citizens benefit from the prosperity of
+               Gibraltarfrom being able to take work there and from the spending power it provides
+               to the Andalusian economyand that it would be in Spains interest to start trying to
+               make friends with Gibraltar, instead of issuing threats.</seg>
+         </u>
+
+         <u who="#LEWIS">
+            <seg>A common defence policy for Europe would clearly undermine the crucial link between
+               Europe and America that forms the basis of NATO. What assessment have our Government
+               made of the number of our fellow EU member states that favour a common defence
+               policy, and of their motivation for favouring such a dangerous step?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>It all depends on what is meant by a common defence policy. There is widespread
+               support, including in the United States and from the NATO Secretary-General, for
+               European members of the transatlantic alliance to be more effective and cohesive in
+               their contributions to our joint security arrangements. My hon. Friend is right that
+               some people in Europe want to go a great deal further, particularly in some of the
+               European institutions, such as the Parliament and the Commission. For rather obvious
+               reasons of parliamentary accountability and a consciousness of the importance of
+               national sovereignty over defence and foreign policy, there is greater reluctance
+               among national Governments. As a rule of thumb, smaller member states often see
+               security advantages in closer European integration at defence level, and the
+               significant defence players are generally the most conscious of the need to preserve
+               national autonomy and to defend what the treaties lay down, which is that defence and
+               security remain national competences and rights.</seg>
+         </u>
+
+         <u who="#BAIN">
+            <seg>What further reassurances can the European Council provide to the people and the
+               Government of Ukraine that signing the draft association agreement with the European
+               Union remains in their long-term economic interests? When the Minister next speaks to
+               his counterparts in Russia, will he remind them that the decision about whether to
+               sign that agreement is one for Ukraine alone, not one that should be subject to
+               pressure by Ukraines neighbours?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>It is important that we do not just make statements at European Councils or the
+               like about this issue, but that we try to reach out to ordinary Ukrainians. Our
+               embassy in Kiev has been leading on that and encouraging embassies from other
+               European countries to do so as well, particularly to get the message through to those
+               in the Russian-speaking areas in the east and south of Ukraine that greater
+               integration with the worlds biggest single trading market will, in the medium and
+               long term, hugely benefit the prosperity of people of every ethnic background within
+               Ukraine. I agree with the hon. Gentleman in relation to Russia. I have certainly made
+               such a point directly to my Russian opposite number. It is in Russias interests to
+               have a Ukraine that is more prosperous and stable than it is today, so I hope that
+               Russia will in time see that Ukraines association with the EU should not be perceived
+               as a threat.</seg>
+         </u>
+
+         <u who="#ELLWOOD">
+            <seg>On enlargement, there is a huge disparity between income per head in new member
+               states and that in existing states, which results in many people abandoning their
+               country for a richer one. Is it time for the EU to legislate against new entrants
+               gaining access to other labour markets until their own economic fortunes are
+               growing?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>As the Prime Minister has said, we need to look at how transitional arrangements
+               should operate in future. In hisFinancial Timesarticle, my right hon. Friend
+               suggested the idea of looking at a new entrants GDP in relation to average EU GDP.
+               However, he made it clear that we are not necessarily wedded to that proposal, and
+               are keen to hear ideas from others. It is clear that simply relying on a somewhat
+               arbitrary number of years and saying that all restrictions will fall away
+               automatically at the end of that period will not restore public confidence in the
+               enlargement process. I profoundly believe that enlargement has worked to the benefit
+               of Europe as a whole, including the United Kingdom, so I want to see public
+               confidence restored, and looking again at transitional controls is one important way
+               to do that.</seg>
+         </u>
+
+         <u who="#SHEERMAN">
+            <seg>I am sure that if the Prime Minister were hereI wish he washe would join me, as I
+               hope the Minister will, in wishing the Chancellor of Germany, Angela Merkel, a speedy
+               recovery from her serious skiing accident. Will the Minister take it from me that I
+               am a very strong pro-Europeanalways have beenbut even I am very concerned that this
+               miserable little Council meeting seems, according to his statement, to have spent so
+               little time on the real problems that the European economy still faces. I am talking
+               not about the eurozone, but about the heath of our economy. Only two weeks ago,
+               Angela Merkel made a very important speech about the rift between the rich or
+               super-rich and average, ordinary people being a danger to democratic institutions. My
+               last point is that we seem to be sleepwalking towards enlargement with three other
+               poor countries, which concerns my constituents and me.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>On the hon. Gentlemans last point, there is no question of sleepwalking. There is a
+               very rigorous process of accession negotiations, each stage of which succeeds only if
+               every EU member unanimously agrees that the relevant standards have been reached by
+               the candidate country. Even on the most generous estimate, it will be a fair number
+               of years before any of the current candidate countries are in a position to be ready
+               to join the European Union. I happily concur with what the hon. Gentleman said about
+               Chancellor Merkel. She is a formidable leader of Germany, and a good friend of this
+               country as well. I am sure that the whole House will wish her a very speedy recovery
+               from her skiing injury. On the hon. Gentlemans point about debates on the economy,
+               this Council had been designated for a long time as the occasion for the first
+               discussion at Heads of Government level on defence and security policy for several
+               years. There is a limit to the number of significant issues that can be pushed into a
+               single summit meeting without doing injustice to their importance. There was a very
+               good discussion of some broader economic issues at the October European Council, and
+               I am absolutely confident that the Heads of Government will return to the economy in
+               2014.</seg>
+         </u>
+
+         <u who="#BONE">
+            <seg>The whole House will be disappointed that there was not an oral statement by the
+               Prime Minister yesterday, and the Minister has not explained why the Prime Minister
+               has not popped over from Downing street to spend an hour answering the urgent
+               question that has been granted today. On a specific matter, did the Prime Minister
+               bring up the issue of Romanian and Bulgarian migration at the Council, and did he
+               suggest that this country wanted to extend the limits? Talking about future
+               transitional arrangements, which are years away, is rather like shutting the stable
+               door after the horse has bolted.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>The Prime Minister and the Government have always made it clear that we will abide
+               by the law in respect of Romania, Bulgaria and other accession countries. The treaty
+               of accession, which was negotiated by the last Government and agreed by the House in
+               the last Parliament, laid down that the transitional controls on migration from
+               Romania and Bulgaria should continue for a maximum of seven years. We were right to
+               put transitional controls in place for the full seven-year period. Unlike in the case
+               of the 2004 accession states, we are lifting the transitional controls at the same
+               time as every other country in the EU that has maintained such controls. The
+               situation is therefore somewhat different. The measures that we have announced and
+               are implementing to make it more difficult for people who are not workers to access
+               social security and public services ought to provide considerable public reassurance,
+               as should the knowledge that under this Government about two thirds of new employment
+               is being taken up by United Kingdom citizens, whereas under the last Government the
+               figure was only 10%. That is the first sign that this Governments reforms to welfare,
+               education and training are having the beneficial effect of making more of our young
+               people employable and willing to take the work that is available.</seg>
+         </u>
+
+         <u who="#MURRAY">
+            <seg>I have asked this question of the Minister for Europe before. Now that another
+               European Council meeting has concluded, is he able to tell the House whether he is
+               any closer to determining what is the top policy priority for repatriation that would
+               encourage the Government to campaign to stay in the European Union?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I have to confess to the hon. Gentleman that he is not the first person with whom I
+               will share the secret. The Government have a clear policy on reform of the European
+               Union to make it more competitive, democratic and flexible. In his party capacity,
+               the Prime Minister has set out that at the next election he will advocate a programme
+               of further European reform, including treaty change. The hon. Gentleman will have to
+               contain himself and see what is in the Conservative manifestos this year and next.
+               They will give him a bit more detail.</seg>
+         </u>
+
+         <u who="#HOLLOBONE">
+            <seg>I suggest to my right hon. Friend that these defence discussions are a classic
+               example of EU competence creep, or should I say incompetence creep? I put it to him
+               that the United Kingdom should have nothing to do with
+               establishing an EU-led so-called European arm of NATO, because if the EU gets
+               anywhere near the NATO-led defence capabilities of European nations, including our
+               own, it will wreck them, just as it has wrecked economic and monetary union.</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I assure my hon. Friend that we are not doing that. Nothing in the European Council
+               conclusions should give credence to the idea that there is such a threat. I say to
+               him that it is a mistake always to see Europe as threatening and to think that we are
+               unable to influence the way in which Europe works together. The record of this
+               European summit again shows that when we put our minds and energies to it, we can
+               influence, and to a considerable extent direct, the future shape of European policy
+               in a way that serves our national interests, the interests of all our people and the
+               interests of Europe as a whole.</seg>
+         </u>
+
+         <u who="#HEATON-HARRIS">
+            <seg>Does my right hon. Friend know whether the Prime Minister had any conversations or
+               open debates on protecting parliamentary sovereignty, given the growing crisis in
+               subsidiarity in the European Union following the yellow card that was issued by 19
+               reasoned opinions across member states on the European public prosecutors office
+               being blatantly ignored by the European Commission, which is ploughing forward on
+               this matter?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>That issue was not on the agenda for the European Council, but I made a point of
+               raising it in strong terms at the General Affairs Council a few days before the
+               summit. I was pleased to be supported strongly by my Dutch colleague and a number of
+               other Ministers who were present.</seg>
+         </u>
+
+         <u who="#OPPERMAN">
+            <seg>Does my right hon. Friend agree that we should be stressing the fact that this
+               coalition Government have given unprecedented aid support to the Syrian refugees and
+               to individual aid agencies such as UNICEF and the neighbouring countries that are
+               doing what they can to address this local humanitarian crisis?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>I agree completely with my hon. Friend.</seg>
+         </u>
+
+         <u who="#CHISHTI">
+            <seg>I very much welcome the statement that has been made by the Minister. On the issue
+               of security, was there any discussion at the Council of Irans nuclear programme and
+               the deal that has been reached, because there is concern among neighbouring Arab
+               states, such as Saudi Arabia and other members of the Gulf Co-operation Council, not
+               only about the deal but about the fact that it was reached without any
+               representations from Arab countries at the table where the discussions took place?
+               Does the Minister agree that a country from the GCC should be at the table when there
+               are further discussions about Irans nuclear deal?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>Iran was discussed at the Foreign Affairs Council. Of course, my right hon. Friend
+               the Foreign Secretary talks regularly to his counterparts in Germany and to the other
+               permanent members of the Security Council about this matter. We also talk to our
+               friends in the Gulf Co-operation Council about our relationship with Iran and the
+               progress towards an acceptable solution to the Iranian nuclear issue. It is in the
+               interests of countries in the region, as well as countries in Europe and north
+               America, that such a solution is found as quickly as possible.</seg>
+         </u>
+
+         <u who="#MCCARTNEY">
+            <seg>I joined fellow members of the NATO Parliamentary Assembly for a very informative
+               briefing at NATO maritime command in Northwood about Operation Ocean Shield, which is
+               the NATO operation against piracy off the horn of Africa. After an hour, we were
+               asked to sit through pretty much the same briefing, but delivered by an EU admiral,
+               about Operation Atalanta, which is the EU operation against Somali piracy. Is not
+               that the kind of duplication and confusion in command and control that we must
+               reject, and should we not instead commit ourselves fully to NATO?</seg>
+         </u>
+
+         <u who="#LIDINGTON">
+            <seg>The two operations off Somalia involve two sets of countries, the membership of
+               which is not identical. Having EU and NATO elements means that we are able to involve
+               more nations than would otherwise be the case. In practice, the two operations work
+               pretty seamlessly together. As I understand it, they apply common rules of
+               engagement. The importance of the EU common defence and security policy complementing
+               and not duplicating or being a substitute for NATO was reinforced by the presence of
+               Secretary-General Rasmussen at the European summit in December. The fact that the
+               Secretary-General, on behalf of NATO, felt able to welcome warmly the conclusions
+               that had been reached ought to reassure all of us in the House who are champions of
+               NATO that there is no threat to NATOs role or primacy here.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

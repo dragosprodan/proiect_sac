@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100329/debtext/100329-0004.htm#10032914000004"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>29 March 2010</date>
+               <date when="2010-03-29"></date>
+               <activity>European Union's new strategy for jobs and growth</activity>
+               <locale>Brussels</locale>
+               <persName>Brown</persName>
+               <name>93rd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BROWN">
+                  <persName>Mr. Gordon Brown</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Witney</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CLEGG">
+                  <persName>Mr. Nick Clegg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sheffield, Hallam</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="BRAZIER">
+                  <persName>Mr. Julian Brazier</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Canterbury</residence>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Louth and Horncastle</residence>
+               </person>
+
+               <person xml:id="CURRY">
+                  <persName>Mr. David Curry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Skipton and Ripon</residence>
+               </person>
+
+               <person xml:id="SKINNER">
+                  <persName>Mr. Dennis Skinner</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bolsover</residence>
+               </person>
+
+               <person xml:id="HENDERSON">
+                  <persName>Mr. Doug Henderson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Newcastle upon Tyne, North</residence>
+               </person>
+
+               <person xml:id="ROBERTSON-ANGUS">
+                  <persName>Angus Robertson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Moray</residence>
+               </person>
+
+               <person xml:id="MACSHANE">
+                  <persName>Mr. Denis MacShane</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rotherham</residence>
+               </person>
+
+               <person xml:id="HOGG">
+                  <persName>Mr. Douglas Hogg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sleaford and North Hykeham</residence>
+               </person>
+
+               <person xml:id="GRIFFITHS-NIGEL">
+                  <persName>Nigel Griffiths</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Edinburgh, South</residence>
+               </person>
+
+               <person xml:id="SWIRE">
+                  <persName>Mr. Hugo Swire</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>East Devon</residence>
+               </person>
+
+               <person xml:id="GOODWILL">
+                  <persName>Mr. Robert Goodwill</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Scarborough and Whitby</residence>
+               </person>
+
+               <person xml:id="SPINK">
+                  <persName>Bob Spink</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>UKIP</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Castle Point</residence>
+               </person>
+
+               <person xml:id="BONE">
+                  <persName>Mr. Peter Bone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wellingborough</residence>
+               </person>
+
+               <person xml:id="AFRIYIE">
+                  <persName>Adam Afriyie</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Windsor</residence>
+               </person>
+
+               <person xml:id="DAVIDSON">
+                  <persName>Mr. Ian Davidson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Glasgow, South-West</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BROWN">
+            <seg>With permission, Mr. Speaker, I would like to make a statement on the European
+               Council held in Brussels last Thursday and Friday. First, I am sure that the whole
+               House will join me in paying tribute to Lance Corporal of Horse Jonathan Woodgate
+               from the Household Cavalry Regiment and Rifleman Daniel Holkham from 3rd Battalion
+               the Rifles. They lost their lives fighting in Afghanistan. We owe them the greatest
+               debt of gratitude for their courage and their service.</seg>
+            <seg>Their sacrifice reminds us that terrorism is an ever-present danger which requires
+               vigilance and the willingness to take tough action in all areas where terrorist
+               groups operate. So I know also that the thoughts of the House-and indeed our
+               country-are with the Russian people today after this morning's terrorist attack on
+               the Moscow transport network. I have written to President Medvedev this morning to
+               send our condolences to the victims and their families. I pay tribute to the Russian
+               emergency services and the people of Moscow as they have responded to this appalling
+               attack. The focus of the European Council last Thursday and Friday was on actions
+               needed to secure growth for the future and on Europe's determination to bring new
+               impetus and momentum to the international negotiations on climate change. Last week's
+               Budget set out our proposals for the next stage of economic recovery. It made it
+               clear that the risks to recovery remain real and that we must avoid a premature
+               withdrawal of stimulus measures, instead seeing through our commitment to halving the
+               deficit over four years without choking off the recovery itself. The European Council
+               agreed that <quote>"The economic situation is improving, but the recovery is still
+                  fragile".</quote>
+            </seg>
+            <seg>It concluded that while deficit reduction plans must go ahead, measures to reduce
+               the stimulus should be taken only once recovery is secured. That is the position that
+               we, like our European partners, will continue to follow. In our Budget, we also set
+               out the actions that we must now take to secure jobs and growth by investing in the
+               key growth sectors for the future. The Council's conclusions agreed that Europe needs
+                  <quote>"to deliver more growth and jobs"</quote> to boost European competitiveness
+               and productivity. Before the financial crisis, the imbalances within Europe were at
+               an all-time high. The Council agreed that <quote>"The EU needs to focus on the
+                  pressing challenges of competitiveness and balance of payments
+                  developments".</quote>
+            </seg>
+            <seg>It also agreed to develop a new strategy to deliver higher levels of long-term
+               growth and recognised that the key elements of increasing productivity and growth
+               include action on employment, on research and development, on reducing greenhouse
+               gases to boost low-carbon industries and on education and social inclusion. The
+               European Council will now, once a year through a leaders' annual economic summit,
+               assess the progress achieved at both national and European level in delivering those
+               objectives. The Council also discussed the economic situation in Greece. Agreement
+               has now been reached by the euro area member states on a set of guidelines for
+               Greece, and I am encouraged by the statement from the eurozone leaders that the
+               eurozone will meet its responsibilities. There was no request for the United Kingdom
+               to make any contribution to that programme, and none of the arrangements agreed by
+               the European Council will see any powers being ceded from Britain to the European
+               Union.</seg>
+            <seg>One year on from the G20 summit in London, we also discussed Europe's plans for the
+               next G20 summit, which is to be held in Toronto. The Council agreed that
+                  <quote>"rapid progress"</quote> is now required on strengthening financial
+               regulation and supervision within both the EU and the G20, while we also need to
+               ensure a level playing field for financial centres worldwide. In particular, we
+               agreed that progress is needed on the issues of capital requirements, systemic
+               institutions, financial instruments for crisis management, transparency on derivative
+               markets and the implementation of internationally agreed principles for bonuses in
+               the financial services sector. The Council agreed to make rapid progress on those
+               issues, concluding work on the new European supervisory framework in time for the
+               European systemic risk board and the three European supervisory authorities to begin
+               work in early 2011. We must also agree in Toronto a co-ordinated approach to levies
+               on the banks to deliver a fairer balance of risk and reward in the financial system.
+               That is something that I have been advocating for some months, and the Council agreed
+               that as part of the G20's work: <quote>"The Commission will shortly present a report
+                  on possible innovative sources of financing such as a global levy on financial
+                  transactions...The Council and the Commission will report back on these issues to
+                  the June 2010 European Council, ahead of the Toronto summit."</quote>
+            </seg>
+            <seg>The Council also discussed climate change, ahead of the first meeting of the
+               advisory group on climate change financing, established by the United Nations
+               Secretary-General, which I am co-chairing with Prime Minister Meles of Ethiopia. Our
+               pledge on climate change finance is a vital first test of the commitment of the
+               developed countries to meeting the promises made in Copenhagen. The Council concluded
+               that Europe would rapidly and unconditionally implement its commitment to providing
+               2.4 billion annually for fast-track financing for developing countries, and to that
+               end the EU <quote>"will initiate consultations on practical ways"</quote> to
+               implement that in specific areas. There will be a presentation on those commitments
+               at the Bonn summit. The Council confirmed that Europe's objective remains a
+                  <quote>"global and comprehensive legal agreement"</quote> and that Europe will
+                  <quote>"strengthen its outreach"</quote> to other countries to galvanise
+               negotiations in the coming months.</seg>
+            <seg>The euro area's economic growth is predicted to be just 0.7 per cent. this year and
+               next, recovering to 1.5 per cent. in later years. By contrast, world growth is
+               projected to be 3.5 per cent, so we need stronger European growth to help deliver
+               stronger growth and new jobs here in Britain. Europe is the world's largest trading
+               bloc and also the world's largest internal market. It offers 500 million consumers
+               for British companies. With 3 million UK jobs linked to the EU, and still more than
+               half our exports going to the EU, Britain's livelihood is inextricably linked to the
+               success of the European economy. Distancing ourselves from Europe makes no sense and
+               would hold back our economy, our companies and people in work. It is by working with,
+               not against, our European partners to deliver jobs and growth for Europe that we will
+               help to deliver jobs and growth for Britain. I commend this statement to the
+               House.</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>I join the Prime Minister in paying tribute to Rifleman Daniel Holkham and Lance
+               Corporal of Horse Jonathan Woodgate, who have been killed in Afghanistan in the past
+               few days. When one thinks of what Jonathan Woodgate had already been through, it is a
+               reminder of what an exceptionally brave young man he was. It also reminds us that
+               what we ask of our servicemen and women today is exceptional; we need to refresh and
+               renew the military covenant in every way that we can. I also agree with the Prime
+               Minister that we should send a clear message of sympathy and solidarity to the
+               Russian people after the appalling outrage on the Russian metro. We are tragically
+               familiar with such an event in this country, too. I want to ask about three issues
+               that were discussed at the summit-the EU economy, financial regulation and climate
+               change. First, on climate change, the summit rightly said that we must redouble our
+               efforts to achieve the global deal that we all want and push ahead with practical
+               action to cut emissions. The UK has the lowest contribution from renewable energy of
+               any major EU country-just 6.8 per cent. of our electricity and, in total, 2.5 per
+               cent. of our energy comes from renewable sources. Why has so little progress been
+               made?</seg>
+            <seg>Secondly, on financial regulation, President Obama spoke about a tax on wholesale
+               funding, but, as the Prime Minister has said, the summit conclusions referred to a
+               transaction tax. Would not a tax on wholesale funding rather than a transaction tax
+               be more likely to help keep business here in Britain? The summit conclusions mention
+               the need for greater economic co-ordination. There was some controversy about whether
+               we will end up with any new treaty changes. Should not the Prime Minister make three
+               things clear today? First, any talk of <quote>"economic government"</quote> in Europe
+               is wrong. If he agrees, can he explain why the phrase remains in the French version
+               of the eurozone statement? Secondly, should we not rule out any new treaty change
+               that increases EU control over our economic policies? Thirdly, should we not change
+               the law in the UK so that any treaty that proposed handing over new areas of power
+               from Britain to Brussels would automatically be subject to a referendum, as is the
+               case in Ireland?</seg>
+            <seg>It is good to see the Prime Minister smiling so nicely, as he does on all our
+               posters-it is good to see him in that sort of positive mood. There are plenty more
+               where they came from.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>If he will not put himself on posters, we have just got to do it for him. On
+               economic policy, does the Prime Minister agree with the Europe 2020 strategy
+               document, which says that <quote>"sound public finances are critical for restoring
+                  the conditions for sustainable growth and jobs"</quote>? Given that, will he
+               comment on the serious news today that Standard and Poor's has stated yet again that
+               the outlook for Britain's triple-A credit rating remains <quote>"negative"</quote>
+               and that <quote>"additional spending measures will likely be required"</quote> to
+               tackle the debt burden?</seg>
+            <seg>Europe's leaders talked about a bail-out for Greece, and Portugal's credit rating
+               is being downgraded. However, is not Britain borrowing more this year as a share of
+               our economy than either Greece or Portugal? Did not the same agency that downgraded
+               Portugal's credit rating say last week that Britain's finances are
+                  <quote>"vulnerable"</quote>? The European Commission says that <quote>"a number of
+                  countries"</quote> may have to start tackling their deficits this year. Given that
+               Britain and Ireland have the worst budget deficits in the OECD, to which countries
+               does the Prime Minister think it was referring? On unemployment, business closures
+               and the decline of manufacturing, the UK clearly has some real problems. Why,
+               therefore, does he propose to raise taxes on small businesses and hike national
+               insurance on everyone earning more than 20,000 and on every single new job in this
+               country? The Chancellor admitted in the Budget that there was 11 billion of waste in
+               Government spending, but he proposes to do nothing about it until 2011. Why is not he
+               tackling the waste this year rather than putting up national insurance for
+               hard-working people next year? Have not the Prime Minister and his Chancellor created
+               one of those great dividing lines that they like so much? Labour stands for waste and
+               taxes, and the Conservative party stands for efficiency and aspiration. As the Prime
+               Minister contemplates his national insurance increase on employees and employers,
+               what on earth makes him think that the way to rescue an economy from the longest and
+               deepest recession on record is a tax on jobs that hits every single business in the
+               country? <incident>
+                  <desc>Interruption</desc>
+               </incident> He says that he wants to talk about Europe - I am talking about our
+               economy in Europe and our failure in Europe.</seg>
+            <seg>The Prime Minister used to go to European meetings to lecture others about their
+               economic policies; now the reverse happens. He thought boom and bust had been
+               abolished and that he could borrow with impunity; he never prepared for a rainy day.
+               Were not those catastrophic misjudgments? Will not the British people be paying for
+               those misjudgments for another generation? Is not his latest misjudgement to sit back
+               and let the waste, the taxes and the debt pile up even more? Is it not the case that
+               we need a Government who will get on with tackling the waste, stopping the tax rises
+               and securing growth for the future?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>First, let me share with the right hon. Gentleman our sympathies, as I mentioned
+               earlier, for those families whose loved ones have died in Afghanistan, and our
+               sympathies for the Russian people as they face a terrorist incident of very
+               substantial proportions today. Let me also agree with the right hon. Gentleman that
+               climate change is an important issue that Europe and the rest of the world must
+               continue to address, that we must move forward on the Copenhagen summit, and that we
+               must get a worldwide framework for a climate change agreement. He asks that
+               renewables should be at a higher level in this country, and I agree with him that we
+               should have higher investment in renewables. That is why we are making plans for
+               public investment in renewables at the same time as the Conservatives oppose them. If
+               I may say so, that is why we are asking councils to approve wind farms, while just
+               about every Conservative council is trying to hold back that policy.</seg>
+            <seg>The right hon. Gentleman mentioned the issue of a levy on financial transactions,
+               which is something that we have been proposing for some time. Originally, the
+               Conservatives opposed it; then they said they would support if it was at a
+               multilateral level; then they said they would support it even if it was not done
+               multilaterally; and then they retreated into saying that they would support it if it
+               was multilateral. That is about a policy a day, but it is the same policy that is
+               being reinterpreted every day. That is the reason that people have very little trust
+               in Conservative economic policy. I come now to the European Council discussions on
+               the economy. I just have to say this: why does the Conservative party want to attack
+               the European Union all the time? Three million jobs depend on our European
+               membership, more than 50 per cent. of our trade depends on Europe, and 750,000
+               companies depend on Europe, so why does the right hon. Gentleman want to go to the
+               European Council-if ever he were elected-to say that he wants to renegotiate our
+               treaties in respect of membership of the European Union? Why does he want to
+               repatriate the social chapter and employment legislation to Britain? Why does he
+               threaten that he is going to have a sovereignty Act for this Parliament to suggest
+               that the law affecting the European Union could somehow be modified and amended by
+               doing so? Why does he resist the European advice that we should work together so that
+               we do not put the recovery at risk?</seg>
+            <seg>The announcement by the Conservative party today was first to withdraw 7.5 billion
+               from the economy this year-</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The right hon. Gentleman says that it is good to hear that, but he also wants to
+               withdraw the support that is necessary for the economy to have a sustained recovery.
+               The first thing that the Conservatives have done today is make it more difficult for
+               us to retain the jobs, businesses and industrial infrastructure that are necessary,
+               despite the fact that every bit of advice that we are getting-and that he is
+               getting-is that we must maintain the investment necessary for recovery. The
+               Conservatives must explain why, at a time when people are worried about the recovery,
+               they wish to withdraw support for the recovery. The second thing that they have got
+               to explain is their panic measure today on national insurance</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. I gently say to the Prime Minister that I know he will want to focus his
+               reply very specifically on the European Council</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Order. The shadow deputy Chief Whip has got something wrong with his head and I am
+               worried about him. He does not have to keep shaking it. The Prime Minister will talk
+               about the Council and, of course, the policies of the Government.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The policy of the Government is to make sure that we have a sustained economic
+               recovery; the Conservative party policy, I am afraid, would put that recovery at
+               risk. Then the Conservatives are going to spend nearly 30 billion on tax cuts in the
+               next five years, which puts front-line public services at risk. People will
+               understand that these panic measures by the Conservatives will not help a recovery,
+               that they will mean public spending cuts and that they will put sustained investment
+               in our economy at risk.</seg>
+            <seg>We are the party that believes in Europe: it is the party opposed to Europe. We can
+               see that if the Conservative party had ever been willing to change, it would have
+               changed on Europe. It has not changed on Europe, and it has not changed on anything
+               else.</seg>
+         </u>
+
+         <u who="#CLEGG">
+            <seg>I wish to add my own expressions of sympathy and condolence to the family and
+               friends of Rifleman Daniel Holkham, from 3rd Battalion the Rifles, and Lance Corporal
+               of Horse Jonathan Woodgate, from the Household Cavalry Regiment, both of whom
+               tragically lost their lives in Afghanistan this week. I also wish to join the Prime
+               Minister in expressing our condolences to the families and friends of the dozens of
+               victims injured and killed in Moscow. Londoners especially, given the horrors of 7/7,
+               will feel a strong bond of sympathy for the families of commuters affected in
+               Moscow.</seg>
+            <seg>I thank the Prime Minister for his report from the European Council. It will most
+               probably be his last European Union summit. I imagine that he will be feeling some
+               relief about that, given that in a few short years he has gone from lecturing his
+               colleagues in Europe on how not to run an economy to teaching them how not to run an
+               economy by example. At last week's summit, the Prime Minister called in some of the
+               few favours he has left from his colleagues in Europe to delay a decision on the
+               alternative investment fund managers directive. Instead of defensively trying to
+               stave off damage to the City, why did he not take the chance to show real leadership
+               on the reform of our banking system? Real leadership is breaking up the banks. Real
+               leadership is imposing an additional levy on their profits until that is done. Real
+               leadership is getting banks lending to small, viable companies that are going to the
+               wall.</seg>
+            <seg>Will the Prime Minister report on any conversations that he had with President
+               Barroso, the President of the European Commission, as this summit was after all their
+               first meeting since the Commission issued its damning verdict on the Prime Minister's
+               handling of Britain's huge budget deficit? No doubt the European Commission will
+               today be equally dismayed by the shiny promises of tax cuts from the shadow
+               Chancellor, who is not in his place-he must be preparing for the mauling that he will
+               get on television tonight. He has no idea how he will pay for those tax cuts. Labour
+               and the Conservatives seem to be competing to come up with the most ludicrous fantasy
+               announcement paid for with bags of gold found through efficiency savings. I am not
+               sure who is winning, but I am certain that no one is falling for it.</seg>
+            <seg>On the bail-out for the Greek Government, as the Prime Minister knows, instability
+               in the eurozone can and will rapidly turn to instability across the European Union,
+               which will affect us too. Given that, I found the lack of details about the potential
+               Greek bail-out a little concerning. Yes, Greece has not yet formally asked for help,
+               but we have a deal on the table that is meant to calm the markets' nerves but gives
+               us very little in the way of detail. The Prime Minister is frowning, but can he tell
+               me what will be the exact role of the IMF in this deal? How will the burden be broken
+               up between the other eurozone countries? What is the maximum level of support likely
+               to be given to Greece in the event that it asks for help and, crucially, what
+               conditions will be put on Greece in return for this support?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I will tell the right hon. Gentleman the facts. There is a limit on the amount of
+               support that the IMF can give. It is limited by its constitution and how it has
+               always done things. That is a matter that we will discuss with both the IMF and the
+               eurozone at the right time. It is limited by the regulations that it has. On the
+               right hon. Gentleman's other points, in the Budget last week we reached agreement
+               with the banks about 92 billion of additional lending in the next year. We also
+               reached an agreement-and said in the Budget-that proper supervision of that would be
+               needed, so that the public and small businesses could be assured that the money was
+               being paid to them. So we are setting up a small business mediator who will act on
+               behalf of small businesses to try to resolve the issues that have left them without
+               the funds that they need</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>An Opposition Member says that that is ridiculous, but we have to protect small
+               businesses to ensure that they can grow. As far as the banks are concerned, we are
+               taking the necessary action. As far as directives are concerned, we did not accept
+               the compromise proposed by the European Finance Ministers. We will therefore
+               renegotiate that over the next period of time, because we are determined both to have
+               proper regulation of those industries and, at the same, to allow companies to have
+               access to the full range of countries in the internal market, and that is what we are
+               doing. As for ludicrous policies, the right hon. Gentleman would win the race any
+               day.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>I prefer the Prime Minister's posters with a smile to the Leader of the
+               Opposition's airbrushed images. There were reports in the press over the weekend that
+               Angela Merkel is calling for economic government, which would require treaty changes.
+               If that were to be the case, can I press the Prime Minister to make a commitment that
+               that would also involve a referendum in this country?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We made it clear a few months ago-this was a decision that we asked the European
+               Union to make-that there would be no further constitutional or institutional change
+               of that sort over the next 10 years. We made it absolutely clear that the European
+               Union should not be contemplating further constitutional or institutional change in
+               the way that is suggested. As for improving the way the European Union works, there
+               is a case for that improvement to be made, and we will join those forces at work in
+               this taskforce to ensure better and improved governing of the European Union.</seg>
+         </u>
+
+         <u who="#CURRY">
+            <seg>Does the Prime Minister agree with the French Finance Minister Christine Lagarde
+               that the eurozone has no hope of achieving sustainable recovery while the huge
+               problem persists of a massive German trade surplus and persistently low consumer
+               demand in Germany, and will he express those sentiments to the German Chancellor when
+               he meets her?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am grateful to the right hon. Gentleman for his comments, which are, in essence,
+               supportive of our economic policy. I am grateful for that, first, because in the
+               European Council conclusions we say that we have to look at the issues that have
+               arisen from the severe imbalances in the European Union. Secondly, it is clear from
+               what he says that he supports the maintenance of a stimulus and the public support
+               necessary for the economy to have sustained recovery. In that, he is at odds with
+               those on the Conservative Front Bench, who want to take 7.5 billion out of the
+               economy, which would mean lost jobs, lost businesses and lost economic
+               progress.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>Did the Prime Minister have the opportunity, either in the meeting or at the
+               margins of the meeting, to have any discussion with his colleagues about the issues
+               of international terrorism to which he has referred? In particular, was there any
+               discussion about the prospects for European Union involvement to try to reactivate
+               the negotiations in the middle east or about the situation in Iran?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I have talked about this on a bilateral basis with President Sarkozy and with
+               Chancellor Merkel, and, outside the European Union, with President Obama. As far as
+               the middle east peace process is concerned, we want the proximity discussions to move
+               forward, and we want George Mitchell, the American mediator, to have all the
+               necessary power to move them forward. As for the discussions in relation to Iran,
+               Iran has not been prepared to accept the offer made by the major countries to help it
+               get civil nuclear power without having nuclear weapons, which are a danger to the
+               region and the world. We are contemplating what we must do next, and I believe that
+               there will be pressure for a United Nations resolution.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>Will the Prime Minister bear in mind that following the ratification of the Lisbon
+               treaty, despite his breaking of the pledge that there would first be a referendum on
+               the subject, he assured us, as a sop, that there would not be another European treaty
+               for at least 10 years, a pledge that he has repeated this afternoon? So how does it
+               come about that we are now asked to contemplate the establishment of a super finance
+               ministry for Europe, which would certainly require another treaty and would certainly
+               lead to Berlin being able to dictate British tax policies?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>That is not the proposal.</seg>
+         </u>
+
+         <u who="#SKINNER">
+            <seg>Does the Prime Minister recall any conversation at all by the other countries in
+               respect of joining the euro? Because I have a good idea for a poster, which the
+               Tories will never produce: "Gordon Brown kept us out of the euro. Five conditions.
+               Superb leadership." I think it would be a good idea for us to do that.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>That was a difficult decision, but it was the right decision. In other areas, such
+               as the financial crisis, we have also made the right decision, even when the Tories
+               have proposed the wrong one.</seg>
+         </u>
+
+         <u who="#BRAZIER">
+            <seg>The Prime Minister's opening remarks on the casualties in Afghanistan and on the
+               terrorist attack in Moscow will receive widespread support. At the European Council,
+               did he raise the issue of the terrorist threat to Europe and the poor performance in
+               Afghanistan by most of our European allies?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>This was a meeting to discuss two specific things: the economy and climate change.
+               Of course, in the bilateral meetings that I had with President Sarkozy, Chancellor
+               Merkel and others-and with the President of the European Council, Mr. Van Rompuy, and
+               with the presidency, in the form of the Spanish Prime Minister-the issue of terrorism
+               was uppermost in our minds. We have to persuade some of our allies that we need to
+               increase the police presence in Afghanistan, and that we have to increase the number
+               of police trainers to raise the number of effective, trained police there. I believe
+               that President Sarkozy has been meeting President Obama to talk about exactly these
+               issues. We have increased the number of trainers that we have made available for
+               policing in Afghanistan, and we are looking forward to other countries doing the
+               same.</seg>
+         </u>
+
+         <u who="#HENDERSON">
+            <seg>Does my right hon. Friend agree that any reasonable person-and any reasonable
+               political party that is interested in more than just appeasing its anti-European
+               factions-would recognise that a serious response to the recession requires common
+               effective action at European level? Will he tell me whether the continuing problem of
+               the higher unemployment among young people than among the population at large was
+               discussed at the Council, and whether specific measures for tackling it were
+               considered by our various European partners?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>There are more than 20 million people unemployed in Europe, and the attention of
+               the European Council was on what we can do to raise growth in Europe so that we can
+               get unemployment down. The way to do that at the moment is to ensure that we maintain
+               the support for our economy, and that support is maintained for the European,
+               American and other economies, until the recovery is fully secured. I am working with
+               27 countries in total-26 and us-and they all agree that we should maintain the
+               support that is necessary for the economy. I can think of only one party competing
+               for government in the whole of Europe that is against that, and that is the
+               Conservative party.</seg>
+         </u>
+
+         <u who="#ROBERTSON-ANGUS">
+            <seg>We associate ourselves with the Prime Minister's comments about the loss of service
+               personnel and the deaths in Moscow. We should also like to mark the funeral today of
+               Billy Wolfe. Billy led the Scottish National party with distinction through the
+               1970s, and we pay tribute to his efforts to banish weapons of mass destruction from
+               Scotland. The Prime Minister must have discussed economic best practice among EU and
+               non-EU member states at the European Council over the weekend. Will he explain how it
+               has been possible for Norway to have a sovereign wealth fund that is significantly
+               larger than the UK deficit?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I join the hon. Gentleman is his tribute to William Wolfe. I have to say to him,
+               however, that when people talk about non-EU countries, they often refer to what was
+               sometimes called the arc of prosperity, and the SNP often talks about the parallels
+               between Ireland, Iceland and Scotland. That arc of prosperity collapsed a few months
+               ago.</seg>
+         </u>
+
+         <u who="#MACSHANE">
+            <seg>May I disagree with the Prime Minister when he says: <quote>"Distancing ourselves
+                  from Europe makes no sense"</quote>? Surely it does make sense to distance
+               ourselves from politicians who support the Waffen SS, who are climate change deniers
+               or who have odd views on what happened to the Jews in world war two. Surely it makes
+               sense to distance ourselves in particular from homophobic Members of the European
+               Parliament. Listening to the Leader of the Opposition reduced to absolute
+               speechlessness while trying to defend them last week was a collector's item.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I think that the British people would be shocked if they heard what Conservative
+               Members of the European Parliament were doing in that Parliament. Only a few days
+               ago, a number of Conservative MEPs voted against proposals to support the automatic
+               exchange of information needed to crack down on those seeking to hide their money
+               from the tax authorities. So here in Westminster they are saying that they want
+               openness and transparency, but in Europe they are voting for the very tax havens that
+               we know Lord Ashcroft has been very much a part of.</seg>
+         </u>
+
+         <u who="#HOGG">
+            <seg>In the context of future changes to the governance of the European Union, of which
+               the Prime Minister has just spoken, will he tell us whether he told his colleagues at
+               the Euro Council that any proposal to transfer significant power from the United
+               Kingdom to the European Union would have to be the subject of a referendum in the
+               United Kingdom? If he did not tell his Euro colleagues that in the Council, will he
+               please tell the House that now?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I have already mentioned the agreement made a few months ago that there would be no
+               further institutional or constitutional change in the European Union for the next 10
+               years. Any colleagues in the EU know precisely what the British position is. Unlike
+               the Conservative party, however, I am prepared for Britain to be part of a taskforce
+               to look at how we can improve the management of the EU; only people who are blinded
+               by Euroscepticism would oppose any form of co-operation in Europe.</seg>
+         </u>
+
+         <u who="#GRIFFITHS-NIGEL">
+            <seg>Will my right hon. Friend give a cast-iron guarantee that he will reject the
+               policies of Conservative Euro MPs who tour America denouncing our national health
+               service?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Those people who said that the national health service was a 60-year-old nightmare
+               were completely wrong. The NHS has been for many millions of people a 60-year-long
+               liberation from ill health and disease. I think the Conservative leader should be
+               ashamed of some of the people he supports in the European Parliament.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>Does the Prime Minister accept that the Greek and the Portuguese crisis
+               demonstrates that the European Union is in systemic failure? Does he also accept that
+               by collaborating with the proposals for economic government, which he has done under
+               the surface and directly in agreeing to the statement, he is in fact betraying the
+               British people? As President Barroso said, it is time for Europe to talk the
+               truth.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Every time the hon. Gentleman speaks on Europe, we hear that he wishes to see the
+               European Union fail, and every time he talks about Europe, it is as if he has a
+               visceral hatred of everything European. I am sorry that his views are shared so
+               widely within the Conservative party.</seg>
+         </u>
+
+         <u who="#DAVIDSON">
+            <seg>"Pink and smooth like a baby's bottom" or "A bit rough and grumpy". Which poster
+               would the other European leaders prefer?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The non-airbrushed one.</seg>
+         </u>
+
+         <u who="#SWIRE">
+            <seg>Since this Government came to power, the burden on British businesses from EU
+               regulation has risen from 6 billion to almost 6.5 billion a year. Is the Prime
+               Minister proud of that record? Is it something he took the trouble to discuss with
+               his European colleagues at a time when many British businesses are struggling and
+               suffocating due to over-regulation?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Of course we want to cut down on unnecessary regulation. We have made proposals in
+               the EU, as we have in Britain, to do so. I would have thought that the hon. Gentleman
+               would start his question by acknowledging that there are 750,000 companies trading
+               with the rest of the European Union, that 3 million jobs depend on our membership of
+               it and that we should support our exporters by co-operating in the EU. It is only the
+               Conservative party that seems to think that having a permanent conflict with the EU
+               is in Britain's interests. That is not in Britain's interest; co-operation is.</seg>
+         </u>
+
+         <u who="#GOODWILL">
+            <seg>The Prime Minister mentioned his pledge on climate change. Why, then, has the UK so
+               abjectly failed to meet its obligations under the landfill directive and failed to
+               follow the lead of many other EU countries in developing energy from waste
+               projects?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The landfill levy has been strengthened over these last few years. It is our desire
+               to make sure that we do everything in our power to use our waste effectively.
+               Unfortunately, the hon. Gentleman, again, is so blinded against the European Union
+               that he cannot acknowledge that the way to move forward is through greater
+               co-operation with the EU on climate change issues, that we should be pressing to
+               reopen negotiations that failed in some respects at Copenhagen, that the Bonn summit
+               is the way to do so and that we should support Chancellor Merkel in doing that. We
+               need co-operation on the environment if we are going to move forward in Britain,
+               Europe or the rest of the world. It is global and European co-operation that we need,
+               rather than conflict between us in Europe.</seg>
+         </u>
+
+         <u who="#BONE">
+            <seg>Last year, the British taxpayer paid 3 billion to the European Union. Next year,
+               the British taxpayer will pay 6.6 billion to the EU. Is it not strange, at a time
+               when the Government are planning public expenditure cuts, that an additional 3.6
+               billion is paid to the EU? Does the Prime Minister agree that we cannot go on like
+               this and that it is time for change?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>It is very interesting that every single question from the Conservative Back
+               Benches has repeated the anti-European position of the Conservative leader. Is it not
+               amazing that not one person has stood up and said, "I support the European Union"?
+               Although the Conservatives have a Back Bencher who did so, he is not even bothering
+               to stand again at the next election. The Conservative party is fundamentally
+               Eurosceptic and anti-European Union.</seg>
+         </u>
+
+         <u who="#SPINK">
+            <seg>Did the Prime Minister discuss referendums at the summit so that British people
+               could vote on the Lisbon treaty, which all three main parties promised them they
+               would be able to do? Or does he think that the British people have simply got it
+               wrong?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We secured all our negotiating objectives, and made sure that the constitutional
+               treaty-as it was talked about-did not become a constitutional treaty in the end. As
+               for the Conservative party, I accept that it gave an iron-cast guarantee that there
+               would be a referendum on the European Union, but, like the Conservatives' iron-cast
+               guarantees on so many other things, it fell away.</seg>
+         </u>
+
+         <u who="#AFRIYIE">
+            <seg>Lance Corporal of Horse Jonathan Woodgate served in the Household Cavalry in
+               Windsor. I add my condolences in respect of Lance Corporal of Horse Woodgate and
+               those who have gone before. We must never underestimate their contribution to our
+               security. It seems to me that-whether in a European Union or in a world context-the
+               Prime Minister has certainly led our country, but has led us into being the first
+               into recession and the last out of it. Does he accept any responsibility whatever for
+               the decisions that he made?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We have talked about this many, many times in the House of Commons. We had a global
+               banking crisis, and we had to deal with it. If we had taken the advice of the Leader
+               of the Opposition, we would still be in recession. On every big decision, he and his
+               shadow Chancellor got it wrong, wrong and wrong again.</seg>
+         </u>
+      </body>
+   </text>
+</TEI>

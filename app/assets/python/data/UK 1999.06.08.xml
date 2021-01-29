@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm199899/cmhansrd/vo990608/debtext/90608-06.htm#90608-06_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>8 June 1999</date>
+               <date when="1999-06-08"></date>
+               <activity>Amsterdam Treaty, Introduction of the euro on 1 January 1999,
+               Kosovo</activity>
+               <locale>Cologne</locale>
+               <persName>Blair I</persName>
+               <name>90th ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="HAGUE">
+                  <persName>Mr. William Hague</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Richmond (Yorks)</residence>
+               </person>
+
+               <person xml:id="ANDERSON">
+                  <persName>Mr. Donald Anderson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Swansea, East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ASHDOWN">
+                  <persName>Mr. Paddy Ashdown</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Yeovil</residence>
+               </person>
+
+               <person xml:id="BENN">
+                  <persName>Mr. Tony Benn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Chesterfield</residence>
+               </person>
+
+               <person xml:id="FORTH">
+                  <persName>Mr. Eric Forth</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bromley and Chislehurst</residence>
+               </person>
+
+               <person xml:id="KAUFMAN">
+                  <persName>Mr. Gerald Kaufman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Gorton</residence>
+               </person>
+
+               <person xml:id="BROOKE">
+                  <persName>Mr. Peter Brooke</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Cities of London and Westminster</residence>
+               </person>
+
+               <person xml:id="DALYELL">
+                  <persName>Mr. Tam Dalyell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Linlithgow</residence>
+               </person>
+
+               <person xml:id="BELL-MARTIN">
+                  <persName>Mr. Martin Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Independent</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Tatton</residence>
+               </person>
+
+               <person xml:id="RAMMELL">
+                  <persName>Bill Rammell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Harlow</residence>
+               </person>
+
+               <person xml:id="TAYLOR-IAN">
+                  <persName>Mr. Ian Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Esher and Walton</residence>
+               </person>
+
+               <person xml:id="DAVIES-DENZIL">
+                  <persName>Mr. Denzil Davies</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Llanelli</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="STANLEY">
+                  <persName>Sir John Stanley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Tonbridge and Malling</residence>
+               </person>
+
+               <person xml:id="CLWYD">
+                  <persName>Ann Clwyd</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Cynon Valley</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>Independent</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Cynon Valley</residence>
+               </person>
+
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Louth and Horncastle</residence>
+               </person>
+
+               <person xml:id="WINNICK">
+                  <persName>Mr. David Winnick</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Walsall, North</residence>
+               </person>
+
+               <person xml:id="HOGG">
+                  <persName>Mr. Douglas Hogg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sleaford and North Hykeham</residence>
+               </person>
+
+               <person xml:id="GODMAN">
+                  <persName>Dr. Norman A. Godman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish Labour Party</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Greenock and Inverclyde</residence>
+               </person>
+
+               <person xml:id="TAYLOR-TEDDY">
+                  <persName>Sir Teddy Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rochford and Southend, East</residence>
+               </person>
+
+               <person xml:id="MAHON">
+                  <persName>Mrs. Alice Mahon</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Halifax</residence>
+               </person>
+
+               <person xml:id="COLVIN">
+                  <persName>Mr. Michael Colvin</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Romsey</residence>
+               </person>
+
+               <person xml:id="SOLEY">
+                  <persName>Mr. Clive Soley</persName>
+                  <sex>male</sex>
+                  <occupation>Party Chair</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ealing, Acton and Shepherd's Bush</residence>
+               </person>
+
+               <person xml:id="GARNIER">
+                  <persName>Mr. Edward Garnier</persName>
+                  <sex>male</sex>
+                  <occupation>Shadow Attorney General</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Harborough</residence>
+               </person>
+
+               <person xml:id="CAMPBELL-SAVOURS">
+                  <persName>Mr. Dale Campbell-Savours</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Workington</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="WATERSON">
+                  <persName>Mr. Nigel Waterson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Eastbourne</residence>
+               </person>
+
+               <person xml:id="WISE">
+                  <persName>Audrey Wise</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Preston</residence>
+               </person>
+
+               <person xml:id="COLLINS">
+                  <persName>Mr. Tim Collins</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Westmorland and Lonsdale</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <u who="#BLAIR">
+            <seg> With your permission, Madam Speaker, I should like to make a statement on two
+               subjects: Kosovo and the European Council in Cologne which I attended on 3 and 4
+               June, accompanied by my right hon. Friends the Foreign Secretary and the Chancellor
+               of the Exchequer. The conclusions of the Council are being placed in the Library of
+               the House.</seg>
+            <seg>A large part of the European Council was taken up with the crisis in Kosovo.
+               President Ahtisaari came straight from his mission to Belgrade to brief the Council.
+               The peace plan that President Ahtisaari and the Russian special envoy, Mr.
+               Chernomyrdin, presented to Milosevic was accepted by the Serb Parliament and the
+               Federal Yugoslav Government on 3 June. The plan incorporated all NATO's demands. It
+               provided for the immediate and verifiable end to violence in Kosovo; the withdrawal
+               of all military, police and paramilitary forces according to a rapid timetable; the
+               deployment of an effective international security presence and a civil administration
+               - the document specified that, in any such force, the substantial participation would
+               be that of NATO, and that there would be a unified command and control - and for the
+               force to be authorised to establish a safe environment for the people in Kosovo and
+               to facilitate the safe return of all displaced people and refugees.</seg>
+            <seg>So the document presented by President Ahtisaari embodied all the conditions set by
+               the international community: all Serb forces come out; an international force with
+               NATO at its core goes in; and the refugees go home in safety and peace. However, we
+               did not - and do not - take Milosevic's assurance on trust. The Balkans are littered
+               with his broken promises. That is why NATO has insisted all along that the bombing
+               will not stop until a full and verifiable withdrawal of all Serb forces from Kosovo
+               has begun.</seg>
+            <seg>To give us the certainty we need about Serb withdrawal, the commander of NATO's
+               forces in Macedonia, General Sir Mike Jackson, met representatives of the Federal
+               Yugoslav military on the border at Blace on 5 and 6 June. Those talks ended early on
+               7 June after the Yugoslav side repeatedly failed to accept the document put forward
+               by NATO. Instead they tried, among other things, to insist on large numbers of Serb
+               troops remaining. That was and is unacceptable.</seg>
+            <seg>However, this morning, the Foreign Secretary and his colleagues from the G8 group
+               of countries completed their work on the text of a Security Council resolution. I can
+               confirm to the House that agreement has now been reached in the G8 on a text that
+               enshrines the Ahtisaari-Chernomyrdin plan and its detailed terms.</seg>
+            <seg>The text is strong and clear and meets our requirements. It will now go forward to
+               the Security Council. It comes under chapter VII of the United Nations charter, which
+               means that the resolution will be legally binding on the Federal Republic of
+               Yugoslavia, and it authorises, through its detailed provisions, the use of force to
+               ensure its implementation. It requires, in particular, the withdrawal of all Serb
+               forces from Kosovo, and authorises the deployment of our forces as part of a
+               substantial NATO component in the international security presence, which will have a
+               unified chain of command. The members of the G8 that are also on the Security Council
+               - the United States, Russia, Britain, France and Canada - have agreed that they will
+               co-sponsor the draft.</seg>
+            <seg>If we need any reminder of the regime that we are dealing with, let me give the
+               House one account, delivered by a refugee when the United Kingdom Government's war
+               crimes co-ordinator, David Gowan, visited Albanian and Macedonian refugee camps last
+               week.</seg>
+            <seg>A professional in his late 30s or early 40s said that he was one of more than 2,000
+               men picked up by Serb forces in early May in villages south of Pristina. They were
+               separated from their families, beaten and transferred to the prison at Mittrovica.
+               The prisoners were forced into cells and made to stand, shoulder to shoulder, for 24
+               hours without food, water or access to a lavatory. They were then beaten again,
+               systematically, in the prison.</seg>
+            <seg>Yet that refugee still said that he was among the lucky ones. He had witnessed
+               himself summary executions when he was detained at the village of Vushtria, and had
+               heard reports of a mass execution of 103 men in the nearby village of Studime. So
+               when the refugees say that they want to be sure that the Serb troops will go out, and
+               that our troops will go in to guarantee their safety, it is not hard to understand
+               why.</seg>
+            <seg>The next step, therefore, will be further military talks to put in place the
+               necessary technical agreement. They are taking place today at Blace. Given the
+               progress on a Security Council resolution, there is no excuse for the Yugoslav
+               authorities to drag their feet again. Provided that the Serbs now, at long last,
+               honour their undertakings and begin a verifiable withdrawal of their forces, NATO
+               bombing can be suspended and the Security Council resolution passed, and the
+               international force can start to be deployed in Kosovo before the end of this
+               week.</seg>
+            <seg>It is time, however, that Milosevic realised that the longer he tries to draw this
+               out, the longer and harder his forces will be hit. We have achieved this agreement
+               only by showing total resolve and determination; we shall need to be as resolved and
+               as determined now in implementing it. We are close to having all the elements in
+               place, but until we are certain that Milosevic has embarked on the withdrawal of all
+               his forces, NATO's military action will continue.</seg>
+            <seg>We can also now start planning in earnest for the reconstruction of the Balkans to
+               give the peoples of the region the security and prosperity that they need to avoid
+               future wars. The future of these front-line states, many of which I have visited in
+               the past few weeks, should be one of peace and prosperity, not ethnic conflict. The
+               people of a democratic Serbia can also benefit from reconstruction and integration
+               into the mainstream of Europe, but let me be clear: that cannot happen while there is
+               a nationalist dictator in power in Belgrade. Until Milosevic goes, Serbia cannot take
+               its true place in the family of world nations.</seg>
+            <seg>Events in Kosovo overshadowed other issues at the European Council, but other
+               important work was done too. The European Council appointed Javier Solana to the new
+               post of Secretary-General of the Council and High Representative for the common
+               foreign and security policy. Mr. Solana is a friend of Britain, and a highly capable
+               operator, as we have seen during the Kosovo crisis. His new appointment will boost
+               the effectiveness and credibility of the common foreign and security policy, and I
+               warmly welcome it.</seg>
+            <seg>There was a full discussion of economic policy.The European Council unanimously
+               reaffirmed that sustainable, non-inflationary growth and increased employment
+               required comprehensive structural reforms at European Union and national levels. The
+               message is clear in the broad economic guidelines, which the European Council
+               approved, and in the new European employment pact.</seg>
+            <seg>As for the future development of the Union, the European Council took a number of
+               important steps. It heard a strong statement from the President elect of the
+               Commission about his plans for reform of that institution, and the Council pledged
+               its full support for Mr. Prodi's approach to reform. The Council welcomed the new
+               European anti-fraud office, whose establishment was agreed at the ECOFIN Council on
+               25 May, and which will permit the Union to step up the fight against fraud,
+               corruption and mismanagement. Agreement was reached on the further development of a
+               common European security and defence policy, building on the ideas that we outlined
+               last year, which were warmly endorsed by NATO at its Washington summit in
+               April.</seg>
+            <seg>The European Council confirmed that an intergovernmental conference would be called
+               early next year to resolve the issues that were left open at the Amsterdam European
+               Council, which need to be settled before enlargement. The Council also endorsed an
+               initiative by Prime Minister Guterres of Portugal to convene next March, under the
+               Portuguese presidency, a special meeting of the European Council, which will be
+               entirely devoted to economic reform and employment. The initiative is very welcome,
+               and follows the call for such an event at the Anglo-Spanish summit on 10 April. We
+               are making real headway in promoting economic reform in Europe, which - as I have
+               repeatedly said in this House - is essential to ensure sustained growth and the
+               unqualified success of the single currency.</seg>
+            <seg>The Council rejected the notion of ending tax competition or of the harmonisation
+               of business and income taxes. Instead, the Council decided, sensibly, that merely
+               harmful tax competition should be avoided; and it actually advocated lower business
+               and labour costs. Unfortunately, although we had the support of 13 of the 14 other
+               member states, we could not reverse the duty free decision taken in 1991 by the
+               previous Government, as they had agreed to its being reversible only if there were
+               unanimity.</seg>
+            <seg>At the Council as a whole, therefore, substantial progress was made on economic
+               reform, but, as I said at the outset, it was rightly and understandably dominated by
+               Kosovo. Let us hope that the process begun at this Council and taken forward today at
+               the G8 will come swiftly to a secure and just conclusion, ending the obscenity of
+               ethnic cleansing and obtaining justice at last for the people of Kosovo.</seg>
+         </u>
+
+         <u who="#HAGUE">
+            <seg>I concur with the Prime Minister that the outline agreement on Kosovo reached last
+               week is very encouraging, as indeed is some of the further news that he has announced
+               about today's agreement of the G8, and that we must now ensure, through all the
+               difficulties that are bound to arise, that those agreements are implemented in
+               full.</seg>
+            <seg>We agree with the Prime Minister that the air campaign must not stop until there is
+               a verifiable withdrawal of Serb forces. On that, the Government have the support of
+               the Opposition, as they do on the announcement of the additional deployment of
+               British troops to the region.</seg>
+            <seg>The key test of any agreement is whether all the refugees can return in safety to
+               their homes. That raises a number of questions. First, does the Prime Minister agree
+               that the ground force will have to be effectively NATO led, and that the unified
+               command structure to which he has referred will have to run throughout the whole of
+               Kosovo, to avoid any de facto partition of Kosovo? Will the United Nations resolution
+               achieve that?</seg>
+            <seg>Secondly, is the Prime Minister confident that the Kosovo Liberation Army will
+               demilitarise as set out in the agreement? What exactly does demilitarisation mean in
+               that context, and how will it be achieved?</seg>
+            <seg>Thirdly, the Rambouillet accords provided for an international meeting, three years
+               after the agreement entered force, to determine the mechanism for a final settlement
+               based at least partly on the will of the people. The provision was excluded from last
+               week's outline agreement. In what way will the views of the Kosovar Albanians be
+               reflected in the determination of the final status of Kosovo?</seg>
+            <seg>Both sides of the House agree that there is still an enormous amount to do. We must
+               oversee the refugees' return, and of course we must ensure that the events in Kosovo
+               are not repeated there or elsewhere. Will the Prime Minister elaborate on plans to
+               bring greater stability and peace to the region in the longer term, so that people
+               may enjoy, as he has said, peace and prosperity, instead of ethnic conflict, in the
+               future?</seg>
+            <seg>Kosovo was the most pressing issue at Cologne, but many other decisions taken there
+               were important to Britain. Why did the Prime Minister not make the case for the type
+               of Europe that the British public want - a Europe that does less and does it better,
+               and that cleans up its act? When will he stop saying one thing in Britain, and then
+               caving in during negotiations?</seg>
+            <seg>Two years ago, the Prime Minister vetoed a proposal on European defence on the
+               grounds that it would weaken the United States's commitment to Europe, and that it
+               was an "ill-judged transplant operation". Why has he now supported a proposal that is
+               effectively the same? Is it not a mistake to create a second defence alliance in
+               Europe, which will overlap with NATO and threaten to undermine the United States
+               commitment to NATO? What is the EU doing proposing an army when it cannot even run an
+               audit system properly?</seg>
+            <seg>The Prime Minister has always claimed - he claimed it again today - that he will
+               resist tax harmonisation. However, the communique says that <quote>"good progress has
+                  been made" on proposals "on the taxation of investment income"; that agreement on
+                  "proposals for a Directive on the taxation of savings" will be reached this year;
+                  that work on "a framework for the taxation of energy" will continue; and that a
+                  further report on "reinforced tax policy co-operation" is being prepared.</quote>
+            </seg>
+            <seg>Why did the Prime Minister agree in Cologne to the most comprehensive plan yet for
+               tax harmonisation? Why, when people in this country want to maintain the veto, did he
+               agree to a communique that calls for the extension of qualified majority voting - in
+               other words, a further erosion of the veto?</seg>
+            <seg>Finally, can the Prime Minister explain the lamentable summit shenanigans over the
+               single currency? The Prime Minister of Luxembourg said memorably that the
+                  <quote>"moment for unfettered panic has not arrived"</quote>.</seg>
+            <seg>Instead, the summit opted for a spot of carefully controlled panic. Statements were
+               issued and then withdrawn. As The Times said: <quote>"European leaders... bungled an
+                  attempt to bolster the ailing euro", spreading "confusion through the foreign
+                  exchanges, sending the euro tumbling towards fresh record lows"</quote>.</seg>
+            <seg>We read that, from now on, only two people in Europe will be allowed to speak about
+               the single currency - judging from the Prime Minister's European election campaign,
+               he is not privileged to be one of them.</seg>
+            <seg>Is it not time that the Government's position at such meetings reflected the views
+               of the people of this country? Is it not time that the Government's priority was to
+               act in the interests of Britain, rather than seeking at every opportunity to go with
+               the flow in Europe? Does the Prime Minister not recognise that most people in this
+               country do not want any more powers transferred from Britain to European
+               institutions? They want their taxes decided in this House, and oppose his plans to
+               scrap the pound. They want to be in Europe, not run by Europe.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, I shall deal with what the right hon. Gentleman said about Kosovo. I thank
+               him for his support. The force must have a NATO core and a unified chain of command.
+               That is clear. There must be no question of a de facto partition of Kosovo.</seg>
+            <seg>On the future of the Kosovar Albanians, the Rambouillet accords are specifically
+               mentioned in the resolution. There will have to be discussions about the right future
+               for Kosovo, but in the meantime there will be a civil administration that is
+               internationally guaranteed, and there will be substantial autonomy for the people of
+               Kosovo. I cannot see them having any confidence in rule from Serbia while Milosevic
+               remains in power. That is very clear.</seg>
+            <seg>In the longer term, it is essential that we begin work as soon as possible on a
+               regeneration programme for the Balkans, because many of the front-line states - such
+               as Bulgaria, Romania, Macedonia and Albania - have given us support in circumstances
+               of intense internal difficulty. Theirs has been a far more difficult path than that
+               of countries such as ours. It is essential that they should be given their reward for
+               that. We must show them that there is a different path for the future. In some of
+               those front-line states, there are forces that would be happy for their politics to
+               be dominated by ethnic conflict. We have to show that the values of democracy pay
+               off. When we consider how much the international community has spent over the past 10
+               years on resolving conflict in the Balkans, it is at least worth thinking about how
+               we can make some prudent investment in ensuring that we never have to go and sort out
+               further conflicts. It is important to begin work on that as soon as possible.</seg>
+            <seg>On Europe, the right hon. Gentleman did not accurately set out the terms of the
+               agreements that we have entered into. He asked why the agreement on defence is
+               different from that proposed at Amsterdam. The reason is simple: at Amsterdam we were
+               asked to agree to something that would have clashed with NATO. As a result of getting
+               involved, we have ensured that Europe's common defence policy is expressed in terms
+               completely consistent with membership of NATO.</seg>
+            <seg>As for qualified majority voting and the veto, we have said that we take a
+               case-by-case view. In some circumstances, qualified majority voting might have been
+               in Britain's interests - I mentioned the example of duty free. The difference between
+               the Conservative party as it used to be and the Conservative party as the right hon.
+               Gentleman has made it is shown by the fact that the biggest extension of qualified
+               majority voting was agreed by the Conservative Government as part of the passage of
+               the Single European Act. It was right that they did that. They did it not because
+               they were betraying the national interest, but because it was in the interest of this
+               country to develop a single market in Europe. That is the choice for this country.
+               Over the past few weeks, the right hon. Gentleman has defined the modern Conservative
+               party by its hostility to Europe.</seg>
+            <seg>At the very beginning of his questions, the right hon. Gentleman asked me why I did
+               not go to the European Council and argue the points that he made in his Budapest
+               speech a few weeks ago. In his first question, he asked me for what is effectively a
+               renegotiation of the treaty of Rome and Britain's entry into the European
+               Union.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>They are nodding away; let us test them. Such a renegotiation requires the consent
+               of the other 14 members of the European Union. Can they name one that supports that
+               proposition?</seg>
+            <seg>If the right hon. Gentleman had been in my position, he would have gone to the
+               European Council seeking a renegotiation of Britain's terms of entry into the
+               European Union, and not a single other European country would have supported him. The
+               Conservatives would return this country to precisely that position. We would be
+               without influence, power or any authority in Europe. That is not all, however. They
+               want to cancel the changeover plan for the single currency so that even if we wanted
+               to join, we would be unable to do so, and they would cancel the defence initiative
+               that we have undertaken, even though NATO has now endorsed it. It is also true that
+               many Conservative candidates in the European Parliament will not even join the
+               European Conservative parties.</seg>
+            <seg>That is a recipe for complete disaster for this country. There are short-term
+               tactical reasons for going for it, but it is a big, long-term strategic mistake, and
+               the choice for this country on Thursday is leading in Europe or leaving it.</seg>
+         </u>
+
+         <u who="#ANDERSON">
+            <seg>It now looks as if Kosovo will be seen as a famous victory for international order
+               and justice, but one thing is clear from the conflict: the reputation of my right
+               hon. Friend the Prime Minister and the United Kingdom has been mightily enhanced by
+               the clear leadership that he and other Ministers have given. How does my right hon.
+               Friend propose to reach beyond the Milosevic Government and get the message clearly
+               to the people of the Federal Republic of Yugoslavia that they have no future under
+               Milosevic and that they must have a leader who is capable of mending fences with the
+               west? How can he ensure that war crime investigators enter Kosovo speedily to ensure
+               that the evidence of war crimes is not destroyed by the barbarians?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I thank my hon. Friend for his kind words. I have two things to say. First, it is
+               important, perhaps particularly now, that we do not regard the conflict as having
+               been won in any sense until the refugees go back and are safe. Some people asked why
+               we were less than euphoric last Friday. I will allow myself to feel relieved when it
+               actually happens. We have to watch Milosevic and his games and tricks every single
+               inch of the way. He must be under no illusion whatever that if he starts them up
+               again, our force remains there. He should realise that, and it should give him the
+               incentive that he needs to make sure that this is concluded properly.</seg>
+            <seg>I am pleased that the draft resolution makes specific mention of the jurisdiction
+               of the war crimes tribunal. My hon. Friend is absolutely right to say that we have to
+               reach out to democratic forces in Serbia. I know that many people in Serbia bitterly
+               opposed the NATO campaign, even those who are also opposed to Milosevic. However,
+               they must now understand that he has been obliged to accept terms that he could have
+               accepted 10 weeks ago. He has devastated their country, ruined its economy and made
+               it an outcast from the world of nations. It is a proud nation which, in many ways,
+               has a history of which its people can be proud. If they want to regain their place in
+               the community of nations, Milosevic's going is the best way of achieving that.</seg>
+         </u>
+
+         <u who="#ASHDOWN">
+            <seg>Is it not true that it is not over until it is over on the ground in Kosovo? Until
+               that happens, we must judge President Milosevic not by his words, but by his actions.
+               That means that we must keep up the military pressure - the only language that he
+               understands - and the pressure from the air. Does the Prime Minister agree that that
+               means also continuing to make those preparations that NATO has made more recently for
+               the use of ground troops, if necessary? Despite that, the events of the last week
+               ought to give NATO, the Government and the Prime Minister personally good cause for
+               satisfaction as they are a vindication of the policy that they and he have
+               followed.</seg>
+            <seg>Is not the last-minute wrangling and wriggling by Milosevic an attempt to evade
+               three unshakeable principles: first, that all Serb authority must be removed from
+               Kosovo; secondly, that there must be an international force with teeth and with NATO
+               at its core, backed by a Security Council resolution; and thirdly, that the refugees
+               must return in peace, live in freedom and have a future in security?</seg>
+            <seg>In the Balkans, the devil lies in the detail, and there are four brief questions
+               that I wish to ask by way of clarification. First, will the Prime Minister confirm
+               that the interim status of Kosovo will be, de facto if not de jure, as an
+               international protectorate or trusteeship? Will he tell us who the sponsor of that
+               will be? Will it be the United Nations, the Organisation for Security and
+               Co-operation in Europe or the European Union?</seg>
+            <seg>Secondly, will the Prime Minister confirm that just as Rambouillet did not exclude
+               self-determination in the long term, nothing in the present agreement excludes it?
+               The agreement may not include it, but it should not exclude it.</seg>
+            <seg>Thirdly, does the Prime Minister agree that we must not repeat the mistake made in
+               Bosnia of putting the civil administration in too late? It should go in as early as
+               possible.</seg>
+            <seg>Lastly, will the Prime Minister refer back to his own statement, in which he
+               mentioned the experience of the refugees? They will not go back if they see Serb
+               troops. However, small numbers of Serb troops - lightly armed, or maybe unarmed - may
+               be on the borders. Will he reflect on what the refugees will think if they see Serb
+               troops on the borders? Will he consider this as a proposition: that every detachment
+               of Serb troops anywhere in Kosovo should be matched by a detachment of NATO troops
+               who will be there to reassure the refugees and, if necessary, afford them
+               protection?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We cannot take anything for granted until the killing stops on the ground in
+               Kosovo. Until the Serb forces are fully withdrawn, all options remain open. The basic
+               principles are that Milosevic's forces go out, the international force goes in and
+               the refugees go back - that is the simple mantra by which we must be guided.</seg>
+            <seg>On the right hon. Gentleman's detailed questions, the interim status of Kosovo is
+               as an international civil administration, so it is guaranteed by the entire
+               international community in that sense. We must establish it provisionally, and then
+               put in place the proper democratic mechanisms. Secondly, nothing is excluded in the
+               long term. Thirdly, I agree that the civil administration should go in and get to
+               work as soon as possible. Fourthly, it is important to remember that certain Serb
+               troops may go back in to do certain tasks that need to be done, but they are not
+               going back in to be the guardians of the people in Kosovo. Those envisaged as going
+               back in under the Ahtisaari agreement are fewer in number than those envisaged at
+               Rambouillet.</seg>
+         </u>
+
+         <u who="#BENN">
+            <seg>Will the Prime Minister tell the House when the draft UN resolution will be
+               published? To whom will the international force be accountable - the Security Council
+               or NATO? Have the Russians and the Chinese agreed to support the resolution before
+               the bombing stops? Is the territorial integrity of Yugoslavia endorsed in the
+               resolution? Has the Kosovo Liberation Army agreed to disarm and to be decommissioned?
+               Does the UN resolution require the removal of Milosevic?</seg>
+            <seg>Is it not clear that had the matter been taken to the UN with the support of Russia
+               and China weeks or months ago, this solution could have been made possible without
+               the destruction of Yugoslavia, the use of depleted uranium weapons, the pollution of
+               the Danube and indeed the destabilisation of the area? History may not view a NATO
+               that tore up the UN charter in quite the way that my right hon. Friend and his
+               colleagues appear to.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The terms of the Security Council resolution are circulating now. I do not know
+               what proper arrangements I should make for its being made available, but whatever I
+               am able to do I will do. Obviously, we want the resolution to be passed as soon as
+               possible. The Russian position on the resolution and the bombing has always been
+               clear, but so has our position: that we must be sure of the verifiable withdrawal of
+               Milosevic's troops before the bombing can be stopped.</seg>
+            <seg>On the territorial integrity of the Federal Republic of Yugoslavia, the current
+               proposition is precisely what was available at Rambouillet and could have been
+               accepted 10 weeks ago. The KLA's agreeing to disarm was also in the Rambouillet
+               agreement. From discussions that I have had with KLA people, I believe that they will
+               abide by what the international community has decreed, but they will of course also
+               want to know that the Serb troops really are out of Kosovo. That is hardly
+               surprising.</seg>
+            <seg>No, the removal of Milosevic is not required. We have made it clear that that is
+               not a war aim, but I have also made it clear - and I am sure that this will be the
+               position of the international community - that Serbia cannot be part of international
+               reconstruction and regeneration until he goes and there is a democratic Serbia,
+               because otherwise, for one thing, any money that went in there would simply add to
+               his very large personal wealth rather than going to his people.</seg>
+            <seg>The solution was not available weeks ago. If my right hon. Friend is saying that if
+               only we had picked up the phone and called the Russians and the Chinese everyone
+               would have come together and made an agreement and we would not have needed to do all
+               this, I really must ask him to reflect on that and on the lessons of what has
+               happened. We tried for months and months. There were 72 UN resolutions against
+               Milosevic. He will not accept any resolution from anyone unless he knows that the
+               alternative is force. I am afraid to say that that is obvious to most reasonable
+               people at the conclusion of these events.</seg>
+            <seg>My right hon. Friend is entirely entitled to take the view that he does, but the
+               choice was either to allow ethnic cleansing to continue unchecked or to do our best
+               to stop it. I do not feel any sense of triumph at what we have achieved, because I
+               know how many people have died and how many lives have been made miserable, but I
+               honestly believe that if we had allowed ethnic cleansing to continue unchecked the
+               consequences would have been far more devastating for people in Kosovo, for Balkan
+               stability, for the world as a whole and the values of civilisation.</seg>
+         </u>
+
+         <u who="#FORTH">
+            <seg> In which policy areas would the Prime Minister keep the veto?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Taxation, for example, and defence, but not in -</seg>
+         </u>
+
+         <u who="#FORTH">
+            <seg> Is that all?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Immigration is another example. There are lots of areas in which I would keep the
+               veto, but I would not take the view of today's Conservative party - a view that it
+               never took in government - which opposes qualified majority voting in any
+               circumstances. That really is not sensible. We could not have got the beef ban lifted
+               on that basis. I ask the right hon. Gentleman, however hostile his party is to Europe
+               today, not to ignore the possibility that it might be in government once more. It
+               should start at some point to get back to a sensible position on Europe.</seg>
+         </u>
+
+         <u who="#KAUFMAN">
+            <seg> </seg>
+            <seg>On European Union issues, will my right hon. Friend circulate in the Official
+               Report a list of the matters to which the Leader of the Opposition has objected this
+               afternoon that would be made inevitable by the Single European Act, which his party
+               guillotined through the House of Commons?</seg>
+            <seg>On Kosovo, will my right hon. Friend confirm that the Serbs' wrigglings, evasions
+               and attempts - still, at this point - to get out of the agreement come after their
+               Government and their Parliament have assented to it and there have been weeks of
+               bombing and months of negotiation? That being so, can my right hon. Friend speculate
+               on where we would be today if we had adopted not his resolute approach but the view
+               of the appeasers, from whom we have heard this afternoon, that we should have
+               appealed to the better nature of that indicted war criminal?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>On Kosovo, I agree that it is obvious that Milosevic will evade his
+               responsibilities, even now, if he thinks that our will has weakened. That is why it
+               is important that NATO makes it clear that it stands ready to take action should he
+               try to do so at any point.</seg>
+            <seg>In respect of Europe, I think that the speech that the Leader of the Opposition
+               made in Budapest a couple of weeks ago was an important speech on behalf of the
+               Conservative party. It revealed that the Conservatives would renegotiate the terms of
+               entry into the European Union. I asked them earlier but they could not name one
+               Government who agreed with that. I do not believe that they could name one
+               Conservative party, apart from this one, that agrees with that. It would not merely
+               be a policy of complete futility but the most extraordinarily inept way to conduct
+               our foreign policy. It is surely sensible that at long last we understand that we are
+               part of Europe and we should make it work in Britain's interests.</seg>
+         </u>
+
+         <u who="#BROOKE">
+            <seg>Where do matters now stand on the withholding tax?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Exactly where I said they stood in the House the week before Whitsun. We will not
+               agree to any tax being imposed on Britain from Brussels and we will not agree to any
+               measures that damage the City of London. What is more, we will succeed in obtaining
+               our objective.</seg>
+         </u>
+
+         <u who="#DALYELL">
+            <seg>Does the Prime Minister have any hard evidence that the KLA would be any more
+               willing to surrender its arms than the IRA?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There have been statements from KLA leaders in the past few days saying that they
+               will abide by the will of the international community. Of course, one of the reasons
+               why we have to have a substantial international force in Kosovo is to ensure that
+               that happens. However, given what the Kosovar Albanians have been through, it is
+               hardly surprising if people there are resisting by force. It is necessary that we,
+               through the international military presence, ensure that we can bring about a proper
+               civil administration in Kosovo so that the rule of law is once again upheld and
+               people are not terrorised on the basis of their ethnic background. In other words,
+               those things that have characterised Milosevic's rule in Kosovo must be brought to an
+               end.</seg>
+         </u>
+
+         <u who="#BELL-MARTIN">
+            <seg>Does the Prime Minister believe that the present British troop commitment in the
+               Kosovo area can be sustained in the long term without the raising of more infantry
+               battalions and, especially, engineer regiments? Do we have an Army big enough for all
+               that we are asking it to do?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Yes. We are sure that we can make the commitment necessary in Kosovo - we would not
+               have made it otherwise - and at the conclusion of the strategic defence review we
+               will be in an even better position to do so.</seg>
+         </u>
+
+         <u who="#RAMMELL">
+            <seg>Does my right hon. Friend agree that the fact that not one European Union
+               Government would support the Conservative party's proposals to renegotiate European
+               Union treaties suggests that that policy is tantamount to a call to withdraw from the
+               European Union? Is not that the reason why respected former Conservative Members of
+               Parliament, such as Nicholas Scott and Sir Julian Critchley - <incident>
+                  <desc>Laughter</desc>
+               </incident> - have today written to national newspapers to say that they cannot bring
+               themselves to vote Conservative on Thursday?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>It is a measure of the new extremism in the Conservative party today that people
+               such as Ian Gilmour, Nicholas Scott and Julian Critchley are derided when their names
+               are mentioned.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I say to those Conservative Members who are shouting and bawling and parading their
+               anti-Europeanism that one day they will regret it.</seg>
+         </u>
+
+         <u who="#TAYLOR-IAN">
+            <seg> </seg>
+            <seg>The fact that the NATO objectives during the conflict appear to be enshrined in the
+               UN resolution is a cause of great satisfaction and justifies the cross-party support
+               that the Prime Minister has had during this campaign. Does he expect China to support
+               the resolution when it goes before the UN?</seg>
+            <seg>At the Cologne summit, was there any discussion about how funds will go into
+               Kosovo? Does not the European Union need to do more than it has in the past and make
+               a more cohesive effort to ensure that Kosovo can restore its economy and the fabric
+               of its society, as well as its democracy? The responsibility of the European Union to
+               accelerate the process of enlargement will also require increased funds. Is that
+               fully understood? The welcome attempt by Europe to play a greater defence role within
+               NATO requires real leadership if the public are fully to understand that such great
+               progress in politics will not come cheaply.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, in respect of China, I cannot speak for the Chinese Government but we hope
+               that they will support the resolution.</seg>
+            <seg>Secondly, in respect of the Cologne European Union summit, I can tell the hon.
+               Gentleman that there was discussion of the fact that we need a substantial commitment
+               to regeneration and reconstruction in the Balkans. I agree entirely with his remarks
+               about Europe's common foreign and security policy, enlargement and defence
+               capability. One reason for our desire to engage in the debate about a common defence
+               policy is that it had been intended that Europe would have a common defence and
+               security policy in any event. We faced a choice between engaging with that debate and
+               shaping it in a way that was fully consistent with NATO, and opting out once again. I
+               am afraid that the latter option is the view of those on the Opposition Front
+               Bench.</seg>
+            <seg>I think that opting out would be foolish, but I agree that the debate does imply
+               changes of policy in member states. There is no question of abolishing the British
+               Army in favour of a European army. That has always been an absurd scare. However, if
+               Europe is to develop a proper and serious defence capability, we must examine the
+               strategic capability of European defence and the European defence industry to see
+               what changes are necessary. Kosovo has brought that lesson home to us in a very stark
+               way.</seg>
+         </u>
+
+         <u who="#DAVIES-DENZIL">
+            <seg>Is my right hon. Friend able to tell the House who will be responsible for the
+               civil administration in Kosovo? Will it be the United Nations? Also, what does he
+               envisage to be the likely legal status of Kosovo? Will it be an international
+               protectorate under the United Nations, or an independent state, or will it still be
+               subject, however nominally, to Serb sovereignty?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>As I said, the civil administration will be guaranteed by the international
+               community, and discussions will be held about Kosovo's eventual status. However, even
+               if the territorial integrity of the Federal Republic of Yugoslavia is respected,
+               there is no question of the Serb authorities being able to govern the lives of people
+               in Kosovo, as the question from my right hon. Friend implied. That is precisely why
+               all the Serb forces, police and paramilitaries must leave the region and why a proper
+               civil administration must be established there. It is also why we want Kosovo
+               eventually to be returned to the democratic will of its people.</seg>
+         </u>
+
+         <u who="#STANLEY">
+            <seg> May I return to a question from my right hon. Friend the Leader of the Opposition
+               that the Prime Minister did not answer? Why has one of the key provisions in the
+               Rambouillet accords - that after three years there should be an international meeting
+               to determine the final status of Kosovo - been dropped from the agreement reached
+               with Milosevic?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>That is not right: the resolution specifically states that full account must be
+               taken of the Rambouillet accords. However, part of the reason why that provision has
+               been overtaken by events is that people will now have to discuss what Kosovo's future
+               will be. That discussion, of course, will take full account of the wishes of the
+               people of Kosovo. Independence for Kosovo was not part of the Rambouillet accords,
+               although the idea of having a later conference to determine the matter was. However,
+               under the resolution that is being passed, a discussion of Kosovo's proper status in
+               the future will continue over the next period of time.</seg>
+         </u>
+
+         <u who="#CLWYD">
+            <seg> Will my right hon. Friend confirm that even today when Milosevic is defeated,
+               refugees crossing the border into Macedonia are being asked by the Serb authorities
+               to renounce their citizenship before they are allowed to proceed? Will he reconfirm
+               his resolve that Milosevic, as an indicted war criminal, must sooner or later stand
+               trial before the International War Crimes Tribunal at The Hague? Will my right hon.
+               Friend confirm that there is no hiding place for criminals such as Milosevic?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is absolutely correct that the Serbs continue to act as she says
+               toward people who are fleeing from Kosovo. The indictment of Milosevic stands.
+               Another indicted war criminal was picked up yesterday by British forces - those
+               people are slowly but surely being picked up - and those not yet picked up are having
+               to live perpetually in hiding. I agree that there must be no hiding place for
+               indicted war criminals.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>Is not the right hon. Member for Yeovil</seg>
+            <note>(Mr. Ashdown)</note>
+            <seg>right to say that it is not over until it is over on the ground in Kosovo? Is not
+               the reality that NATO forces will face years of vicious guerrilla warfare and a
+               situation not dissimilar to that faced by the German army there between 1941 and
+               1945?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> No, I do not believe that. It is right to say that it is not over until it is over
+               on the ground, but the agreement that we have made and that must be implemented is
+               that all Milosevic's forces and paramilitaries must go. I do not believe that what
+               the hon. Gentleman has described will in fact happen. If Milosevic fails to abide by
+               the agreement, military action will follow, and he knows it. The alternative espoused
+               by the hon. Gentleman would have been infinitely worse, allowing ethnic cleansing to
+               continue unimpeded so that hundreds of thousands of people would have been driven
+               from their homes or butchered. That is not acceptable.</seg>
+         </u>
+
+         <u who="#WINNICK">
+            <seg>Is my right hon. Friend aware that the only reason for shame would have been to
+               have taken no action alongside our allies against terrible crimes and atrocities
+               against humanity? That would have been a stain on our country's reputation for years
+               to come. The appeasers have been proved totally wrong, and it would do no harm if
+               they offered some self-criticism. If Pinter is ashamed to be British, as has been
+               reported, the remedy surely lies in his own hands.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I agree with my hon. Friend's general remarks. It is too early to talk about the
+               situation being over, but if we succeed in having the UN resolution implemented, that
+               will have happened only because we were prepared to use force. That is
+               axiomatic.</seg>
+         </u>
+
+         <u who="#HOGG">
+            <seg>May I ask the Prime Minister about the indictment of Mr. Milosevic? Now that Mr.
+               Milosevic has been indicted as a war criminal, can the right hon. Gentleman tell us
+               how he expects Mr. Milosevic to be brought before the tribunal?</seg>
+            <seg>Am I right to think that it is not contemplated that NATO will effect an arrest, at
+               least in the short term? Am I further right in thinking that the UN resolution makes
+               no provision for an arrest? Am I right to suppose that it is intended that the people
+               of Serbia should depose Mr. Milosevic and then deliver him up? If that is so, is it
+               not likely that Mr. Milosevic will cling all the more vigorously to power? What will
+               happen if, in order to effect a peaceful transfer of power, the people of Serbia
+               agree to let Milosevic live in peace in Serbia? Would we seek to reverse that
+               decision?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There are those who say that we should never have acted. There are others who say
+               that we should have gone all the way and removed Milosevic, but it was not possible
+               to have that as a war aim. The UN resolution makes it quite clear that the work of
+               the International War Crimes Tribunal stands; the tribunal does the indicting, and
+               all member states are obliged to give it whatever support and help they can. I cannot
+               comment on how matters will proceed except to say that we shall proceed as we have on
+               other indicted war criminals. It is far better to have reached our present position
+               than to have done nothing at all about Milosevic.</seg>
+         </u>
+
+         <u who="#GODMAN">
+            <seg>Switching to the European Union, the Prime Minister made passing reference in his
+               statement to enlargement. Given the obdurate refusal of a number of member states to
+               agree to the reform of the common agricultural policy, how hopeful is my right hon.
+               Friend that we can stick to the timetable for enlargement, or, is it not the case
+               that we are now facing the threat of a two-class membership of the EU?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Without provoking shrieks and shouts from Opposition Members I can say that we
+               should be able to get reform of the CAP in part due to the fact that much of it will
+               be done by qualified majority voting; otherwise, there would have been a danger that
+               much of the reform could simply be stalled. We would have preferred more radical
+               agricultural reform, but as a result of the reforms that we agreed at Berlin, the
+               British consumer will be saved about £1 billion a year. The agricultural reform
+               process is absolutely necessary for enlargement, so we will push it as hard as we
+               can. I hope by that to avoid what would be a significant problem for us, to which my
+               hon. Friend rightly drew attention.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>Does it remain the policy of the Government and their allies that the KLA terrorist
+               organisation must be wholly disarmed? Will the Prime Minister say how on earth he
+               intends that that should be done? As for the right hon. Gentleman's rather unusual
+               reference to the success of the single currency, will he make it abundantly clear -
+               true or false - that if the Labour party is successful at the next election, there
+               will be a referendum on a single currency shortly after the election?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> We have made our position on the single currency clear time without mention. The
+               hon. Gentleman's position is that we should never join a single currency. The
+               position of Conservative Front-Bench Members is that they would not join for two
+               Parliaments. Our position is that we should join a successful single currency,
+               provided that the economic conditions are met. That is a sensible position. What is
+               foolish is to rule out joining for ever. Even more foolish is to say, as those on
+               Conservative Front Bench do, that they will not join for two Parliaments but will, in
+               the meantime, cancel the changeover plan so that they could not join even if they
+               wanted to do so. With the greatest respect tothe hon. Gentleman, he is perfectly
+               entitled to his view that Britain should withdraw from the European Union, but I do
+               not think that that would be in the country's interests.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg> Why not answer the question?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>I have; I am afraid that the hon. Gentleman just does not like the answer. On
+               disarming the KLA, the disarmament process is set out in the United Nations
+               resolution. Of course, the logistics are for the international force to work
+               out.</seg>
+         </u>
+
+         <u who="#MAHON">
+            <seg> Is the Prime Minister aware that yesterday Kenneth Baker, a Pentagon spokesman,
+               said that many Serbs will want to exercise their freedom of movement and leave the
+               province when NATO moves in? Given that the bombing was meant to try to prevent
+               ethnic cleansing, which we apparently did not, will the Prime Minister give the House
+               the guarantee that he will do everything possible to prevent further ethnic cleansing
+               of the Serbs in Kosovo, many of whom have been ethnically cleansed from Krajina
+               already?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Of course I give that undertaking. The international force is there to ensure that
+               people are allowed to live in peace whatever their ethnic background. My hon. Friend
+               cannot dismiss the fact that the ethnic cleansing that took place in Kosovo was of
+               Kosovar Albanians. In relation to Serbs, I think that Mr. Baker was simply indicating
+               - incidentally, my hon Friend offered a slight misconstruction of his comments - that
+               the Serbs are free to go or to stay as they wish, but the international presence will
+               be there to guarantee the peace, security and safety of all ethnic groupings. I was
+               asked about this matter on television last night. Of course, it will be difficult
+               because of what has happened and there is no point dismissing that or thinking that
+               it will be easy for those communities to come back and live side by side with each
+               other again.</seg>
+            <seg>We undertook the action to reverse the policy of ethnic cleansing and to install a
+               proper, objective security presence. I have no doubt that British troops will be
+               entirely objective in their handling of both ethnic groupings.</seg>
+         </u>
+
+         <u who="#COLVIN">
+            <seg> At the summit, did the Heads of State of those countries that have joined the euro
+               still think that it was going to work, bearing in mind that their economies are now
+               diverging rather than converging? Was any estimate made of the sorts of cross-subsidy
+               that will be required to maintain convergence? What will be the cost of meeting that
+               end in terms of our contributions to the European budget?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> None is the answer to the last part of that question, since the budget
+               contributions were determined at Berlin. Before the hon. Gentleman and others dance
+               on the euro's grave, let me point out that he and many others like him said that the
+               euro would never happen. Whatever the fluctuations of the euro in the first few
+               months, I think that it will require a little more time than he is prepared to give
+               it to make an assessment. The answer to the first part of his question is that I
+               believe that there is a very significant determination among those countries that are
+               members of the euro to make it succeed. I think that he is a little premature in
+               writing it off.</seg>
+         </u>
+
+         <u who="#SOLEY">
+            <seg> If, as I hope, we are moving from the military to the political phase, to
+               rebuilding political stability in the Balkans, can the Prime Minister assure me that
+               we will do everything possible to keep Russia locked into the process and encouraged
+               in that way? I should not like this occasion to pass without placing on record our
+               appreciation of the professionalism of our armed forces. The Prime Minister's
+               leadership has been outstanding. I hope that he receives many letters of apology from
+               all the armchair critics who told him that his policy was doomed to failure and that
+               all that we could do was to watch ethnic cleansing in Europe on our television
+               sets.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Our troops have done a wonderful job and are now going to be called upon to do the
+               most difficult part of their task: escorting the refugees back and making sure that
+               they can live in peace. My right hon. Friend the Defence Secretary was out with the
+               troops earlier today. They can be immensely proud of the role that they have played,
+               particularly the humanitarian help that they have given. In respect of my hon.
+               Friend's other points, the important thing now is to make sure that the peace is
+               properly implemented and won as well.</seg>
+         </u>
+
+         <u who="#GARNIER">
+            <seg>Is there not a danger that the indictment of President Milosevic will be seen by
+               the Serb Government as a matter of no consequence and by others as amounting to no
+               more than a gesture unless NATO and the Government take practical steps to bring it
+               into effect? What practical steps can he and his fellow Heads of Government take to
+               ensure that an indicted war criminal is brought to justice?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I do not think that anyone, least of all Milosevic, regards his indictment as
+               merely a gesture or as insignificant. Some people say that we should be prepared to
+               invade Serbia and bring Milosevic to justice, which is the only sure way of doing
+               that, but for the reasons that I have explained, I do not think that we should take
+               that position. We are obliged to give all help to the International War Crimes
+               Tribunal. We shall judge the best way that we can do that. Slowly but surely, the
+               main war criminals from Bosnia are being picked up there. In the most recent period,
+               I think that 13 have been picked up. While there is a limit to what we can feasibly
+               do in these situations, we intend to go on doing everything possible to assist the
+               International War Crimes Tribunal, which we support.</seg>
+         </u>
+
+         <u who="#CAMPBELL-SAVOURS">
+            <seg> Will the interests of the valiant people of Montenegro, whom we do not talk about
+               much, be fully safeguarded in discussions over the next few days, particularly when
+               the sides return to the famous tent in northern Macedonia to consider arrangements
+               for the withdrawal of Serbian forces? I seek an assurance that they will not pass
+               through Montenegrin territory because that could destabilise that part of
+               Yugoslavia.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The people and Government of Montenegro and President Djukanovic deserve to be
+               congratulated on their courageous stand over the past few months. We have made it
+               very, very clear indeed that the troops are to withdraw to Serbia.</seg>
+         </u>
+
+         <u who="#WATERSON">
+            <seg>Can the Prime Minister explain why, following the Cologne summit those European
+               Commissioners tainted by sleaze are still at their desks, drawing salaries and
+               building up their pension rights?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>They are going. An entirely new Commission is going in.</seg>
+            <incident>
+               <desc>Hon. Members: "Entirely new?"</desc>
+            </incident>
+            <seg>The Commission has to be reappointed again.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The Commissioners are all there under contracts signed when the hon. Gentleman's
+               Government were in power.</seg>
+         </u>
+
+         <u who="#WISE">
+            <seg> Will my right hon. Friend tell us what steps will be taken to deal with the
+               pollution of the River Danube and with the other environmental consequences of the
+               war? Will additional economic, or other, conditions be placed on Serbia before
+               reconstruction of its extensively damaged infrastructure can take place?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>I would not pay too much attention to some of the allegations that have been made
+               about environmental damage before evaluating them properly. For example, after
+               investigation by wholly independent people from the UN, some of the allegations made
+               about such damage were found to be false. I do not know the answer to the question of
+               what environmental damage there is, but I suspect that there is a good deal less than
+               some of the people who have been supporting Serbia would accept.</seg>
+            <seg>What we are saying is clear and straightforward: we cannot put international money
+               into financing the reconstruction of Serbia while Milosevic remains in power. People
+               would not understand it if we did so. It is important to give a democratic Serbia the
+               prospect of being able to be part of Balkan reconstruction if it embraces the values
+               of democracy.</seg>
+         </u>
+
+         <u who="#COLLINS">
+            <seg> Would the Prime Minister recommend entry to the euro at the current exchange
+               rate?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> We are not at the stage of discussing what exchange rate the pound and the euro
+               should have, if we enter the euro. I believe that our policy is sensible. The hon.
+               Gentleman's policy would effectively rule out the euro and cancel the changeover
+               plan, which would mean that we could not join the euro even if we wanted to. That is
+               not a sensible policy. If I were him - one of the younger, aspiring Members on the
+               Conservative Back Benches - I would think about where he wants his party to be in a
+               few years' time, rather than joining in -</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Take it from us; we learned a long lesson in the 1980s. The way to get power is not
+               to behave irresponsibly; the anti-Europeanism of the Conservative party is
+               irresponsible.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

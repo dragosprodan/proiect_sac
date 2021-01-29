@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200304/cmhansrd/vo041108/debtext/41108-06.htm#41108-06_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>8 November 2004</date>
+               <date when="2004-11-08"></date>
+               <activity>The EU constitution</activity>
+               <locale>Brussels</locale>
+               <persName>Blair II</persName>
+               <name>91st ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="HOWARD">
+                  <persName>Mr. Michael Howard</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Folkestone and Hythe</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SWAYNE">
+                  <persName>Mr. Desmond Swayne</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>New Forest, West</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ross, Skye and Inverness, West</residence>
+               </person>
+
+               <person xml:id="KAUFMAN">
+                  <persName>Sir Gerald Kaufman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Gorton</residence>
+               </person>
+
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Louth and Horncastle</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="JACKSON">
+                  <persName>Helen Jackson</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Sheffield, Hillsborough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="TAYLOR-TEDDY">
+                  <persName>Sir Teddy Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Rochford and Southend, East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SKINNER">
+                  <persName>Mr. Dennis Skinner</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bolsover</residence>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="THOMAS">
+                  <persName>Mr. Simon Thomas</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Ceredigion</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="MAHON">
+                  <persName>Mrs. Alice Mahon</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Halifax</residence>
+               </person>
+
+               <person xml:id="LILLEY">
+                  <persName>Mr. Peter Lilley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Hitchin and Harpenden</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="JOYCE">
+                  <persName>Mr. Eric Joyce</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Falkirk, West</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="COHEN">
+                  <persName>Harry Cohen</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leyton and Wanstead</residence>
+               </person>
+
+               <person xml:id="BERCOW">
+                  <persName>Mr. John Bercow</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Buckingham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="FOULKES">
+                  <persName>Mr. George Foulkes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Carrick, Cumnock and Doon Valley</residence>
+               </person>
+
+               <person xml:id="FABRICANT">
+                  <persName>Michael Fabricant</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Lichfield</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BARNES">
+                  <persName>Mr. Harry Barnes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North-East Derbyshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BAYLEY">
+                  <persName>Hugh Bayley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>City of York</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SMITH-ROBERT">
+                  <persName>Sir Robert Smith</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>West Aberdeenshire and Kincardine</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ROBERTSON-HUGH">
+                  <persName>Hugh Robertson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Faversham and Mid-Kent</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="DJANOGLY">
+                  <persName>Mr. Jonathan Djanogly</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Huntingdon</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>With permission, Mr. Speaker, I shall make a statement on the European Council that
+               took place in Brussels on 4 and 5 November. I should like to thank Prime Minister
+               Balkenende and the Dutch Government for their arrangements for the summit, and for
+               the way in which they have conducted their presidency to date. The Council was
+               inevitably dominated by Iraq, given the presence of Dr. Allawi, the Iraqi Prime
+               Minister.</seg>
+            <seg>First, let me express what I know will be the sentiments of the entire House in
+               sending our profound condolences to the families of the Black Watch soldiers killed
+               by a terrorist bomb in Iraq last week and our sympathy to those soldiers injured
+               yesterday in another terrorist attack. We salute their dedication, professionalism
+               and, above all, sheer and undaunted courage. They are an example to us all and we can
+               and should be very proud of them.</seg>
+            <seg>Let us also be very clear about the fundamental importance to Britain's security of
+               what the Black Watch and, indeed, the British armed forces in the south of Iraq are
+               doing. Defeat of terrorism in Iraq is defeat for this new and virulent form of global
+               terrorism everywhere. A democratic Iraq is the last thing the terrorists want to see.
+               It is precisely for that reason—because victory for the terrorists would damage
+               security around the world, including here in Britain—that we have to hold firm, be
+               resolute and see this through, including in Falluja.</seg>
+            <seg>The action by allied and Iraqi forces under way in Falluja would cease now,
+               immediately, if the terrorists and insurgents who are using Falluja as a base for
+               terrorism laid down their weapons and agreed to participate in the elections. Over
+               the past few months, as he explained today, Prime Minister Allawi has tried to
+               persuade them to do so. They have refused, not because they are fighting a foreign
+               occupation—if the terrorism stopped, American, British and other troops would leave
+               Iraq—but because they are fighting democracy. They are fighting to stop democratic
+               elections, supervised by the UN and due to take place in January. They know that
+               while Falluja remains outside the control of the UN-endorsed Government, they can use
+               it to wreck elections. Why do the terrorists fear elections? Because they know that
+               given the chance to vote for their own Government, Iraqis would reject the extremism
+               and fanaticism these terrorists represent.</seg>
+            <seg>The powerful speech made by Dr. Allawi to the European Council made precisely those
+               points. He appealed for Europe's help. Some promised support of a military nature;
+               others promised only financial support. But all of the Council agreed that it was in
+               the interests of global security for Iraqi elections to take place. The Council also
+               agreed a comprehensive package of EU assistance for Iraq, including a further
+               programme of financial and logistical support for the elections, and financing for
+               the UN protection force. This is on top of €300 million of humanitarian and
+               reconstruction support from the EU over the past two years.</seg>
+            <seg>Following the re-election of President Bush, the Council also agreed that a close
+               transatlantic partnership was fundamental to building international peace, security
+               and prosperity, and that we now need to strengthen that alliance so that we can
+               intensify our work together in addressing the main international threats and
+               challenges of the moment, including regional conflicts, terrorism and the
+               proliferation of weapons of mass destruction. The Council also heard a presentation
+               from the former Prime Minister of the Netherlands, Wim Kok, on his mid-term review of
+               the Lisbon strategy on European economic competitiveness. He rightly concluded that
+               Europe has to do far more to improve its underlying economic performance if it is to
+               respond to the challenges of Asia and the United States, and he sensibly highlighted
+               the importance of completing the single market, developing flexible labour markets,
+               and promoting sustainable growth. The Council adopted a new five-year work programme
+               of measures in the area of justice and home affairs. There are great benefits for the
+               UK in co-operation with our European partners on these issues. Illegal immigration
+               affects all member states. However, the opt-in protocol for Britain</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. Mr. Bellingham, you had better be quiet, otherwise I will put you out of the
+               Chamber.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The opt-in protocol for Britain, negotiated in Amsterdam in 1997, remains. It is
+               also enshrined in the new constitutional treaty. We have used it successfully over
+               the past five years to opt in to new measures on asylum and combating illegal
+               immigration, and to opt out of measures on legal migration, frontiers and visas. The
+               protocol gives us the right to decide whether to participate in each item of the EU
+               work programme and makes nonsense of claims that Britain has given up the right to
+               control its own borders. If, of course, we opt in because we want a particular
+               measure, it is in our interests that in a Europe of 25 and soon 27 or 28 countries
+               the use of a veto by another country cannot block the measure.</seg>
+            <seg>Finally, the President-designate of the Commission, José Manuel Barroso, briefed us
+               on his proposals for restructuring the new Commission. He has reacted decisively to
+               resolve the dispute with the European Parliament, and I am confident that as a result
+               the new Commission will be able to take office soon. In summary, the meeting once
+               again underlined the importance to Britain of maintaining both a strong relationship
+               with the United States of America and a strong place in the Councils of the European
+               Union. Both partnerships are vital to the British national interest and it will
+               remain the policy of this Government at least to nurture both.</seg>
+         </u>
+
+         <u who="#HOWARD">
+            <seg>I join the Prime Minister in expressing our deepest sympathy to the families of the
+               soldiers of the Black Watch who have lost their lives and our good wishes for a
+               speedy recovery to those who have been injured. I join, too, in the tribute that the
+               Prime Minister paid to the outstanding dedication, professionalism and courage of the
+               Black Watch.</seg>
+            <seg>I welcome both the European Council's discussions with Prime Minister Allawi and
+               the financial contribution towards elections in Iraq. I support everything that the
+               Prime Minister said about the importance of defeating terrorism in Iraq and
+               elsewhere. Events in Samarra have shown that bringing an area under ostensible
+               control does not, sadly, always mean an end to insurgency. Can the Prime Minister
+               tell the House as much as he can about the coalition's plans to deal with the
+               situation that is likely to arise in Iraq after the battle for Falluja?</seg>
+            <seg>I welcome the Council's agreement on the importance of a close transatlantic
+               partnership and on the need to strengthen the alliance. What specific proposals does
+               the   Prime Minister have to bring that about? The communiqué emphasises the middle
+               east peace process, although his statement was silent on the subject. Is it not time
+               to turn again to the road map? Should we not now seize the moment to make real
+               progress on the ground towards a secure Israel within internationally recognised
+               borders and a viable Palestinian state?</seg>
+            <seg>The European Council also discussed Iran's nuclear programme. Has preliminary
+               agreement been reached on that issue with Iran? In the past, Iran has not complied
+               with the undertakings that it has given, so what measures are proposed to make sure
+               that it does so this time? The communiqué also expresses grave concern about Darfur.
+               Has not the time come for immediate United Nations action, including automatic
+               sanctions, to ensure that the Sudanese Government reign in the militias? Should not
+               the African Union forces be given the mission to keep the peace, rather than just
+               monitor the situation, to put an end to the dreadful attacks on civilians that still
+               continue in that area?</seg>
+            <seg>The Prime Minister has boasted endlessly about progress on economic reform in
+               Europe. In 1998, he said <quote>"We have to reform Europe and we are winning that
+                  battle"</quote>. In 2000, he said that there had been <quote>"a sea change in
+                  European economic thinking... away from heavy-handed intervention and
+                  regulation, towards a new approach based on enterprise, innovation and
+                  competition."</quote>
+               <bibl type="source">Official Report, 27 March 2000; Vol. 347, c. 21.</bibl>
+            </seg>
+            <seg>But is not that all talk? Has not Romano Prodi admitted that economic reform in
+               Europe has been a <quote>"big failure"</quote>? Has not the director general of the
+               CBI said that Europe has got to change? Has not Wim Kok said that <quote>"too many
+                  targets will be seriously missed"</quote>? The aim of the Lisbon agenda was to
+               make Europe the most dynamic economy in the world by 2010. Is not that just a pipe
+               dream? Will not we all pay the price in terms of lower productivity, lower living
+               standards and fewer jobs? Promises on economic reform are not the only areas where
+               the Prime Minister has been all talk. Four years ago, he said that he did not want a
+                  <quote>"single, legally binding document called a Constitution"</quote> yet that
+               is exactly what he signed a week ago. The director general of the CBI has said that
+               the constitution will not help business. The Prime Minister's own former chief
+               economic adviser has said that it will <quote>"entrench Europe's economic failings
+                  and drag Britain down too"</quote>.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Well, this was someone to whom the Prime Minister listened for six and a half
+               years, so I think that his views might be entitled to a modicum of respect. Is not it
+               the case that the constitution will make Europe's economy even less flexible, even
+               less competitive and even more sluggish than it is today? Earlier this year, the
+               Prime Minister promised that <quote>"we will retain completely our control over our
+                  asylum policy"</quote>. But was not that promise all talk? At the summit, a
+                  <quote>"common European asylum system"</quote> was agreed. The communiqué that the
+               Prime Minister signed says: <quote>"the Constitutional Treaty greatly increases the
+                  powers of the European Court of Justice in that area"</quote>. Does not that mean
+               in plain English that more and more decisions on asylum and immigration will no
+               longer be taken in this elected Parliament, but will in future be taken by the
+               unelected judges of the European Court?</seg>
+            <seg>It is no good the Prime Minister's talking about opt-outs when he has chosen to opt
+               into all the major measures on asylum. Is not all this a huge lost opportunity? Are
+               not there practical policies that would turn some of the Prime Minister's rhetoric
+               into action? If the Prime Minister means what he says about listening to people on
+               Europe, why will not he match our pledge to set a date next year for the referendum
+               on the constitution so that the people can have their say? If he means what he says
+               about a modern Europe, why does not he put the case for greater flexibility,
+               including the return of powers from Brussels to Britain so that we are no longer
+               forced to accept so many new regulations that we do not support?</seg>
+            <seg>In 1997, the Prime Minister promised to <quote>"lead a campaign for reform in
+                  Europe"</quote>. Seven and a half years later, in a diverse Union of 25, and in a
+               fiercely competitive world, is not the need for a modern, flexible, reformed European
+               Union more urgent than ever and under this Prime Minister, despite all his talk, are
+               not we further away from it than we have ever been before?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, let me deal with the questions on Iraq. In respect of Samarra, Najaf, Tal
+               Afar and other places that have been taken back into the control of the Iraqi
+               Government and Iraqi forces, it is of course true that terrorists will carry on
+               actions in those places, as they did in Samarra just a few days ago.</seg>
+            <seg>There are a couple of interesting points, however. When those terrorists have been
+               cleared out of these cities, it has become very obvious, contrary to what we were
+               told beforehand, that they did not enjoy the support of local people; on the
+               contrary, local people were all too glad to get rid of them so that they could get
+               back to the lives that they wanted to lead.</seg>
+            <seg>Let us be clear that the purpose of the action in Falluja is to stop it being used
+               as a base for terrorists and insurgents who are killing innocent people in Iraq and
+               anybody who tries to make the country better. If and when we take back control of
+               Falluja so that it is in the control of the Iraqi Government, a process of
+               reconstruction will follow, as happened in Samarra and Najaf, where literally
+               hundreds of millions of dollars are being spent on reconstruction projects. The
+               people can then participate fully in the elections. I do not minimise the
+               difficulties but it is essential for the holding of democratic, free and fair
+               elections that the power and grip of the terrorists and insurgents in some parts of
+               Iraq be broken. That is why Prime Minister Allawi has authorised the
+               operations.</seg>
+            <seg> </seg>
+            <seg>It is extremely important that we make progress on the middle east now. Progress
+               must be towards a two-state solution; an Israel confident about its security and a
+               viable, independent Palestinian state. It is essential to take measures to make
+               progress on that. I hope that we shall do that as soon as possible. As I said when I
+               congratulated President Bush on his re-election, it is the single most pressing
+               political challenge of the moment.</seg>
+            <seg>We are still at the point of negotiation on Iran. A series of issues has been
+               agreed at political director level, but not yet at intergovernmental level between
+               the European three—France, Germany and the United Kingdom—and the Iranian Government
+               but we are hopeful that we will be able to make some progress in the next few
+               days.</seg>
+            <seg>On Sudan, it is important to make it clear that not only the Sudanese Government
+               should exercise restraint; some of the Sudanese rebel groups must do so. A series of
+               measures has been laid down for the Sudanese Government and they must follow them. If
+               they do not, there has to be reference to the Security Council and necessary measures
+               must be taken.</seg>
+            <seg>I agree with the right hon. and learned Member for Folkestone and Hythe <note>(Mr.
+                  Howard)</note> that the African Union should not only increase the number of
+               troops available there but make it clear that, if possible, it can keep the peace as
+               well as monitor what is happening there. However, it is a difficult and delicate
+               situation for the troops that are going into it. We are watching the situation
+               carefully. My right hon. Friends the Foreign Secretary and the Secretary of State for
+               International Development are in constant touch with their opposite numbers in other
+               capitals and with the Sudanese Government. However, the situation remains serious. If
+               anything, it has got worse rather than better in the past few weeks. If we do not get
+               obedience and compliance with the measures that the international community laid
+               down, we will have to revert to the matter at Security Council level and take
+               action.</seg>
+            <seg>It is worth pointing out that, since 1999, some 6 million jobs have been created in
+               Europe and liberalisation has taken place in many sectors under the Lisbon strategy
+               process. I agree that it is important that we do more but the right hon. and learned
+               Gentleman's policy of being a semi-marginalised player in Europe will not help to get
+               economic reform. As for the woeful things that he claims will happen if the EU
+               constitution is passed, I merely point out that he used to make the same predictions
+               when he was Secretary of State for Employment in the previous Government about the
+               social chapter. I think I remember his saying that 500,000 jobs would desert Britain
+               if we signed the social chapter. We signed it and 2 million extra jobs have been
+               created since. His powers of prediction are not good.</seg>
+            <seg>I am surprised that the right hon. and learned Gentleman opposes our opt-in on
+               asylum. A few months ago, he made a speech in which he said that a process whereby
+               countries decided whether to opt in to specific measures was precisely the direction
+               in which Europe wanted to go. We have delivered that, but the moment that we do so,
+               he switches around 180°, in his usual opportunistic fashion, and says that it is a
+               disaster for the country.</seg>
+            <seg>The right hon. and learned Gentleman mentioned the charter of rights. Let me read
+               part of our protocol to him. It states: <quote>"No decision of the Court of Justice
+                  interpreting any such provision"— to do with asylum and immigration— "shall be
+                  binding upon or applicable in the United Kingdom."</quote> That destroys the
+               effect of the right hon. and learned Gentleman's point. As for his view that we
+               should have a bold strategy of renegotiating the existing membership of the European
+               Union, it is, as some his hon. Friends have pointed out, simply not on the table. He
+               would have to get the agreement of every one of the other members to renegotiate
+               that. How many members have agreed?</seg>
+            <incident>
+               <desc>Hon. Members: "Norway."</desc>
+            </incident>
+            <seg>I think we are back to the Norway issue. Following the right hon. and learned
+               Gentleman's comments at the weekend, it is extraordinary that, in his first year as
+               Conservative leader, he has managed to achieve a foreign policy position that would
+               make us a marginalised member of the European Union and not welcome in the White
+               House either. Only his leadership could have brought the Conservative conception of
+               foreign policy to such a pass.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>I thank the Prime Minister for his statement. May I join him, on behalf of my right
+               hon. and hon. Friends, in extending our condolences to the families of the Black
+               Watch personnel who have been killed or injured, as well as to those of the very
+               brave civilians who are giving their support and assistance to the Black Watch in
+               their extremely dangerous job? The families not only of serving Black Watch personnel
+               but of the Scots Guards, who have reportedly been placed on replacement standby,
+               would welcome some clarification of the Government's position on possible replacement
+               forces, given that they are clearly adhering to their view that the Black Watch will
+               be home by Christmas. The House and the families concerned would welcome any
+               clarification that the Prime Minister can give them on that issue, not least because
+               there were contradictory reports in the media this weekend on whether replacement
+               forces would be deployed at the end of this period.</seg>
+            <seg>Whatever the original principled disagreements over the basis for the war, and,
+               indeed, the more recent divergences of view over what many of us regarded as a
+               strategic political and military shift over the Black Watch deployment, there is
+               obviously consensus on wanting to see the democratic timetable and an independent
+               Iraq achieved, and on our having no truck with terrorism. I am sure that the Prime
+               Minister will acknowledge, however, that the real concerns over this American-led
+               assault on Falluja—not least in terms of the civilian casualties involved—give rise
+               to fair and legitimate questions. These questions have been raised on the
+               international stage by Kofi Annan, the Secretary-General of the United Nations, and
+               they are also arising within the Iraqi interim Government, not least in the different
+               viewpoints now being expressed by the Prime Minister and the President there.</seg>
+            <seg>Does the Prime Minister agree that, whatever the events of the next few days and
+               weeks in Falluja, it is essential that the Americans' conduct does not squander any
+               moral capital or undermine the legitimacy of the democratic process, especially if
+               that were to result in a Sunni boycott of any elections taking place in January? On a
+               practical as well as moral level, will the Prime Minister address the question of
+               what contingency plans have been put in place to deal with those insurgents who have
+               already fled Falluja, or who will in due course be flushed out of the city and move
+               to other parts of the country, perhaps to carry on their notorious activities there?
+               Formal hostilities in Falluja are commencing as we speak, so I am sure that the Prime
+               Minister will acknowledge that these are responsible questions to which the House
+               will genuinely want to return in due course.</seg>
+            <seg>On the allied issue of Iran, the Prime Minister has already responded to some of
+               the discussions that have taken place. He has an important summit meeting coming up
+               later this week with President Bush, which is surely welcome, given the agenda that
+               will be in front of them. If, as he suggested a moment ago, further discussions among
+               the three European powers—the United Kingdom, France and Germany—will be taking place
+               over the next few days, is he hopeful that he will be in a position to ask the
+               President to endorse the strategy of these three countries in regard to Iran later
+               this week in Washington? On completion of that summit meeting, does he intend to
+               return to the House with a further statement of this kind, perhaps this time next
+               week, to enable further discussions to take place?</seg>
+            <seg>On the issue of the eventual composition of the European Commission, does the Prime
+               Minister agree that the way in which the European Parliament, as the directly elected
+               representative body of all the member states, was able to have an impact on the
+               President of the Commission should encourage one and all of a Eurosceptic disposition
+               or otherwise that it is the proper forum in which proper European parliamentary
+               pressure can be exerted to achieve a healthier, more desirable outcome? Does he also
+               agree that this recent crisis, so-called, in fact redoubles the argument for a
+               smaller Commission—ultimately—of precisely the type that the constitution puts
+               forward?</seg>
+            <seg>Finally, on the issue of the constitution and the referendum pertaining to it, the
+               Prime Minister has said that it is the Government's position that there should be a
+               referendum in due course. Will he confirm that the Government, irrespective of what
+               might happen in referendums that may precede one here, will proceed with a
+               referendum, come what may, in this country? If the type of economic liberalism and
+               greater economic flexibility, to which he alluded in his statement and which were
+               discussed at the summit, are achieved, will he perhaps, on a future occasion, see
+               scope for doubling up a referendum on the constitution with one on the single
+               currency?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, in respect of Iraq, let me say that although we had a disagreement about the
+               war, I accept entirely that the questions the right hon. Gentleman is asking are
+               perfectly legitimate ones to ask in this connection. I have made it clear that the
+               Black Watch deployment will be finished so that the Black Watch is back in time for
+               Christmas. It is not anticipated that the Scots Guards will replace the Black Watch
+               in the job that it is doing at the present time.</seg>
+            <seg> </seg>
+            <seg>I also entirely agree that the important thing is to ensure that the democratic
+               elections in Iraq go ahead. As I think we saw with Afghanistan, what happens in the
+               course of the movement towards democracy is that some of those people who were
+               anti-democratic forces end up on the defensive because people can see that there is a
+               democratic process they can take part in. The power of some warlords in Afghanistan
+               was broken not in the two years after the invasion, but in the few months running up
+               to the democratic elections. The decision in respect of Falluja was taken by the
+               Iraqi Government. It is really important that people understand this. Prime Minister
+               Allawi made it very clear when he was appointed by the United Nations—endorsed by the
+               United Nations—back in June that decisions of this nature were for him. Anyone who
+               heard his press conference today, including his description of exactly how those
+               terrorists and insurgents are using hospitals, schools, mosques and other places to
+               store explosives and to try to ensure that in removing them there is the maximum
+               damage done, could hear from his statement how passionately he believes that this is
+               important. I understand that the decision has also been endorsed by the National
+               Assembly. The very fear that he and others have is that if these terrorists and
+               insurgents are allowed to carry on effectively making no-go areas in Iraq for the
+               Iraqi Government, the issue of elections will be made more difficult.</seg>
+            <seg>That brings me to the UN and the Secretary-General's letter. He said in that letter
+               that the Iraqi elections are what he called, I think, the keystone of progress in
+               Iraq. That is true. It is true also that he went on to express reservations about the
+               action in Falluja, but as Prime Minister Allawi says, without the action in Falluja
+               the keystone of the democratic process may be at risk. That is the important reason
+               for doing it.</seg>
+            <seg>I think the Secretary-General is right also in saying it is important that we
+               retain the moral high ground in fighting for elections in Iraq, but I say this to him
+               and to others: part of us doing that is to keep emphasising the whole time to people
+               that if the terrorists and insurgents would stop, elections would go forward. There
+               would be full participation by Sunnis and others in those elections. Everyone wants
+               that to happen. If the terrorism and insurgency stopped, there would be no need for
+               American and British and other countries' troops to help the Iraqi forces before they
+               are able to look after Iraq on their own.</seg>
+            <seg>The truth of the matter is that it is the terrorism that keeps troops from America,
+               Britain and elsewhere there. If it stopped, of course, the Iraqi Government would be
+               able to assume control of those areas, the UN-sponsored elections would take place
+               and we would have a democratically elected Government. That is why I say to people
+               that the absolutely critical argument to understand is that these terrorists are not
+               fighting foreign troops because of their presence - they are fighting them because
+               they are an obstacle to preventing democratic elections. They know that if democratic
+               elections happen, people will never give up democracy.</seg>
+            <seg>In Afghanistan, turnout was highest among women, and highest in the areas where the
+               Taliban used to hold sway. It is obvious from the past few weeks, I am afraid, that
+               the terrorists have an increasingly sophisticated strategy, in relation to how they
+               operate, what they say and how they play the modern media. They are trying to ensure
+               that they focus attention not on their attempt to prevent democracy but on the
+               presence of foreign forces in Iraq, when they know perfectly well that those forces
+               would leave if only the terrorism stopped. In respect of Iran, the Americans, France,
+               Germany and the UK take the same line: we have all made it clear that it is not
+               acceptable for Iran to acquire nuclear weapons capability. It should come into
+               compliance with the International Atomic Energy Agency. We are trying to put maximum
+               pressure on it to do that. I am sure that the right hon. Gentleman would endorse that
+               strategy, which we all endorse.</seg>
+            <seg>In respect of the European Parliament, I sort of agree with what the right hon.
+               Gentleman says. In respect of a smaller Commission, I entirely agree with what he
+               says—in time, I think that that is important. We have made it clear that we will have
+               a referendum on the EU constitution. As for combining that with one on the euro, we
+               have always made it clear that membership of the single currency must be decided on
+               the basis of the economic tests, and that remains the case.</seg>
+         </u>
+
+         <u who="#KAUFMAN">
+            <seg>Was it not churlish of the Prime Minister not to congratulate the Leader of the
+               Opposition on his first anniversary as leader, since the right hon. and learned
+               Gentleman will not be around to celebrate a second anniversary?</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order. The right hon. Gentleman is out of order. I call Sir Stuart Bell.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>I am grateful, Mr. Speaker, for the opportunity of answering a question on behalf
+               of the Prime Minister.</seg>
+            <seg>However, the Prime Minister, in his statement, referred to our strong relationship
+               with the United States and our strong place in the European Union's Councils. He said
+               that that was Government policy and that it was in our national interest, but were
+               there not siren voices in the Council indicating that competition between the
+               European Union and the United States was a better policy than competition and
+               collaboration? Will he not reiterate that that transatlantic co-operation and
+               closeness to which he referred should also be the policy of the entire European
+               Union?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Obviously, I agree with my hon. Friend. In so far as there are any voices saying
+               that Europe should try to set up a rival pole of power to the United States, I think
+               that it is far better that we co-operate strongly together. Of course, that is
+               another reason why it is important for Britain to stay part of the European Union and
+               a key player in Europe. It cannot be stressed too often that many countries around
+               the table in Europe—let us remember that 12 out of the 25 have troops in Iraq—are
+               strong supporters of the transatlantic alliance and need Britain arguing that case
+               with them.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>Will the Prime Minister now answer the core argument in the letter of the
+               Secretary-General of the United Nations, which is that an attack on Sunni-held
+               Falluja by mainly Shi'a militia, under cover of American firepower, far from making
+               it more likely that there will be peaceful elections there in January, will prove
+               dangerously divisive for the future social and political unity of Iraq?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>That is simply not the case. It is not the Sunni-held town of Falluja: the town is
+               held hostage by terrorists and insurgents. If they stopped and laid down their
+               weapons, that town would have its own municipal democratic elections, and the town as
+               a whole could participate in the Iraqi elections. Surely what the hon. Gentleman and
+               every democrat should say is,</seg>
+            <quote>"There is no need to fight; if you believe in what you are doing, stand in the
+               elections."</quote>
+            <seg>What Prime Minister Allawi would say to him is that the very purpose of the
+               terrorists, many of whom are not Iraqi, never mind from Falluja, is to stop the
+               democratic process. Surely all of us who are democrats, whatever we think about the
+               war, should agree with the Iraqi Government.</seg>
+         </u>
+
+         <u who="#JACKSON">
+            <seg>Many of us feel that since the American elections there is an even greater need for
+               very close integration with Europeans on our foreign policy. Was my right hon. Friend
+               able to secure the full backing of European Union partners for our aid and
+               development programme, and particularly our concentration on Africa, for when we hold
+               the presidency—we hope—of both the European Union and the G8 next year?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is right to say that aid and development are an important element of
+               our partnership in the European Union. I believe that there is wholehearted support
+               for that, and I also believe that there is support for it in the United States of
+               America. It is important, therefore, for us to use not just the EU presidency but the
+               G8 presidency to further that agenda. As my hon. Friend will know, we have selected
+               climate change and Africa as the two key subjects for our G8 presidency.</seg>
+         </u>
+
+         <u who="#TAYLOR-TEDDY">
+            <seg>Given widespread concern about the appalling situation in Iraq extending and not
+               being contained, will the Prime Minister and the European Council make it abundantly
+               clear that we are wholly opposed to the bombing or invasion of Iran by America,
+               Israel or anyone else? Will he seek to remind his friend President Bush that it is
+               only a few years since the Americans were supporting, and providing weapons of mass
+               destruction for, their then friend Saddam Hussein so that he could invade Iran?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No one is talking about an invasion of Iran. No one has ever talked about it, to my
+               knowledge. I think it is completely absurd of us to talk in this way. However, it is
+               obviously important for Iran to face up to its obligations under the International
+               Atomic Energy Agency. It should also be recognised that our reasons for taking action
+               against Saddam Hussein—going back over 12 or 13 years—were his invasion of Kuwait,
+               his defiance of United Nations resolutions, and the plain intent that he had to
+               develop weapons that cause immense damage not just to the middle east but to the
+               wider world.</seg>
+         </u>
+
+         <u who="#SKINNER">
+            <seg>Is the Prime Minister aware that, now that we have these statements on European
+               summits, no one—with the exception of the leader of the Liberal Democrats—seems to
+               care about the euro or the single currency any more? Are there any long faces when he
+               meets these people? There has been all this talk about our having to join. Seven and
+               a half years have elapsed, and we have kept our promise. I hope everyone understands
+               that. Will the Prime Minister tell them that, at least until the next election, we
+               will not have anything to do with it, and will leave the Liberal Democrats to play
+               with their own little toys?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I will not put it exactly like that, but my hon. Friend makes an important point.
+               For years we have been told, particularly by the Conservatives, that our ability to
+               decide whether we want to join the single currency will somehow be taken away by
+               Europe. The fact is that we have that right—we have it absolutely—and we have made it
+               clear that in the end it is a decision for the British people.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>The Prime Minister referred to Wim Kok and his indictment of the way in which
+               Europe has been going. He has also referred to the CBI. He will know that today the
+               president of the CBI issued a similar indictment. He also knows that David Arculus,
+               the head of his own Better Regulation Task Force, has said that this is costing £100
+               billion a year in over-regulation, much of which emanates from the EU. Does he accept
+               that in the past seven years he and his Government have agreed to a large number of
+               those regulations? Does he also accept that he can therefore do something about it?
+               He can use the powers of this legislative Chamber—this House of Commons—in the
+               interests of British business, which is becoming increasingly angry, to repeal or
+               amend any of the legislation that is having such an impact on British business.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Let me make two points. First, I do not think the director-general of the CBI would
+               agree with the hon. Gentleman's views on Europe, whatever he says about European
+               regulation.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>It was the president.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Or indeed the president, for that matter. Secondly, of course, regulation has been
+               agreed by this Government in the European Union and indeed by the previous Government
+               in the European Union, which I know was not much to the hon. Gentleman's liking
+               either, but it is important to recognise that the only way that we can get Europe to
+               take a better and more sensible view of regulation is to be in there and to be part
+               of it. The alternative is to get out of Europe altogether. I think that he probably
+               would favour that in the end, but it would not be in the interests of British
+               business and British jobs. I do not think that the CBI would opt for that
+               either.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>Does not my right hon. Friend agree that the importance of the Lisbon agenda is
+               that, for the first time, it set out benchmarks for economic reform in the EU? The
+               purpose of the Kok     report was, rightly, to praise countries such as Britain that
+               have risen to the challenge of economic reform and to criticise others that have
+               failed to do so. It is an opportunity to ensure that those who have not moved forward
+               will do so by the time of the mid-term review next spring and indeed during our
+               presidency.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>That is absolutely right. It is worth pointing out that it is not simply Britain
+               that has undertaken economic reform but Spain, Denmark, Holland and other countries.
+               A huge reform programme is under way in Germany, tackling really difficult issues.
+               The purpose of the Wim Kok report was to say not that everything in Europe is
+               hopeless but that, on the contrary, there was a certain amount of progress but there
+               needed to be much more.</seg>
+         </u>
+
+         <u who="#THOMAS">
+            <seg>As the Prime Minister set out tackling climate change as one of his key
+               international objectives for next year in the G8 and in the EU presidency, can he say
+               what progress was made at the summit on that subject? In particular, can he take the
+               opportunity to defend the reputation of his chief scientific adviser, Sir David King,
+               against the attacks on him last week by the adviser to President Bush on climate
+               change?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I am not sure that the person who made the attacks is an adviser to President Bush,
+               still less a member of the US Administration, but obviously I entirely agree with
+               David King's position on climate change. He is absolutely right. We did not discuss
+               it at the European Council, but the European Union would be broadly supportive of
+               that position. It is important that we try to begin a dialogue with the US, very much
+               based on science and technology, as to how to deal with greenhouse gas emissions in
+               the years to come. I hope that we can take forward that agenda.</seg>
+         </u>
+
+         <u who="#MAHON">
+            <seg>If, after another brutal bombardment of Falluja, the Sunni Muslims refuse to
+               participate in the elections, what strategy will the ever decreasing coalition employ
+               to bring democracy and security to Iraq? Will it be bomb a city a month until all
+               that is left in Iraq is rubble and hatred?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No, the strategy is very clear: it is to say that, instead of the government of
+               Iraq and Iraqi towns being decided by terrorists who plant car bombs, kill innocent
+               people and kill contractors who are trying to make the country better, there should
+               be a democratic process in which people stand for election both locally and
+               nationally and get elected on the basis of the ballot box. I cannot understand why
+               people cannot agree with that. In respect of the figure of 100,000 that has been
+               bandied about as the number of people who have died in Iraq over the past period, I
+               saw today, looking at the figures in greater detail, that the figure is extrapolated
+               from the recorded deaths of 61 people. When one sees that, one can understand how
+               much propaganda is coming through on the issue.</seg>
+         </u>
+
+         <u who="#LILLEY">
+            <seg>Does the Prime Minister accept that what he has signed up to on immigration is a
+               ratchet mechanism for the     one-way transfer of power on making immigration policy
+               away from this country to the supranational authorities in Europe? Can he confirm
+               that, whenever the Government opt in, as he puts it, to immigration measures taken
+               under that procedure, if circumstances subsequently change, or the European Court
+               interprets those measures in ways that we do not anticipate, we will be unable to
+               amend them, or to withdraw from them?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The simple position is that we are entitled to decide whether we opt in to any of
+               these measures. That is the pick and choose Europe, if you like, that I thought the
+               right hon. Gentleman and others supported. It is precisely what we are able to do.
+               Indeed, it is more than that: if at the end of the process we decide not to opt in
+               when the measure is first discussed, after that discussion, we can also decide to opt
+               in. Of course, once we opt in, we are part of that process.</seg>
+            <incident>
+               <desc>Hon. Members: "Ah!"</desc>
+            </incident>
+            <seg>But it is our complete choice as to whether to opt in; we might as well say that
+               about any measure in Europe. I thought that the whole point was that the Conservative
+               party wanted a situation in which, when measures were discussed, we had the decision
+               whether to opt in or not. This gives us that decision. Obviously, once we opt in,
+               that is presumably because we have decided that it is in our interests to do so. Only
+               the Conservative party could say that a decision whether to opt in is somehow a
+               negation of our sovereignty; surely it is the expression of it.</seg>
+         </u>
+
+         <u who="#JOYCE">
+            <seg>Does my right hon. Friend agree that the best way for people in Scotland, and
+               across the United Kingdom, to show their support for the Black Watch Regiment is by
+               recognising its ability to carry out the task in hand, and the historical importance
+               of that task?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> My hon. Friend, who I believe was actually a member of the Black Watch
+               Regiment</seg>
+            <note>Mr. Joyce indicated assent.</note>
+            <seg>My hon. Friend speaks with a particular authority, and I hope that people will
+               listen to what he said. I am sure that, as someone who used to serve with the Black
+               Watch, his words will command the attention and support of everyone.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>On immigration and asylum, can the Prime Minister confirm the figure extracted from
+               the Home Office in July showing that the United Kingdom has recently agreed to
+               participate in 26 separate measures in that field, including measures defining
+               unauthorised entry, transit and residence, visas, asylum, and the qualification and
+               status of non-EU nationals in seeking entry to this country? Will he confirm that
+               that figure is correct? If it is, does that not show a clear transfer of decision
+               making and authority from this House to the EU, to be decided by majority voting,
+               even if the Government disagree with the eventual decision by that procedure?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We decide our own asylum policy here. The Opposition can make many criticisms of
+               the asylum and immigration policy, but the one sure thing is that it has been decided
+               here. However, with some measures we will want to opt in—for example, those to do
+               with illegal immigration, for which it is important that we get European
+               co-operation. Surely the best thing is for it to be the decision of the Government
+               whether to take part. If we decide to take part, we do take part—presumably because
+               we think that that is in our interest. If we decide not to take part, we do not have
+               to take part. It is beyond me why that does not command the support of the
+               Conservative party.</seg>
+         </u>
+
+         <u who="#COHEN">
+            <seg>In the discussions with Dr. Allawi—who, according to the last poll that I saw,
+               represented about 3 per cent. of Iraqi public opinion—was it maintained that the
+               assault on Falluja was being done for the United Nations, as the Prime Minister
+               maintained to my hon. Friend the Member for Halifax</seg>
+            <note>(Mrs. Mahon)</note>
+            <seg>last week? How can that be so, when the Secretary-General of the United Nations has
+               urged that it should not be undertaken, and said that it would make legitimate
+               elections in Iraq in January less possible?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Surely, in the end, as for the decision whether Dr. Allawi commands support in
+               Iraq—all the polling evidence that I have seen shows that he enjoys considerable
+               support there—my hon. Friend may be right, or I may be right. Put it to the test. Let
+               there be elections in Iraq in January, and let the terrorists and insurgents lay down
+               their weapons so that those elections can take place. I would have thought that the
+               best message—even from people such as my hon. Friend, who, for reasons that I
+               entirely respect, was against the war in Iraq—would be to say,</seg>
+            <quote>"Whatever we thought about the conflict in Iraq, lay down your weapons, let the
+               United Nations-sponsored elections take place, and then let's see who has the support
+               in Iraq."</quote>
+         </u>
+
+         <u who="#BERCOW">
+            <seg>It seems that there was no summit discussion of the worsening crisis in Burma.
+               Given that the military junta there is guilty of savage violations of human rights
+               every day, including using rape as a weapon of war, forced labour, compulsory
+               relocation, use of child soldiers, use of human minesweepers, bestial destruction of
+               villages and the incarceration of 1,400 political prisoners, does the right hon.
+               Gentleman agree that it is essential that the European Union should adopt not token
+               measures in the form of action against the pineapple juice sector in that country but
+               a robust programme of targeted sanctions against the oil, gas and telecommunications
+               sector, so that we can bring the regime to heel and offer the people of Burma the
+               prospect of the freedom and justice that we have long enjoyed, and they have too long
+               been denied?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The hon. Gentleman makes a very powerful case. It is important that the European
+               Union adopt stronger action, but to be frank, at the moment it is not possible to get
+               that agreement in Europe. I understand that the matter was discussed at the General
+               Affairs Council, but there is another and bigger issue: how the United Nations
+               changes its charter and its rules, so that the way in which a country treats its own
+               people can be a proper and fitting subject of     international discussion. It is not
+               only a question of Burma; there are many other countries in which people live in a
+               state of deep repression, and it is only because of the absence of television cameras
+               that no one notices or protests about it.</seg>
+         </u>
+
+         <u who="#FOULKES">
+            <seg>On the middle east, the Palestinian Cabinet Minister Saeb Erekat said to me that
+               the most useful help being given to the Palestinian Authority by any European
+               Government is the British Government's training of the security forces, and he asked
+               me to pass on his thanks. He also said that the Prime Minister, who has the trust of
+               the Palestinian Authority and of the Israeli Government, is in a unique position to
+               take an initiative to revive the middle east peace process. Will he take up that
+               challenge?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I thank my right hon. Friend for his comments about those who are engaged in the
+               training of the Palestinian Authority's security forces. Britain has undertaken this
+               work over a significant period, as well as work on political reform and governance.
+               Actually, a lot has been happening underneath the surface that is very important,
+               although not much noticed. As I have said before, I will obviously do everything that
+               I can to ensure that this peace process becomes reinvigorated; plainly, that will be
+               a significant part of the discussions that I have later in the week.</seg>
+         </u>
+
+         <u who="#FABRICANT">
+            <seg>But further to that question, given the grave ill health of Yasser Arafat, was any
+               consideration given to the possible succession in Palestine? Does the Prime Minister
+               accept that in a way the whole peace process is on a cusp? If the Palestinian
+               organisation falls into the wrong hands, there could be impasse between Israel and
+               Palestine, whereas if the right people succeed Yasser Arafat, the peace process could
+               have a very real future.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I agree, which is why it is important to proceed with measures that would allow
+               elections in the Palestinian Authority to take place and the drafting of a new
+               constitution. What is important is that we have empowered Ministers who can take
+               decisions on security issues, but I agree with the hon. Gentleman that the situation
+               is very much in the balance. It is important that we ensure that there is a
+               Palestinian leadership that wants to make progress in the middle east. It is then for
+               the international community to give that moderate Palestinian leadership
+               support.</seg>
+         </u>
+
+         <u who="#BARNES">
+            <seg>Is the Prime Minister aware that I utterly condemn, and wish to see countered,
+               terrorism in Iraq not only against the Black Watch but against Iraqi citizens? Four
+               railway workers, all of whom were members of the Iraqi Federation of Trade Unions,
+               were murdered on 27 October between Mosul and Baghdad. What measures have been put in
+               place in Falluja to ensure that such people—innocent people who are held hostage, as
+               the Prime Minister himself put it—are not attacked?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend—he was an opponent of the war, but he has taken a very honourable
+               position on these issues all the way through—is right in saying what the dilemma is.
+               The terrorists are trying to cause maximum difficulty, which is why they are taking
+               over places such as hospitals, schools and mosques. That is the reason why the
+               situation in Falluja has not happened before now. I know from my discussions with
+               Prime Minister Allawi and his Government that over the past few months, they have
+               been making every effort to get a peaceful settlement in Falluja. That included
+               making it clear that, provided that Iraqi Government forces came in and took control
+               in Falluja, there would be no need for multinational forces to be in there, and it
+               included ensuring that it was realised that there would be municipal elections in
+               Falluja. The problem that we now have, however, is that unless we take back control
+               of Falluja, ultimately it will be very difficult for ordinary people there to make
+               progress, but we are doing everything that we can to limit civilian casualties in the
+               course of the action that we take, which is why this is being proceeded with in a
+               very careful way. I entirely agree that the important thing is to ensure that the
+               Iraqi people understand that in the end this is not directed at them, but at the
+               people who are preventing them from getting a democratic outcome.</seg>
+         </u>
+
+         <u who="#SWAYNE">
+            <seg>I found myself in profound agreement with what the Prime Minister had to say about
+               Iraq and the transatlantic alliance, but the gloss on the summit coming from the
+               Elysée palace is very different, prompting the question whether the Prime Minister
+               and the President of France attended the same European summit.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It is probably not the first time that that has been said. Of course there are
+               people in Europe who take a different view of what our attitude should be to the
+               transatlantic alliance, but my answer is that we should remain in there, fighting for
+               the right view of how Europe should co-operate with America, not get out and leave
+               the field to those we disagree with.</seg>
+         </u>
+
+         <u who="#BAYLEY">
+            <seg>Does the Prime Minister agree that there would be security benefits as well as
+               environmental advantages if the west, the European Union, the United States and other
+               Organisation for Economic Co-operation and Development countries reduced their
+               dependence on, and consumption of, oil? What will the EU do over the coming months to
+               try to persuade the second-term US Government to take the problem of global warming
+               more seriously and to reduce US consumption of oil?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The emissions trading agreement is obviously an important part of what Europe is
+               trying to do to deal with the problem. Europe as a whole has signed up to the Kyoto
+               protocol. I think that issues connected to security of supply are making people think
+               again, even in the United States of America, albeit from a different perspective. I
+               have made Africa and climate change the key priorities for the G8, so there will be
+               an opportunity to take this agenda forward. It is possible to see how we can do
+               that—probably, when it comes to discussion with the Americans, through the route of 
+                  science and technology. Long-term issues to do with energy supply, as well as
+               climate change, make that imperative.</seg>
+         </u>
+
+         <u who="#SMITH-ROBERT">
+            <seg>Further to that answer, one of the explanations for why our constituents,
+               especially the fuel-poor and large energy-using industries, are threatened with
+               extremely high energy bills this winter is that we have managed to liberalise our
+               energy market quite successfully in the UK, while mainland Europe has dragged its
+               heels. Did the Prime Minister find anything in the summit to encourage any optimism
+               that mainland Europe will eventually address that agenda, open up its own energy
+               markets and decouple the price of gas from oil?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The hon. Gentleman is absolutely right. The Council did discuss the issue of
+               energy liberalisation and why it is important to pursue it. A process of change is
+               now under way, and it will reduce energy prices for our consumers. One of the
+               problems is that we have a liberalised energy market, while other countries in Europe
+               do not, but the movement is definitely towards liberalisation.</seg>
+         </u>
+
+         <u who="#ROBERTSON-HUGH">
+            <seg>Did the Prime Minister have any discussions with other European Heads of State
+               about the attitudes of countries bordering Iraq? Is there any evidence that any of
+               those countries are providing men and equipment to the rebels in Falluja?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>A conference taking place in Egypt in the next couple of weeks will discuss that
+               very issue. It is true to say that there are varying reports, but when Dr. Allawi
+               visited Syria recently, he found a willingness to co-operate. I think that it is
+               immensely important for both Syria and Iran in particular to ensure that their
+               borders are not being used as a route for people to cross over and engage in
+               terrorist activity. We are certainly making it very clear to those countries that any
+               such support of terrorism in Iraq is unacceptable. I believe that the conference will
+               play some part in flushing out people's positions and will send out a strong signal
+               that those who support terrorists and insurgents are in breach of their moral
+               obligations to the international community.</seg>
+         </u>
+
+         <u who="#DJANOGLY">
+            <seg>The surrender of Britain's veto on asylum and immigration policy in favour of
+               qualified majority voting forms part of the European constitution. That being the
+               case, why is the Prime Minister taking the decision to give up the veto now? Can he
+               not wait for the referendum, when the British people will be able to vote on the
+               constitution?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The hon. Gentleman said,</seg>
+            <quote>"That being the case"</quote>
+            <seg>, but it is not the case. We are not giving up the absolute right to decide whether
+               to opt in to any asylum or immigration measure, and that is very sensible. There are
+               certain issues—for example, as I said a moment ago, people trafficking and illegal
+               immigration—on which we want to be part of European action. However, we can decide
+               those issues one by one. As my right hon. Friend the Home Secretary rightly said, it
+               is the best of both worlds. The hon. Gentleman probably represents the mainstream
+               view in the Conservative party today. It is not really about opting in or opting out,
+               or this veto or that veto. What he and his colleagues want is a fundamental
+               restructuring of Britain's existing relationship with the European Union</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Well, one or two Opposition Members shake their heads and many of them nod. Why do
+               they not sort it out between themselves and come back with a proper position?</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

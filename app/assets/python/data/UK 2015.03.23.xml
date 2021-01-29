@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref
+                  target="http://www.publications.parliament.uk/pa/cm201415/cmhansrd/cm150323/debtext/150323-0001.htm#1503232000002"
+               /></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>23 March 2015</date>
+               <date when="2015-03-25"/>
+               <activity>Plan to deepen Economic and Monetary Union (EMU)</activity>
+               <locale>Brussels</locale>
+               <persName>Cameron I</persName>
+               <name>94th ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="MILIBAND-EDWARD">
+                  <persName>Edward Miliband</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Doncaster North</residence>
+               </person>
+               <person xml:id="HOEY">
+                  <persName>Kate Hoey</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Vauxhall</residence>
+               </person>
+               <person xml:id="HOPKINS">
+                  <persName>Kelvin Hopkins</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Luton North</residence>
+               </person>
+               <person xml:id="CHISHTI">
+                  <persName>Rehman Chishti</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Gillingham and Rainham</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="NUTTALL">
+                  <persName>Mr David Nuttall</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Bury North</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="STRAW">
+                  <persName>Mr Jack Straw</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Blackburn</residence>
+               </person>
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+               <person xml:id="OTTAWAY">
+                  <persName>Sir Richard Ottaway</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Croydon South</residence>
+               </person>
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+               <person xml:id="BONE">
+                  <persName>Mr Peter Bone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Wellingborough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="LEIGH">
+                  <persName>Sir Edward Leigh</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Gainsborough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CARMICHAEL">
+                  <persName>Neil Carmichael</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Stroud</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ROBATHAN">
+                  <persName>Mr Andrew Robathan</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>South Leicestershire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HALFON">
+                  <persName>Robert Halfon</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Harlow</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HEATON-HARRIS">
+                  <persName>Chris Heaton-Harris</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Daventry</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="ELLIS">
+                  <persName>Michael Ellis</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Northampton North</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="KIRBY">
+                  <persName>Simon Kirby</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Brighton, Kemptown</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="STEPHENSON">
+                  <persName>Andrew Stephenson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Pendle</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="OFFORD">
+                  <persName>Dr Matthew Offord</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Hendon</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BRIDGEN">
+                  <persName>Andrew Bridgen</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North West Leicestershire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SMITH-HENRY">
+                  <persName>Henry Smith</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Crawley</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="LEWIS">
+                  <persName>Dr Julian Lewis</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>New Forest East</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="HAIN">
+                  <persName>Mr Peter Hain</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Neath</residence>
+               </person>
+
+               <person xml:id="ROY">
+                  <persName>Mr Frank Roy</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Motherwell and Wishaw</residence>
+               </person>
+
+               <person xml:id="VAZ-VALERIE">
+                  <persName>Valerie Vaz</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Walsall South</residence>
+               </person>
+
+               <person xml:id="EFFORD">
+                  <persName>Clive Efford</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Eltham</residence>
+               </person>
+
+               <person xml:id="GRIFFITH">
+                  <persName>Nia Griffith</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Llanelli</residence>
+               </person>
+
+               <person xml:id="LUCAS-IAN">
+                  <persName>Ian Lucas</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wrexham</residence>
+               </person>
+
+               <person xml:id="SHEERMAN">
+                  <persName>Mr Barry Sheerman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Huddersfield</residence>
+               </person>
+
+               <person xml:id="WISHART">
+                  <persName>Pete Wishart</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Perth and North Perthshire</residence>
+               </person>
+
+               <person xml:id="HORWOOD">
+                  <persName>Martin Horwood</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Cheltenham</residence>
+               </person>
+
+               <person xml:id="CLAPPISON">
+                  <persName>Mr James Clappison</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Hertsmere</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <u who="#CAMERON">
+            <seg>I know that the whole House will join me in welcoming David Natzler as the new
+               Clerk of the House. Mr Speaker, you went to the ends of the earth in search of the
+               best candidate, but I am glad that we found the right answer right here in Britain.
+               Before turning to the main focus of the Council, which was the situation in the
+               eurozone, let me say a word about the discussions on Tunisia and Libya, on the
+               situation in Ukraine and on the nuclear talks with Iran. I am sure the whole House
+               will join me in sending our deepest condolences to the friends and family of Sally
+               Adey, a British holidaymaker who was among at least 20 tourists and two Tunisians
+               brutally murdered in the terrorist attack at the Bardo museum last week. I have
+               written to President Essebsi to assure him that Britain will stand with the people of
+               Tunisia as they seek to defeat the terrorists and build a peaceful and prosperous
+               future. The EU has agreed to offer practical assistance, and Britain will play its
+               part, deploying SO15 and military counter-terrorism experts and continuing to provide
+               assistance in aviation security and tourist resort protection. The suggestion that
+               some of the terrorists involved had been trained in Libya is the latest evidence of
+               the very difficult situation in that country. The Council agreed on the need for a
+               political solution, supporting UN-led efforts to bring the different parties in Libya
+               together to agree a national unity Government. Britain has provided Libya with aid
+               and military training, and we will continue to do all that we can to assist. I know
+               that some people are looking at this situation and asking whether Britain, France and
+               America were right to act to stop Colonel Gaddafi when we did. We should be clear
+               that the answer is yes. Gaddafi was on the brink of massacring his own people in
+               Benghazi, and we prevented what would have been a wide-scale, brutal, murderous
+               assault. It was the right thing to do, and we should be very proud of the British
+               servicemen and women who carried out that vital task. Turning to the situation in
+               eastern Ukraine, the Council welcomed the significant reduction in fighting and the
+               progress on the withdrawal of heavy weapons. But as President Obama, President
+               Hollande, Chancellor Merkel and I agreed earlier this month, it is essential to send
+               a clear signal that sanctions will not be eased until Russia delivers on its promises
+               and the Minsk agreements are fully implemented. The European Council did exactly
+               that. The conclusions say that <quote>the duration of the restrictive
+                  measures...should be clearly linked to the complete implementation of the Minsk
+                  Agreements.</quote> The conclusions also underline our readiness to take further
+               measures if required. One of the best things we can do to help Russias neighbours is
+               to help them to fight corruption and strengthen their democracies. Just as the
+               Know-How fund, set up by Margaret Thatcher, did a great job of helping eastern
+               European countries after the fall of the Berlin wall, so we need the same approach
+               today. At the Council, I announced a good governance fund with an initial 20 million
+               to support reforms in countries in the eastern neighbourhood and the western Balkans.
+               This will complement support from other donors, accelerating efforts to fight
+               corruption, strengthening the rule of law, reforming the police and justice systems
+               and supporting free markets by liberalising key sectors such as energy and banking.
+               The fund will be up and running by the summer. As well as covering Ukraine, it will
+               initially cover Georgia, Moldova, Serbia, and Bosnia and Herzegovina. Turning to
+               Iran, I met Chancellor Merkel and President Hollande in the margins of the Council to
+               discuss progress in the vital talks on Irans nuclear programme. We are absolutely
+               clear and united in our purpose. Iran must never be allowed to develop a nuclear
+               weapon. But there is a peaceful path to civil nuclear energy, and we believe that a
+               comprehensive, durable and verifiable deal is possible, but only if Iran shows
+               greater flexibility and takes some tough decisions during the talks this week. We
+               also discussed proposals for co-ordinating Europes energy policy, ensuring
+               transparency of gas supply agreements and that Europes energy policies are consistent
+               with reaching the vital deal at the climate change summit in Paris this December.
+               Turning to the eurozone, the Council welcomed the agreement between Greece and the
+               euro area to extend their programme. Let me say again - this is the last of these
+               statements in this Parliament and I have probably uttered this sentence 11 times:
+               Britain is not in the eurozone and we are not going to join the eurozone. But we do
+               need the eurozone to work properly. A disorderly Greek exit from the euro remains a
+               major threat to Europes economic stability and it could be very damaging to the
+               British economy. Protecting our economy from these wider risks in the eurozone means
+               sticking to this Governments long-term economic plan. Five years ago, Britains
+               economy was close to the edge. We had the biggest budget deficit in our peacetime
+               history. We had a deficit that was forecast to be bigger than that of Greece or of
+               any other developed country on the planet. Five years on, the deficit has been halved
+               and our national debt is falling as a share of GDP; we have the fastest growth of any
+               major western economy; we have 1.89 million more people in work; and we have more
+               jobs created in Yorkshire than in the whole of France, and more jobs created in the
+               UK than in the rest of the European Union put together. We need to stay on this path,
+               not abandon it just as it is leading our country to prosperity. Just as we are acting
+               in our national interest at home, so we have acted to protect our national interest
+               in Europe, too: we have cut the EU budget for the first time in its history; we got
+               Britain out of the euro bail-out schemes; we vetoed a treaty that was not in our
+               national interest; we stopped attempts to discriminate against EU countries outside
+               the eurozone, not least with our successful legal challenge last month; we have made
+               vital progress on cutting red tape and completing the single market; at our G8 in
+               Lough Erne, we kick-started the talks on what will be the biggest bilateral trade
+               deal in history, between the EU and the US; we have put power back in the hands of
+               our fishermen so they can sell what they catch; we have negotiated a new single
+               European patent that will reduce cost for entrepreneurs, and part of that patent
+               court will be based right here in London; we have ensured new safeguards to protect
+               our vital financial services industry; we have returned over 100 powers from Brussels
+               to Britain, giving us more control over our borders, policing and security; we have
+               clamped down on benefit tourism; and in foreign policy, we have worked with our
+               European partners to get things done and keep our people safe, on matters ranging
+               from sanctions on Russia and Iran, and practical assistance to help countries in
+               north Africa fight terrorism, to international action to help those in desperate need
+               around the world, including in west Africa, where British aid workers are risking
+               their lives, helping to stop the spread of Ebola. In the coming two years, we have
+               the opportunity to reform the EU and fundamentally change Britains relationship with
+               it. We have the opportunity to build a European Union that is more competitive, more
+               flexible and more accountable to the people, where powers flow back to member states,
+               not just away from them, and where freedom of movement is no longer an unqualified
+               right. And for the first time in 40 years, we have the opportunity to give the
+               British people their say on Britains place in Europe with an in-out referendum. If I
+               am Prime Minister, that is what I will do. Those who would refuse to give the British
+               people their say should explain themselves to this House and to the country. I
+               commend this statement to the House.</seg>
+         </u>
+         <u who="#MILIBAND-EDWARD">
+            <seg>May I thank the Prime Minister for his statement? He is obviously getting in his
+               preparations for opposition now. Let me also join him in congratulating David Natzler
+               on his very well-deserved appointment. I also wish to join the Prime Minister in
+               condemning the appalling terrorist attack in Tunisia last week. Our thoughts go out
+               to the family and friends of Sally Adey and all the victims who were involved in the
+               attacks. This despicable act of terrorism once again reinforces our determination to
+               stand united across Europe. Before turning to other matters, I also want to note that
+               since the last European Council we have had the Israeli elections, although they do
+               not appear to have been discussed at the European Council. Let me say that there is
+               now one overriding priority, which is restarting negotiations towards a two-state
+               solution: a secure Israel alongside a viable Palestinian state. Can the Prime
+               Minister, when he replies, say whether he agrees that we must put pressure on both
+               sides now to restart negotiations? In the light of Prime Minister Netanyahus comments
+               in the run-up to the election, has our Prime Minister sought reassurances about his
+               continuing commitment to a two-state solution? On Iran, we support the talks. We
+               cannot allow an Iran with nuclear weapons. It is vital that we secure a successful
+               outcome and we will support the EU in seeking to bring that about. Let me also echo
+               the Prime Ministers words on Libya. We supported the military action - it was the
+               right thing to do - and we support the call for an immediate and unconditional
+               ceasefire. However, the Prime Minister needs to tell the country why things have gone
+               so wrong in Libya. Are people not entitled to conclude that the international
+               community did not adequately plan for the aftermath of the conflict, and what does he
+               realistically believe can be done now? On Greece, rather than recycling his failing
+               election slogans, can the Prime Minister tell us what the prospects are for a
+               long-term agreement with Greece? That agreement is in the interests of Greece, the
+               eurozone, and the United Kingdom. Turning to the situation in Ukraine, it is vital
+               that the international community stands united in ensuring that the Minsk agreement
+               is implemented in full. We welcome the commitment, which the Prime Minister
+               reiterated, that EU sanctions on Russia should be eased only in the event of the full
+               implementation of that agreement. Given that the current situation on the ground is
+               not showing signs of getting better, will the Prime Minister tell us whether
+               discussions took place during the summit about increasing further the pressure on
+               Russia, particularly on the so-called tier 3 sanctions on specific sectors? It is
+               clear that the security dimension of the EU is becoming more and more important. That
+               has been particularly apparent over the past year. It demands common action, resolve
+               and a clear commitment to our continuing place in the European Union - a commitment
+               that the Prime Minister is incapable of delivering. As this is his 29th and last
+               European statement, I had hoped that he might do what he has failed to do in the past
+               28 and spell out his negotiating strategy. All we had was the same empty rhetoric.
+               Perhaps he can now specifically tell us what the non-negotiable reforms are that he
+               is seeking in Europe. Is he seeking treaty change? Would he countenance voting for
+               out in a referendum</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Oh, the Minister for Europe says no from a sedentary position; he would not
+               countenance supporting out. Perhaps, when the Prime Minister replies, he can confirm
+               that the Minister for Europe said from a sedentary position that, under no
+               circumstances, would he countenance an out vote in a referendum - the Minister knows
+               that the national interest lies in staying in. Those are the questions to which the
+               country deserves answers. Was the Prime Minister disappointed last week when the
+               President of the European Council, who is supposedly an ally of Britain, described
+               his position as <quote>mission impossible</quote>? With the typical modesty that we
+               have come to expect from the Prime Minister, he then compared himself to Tom Cruise. </seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I am coming to that; he will enjoy it. To be fair, he did admit to one crucial
+               difference. He said, <quote>He's a little bit smaller than me.</quote> I have to say
+               to the Prime Minister that I am not sure that that is the main difference that comes
+               to mind. One has a consistent and relatively coherent approach to international
+               affairs and the other is the Prime Minister of Britain.</seg>
+            <seg>The Prime Minister mentioned his achievements. Let us remind ourselves of them. He
+               talked about his veto of the treaty, but the treaty went ahead. He did not mention
+               the stand he took against President Juncker; he lost that 26 votes to two. He did not
+               mention either the 1.7 billion bill from Brussels. His attitude to that was: cant
+               pay, wont pay, oh, all right, we will pay. But let me relay my personal favourite
+               over the past five years. Who can forget his phrase that in this town, you need to
+                  <quote>lock and load and have one up the spout.</quote>
+            </seg>
+            <seg>Up the spout is exactly where his European policy is - not so much Tom Cruise, more
+               David Brent. He cannot tell us what he is negotiating for</seg>
+            <incident>
+               <desc>The Prime Minister rose</desc>
+            </incident>
+            <seg>No, I have not quite finished. The Prime Minister cannot tell us what he is
+               negotiating for; he has no strategy for achieving change</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I thought that Government Members wanted to talk about Europe - not any more. He
+               cannot tell us what he is negotiating for. He has no strategy for achieving change
+               and he cannot even tell us whether he will vote yes or no in a referendum. A Prime
+               Minister who cannot tell us whether he wants to be in Europe or out of Europe is a
+               weak Prime Minister. He cannot provide the leadership that our country needs. For
+               that, Britain needs a Labour Government.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I had not been counting, but I think that reporting back to the House 29 times is
+               quite an impressive record - too many. The right hon. Gentleman does have one thing
+               in common with Tom Cruise: every policy he touches self-destructs in five
+               secondstuition fees, spending, the deficit, taxes; it is all the same. Let me deal
+               with the right hon. Gentlemans questions. On the very important matter of the Israeli
+               elections, I am sure that we will all want to congratulate Prime Minister Netanyahu
+               on his election victory. I agree with the Leader of the Opposition that we must put
+               pressure on both sides to ensure that talks on a two-state solution get going. I will
+               be talking with Prime Minister Netanyahu this evening, and I will make it very clear
+               that I support a two-state solution. I think that is in the long-term interests of
+               not only the Palestinians, but the Israelis, and Britains policy on that will not
+               change. I thank the right hon. Gentleman for what he said in support of the
+               Governments position on Iran and on Libya. He asked why we have seen the difficulties
+               after the fall of Gaddafi. One of the things that we have to be clear about is that
+               the Libyan people and the Libyan Government did not want some occupying force; they
+               did not want to be remotely controlled by others. They were given opportunities to
+               opt for a more unified future, but so far they have not taken them, so we have to do
+               everything we can to keep putting those options on the table, not least through a
+               national unity Government. The right hon. Gentleman asked about Greece and the
+               prospects for a long-term agreement. I still think that the prospects are quite
+               worrying, because on one hand we have the creditor nations that want to see Greece
+               fulfil its programme, and on the other hand we have a Greek Government who do not
+               seem at the moment to be coming up with reforms that give their creditors confidence.
+               One of the lessons that needs to be learned - the right hon. Gentleman needs to learn
+               this - is that government involves difficult decisions, and the Greeks still have to
+               make difficult decisions.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Yes, he was in government. I remember, because he completely crashed the economy,
+               as a member of the Government who left this country in hopeless amounts of debt. The
+               right hon. Gentleman asked a very specific question on the Minsk agreement: will
+               there be more sanctions if there is more destabilisation? The answer is yes. We
+               should be prepared to consider more sanctions if the situation deteriorates. The key
+               point about the Minsk agreement is that the difficult decisions for Russia will come
+               at the end of the process, which is why it is so important to keep the sanctions
+               right to the end. The right hon. Gentleman wants to know why we want to renegotiate
+               in Europe, and I will tell him why: we want to get out of ever-closer union; we do
+               not want that to apply to Britain; we want control of our welfare system; we want
+               safeguards for the single market; we want powers to flow back to Britain. Let me ask
+               him this: if those are the things that we want, what is it that he wants? The answer,
+               when it comes to Europe, is absolutely nothing. He told us that he does not think
+               that Brussels has too much power. He refuses to rule out joining the euro because, as
+               he said, <quote>It depends how long Im Prime Minister for</quote>, so that is a
+               hopeful message.</seg>
+            <seg>He has made it clear that he will never give the British people a say in a
+               referendum. Frankly, I will compare my record on Europe with his partys every day of
+               the week. They gave away 7 billion of the rebate; we have protected the rebate. They
+               gave away our ability to veto what is not in our national interest; we vetoed a
+               treaty that was not in our national interest. They signed Britain up to being in the
+               euro bail-out fund; we got Britain out of the euro bail-out fund. The truth is that
+               we on the Government side of the House stand up for Britain in Europe and the Labour
+               party just sells us out.</seg>
+         </u>
+         <u who="#CASH">
+            <seg>I commend my right hon. Friend for what he has just said, and for stating
+               unequivocally in his Bloomberg speech that it is our national Parliament that is the
+               root of our democracy, for which people fought and died, but in what specific
+               respects will he repatriate the powers of the British people to govern themselves and
+               return the powers of sovereignty to this Parliament so that we can govern this
+               country as we wish?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>My hon. Friend makes an important point. We have already returned a power to
+               Britain by getting out of the bail-out fund. We have returned 100 specific powers as
+               a result of the opt-out on justice and home affairs. I have been very specific that
+               when it comes to the free movement of people, and particularly its interaction with
+               our welfare system, we need powers to be returned to this country. Specifically, I
+               have said that people coming from European Union countries to Britain should not be
+               allowed to claim unemployment benefit, that they should have to leave after six
+               months if they do not have a job, that they should have to pay in for four years
+               before getting anything out of the tax credits system and that they should not be
+               able to send child benefit or other child tax payments to families back home. Those
+               things require serious change in Europe, including treaty change, and that is what we
+               will secure, and what a contrast with the Labour party, which will do absolutely
+               zip.</seg>
+         </u>
+         <u who="#STRAW">
+            <seg>May I add my own congratulations to Mr Natzler as Clerk, and say how pleased I am
+               personally that the cross-party process of the Governance Committee has led to one of
+               many important decisions that have been made following it? When the Prime Minister
+               speaks to Mr Netanyahu this evening, will he underline two things - first, that in
+               respect of the negotiations with Iran, a deal which is acceptable and honourable on
+               both sides is more likely to help guarantee Israels security, as well as that of
+               others, than no deal at all? Secondly, will he emphasise to Mr Netanyahu that what
+               his party and Government have been involved in is trying to change the reality on the
+               ground through settlement building, so that if it goes on, it will be impossible for
+               there to be a separate state of Palestine, and that if he carries on like this, the
+               patience of this House and of Europe will run out?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>First, just in case it is the last time I look at the right hon. Gentleman across
+               the Floor of the House of Commons and he does not catch the Speakers eye at the last
+               Prime Ministers questions on Wednesday, may I pay tribute to him for all the work
+               that he has done in government and in opposition, including in some very senior roles
+               at some very difficult times for this country? The one pledge I make him is that if
+               he continues to live where he does, his constituency MP will always stand up for him
+               in this House of Commons and make sure that he receives a premium service. The two
+               points that the right hon. Gentleman makes about Israel are right and they are points
+               that I will be happy to make. They are linked: if there is no two-state solution, the
+               situation ends up moving towards a one-state solution, which I think will be
+               disastrous for the Jewish people in Israel, so I really do believe in the two-state
+               solution. We are very much opposed to the settlement building that has taken place.
+               We have been very clear about that and will continue to be clear about that. It makes
+               a two-state solution more difficult and that, in turn, will make Israel less stable,
+               rather than more stable.</seg>
+         </u>
+         <u who="#OTTAWAY">
+            <seg>In his Bloomberg speech the Prime Minister set out five core principles for a
+               21st-century EU. If he has had a chance to look at the current European Commission
+               work programme, he will have seen that, contrary to what the Leader of the Opposition
+               has just said, there has now been significant movement towards these principles,
+               particularly on migration and the single market. Does my right hon. Friend agree that
+               we do not have to demand a renegotiation before a referendum? Europe is already
+               offering us one.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>My right hon. Friend is right. It is because we have been clear about the things
+               that need to change that the European Commission is already looking at the sorts of
+               changes that could be made.</seg>
+            <seg>This is an organisation that responds not simply to pressure, but to political
+               realities, so we have to make sure that the political reality after the next election
+               is someone walking into the Berlaymont building or the European Council building and
+               demanding change, rather than someone wandering in and just saying, <quote>Relax -
+                  there's nothing you need to do. We don't have to have a referendum. We don't need
+                  a renegotiation. One day well join the single currency.</quote> All the pressure
+               would be off and, yes, some in Brussels would breathe a sigh of relief, because it
+               would be business as usual with Labour and probably the Scottish National party
+               too.</seg>
+         </u>
+         <u who="#HAIN">
+            <seg>I endorse the Prime Minister's welcome to our excellent new chief Clerk. I also
+               welcome the fact, Mr Speaker, that you are proceeding speedily to the appointment of
+               the post that will carry out the chief executive duties, the director general. That
+               is very important. On Greece, may I suggest to the Prime Minister that simply
+               repeating the same dose of austerity on the Greek people and their Government will
+               not achieve the objective any more than the last dose did? National debt went up in
+               Greece as a result of the austerity programme. Of course, the Greek Government have
+               to reform to collect their taxes and to get rid of corruption, and the Government
+               have volunteered to do that, but going down the same austerity road is not going to
+               revive the Greek economy or enable it to repay its debts. Those must be rescheduled
+               and the reforms around that must ensure that Greece is capable of repaying its debts,
+               not being strangled with austerity.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I do not entirely disagree with the right hon. Gentleman. The problem is, though,
+               that the people who have lent the money to Greece want their money back, and they
+               believe that Greece should carry out a series of reforms before they give it any more
+               money. He or I can take a different view and argue as I would, although he would not,
+               that Greece should never have joined the eurozone in the first place. That is not the
+               right hon. Gentlemans view because he is a fanatic about the eurozone. None the less,
+               as we have not lent money to Greece, we are not in that position. If he had been at
+               the European Council he would have heard, whether from the Germans, the Dutch and the
+               Scandinavian countries, or from the Spanish, the Portuguese and the Irish, who have
+               all been through these painful processes, that there is very little appetite to cut
+               Greece a lot of slack.</seg>
+         </u>
+         <u who="#HORWOOD">
+            <seg>On behalf of the Liberal Democrats, I echo the Prime Ministers congratulations to
+               Mr Natzler. I welcome the Prime Ministers remarks on Tunisia and Libya, where we must
+               all still hope that the promise of the Arab awakening will be fulfilled and
+               sympathise about the fact that uniting the Tory party on Europe really is
+                  <quote>mission impossible</quote>? On the Transatlantic Trade and Investment
+               Partnership, does he agree that the UK should never ratify a treaty that would
+               undermine the NHS?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>Of course. But I do believe that all of us in this House who support free trade and
+               want to see Britain as a success story in international markets should really get
+               behind TTIP rather than listening to some non-governmental organisations that are
+               raising entirely false fears about it. There is no way that TTIP can in any way
+               undermine our NHS. Our NHS is determined by the policies we pass here in this House.
+               One of the things that was so striking about the European Council was countries
+               worrying about the so-called investor protection mechanisms, even though Britain has
+               94 of these things and we have never lost a case. There is an awful lot of
+               scaremongering about TTIP. Any of us who want to see a successful British economy
+               should get behind what could be a real jobs boost for our country.</seg>
+         </u>
+         <u who="#STUART">
+            <seg>If the Prime Minister is so certain that TTIP will not undermine the NHS, does he
+               have assurances in the treaty that specifically mention the NHS and therefore make it
+               absolutely clear that what some of us fear might happen will not happen?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>There is this very powerful quote, which I think I have read out in the House of
+               Commons before, where the previous Trade Commissioner said: <quote>Public services
+                  are always exempted - there is no problem about exemption. The argument is abused
+                  in your country for political reasons but it has no grounds.</quote>
+            </seg>
+            <seg>The point I would make, though, is that it is local NHS commissioners who make
+               decisions about who delivers services. One of the things that is being done with TTIP
+               is that people or countries who want to raise concerns, like over the investor
+               protection mechanisms, are asking for more things to be put in the treaty, which in
+               the end we will have to pay a price for; and if they are not necessary and there is
+               not a problem, why are we creating one? With the investor protection mechanisms, the
+               country that was raising this problem was Austria, which has 60 of these agreements
+               and has never, ever lost a case. Of course let us have the robust negotiation and
+               seek any safeguards we might need, but let us not raise problems that do not really
+               exist.</seg>
+         </u>
+
+         <u who="#CLAPPISON">
+            <seg>Is my right hon. Friend aware that in contradistinction to the views expressed by
+               the Leader of the Opposition, there are millions of ordinary voters in this country
+               who want their say on whether Britain should remain part of the European Union - a
+               say that is long overdue? Is it not absolutely crystal clear that they will get that
+               say only if my right hon. Friend continues to occupy Downing street after the
+               election and is in a position to deliver on that promise?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I think there are millions of people in our country who want to have that say. We
+               have not had a referendum since 1975. We cannot remain in these organisations without
+               the full-hearted consent of the British people behind us. So it is time to have the
+               referendum, but let us have it on the basis of a renegotiation. My hon. Friend is
+               absolutely right: there is only one way to get that referendum, and that is to make
+               sure that there is a Conservative majority and a Conservative Prime Minister after
+               the next election.</seg>
+         </u>
+         <u who="#VAZ-KEITH">
+            <seg>The crisis in Libya is having catastrophic consequences. Prime Minister Matteo
+               Renzi has said that of the 170,000 people who entered Italy illegally last year, 92%
+               did so from Libya, and the figures for this year show a 64% increase. Does the Prime
+               Minister agree that it is not enough to give more resources to Frontex - we also have
+               to deal with the source countries to help them stop migrants putting their lives at
+               risk or being profited from by traffickers?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>The right hon. Gentleman is absolutely right. We will not solve the problem simply
+               by more sea patrols - nor, indeed, by returning to the Mare Nostrum policy, which
+               sounded humanitarianly sound, but deaths at sea during the period of its operation
+               increased fourfold. So there is no alternative to trying to stabilise these countries
+               and deal with the problem at source. We are able to use our aid and other budgets,
+               with European partners, to do that, and we should certainly do so.</seg>
+         </u>
+         <u who="#BONE">
+            <seg>A few weeks ago I went to No. 10, along with my hon. Friend the Member for
+               Kettering</seg>
+            <note>Mr Hollobone</note>
+            <seg>and Tom Pursglove, the excellent Eurosceptic Conservative candidate for Corby, to
+               deliver the results of the north Northamptonshire referendum, in which 81% of the
+               people of north Northamptonshire voted to come out of the EU. Unfortunately, when we
+               knocked, the Prime Minister was not in, but he kindly wrote to me stating, rather
+               importantly, that, if it was at all possible, he would be delighted to bring forward
+               the EU referendum. I think there is a misunderstanding that it has to be held at the
+               end of 2017, so will the Prime Minister confirm that it could take place
+               earlier?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>First, may I apologise for not being in? It is not that I have an adverse reaction
+               when I see the men in grey suits approaching Downing street, but I obviously was not
+               there on the right day and I am very sorry about that. What I have said is that the
+               referendum must take place by the end of 2017, but if it is possible to complete the
+               renegotiation and hold it earlier, no one would be more delighted than me. I think it
+               would be</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The Leader of the Opposition complains from a sedentary position, but there would
+               be no referendum or choice with Labour. They would literally just turn up in Brussels
+               and say, <quote>Tell me how much to spend. Where do I sign? No renegotiation or
+                  referendum.</quote> It is absolutely clear that there is only one way to give the
+               British people a choice, and that is to make sure I am at this Dispatch Box after the
+               next election.</seg>
+         </u>
+         <u who="#HOEY">
+            <seg>Does the Prime Minister accept that thousands of small and medium-sized businesses
+               and companies throughout the United Kingdom would love, and are desperate to see, a
+               different relationship with the European Union? Does he accept that promising a
+               referendum is a better way of getting that ultimate change?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I agree with the hon. Lady and wish she could talk some sense into her Front-Bench
+               colleagues. She is absolutely right. By holding a</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The Leader of the Opposition says that the hon. Lady does not agree with me, but
+               she just stood up and made the case for a referendum rather better than I did. I will
+               take careful note of what she said. The point is that, by having this pledge and
+               renegotiation, we can get things done for businesses large and small.</seg>
+         </u>
+         <u who="#LEIGH">
+            <seg>We are all being a bit unfair on the Labour party. After all, 40 years ago it was
+               the Labour party that gave us a referendum and, to be fair to the Liberals, they
+               promised one in the last Parliament, although I do not understand why they have gone
+               wobbly on trusting the people. Perhaps it is because the people may give the wrong
+               answer. Is not the answer to the Leader of the Opposition that every single person in
+               this country, no matter how important they are - whether they are the Prime Minister,
+               the Deputy Prime Minister or the Leader of the Opposition - gets one vote? Will my
+               right hon. Friend therefore give a categorical assurance that any Government of which
+               he is Prime Minister will deliver this choice to the British people?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I have been absolutely clear: I will not be Prime Minister in a Government that do
+               not hold a referendum. I could not be more clear about it. My hon. Friend makes an
+               important point. I remember Tony Blair standing at this Dispatch Box as Prime
+               Minister - I was sitting somewhere on the Opposition Benches - and saying with
+               respect to the European constitution, <quote>Let battle be joined</quote>, and making
+               a great pledge. He could have held a referendum, but he did not. That is one of the
+               things that has poisoned the well in this country and that makes a referendum even
+               more important today.</seg>
+         </u>
+         <u who="#ROY">
+            <seg>During discussions on the middle east with his European counterparts, did the Prime
+               Minister explain why the United Kingdom has allowed only 140 refugees from Syria to
+               come into this country?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>We have spent about 800 million helping refugees in Syria, which makes us the
+               second largest bilateral donor to the programme. We have taken 140 people under the
+               vulnerable persons relocation scheme, and it is right that we have done that, but we
+               have to be frank with ourselves and with the public. In a refugee crisis of this
+               scale, which runs into millions of people, the idea that even a small part of the
+               solution is for our country to take in hundreds or thousands is completely
+               wrong.</seg>
+         </u>
+         <u who="#CARMICHAEL">
+            <seg>Does the Prime Minister agree that inward investment from the European Union,
+               including Sartorius Stedim investing in my constituency, is a sign that Europeans
+               believe in a reformed European Union and that we have a large number of allies in
+               Europe who want to reform the EU in a constructive way, ready for a referendum?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>My hon. Friend makes the important point that Britain is a magnet for inward
+               investment. In fact, we are getting 50% more inward investment than either France or
+               Germany, the next two biggest recipients of such investment. The interesting point is
+               that, since I made my Bloomberg speech and that referendum commitment, there has been
+               no sign of change in the inward investment from countries in the rest of the world
+               coming into the United Kingdom, because they know that it is right to hold that
+               renegotiation and that referendum.</seg>
+         </u>
+         <u who="#GAPES">
+            <seg>We can all wish for a political solution and a national unity Government in Libya,
+               but the reality is that it is not happening and an al-Qaeda or ISIL-linked state is
+               being established on parts of the coast, which is a serious threat to our country and
+               the rest of Europe. What are we going to do about the situation in Libya, rather than
+               just wishing for a change?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>It is not a question of simply wishing for a change; we are working with our allies
+               to help to bring one about. The aim so far has been to produce a national unity
+               Government by bringing together the different parties that there are in Libya. We
+               have not taken the approach that some in the region have taken of trying to pick
+               sides and creating conflict between the various parties. I accept, however, that as
+               we see the growth of ISIL in Libya, we are going to have to challenge all those who
+               could take part in a national unity Government to oppose ISIL and any formation it is
+               able to achieve in Libya. That will be an important part of the stability that we
+               seek not just for the sake of the Libyan people, but for that of our own.</seg>
+         </u>
+         <u who="#ROBATHAN">
+            <seg>In my last week as a Member of Parliament, may I commend my right hon. Friend not
+               just for his statement, but for his work over the past five years in re-establishing
+               the United Kingdom as a serious and respected player in international affairs?
+               Turning specifically to the good governance fund that he mentioned with regard to
+               Ukraine and eastern Europe, will the Prime Minister look at the money that has been
+               transferred to this country, particularly from Russia? Oligarchs and others seem to
+               have thought that here and western Europe were good places to put their money, most
+               of which was looted from the good people of Russia. Part of the reason why there is a
+               problem in Russia is that money has been taken out of Russia and placed here.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>First, may I thank my right hon. Friend for the valuable work that he has done for
+               his constituents in this House, but also as part of the Government both in Northern
+               Ireland and at the Ministry of Defence? He has played an absolutely crucial role, and
+               he will be missed. On the issue of Russian money, we have some of the toughest
+               controls anywhere in the world in terms of money laundering and other such issues. I
+               would make the point that Britain has very much been in the vanguard of arguing for
+               sanctions on Russia and Russian individuals, even though it could be argued that this
+               might in some way disadvantage investment coming into the United Kingdom. We have put
+               the interests of Europe and the interests of the Ukrainian people first.</seg>
+         </u>
+         <u who="#SHEERMAN">
+            <seg>Is the Prime Minister aware that many of us on the Labour Benches who are
+               pro-European want what our allies want, which is a strong Britain in a strong Europe?
+               Yes, we want a reformed Europe - all of us are in favour of reform in Europe - but we
+               are not in favour of weakness and vacillation, which manufacturers and exporters in
+               my constituency say will damage this country over the next three years while we wait
+               for a referendum.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>The hon. Gentleman says that he is in favour of reform, but I have not heard one
+               single proposal from the Labour party about anything it wants to reform. He is
+               presumably standing on his leaders ticket, but I do not know whether he has his
+               picture on his leaflets. When I met my Labour opponent in Chipping Norton market
+               square this week, I had a look at his leaflet, and there was not a dicky-bird when it
+               came to the Leader of the Opposition. It could have been from a totally different
+               party. There are plenty of pictures of me. The Leader of the Opposition has said:
+                  <quote>I don't think Brussels has got too much power.</quote>That is the official
+               position of the Labour party: it is not for reform, but for the status quo.</seg>
+         </u>
+         <u who="#LEWIS">
+            <seg>As the only major party leader to trust the British people with an in/out
+               referendum on EU membership, my right hon. Friend has certainly reassured the
+               patriotic British electorate. Will he now go the whole way by reassuring them that
+               throughout the next Parliament, when he is Prime Minister, Britain will not fall
+               below the NATO recommended minimum of 2% of GDP on defence?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I would say to my hon. Friend, who I know cares passionately about this issue, as I
+               do, that we are one of the few countries in Europe to meet 2%. We have met it through
+               this Parliament, and we are meeting it this year and next year. He has very specific
+               guarantees about a full replacement for Trident, a 160 billion equipment programme
+               that will go up in real terms each year and no further reductions in regular
+               personnel in our armed forces. I think those are bankable assurances, which will
+               resonate on the doorsteps as he goes house to house.</seg>
+         </u>
+         <u who="#HOPKINS">
+            <seg>Even at this late stage, I think that the Prime Minister might thank my right hon.
+               Friend the Member for Kirkcaldy and Cowdenbeath</seg>
+            <note>Mr Brown</note>
+            <seg>for keeping us out of the euro. As he knows, the euro has been sinking like a stone
+               in recent weeks and there are terrible stresses inside the eurozone, arising from the
+               rigidities of the euro. Is not the only serious solution to dissolve the euro and
+               recreate national currencies? Is he not in a strong position to say that? The Prime
+               Minister:I believe strongly in maintaining our national currency, but it is not a
+               realistic option to tell all other countries in Europe which currency they should
+               use. Many of them are hugely enthusiastic about the euro. However misguided I feel
+               that is, arguing that they should all break up their currency is not a viable option.
+               Obviously, being in the euro and not being able to devalue have damaged Greeces
+               ability to respond to the problems, but we cannot lay all the problems with the Greek
+               economy at the door of the euro. Greece has a long history of not making structural
+               reforms, having ludicrously early retirement ages</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>having problems with its working practices and all the rest of it. The hon. Member
+               for Bolsover</seg>
+            <note>Mr Skinner</note>
+            <seg>asks what is wrong with ludicrously early retirement ages. He has enjoyed making
+               such comments from a sedentary position for many, many years and I am sure that he
+               will do so for many years to come. There is a slight irony there.</seg>
+         </u>
+         <u who="#HALFON">
+            <seg>Did my right hon. Friend have any discussions at the European Council about the
+               jobs miracle in this country, in that there are more people employed here than at any
+               time in our islands history? Did he ask members of the European Council to come and
+               see that miracle at first hand in Harlow, where unemployment has halved, youth
+               unemployment is down by nearly 60% and apprenticeships are up by 116%?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I am grateful to my hon. Friend for his question. We discussed the employment
+               situation across Europe and I was able to give a very strong report on what is
+               happening in Britain: the 1,000 jobs that are being created every day and the
+               plummeting levels of unemployment and youth unemployment. I said that that is
+               evidence of the combination of long-term structural changes and economic recovery.
+               There are European countries with very high structural rates of unemployment that
+               need to take action to deal with that.</seg>
+         </u>
+         <u who="#WISHART">
+            <seg>My party heartily congratulates David Natzler on his appointment. There could be no
+               one more suitable and appropriate for this role in the House of Commons. On the Tory
+               European referendum, what will happen if the UK votes to leave the European Union,
+               but Scotland votes to remain within it? Should the Scottish people just put up with
+               being yanked out of Europe against their will? Would it not be better if all the
+               siblings in the Prime Ministers family of nations agreed individually before they
+               were taken out of Europe?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>What I want to know is, where are the rest of the Scot nats? They are preparing for
+               power and writing Labours Budget. They are obviously very busy. What I would say
+               about referendums is that the hon. Gentleman lost the first one and he will lose the
+               next one.</seg>
+         </u>
+         <u who="#HEATON-HARRIS">
+            <seg>You will have noticed, Mr Speaker, that my hon. Friend the Member for
+               Wellingborough</seg>
+            <note>Mr Bone</note>
+            <seg>no longer talks about his wife, but about the excellent Conservative parliamentary
+               candidate in Corby, Thomas Pursglove. I believe that that is because Mrs Bone is
+               going to become a councillor in my constituency and so has been talking to me. She
+               regrets the fact that the Liberal Democrats have not allowed the Government to
+               negotiate formally on a renegotiation in Europe, but she wonders whether the Prime
+               Minister has taken advantage of his meetings on the sidelines of the European Council
+               to talk about our renegotiation with our European partners.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I must say, I did not know that those sorts of things happened in Northamptonshire.
+               They are obviously very exciting events. I congratulate Mrs Bone on trying to become
+               a councillor. I am sure that she will make a great contribution, as she did to the
+               film about this place. Of course I have had discussions with our European partners
+               about what Britain wants to see renegotiated and I will continue to do so.</seg>
+         </u>
+         <u who="#VAZ-VALERIE">
+            <seg>The Prime Minister is keen to extol the virtues of a referendum and the benefits of
+               Europe, so will he say whether he would lead the yes camp or the no camp?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I have been absolutely clear: I want Britain to stay in a reformed European Union.
+               That is the aim I have and I am confident I will achieve it.</seg>
+         </u>
+         <u who="#NUTTALL">
+            <seg>Does the Prime Minister agree that this Governments great progress in turning round
+               the British economy has been achieved despite the eurozone and not because of
+               it?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>Although my hon. Friend and I do not always see eye to eye on issues European, he
+               is making a strong point. We have not seen much of a boost to the British economy
+               from the eurozone because it has been relatively stagnant. We have had to achieve
+               economic recovery by selling to other parts of the world and getting our own economy
+               moving. If we do see a recovery in the eurozone - which we hope to - that will
+               obviously be very good news for Britain.</seg>
+         </u>
+         <u who="#EFFORD">
+            <seg>If we ask a group of lawyers their opinion on whether TTIP would apply to the NHS,
+               we will get as many answers as there are lawyers. The Prime Minister cannot get away
+               with saying that it will not apply, because by opening up the NHS to market tendering
+               and market forces in the way he did with the Health and Social Care Act 2012, he has
+               opened the door to treaties such as TTIP applying to the national health service.
+               That is the problem he needs to protect the NHS against.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I am baffled by Labours position on this as I thought it was a party that believed
+               in free trade and backing Britains exporters. There are so many areas where we are
+               disadvantaged in our trade with America and where we could be creating jobs and
+               growth, but instead Labour Members want to read out a script handed to them by the
+               trade unions to oppose the trade deal. It makes you weep for the time when the Labour
+               party was in favour of progress and trade.</seg>
+         </u>
+         <u who="#ELLIS">
+            <seg>At the Council did anyone raise the treatment of journalists? Does my right hon.
+               Friend agree that the witch hunt that has seen several journalists from The Sun, for
+               example, put through three years of hell and cases that juries keep throwing out is
+               un-British, in that the Crown Prosecution Service is seeking to neuter the abilities
+               of journalists to obtain information in the public interest? Should there be a
+               rethink of CPS policies for similar prosecutions, because that reflects across the
+               whole of Europe?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>That issue was not raised with me or at the press conference. Obviously, the CPS is
+               independent in our country, as it should be, but my hon. Friend is right to say that
+               justice delayed is justice denied and these things should always be resolved as
+               speedily as possible.</seg>
+         </u>
+         <u who="#GRIFFITH">
+            <seg>Many jobs in my constituency depend on continued investment by leading
+               manufacturing companies that also have companies on mainland Europe. Labour Members
+               can say that a Labour Government would give them a categorical reassurance that the
+               UK will remain in the EU. What would the Prime Minister say to those companies if his
+               shilly-shallying over Europe about some sort of referendum were to drive them to
+               invest elsewhere?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>Interestingly, the conference of the British Chambers of Commerce - probably the
+               biggest business trade body in Britain - supported my approach of a renegotiation and
+               referendum, and did not support the alternative of just meekly going along with
+               whatever the European Union is doing today. Business is on the side of the changes I
+               am putting forward.</seg>
+         </u>
+         <u who="#KIRBY">
+            <seg>I am a big fan of the public sector. Does my right hon. Friend agree that Greece
+               teaches us a lesson that we can have a strong public sector only if we have a strong
+               economy?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>My hon. Friend is absolutely right. If we look at what happened in Greece with the
+               economic difficulties it has had, we see that it had to make sweeping cuts to its
+               national health service because it was in so much economic trouble. That underlines
+               the point that we will make every day from now and for the next 45 days, which is
+               that if we want a strong NHS, schools and policing, we must have a strong
+               economy.</seg>
+         </u>
+         <u who="#LUCAS-IAN">
+            <seg>In his statement the Prime Minister said that he wanted a European Union where
+               freedom of movement was not an unqualified right. If he does not secure an exemption
+               from freedom of movement by the time of the referendum in 2017, will he be voting
+               no?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I am very confident that we will get the changes we need, not least on the
+               operation of our welfare system. Back in European history, there was a time when
+               freedom of movement was about accepting a job that had been offered, rather than
+               simply the freedom to move to look for work. I have been clear, and we will be clear
+               on the doorsteps, including in the hon. Gentlemans constituency: no unemployment
+               benefit for visiting EU migrants; after six months if someone has no job they have to
+               go home; someone must work for four years before they get in-work benefits; and no
+               sending home of child benefit. Those are things that I suspect each and every one of
+               the hon. Gentlemans constituents wants put in place.</seg>
+         </u>
+         <u who="#OFFORD">
+            <seg>With regard to the Iranian nuclear deal, may I urge great caution on the part of
+               the Prime Minister and, indeed, other members of Europe? The road between a civil
+               nuclear energy Iran and a military nuclear Iran is a very short one. Contrary to what
+               at least one of my right hon. Friends constituents has said, it would be better for
+               the middle east to have no deal than a bad deal.</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I absolutely understand and share the concerns that people right across the world,
+               including in Israel, have about the prospect of a nuclear-armed Iran. The deal should
+               keep Iran away from having a nuclear weapon, with proper inspection and verification
+               so that if there were any changes to those circumstances, they could be seen.
+               Obviously, we should not do a deal at any price, but the alternatives to doing a deal
+               are not attractive. Frankly, they are not attractive for Iran. The sanctions we put
+               in place - Britain led the charge in Europe - have done such damage in Iran that it
+               is in its interests to conclude a deal.</seg>
+         </u>
+         <u who="#STEPHENSON">
+            <seg>Earlier this month, I met a group of talented young people at John Fisher and
+               Thomas More Roman Catholic high school in Colne, who, through CAFOD, are helping to
+               raise the profile of climate change. They have all made their own climate change
+               pledges, which they presented to me. Will the Prime Minister say more about his
+               discussions on energy policy and the prospects of our reaching a long-term agreement
+               in Paris this December?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>I am very grateful to my hon. Friend for that question. I think the prospects are
+               good, because of the deal Britain helped to broker at the previous EU Council. It
+               shows that the European Union will be making a very serious contribution to reducing
+               carbon emissions. We obviously had to allow some countries, such as Poland, some
+               flexibility, but the overall numbers for Europe are impressive. Now what we need to
+               do, with the movement by the Americans and the Chinese, is discuss the matter with
+               all the countries which might, if we are not careful, put a spoke in the wheel of
+               progress, so that, with others, we will help to ensure that the sort of mitigation
+               that they will need in their countries goes ahead.</seg>
+         </u>
+         <u who="#SMITH-HENRY">
+            <seg>In his statement, the Prime Minister spoke about opportunity. Does my right hon.
+               Friend agree that people will have an opportunity to reform the EU and have an in/out
+               referendum on this countrys membership of the EU only by voting Conservative, and
+               that voting for any other party will kill that opportunity?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>My hon. Friend is right. Voting for another party is really opening the back door
+               to a Labour Government, who would not renegotiate or have a referendum. It would just
+               lead to a sigh of relief in the corridors of Brussels that none of those changes was
+               necessary. If people are serious about wanting reform and a referendum, there is only
+               one box they can put their cross in.</seg>
+         </u>
+         <u who="#CHISHTI">
+            <seg>On foreign policy, did the European Council look at the coup in Yemen against the
+               legitimate Government of President Hadi? Taking into account the words of the Yemeni
+               Foreign Minister in today asking for Gulf Co-operation Council countries to send in
+               their forces to avoid civil war, the Saudis have asked their ambassador to operate
+               from Aden to show support for the legitimate Government. Will we be doing the
+               same?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>We did not discuss Yemen specifically at the Council because we were very focused
+               on Tunisia, Libya, Ukraine, energy union and the eurozone crisis, but my hon. Friend
+               is absolutely right that what is happening in Yemen is deeply worrying. It is
+               extremely unstable. We still, obviously, support and believe that President Hadi is
+               the legitimate power. Frankly, what is needed in that country is what is needed in so
+               many other troubled countries in the middle east, which is inclusive government that
+               includes representatives of all the people of that country, so there can be some sort
+               of progress.</seg>
+         </u>
+         <u who="#BRIDGEN">
+            <seg>Despite yet another eurozone crisis, the UK economy continues to grow strongly,
+               creating more jobs than the rest of Europe added together. Does the Prime Minister
+               agree that it would have been a huge error of judgment, especially by someone who
+               aspired to be Prime Minister, to have backed Francois Hollandes failed socialist
+               policies when he should have been backing our long-term economic plan?</seg>
+         </u>
+         <u who="#CAMERON">
+            <seg>We all remember what the Leader of the Opposition said. He stood on the steps of
+               the lyse and said he wanted Britain to follow the French course. If we had done that,
+               unemployment would be twice as high as it is and growth would be one seventh of what
+               we have achieved, so I am sure that when it comes to the choice at the election,
+               people will recognise that we should follow not the French course but the British
+               course, which means voting Conservative.</seg>
+         </u>
+         <u who="#SPEAKER">
+            <seg>Before I call the Minister for the Cabinet Office and Paymaster General to make his
+               statement to the House, it might be helpful to colleagues to know that the final days
+               debate on the Budget is very heavily subscribed, with no fewer than 38 colleagues
+               seeking to catch the eye of the Chair. As a consequence, it will be important to be
+               very pithy in the statement now, both from the Back Benches and the Front Bench. We
+               will then proceed with the main business of the day.</seg>
+         </u>
+      </body>
+   </text>
+</TEI>

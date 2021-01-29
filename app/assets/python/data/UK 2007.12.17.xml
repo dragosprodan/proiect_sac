@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200708/cmhansrd/cm071217/debtext/71217-0004.htm#0712174000003"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>17 December 2007</date>
+               <date when="2007-12-17"></date>
+               <activity>Signature of the Treaty of Lisbon</activity>
+               <locale>Brussels</locale>
+               <persName>Brown</persName>
+               <name>93rd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BROWN">
+                  <persName>Mr. Gordon Brown</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Witney</residence>
+               </person>
+
+               <person xml:id="CABLE">
+                  <persName>Dr. Vincent Cable</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Twickenham</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="SMITH">
+                  <persName>Mr. Iain Duncan Smith</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Chingford and Woodford Green</residence>
+               </person>
+
+               <person xml:id="BRYANT">
+                  <persName>Chris Bryant</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rhondda</residence>
+               </person>
+
+               <person xml:id="CORBYN">
+                  <persName>Jeremy Corbyn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Islington, North</residence>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="PURCHASE">
+                  <persName>Mr. Ken Purchase</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wolverhampton, North-East</residence>
+               </person>
+
+               <person xml:id="ROBERTSON-ANGUS">
+                  <persName>Angus Robertson</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Moray</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="MACSHANE">
+                  <persName>Mr. Denis MacShane</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rotherham</residence>
+               </person>
+
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ross, Skye and Lochaber</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="CURRY">
+                  <persName>Mr. David Curry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Skipton and Ripon</residence>
+               </person>
+
+               <person xml:id="ANCRAM">
+                  <persName>Mr. Michael Ancram</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Devizes</residence>
+               </person>
+
+               <person xml:id="FLYNN">
+                  <persName>Paul Flynn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Newport, West</residence>
+               </person>
+
+               <person xml:id="CAMPBELL-GREGORY">
+                  <persName>Gregory Lloyd Campbell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Democratic Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>East Londonderry</residence>
+               </person>
+
+               <person xml:id="REDWOOD">
+                  <persName>Mr. John Redwood</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wokingham</residence>
+               </person>
+
+               <person xml:id="HOEY">
+                  <persName>Kate Hoey</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Vauxhall</residence>
+               </person>
+
+               <person xml:id="CORMACK">
+                  <persName>Sir Patrick Cormack</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>South Staffordshire</residence>
+               </person>
+
+               <person xml:id="CLAPPISON">
+                  <persName> Mr. James Clappison</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Hertsmere</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BROWN">
+            <seg>With permission, I would like to make a statement about the European
+               Council held in Brussels on 14 December. It focused on two major concerns: first, the
+               reforms that Europe must make to meet and master the global challenges we face with
+               competitiveness, employment, secure energy and climate change; and, secondly, issues
+               of security, in particular in Kosovo, Iran and Burma, that we must confront
+               together.</seg>
+            <seg>I start with the most immediate concern facing the summit: the best way to bring
+               about a satisfactory resolution to the status of Kosovo. Kosovo is the last remaining
+               unresolved issue from the violent break-up of the former Yugoslavia, and in the light
+               of recent failures by the parties in the Troika process to find a negotiated way
+               forward, the European Council accepted its responsibility for joint European action
+               and agreed the importance of urgently moving towards a settlement. It is to the
+               credit of all parties in the dispute that, even when faced with conflicting
+               positions, the region remains at peace. As the European Council conclusions noted, it
+               is essential that this commitment to peace is maintained. </seg>
+            <seg>The principles of our approach are, first, that Europe take seriously its special
+               responsibility for the stability and security of the Balkans region. Indeed, it is
+               also thanks to the sustained efforts of NATO troops and the diplomacy of the United
+               Nations and the European Union that a safe and secure environment has been
+               maintained. Secondly, however, we were agreed that the status quo is unsustainable
+               and that we needed to move towards a settlement that ensures what the European
+               Council called a <quote>"stable, democratic, multi-ethnic Kosovo committed to the
+                  rule of law, and to the protection of minorities and of cultural and religious
+                  heritage".</quote>
+            </seg>
+            <seg>Thirdly, after a detailed discussion at the Council, we were also wholly united in
+               agreeing that European engagement should move to a new level. We agreed in principle
+               and stated our readiness to deploy a European security and defence policy policing
+               and rule-of-law mission to Kosovo. That will consist of a multinational mission of
+               around 1,800 policemen and judicial officials, of whom I can confirm that the UK will
+               contribute around 80, including its deputy head, Roy Reeve. European Foreign
+               Ministers will confirm the detailed arrangements for this mission shortly.</seg>
+            <seg>Fourthly, we also reaffirmed that a stable and prosperous Serbia fully integrated
+               into Europe is important for the stability of the region. The Council encouraged
+               Serbia to meet the necessary conditions to allow signature of its stabilisation and
+               association agreement with the EU and we expressed our confidence that Serbia has the
+               capacity to make rapid progress subsequently towards candidate status. The
+               conclusions of the meeting of European Foreign Ministers also reiterated the European
+               Unions support for enlargement more generally. We look forward to recognising the
+               progress made by both Croatia and Turkey at this weeks accession conference in
+               Brussels.</seg>
+            <seg>The UN Security Council will discuss the issue of Kosovo with representatives from
+               both Belgrade and Pristina on 19 December. The aim is to give Russia an opportunity
+               to accept a consensus on the way forward.</seg>
+            <seg>If that proves impossible, we - Britain - have always been clear that the
+               comprehensive proposal put forward by the UN special envoy, based on supervised
+               independence for Kosovo, represents the best way forward. While we are rightly
+               focused on the immediate priority of bringing the status process through to
+               completion in an orderly and managed way, the European Council also agreed that it is
+               important that we address the long-term challenge of ensuring Kosovos future economic
+               and political viability. I welcome the commitment made by the European Union, to
+               assist Kosovos economic and political development, for a donors conference to follow
+               shortly after a status settlement.</seg>
+            <seg>The Council also discussed Iran. There was agreement on a united European approach.
+               Again, the power we wield working together with all the European Union is greater
+               than if we act on our own. I have made it clear repeatedly that Iran remains in
+               breach of its international obligations. In September, Foreign Ministers agreed that
+               unless there were positive outcomes from Solana and the International Atomic Energy
+               Agencys discussions with Iran, we would seek tougher sanctions at the UN. The latest
+               assessment is that sufficient progress has not been made.</seg>
+            <seg>The European Council conclusions call on Iran to provide full, clear and credible
+               answers to the IAEA, and to resolve all questions concerning its nuclear activities.
+               We reiterated our support for a new UN resolution as soon as possible, and agreed to
+               decide on new measures that the EU might have to take to resolve the situation at the
+               January meeting of Foreign Ministers. Those should complement UN measures, and not
+               substitute for them if the Security Council cannot reach agreement.</seg>
+            <seg>Iran has a choice: confrontation with the international community leading to a
+               tightening of sanctions; or, if it changes its approach, a transformed relationship
+               with the world from which all would benefit. The EU also reaffirmed its deep concern
+               about the unacceptable situation in Burma, and made it clear that if there is no
+               change in the Burmese regimes approach to political negotiations and basic political
+               freedoms, we stand ready to review, amend andif necessaryfurther reinforce
+               restrictive measures against the Burmese Government. We also reaffirmed the important
+               role of China, India and the Association of South East Asian Nations in actively
+               supporting the UNs efforts to establish an inclusive political process leading to
+               genuine national reconciliation.</seg>
+            <seg>For our part we believe that the forthcoming visit of Professor Gambari, the UN
+               envoy, is critical. It is essential that the Burmese Government meet the demands set
+               out in the UN Security Council statement: to release all political prisoners; to
+               create the conditions for political dialogue, including relaxation of restrictions on
+               Aung San Suu Kyi; to allow full co-operation with Gambari; to address human rights
+               concerns; and to begin a genuine and inclusive process of dialogue and national
+               reconciliation with the opposition. In particular, the regime should respond to the
+               constructive statement of Aung San Suu Kyi on 8 November and open a meaningful
+               dialogue with the opposition and the countrys ethnic groups. The Council also agreed
+               that a key part of the EUs external agenda is how we can, by working together,
+               maximise our influence in tackling global poverty. The European Commission should
+               report by April next year - halfway to the 2015 millennium goals date - on how the EU
+               is meeting its commitments to those goals, and how we can accelerate further
+               progress.</seg>
+            <seg>In addition to those issues of international security and development, the Council
+               conclusions and the special declaration on globalisation set out the challenges that
+               the European Union must address on globalisation. We agreed to maintain our focus on
+               economic reform, with a renewed focus on modernising the single market so that it
+               enhances Europes ability to compete in the global economy. We must have full
+               implementation of the services directive by 2009. We must continue to work towards
+               further liberalisation in energy, post and telecoms, where market opening could
+               generate between 75 billion and 95 billion of extra benefits and contribute 360,000
+               jobs. Investment in research, innovation and educationand removing barriers to
+               enterpriseare also essential.</seg>
+            <seg>We reaffirmed our commitment to free trade and openness, and the priority of
+               securing a successful Doha world trade round, which would lead to benefits
+               approaching $200 billion, bringing significant benefits to rich and poor countries
+               alike. We will also propose and support better EU-USA trade links.</seg>
+            <seg>We agreed, too, to do more to develop mechanisms for co-operation within the EU to
+               tackle issues such as security challenges in relation to terrorism, illegal
+               immigration and organised crime. We renewed our commitment to the EU
+               counter-terrorism strategy and to co-operation on counter-radicalisation work. We
+               will work together to deliver our commitments to tackling climate change, including
+               the target of a reduction in emissions. Building on the significant progress made in
+               Bali last weekan agreement on which the Secretary of State for Environment, Food and
+               Rural Affairs will report to the House tomorrowwe must help to negotiate an ambitious
+               post-2012 international climate change agreement. We agreed that Europe must also
+               step up funding, including funding through the World Bank, to help the developing
+               world to shift to lower carbon growth and adapt to climate change. </seg>
+            <seg>It was agreed at the last Council meeting that the presidency would propose the
+               establishment of a new reflection group. That was announced in October. At this later
+               meeting, the Council invited Mr. Felipe Gonzalez Marquez, assisted by two
+               vice-chairs, Mrs. Vaira Vike-Freiberga and Mr. Jorma Ollila, Chairman of Shell and
+               Nokia, to <quote>"identify the key issues and developments which the Union is likely
+                  to face in 2020 or 2030 and to analyse how these might be addressed".</quote> The
+               remit states specifically that <quote>"it shall not discuss institutional matters.
+                  Nor should its analysis constitute a review of current policies or address the
+                  Union's next financial framework"?.</quote> The group will report back to the
+               Council, which will decide how to follow its recommendations.</seg>
+            <seg>I can also tell the House that today we are publishing the European Union
+               (Amendment) Bill, which contains the institutional changes to accommodate a Europe of
+               27 members, and will include the safeguards that we have negotiated to protect the
+               British national interest. They consist of the legally binding protocol which ensures
+               that nothing in the charter of fundamental rights challenges or undermines the rights
+               already set out in UK law, and that nothing in the charter extends the ability of any
+               court, European or national, to strike down UK law; legally binding protocols which
+               prescribe in detail our sovereign right to opt in on individual justice and home
+               affairs measures when we consider doing so to be in the British interest, but
+               alternatively to remain outside if that is in our interests; a declaration that
+               expressly states that nothing in the new treaty affects the existing powers of member
+               states to formulate and conduct their foreign policy, and that the basis of foreign
+               and security policy will remain intergovernmental, a matter for Governments to decide
+               on the basis of unanimity; and an effective power of veto on any proposals for
+               important changes on social security, so that when we - Britain - determine that any
+               proposal would have an impact on an important aspect of our social security system,
+               including its scope, cost or financial structure, we can insist on taking any
+               proposal to the European Council under the unanimity provision.</seg>
+            <seg>With the publication of the Bill, Parliament will now have an opportunity to debate
+               this amending treaty in detail and decide whether to implement it. We will ensure
+               that there is sufficient time for debate on the Floor of the House, so that the Bill
+               can be examined in the fullest detail and all points of view can be heard. That will
+               give the House the fullest possible opportunity to consider the treaty, and the deal
+               secured for the UK, before ratification.</seg>
+            <seg>In addition, I can tell the House that we have built into the legislation further
+               safeguards to ensure that there is proper parliamentary oversight and accountability.
+               So that no Government can agree without Parliament's approval to any changes in
+               European rules that could in any way alter the constitutional balance of power
+               between Britain and the European Union, there is a provision in the Bill that any
+               proposal to activate the mechanisms in the treaty which provide for further moves to
+               qualified majority voting but which require unanimitythe so-called passerelleswill
+               have to be subject to a prior vote by the House. In the event of a negative vote, the
+               Government would refuse to allow the use of the passerelle. The Bill also includes a
+               statutory obligation that any future amendments to the treaty, including amendments
+               that provided for any increase in the EU's competence, would have to be ratified
+               through an Act of Parliament; so Parliament would have absolute security that no
+               future change could be made against its wishes.</seg>
+            <seg>I said in October that we would oppose any further institutional change in the
+               relationship between the EU and its member states, not just for this Parliament but
+               for the next, and I stand by that commitment. This is now also the settled consensus
+               of the EU. All 27 member states agreed at the Counciland it was expressly set out in
+               the conclusionsthat this amending treaty provides the Union with a stable and lasting
+               institutional framework, and that it completes the process of institutional reform
+               for the foreseeable future. The conclusions of the Council state specifically that
+                  <quote>"the amending treaty provides the Union with a stable and lasting
+                  institutional framework. We expect no change in the foreseeable
+               future".</quote>
+            </seg>
+            <seg>Let me conclude with the discussion on the most immediate of economic issues
+               discussed: concerns about the economic consequences of the global financial
+               turbulence that started in America in August. The Government's first priority in the
+               coming weeks is to ensure the stability of the economy and to have the strength to
+               take the difficult long-term decisions necessary. The Council agreed that the whole
+               of the EU must now turn its attention to both the immediate measures necessary and
+               the long-term strengthening of international capacity to secure greater financial
+               stability. The announcement earlier this week by central banks in the major financial
+               centres that they will provide liquidity to ease tension in the financial markets
+               must now be built upon.</seg>
+            <seg>As we agreed, supervisory authorities in different countries need to co-operate
+               effectively across borders in exchanging information and in the management of
+               contagion. The European Council conclusions emphasised that macro-economic
+               fundamentals in the EU are strong and that sustained economic growth is expected, but
+               we concluded that continued monitoring of financial markets and the economy is
+               crucial, as uncertainties remain. The Council underlined the importance of work being
+               taken forward both within the EU and with our international partners to improve
+               transparency for investors, markets and regulators; to improve valuation standards;
+               to improve the prudential framework, risk management and supervision in the financial
+               sector; and to review the functioning of markets, including the role of credit rating
+               agencies.</seg>
+            <seg>The European Council will discuss these issues at its spring 2008 meeting on the
+               basis of a progress report from the Council of Finance Ministers and the financial
+               stability forum. As agreed by Chancellor Merkel, President Sarkozy and I in October,
+               the progress report should examine whether regulatory or other action is necessary. I
+               have invited Chancellor Merkel and President Sarkozy to London so that we can discuss
+               the proposals in the paper we agreed and issued a few weeks agomeasures important to
+               strengthening the international community's role in addressing financial turbulence,
+               showing the importance we attach to taking the long-term decisions to ensure in
+               testing times the stability of the economy.</seg>
+            <seg>The conclusions of the Council state specifically that in the institutional
+               framework we expect no change for the foreseeable future. The protections that have
+               been agreed in the amending treaty defend the British national interest. In the Bill
+               introduced today, we are legislating for new protections and new procedures to lock
+               in our protection of these interests. Europe is now moving to a new agenda, one that
+               focuses on the changes needed to meet the challenges of the global era. I commend the
+               statement to the House.</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>I thank the Prime Minister for his statement on the European Council
+               in Brussels. I note that he could not bring himself to mention his visit to Lisbon. I
+               am delighted that the Government have finally adopted our position of saying that
+               Europe should focus on the real issues and not on institutional reform. However, the
+               whole country will ask how he can possibly say that, having just signed up to an
+               all-encompassing constitution that transfers powers from Westminster to Brussels and
+               when he will not even put the constitution, with its massive institutional changes,
+               to the British people in a referendum.</seg>
+            <seg>Before turning to the constitution, let me ask about those areas where decisive
+               action is needed: the Balkans, Iran and Darfur. On Burma, I very much agree with what
+               the Prime Minister said. On the Balkans, clear signals are needed. Kosovo should not
+               be left in limbo, no other border should be reopened and military reserves should be
+               deployed to demonstrate Europes resolve. In terms of sending out these clear signals,
+               does the Prime Minister agree that if Serbia wants to join the EU, she should
+               co-operate fully with the war crimes tribunal, which means arresting Mladic and
+               Karadzic and getting them to The Hague?</seg>
+            <seg>On Iran, what is needed is a combination of engagement and sanctions. We have
+               consistently argued that although the United States needs to do more in terms of
+               engagement, Europe needs to do much more in terms of sanctions. What progress was
+               made in Brussels in persuading other European countries that new export credits
+               should be banned and that access for certain Iranian banks to the European financial
+               system should be restricted?</seg>
+            <seg>On Darfur, which I do not think he mentioned, the Prime Minister said three months
+               ago that more than 20,000 troops and police were necessary. I agree. Today there are
+               still fewer than 10,000. When will that shortfall be made up?</seg>
+            <seg>Turning to the constitution, I have to say to the Prime Minister that the key issue
+               is the referendum. Is it not the case that he simply will not restore trust in
+               politics unless he keeps his promise to hold one? Labour Members of Parliament -
+               staggeringly few of them are here today - put that commitment to a referendum in
+               their election addresses, trade unionists voted for it in the TUC, and every opinion
+               poll shows that it is what people want. This issue is not going to go away. In trying
+               to justify breaking his promise, the Prime Minister says that this treaty is not the
+               constitution, but does he not understand that that simply will not wash? The German
+               Chancellor, the Irish Prime Minister and the Spanish Foreign Minister all completely
+               undermine what the Prime Minister says by saying that the treaty is pretty much the
+               same as the constitution, and the author of the constitution, Giscard dEstaing, said
+               last month that the constitutions <quote>"essential points... reappear word for word
+                  in the new project. Not a comma has changed!"</quote>
+            </seg>
+            <seg>The Prime Ministers argument has simply collapsed. Does he not see that it is this
+               sort of approach that makes him look shifty and untrustworthy? Does he not see that
+               far from getting him out of his troubles, denying people a referendum is digging him
+               in deeper? This treaty obviously is the constitution. It contains an EU President, a
+               Foreign Minister and an EU diplomatic service, and it gets rid of the veto in 60
+               areas and contains a new ratchet clause which allows even more vetoes to be scrapped
+               without a new intergovernmental conference. When I put that point to the Prime
+               Minister last October, he claimed the measure was already there in the Single
+               European Act. It was not. The new clause for the first time allows virtually any veto
+               to be scrapped in any area. That measure was not in the Single European Act, nor in
+               any treaty before this one. Once again, the Prime Minister is treating people like
+               fools.</seg>
+            <seg>So the Prime Minister has not been straight about the constitution, and that was
+               only made worse by his frankly bizarre performance in Lisbon last week. Was he going
+               or was he not going? Was he going to sign the treaty or was he not going to sign the
+               treaty? Were the cameras going to record it or not? He could not summon up the
+               courage to decide.</seg>
+            <seg>Is this not all a pattern for this Prime Minister? We get troop withdrawals that
+               have already happened, the election that never was, and now the signing ceremony that
+               would not take place. There was not a word in the statement about actually signing
+               the treaty. I expect that Macavity hopes we have forgotten about it already. Did not
+               a senior diplomat get it right when he said of the Prime Ministers dithering that
+                  <quote>"he's ended up with the worst of all worlds... If he wants to send a
+                  Euro-signal that hes indecisive, hes just sent it?" </quote>As for the Foreign
+               Secretary, in all the past centuries of British Foreign Secretaries representing this
+               country overseas, has there ever been a more ludicrous moment than this Foreign
+               Secretary being so isolated and alone that the only person whose hand he could find
+               to shake was the usher who had handed him the pen? Is it not the case that European
+               leaders now see the Prime Minister in the same light as do the British people: not as
+               the strong leader he posed as in July, but as a Prime Minister who has turned out to
+               be weak, ditheringsecond-rate would be a bonus with himand not straight with people?
+               Does he not recognise that the best chance he has got to redeem himself is to hold
+               that referendum he promised?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>In the spirit of Christmas, let us find where we do agree. We agree on
+               Kosovo, where our aim, too, is supervised independence, the arrest of the Serbian
+               criminals, and to ensure that there is a proper civilian as well as military presence
+               from both the EU and NATO on the ground. We agree on Iran: obviously, the right hon.
+               Gentleman agrees with me that because the issue is enriched uranium, sanctions are
+               necessary. We agree on Darfur, and I thank him for mentioning that as it gives me the
+               chance to say that we are ready to step up both sanctions and activity in relation to
+               Darfur if we do not get the co-operation of the Government there.</seg>
+            <seg>As the right hon. Gentleman said, we also agree on Burma. However, I am surprised
+               that when we are debating the issues that arose from the European Counciland I rather
+               suspect he wrote his contribution before he looked at its conclusionshe does not
+               mention the declaration on globalisation, the commitment to economic reform, what we
+               have done on the environment together, and what we continue to do on the financial
+               stability issues, none of which he seems to think important, because the only issue
+               that obsesses the Conservative party is the European amending treaty. I have to ask
+               him this question, then: if the Conservative party thinks that a referendum is so
+               important, does it agree that even after ratification there would be a referendum?
+               Some of the party think that there should be, but others think there should not. Will
+               he tell us what his position is, because until he does so we will rightly say that he
+               is all slogans and absolutely no substance?</seg>
+            <seg>When it comes to the wording in the Bill that I have laid before the House today, I
+               should correct the right hon. Gentleman. On passerelles, there will be a
+               parliamentary vote on whether there should be any move from unanimity to qualified
+               majority voting, and the Government will not be able to sign up to a passerelle
+               change without the approval of the House of Commons. However, I have to tell him on
+               the referendum issue that not one other countryexcept the Irish Republic, which is
+               constitutionally bound to have a referendumis proposing to have that referendum. The
+               Dutch and the Danish have rejected it. The right hon. Gentleman has only two
+               supporters in the European Union as he tries to find a new group. The Bulgarian party
+               has now deserted him, and the Czech party has said only in the last few days that it
+               wants to sign the treaty. It is not a constitutional treaty in their view, and if
+               they did not sign the treaty it would lead, they said, to the international isolation
+               of the Czech Republic.</seg>
+            <seg>That is the view of the right hon. Gentlemans best ally in Europe; and perhaps I
+               should repeat to him what the chairman of his democracy commission has said about
+               this matterthat a European referendum would be crackpot, dotty and frankly absurd. Is
+               it not about time that the Conservatives faced up to the big issues in Europe; that
+               they accepted they we are trying to move Europe to a new agenda; that they joined
+               that new agenda, which is about the environment, the economy and security; and that
+               they stopped their obsession with the issues of the past?</seg>
+         </u>
+
+         <u who="#CABLE">
+            <seg>I too welcome the statement, particularly the Prime Ministers comments
+               on Kosovo, Iran and Burma, and his support for economic reform and free trade. I
+               start by referring to the meetings that he did not attend, before getting on to the
+               one that he did. He was absolutely right not to attend the EU-Africa summit. The
+               European Union has a travel ban on Mugabe, and the Prime Minister was absolutely
+               right to take a principled stand on that. The only doubt that I am left with is why,
+               given his strong position on human rights, he did not take a comparably strong
+               position on the King of Saudi Arabia. I suspect that Mr. Mugabe will be wondering
+               whether the only way to get on the right side of the Prime Ministers principled view
+               of foreign policy is to have some oil.</seg>
+            <seg>The other meeting that the Prime Minister did not attend, of course, was the
+               signing ceremony, and I am puzzled about the reasons for that. Either he could not
+               organise his diary, which would be incompetent, or he could not make the effort,
+               which would be discourteous. Alternatively, he was trying to send the conflicting
+               signal that he did not like the treaty that he had agreed to. Whether it was
+               duplicity, incompetence or discourtesy, it reflected badly not just on him but on the
+               country as a whole.</seg>
+            <seg>There is one way for the Prime Minister to redeem himself, which is to call a
+               referendum: not, of course, on the narrow issue of the treaty, but on the broader
+               question of whether Britain should remain a full member of the European Unionan issue
+               on which nobody under the age of 50 has yet had an opportunity to vote. Perhaps I
+               might remind the Prime Minister of what happened when we had a vote in the House of
+               Commons on 14 November. His party and mine were unitedon opposite sides of the
+               argument. The Conservatives voted 149 against the referendum and six in favour, with
+               31 abstaining. If high principle does not appeal to him, perhaps low politics will,
+               and he will come round to the idea of a referendum.</seg>
+            <seg>On the specifics of the Prime Ministers statement, he was right to draw attention
+               to the progress made on Kyoto and climate change, but can he clarify exactly what
+               this means for the commitments of the United Kingdom? I tackled him at Prime
+               Ministers questions a few weeks ago on the UK commitment to a 20 per cent. renewables
+               use by 2020, and he replied by saying that that was not a commitment for the UK, but
+               for the European Union as a whole. Somewhat earlier, on 1 March, his Foreign
+               Secretary, who was then the Environment Secretary, said quite explicitly that this
+               was a commitment for the United Kingdom specifically. Can the Prime Minister clarify:
+               is that the Governments view, or was his statement in Parliament the correct
+               view?</seg>
+            <seg>On Kosovo, the Prime Minister is absolutely right to stress the danger of this
+               situation. Several countries in the area could be sucked into itSerbia, Montenegro,
+               Macedonia and Bosniaand we could well be faced with flights of refugees, as we have
+               had in the past. The UK may well be called upon to play a role in a peacekeeping
+               capacity. The question I have for him is: what is the ability of the British
+               Government to play a role in a peacekeeping capacity when British armed forces are so
+               overstretched? Is not the answer to this dilemma to withdraw the remaining few
+               thousand troops in Basra, who are impotent in the face of the militias running amok
+               there? Finally, may I ask the Prime Minister about the commitment of Finance
+               Ministers and Prime Ministers to support additional liquidity in the world economy?
+               There is a simple point: if 30 billion cannot save one small regional bank in
+               Britain, what is the prospect of 50 billion saving the world economy?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am pleased that the hon. Gentleman is making his appearance here as
+               the acting leader of the Liberal party; it will elect a new leader tomorrow. I see
+               that three former leaders of the Liberal party are with us today. He says that he has
+               a new position on the referendumbut some members of his party want a referendum on
+               the amending treaty, whereas others do not. So what has his party done? It has
+               retreated to the position of 35 years ago whereby the party will have a referendum on
+               whether we should be in the European Union at all. I suggest to him that that issue
+               was resolved in 1975; it is in no need of being resolved again in this country.</seg>
+            <seg>I turn to the hon. Gentlemans points about the specifics of the discussions. On
+               Zimbabwe, it is right that we are agreed that it was wrong for Britain to be present
+               at prime ministerial or Foreign Secretary level at the EU-Africa conference. However,
+               if there is a change in Administration in Zimbabwe and in the respect for human
+               rights, we stand ready to do what we can to help rebuild that country.</seg>
+            <seg>On Kosovo, I agree with the hon. Gentleman that we need a military and civilian
+               presence, but I do not agree with him that Britain cannot play its part with the
+               small but important numbers that we are putting in both in civilian and military
+               presence.</seg>
+            <seg>On the renewables issue, I think the hon. Gentleman knows what our position is: I
+               made it clear in the House of Commons. The EU is committed to a 20 per cent.
+               renewables target. Discussion is taking place around the EU about what individual
+               contributions will be made by the member states. We await the outcome of that
+               discussion, and we will then receive a target that we will implement. This is the
+               right way forward, and I hope that all parties in the House of Commons will provide
+               support for dealing with renewables. Finally, the hon. Gentleman mentioned the
+               European financial situation in the face of global turbulence. I hope that we will
+               see co-operation across Europe to deal with what have been very difficult problems
+               arising from events in America, where there has already been central bank
+               co-operation. We are prepared to argue for more co-operation, which is why I have
+               invited Chancellor Merkel and President Sarkozy to London to discuss the paper that
+               we have already put forward for reform of the international financial
+               institutions.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>Does the Prime Minister agree that the Portuguese presidency deserves enormous credit for all the achievements during its six months, and that the outcome of this meeting in Brussels, too, is a reflection of a lot of the preparatory work that it has done? He made reference to Kosovo. Did any discussion take place about a co-ordinated EU and United States recognition of an independent Kosovo, so that no precipitate and unwieldy approach to these matters is taken over the next two months and we get the smoothest possible international agreement of recognition at the same time?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am grateful to my hon. Friend, who takes a big interest in these matters as Chairman of the Foreign Affairs Committee. As far as Kosovo is concerned, we should applaud the restraint that has been shown so far by both sides. A meeting will take place at the UNRussia will also be involved thereto see whether we can reach agreement. If we cannot do so, the EU will debate its presence in Kosovo in the next few weeks. The final decisions will be made by the Foreign Ministers. Our position is that we would then move to supervised independence of Kosovo, but we await the discussions that are taking place in the United Nations. My hon. Friend is also right to praise the Portuguese presidency: it was responsible for getting the final decisions on the amending treaty; it organised the EU-Brazil summit and the EU-Africa summit; it has moved ahead with action on Kosovo; and it put forward the declaration on globalisation, which sets a new agenda for the European Union for future years. So, I have nothing but praise for the Portuguese presidency.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>The Prime Minister says that he prides himself on letting Parliament have its say. Given that he has now made it clear that he and his Front Benchers will not stand by their commitment to have a referendum on the treaty, does he acknowledge that many of his Back Benchers stood on a manifesto commitment to do so? Should an amendment to hold a referendum be tabled during proceedings on the treaty, would he allow his Back Benchers a free vote, so that they could stand by their commitment?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>That is not the way forward, because the constitutional treaty was abandoned. The first line of the Brussels declaration last summer was that the constitutional concept had been abandoned. In particular, Britain won all the red lines that we set out before we went to the Brussels summit. It is for the Conservatives now to tell us whether they are in favour of a referendum in principle, in which case they will support it even after ratificationor are they simply opportunist, in saying that they want a referendum now?</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>As a member of the Liaison Committee, I can tell the Prime Minister that the Committee was grateful for, and appreciated, his attendance last Thursday. The whole House should appreciate the respect that he has shown Parliament. In relation to the signing of the amending treaty, has the Prime Minister remarked on the confluence of the events in Lisbon and in Bali, where the entire European Union spoke as one? Is not that an example of how the Union can work together in the interests of all the people of the Union, and will not the amending treaty advance that cause in the future?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>As I said in my statement, the Secretary of State for Environment, Food and Rural Affairs will make a statement to the House tomorrow about the success at Bali, in which, to his credit, he was directly involved in persuading the rest of the world to sign an agreement that moves the environmental negotiations forward and makes us believe that a post-2012 agreement similar to Kyoto will involve all countries, not just some. I agree with my hon. Friend that the environmental issues that are being addressed make the case for co-operation across the European Union. It is precisely because the EU was prepared to agree a common position that it had such influence in Bali. By working together, we can achieve more than if we work in isolation, and the Conservatives - if they seriously believe in the importance of environmental co-operation - should accept the lesson that we should co-operate across Europe in bringing forward proposals for a better environment.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>The Prime Ministers idea of Christmas on this matter is about as cheerful as Jacob Marleys. Why is he in breach of the resolution of the House of Commons of November 1998, in respect of the European Scrutiny Committees refusal to clear the IGC opinion on the treaty? Will he, therefore, in accordance with that resolutionand given his much vaunted enthusiasm in his Governance of Britain Green Paper for giving full account to Parliamentappear before the Committee and explain why he thinks that this treaty is not substantially equivalent to the constitutional treaty?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We are not in breach of the 1998 decision. This was a report on the IGC process, not on the treaty itself. Therefore I do not accept the presumption in the hon. Gentlemans question.</seg>
+         </u>
+
+         <u who="#PURCHASE">
+            <seg>The Council is right to be concerned about the position in Iran. The rhetoric coming from Tehran is dreadful, and equalled perhaps only by the wilder sources in Washington. However, does my right hon. Friend understand that the present sanctions are not hurting the big British, American and European companies in Iran, who are sourcing their goods through the Gulf countries, but smaller businesses and people in Iran? That is being used by Ahmadinejad to wind up the Iranian people against the west. Will my right hon. Friend use his best efforts to ensure that diplomacy is the way forward, including contact with the bodies in Tehran?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>It is diplomacy that we want to be the way forward, but we have to face up to the fact that in enriching uranium with no civil nuclear power process at work, the Iranian Government are in breach of the non-proliferation treaty and of all the commitments that they have made to the international community. I cannot agree with my hon. Friend that the sanctions are purely on small businesses. We are prepared to move forward oil and gas sanctions, and sanctions in the financial community, and it is those that will have an impact on the Iranian economy.</seg>
+         </u>
+
+         <u who="#ROBERTSON-ANGUS">
+            <seg>On Kosovo, I am very glad that the Prime Minister has recognised that the best future is independence in Europe. That is something that the Scottish National party wholeheartedly supports. Independence is the appropriate status for all normal countries within the European Union. Moving on to the EU reform treaty, the Prime Minister has chosen to overlook the concerns of the Scottish Government regarding the exclusive competence of fisheries, which he has signed up to. Therefore, will he take this opportunity to inform the House what advantages his signing up to this measure will bring?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The treaty does not change competence in relation to fisheries at all. The fact of the matter is that the hon. Gentleman has got this wrong in asserting that it does. On the hon. Gentlemans first point about independence, I say to him that the latest survey shows that two thirds of Scottish people are against independence. They do not want it.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>I welcome the Prime Ministers announcement that he is publishing the Bill that will amend the European Communities Act. He also said that this will give Parliament an opportunity to debate it and make a decision. In the light of that, does he not think that it is either extraordinarily presumptuous and arrogant or incredibly dismissive of the role of national Parliaments that the Commission has seen fit to appoint the first EU ambassador to deal with Africa well before the treaty establishes the diplomatic service?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My hon. Friend will be part of the debate on the amending treaty when it comes before the House of Commons, but in the light of the EU-Africa summit, I should have thought that people would want closer contact between the African Union and the European Union.</seg>
+         </u>
+
+         <u who="#CURRY">
+            <seg>I shall vote for the treaty, which I think is a perfectly sensible and balanced response to enlargement. But if there is one person who could make me change my mind, it is the Prime Minister with his clumsy, ill-judged and surly performance in Lisbon towards the European Union as a whole. Does he not realise that a Prime Minister who cannot even decide which gallery he is playing to merely incurs the enmity of the Eurosceptics, the contempt of the pro-Europeans and the bafflement of almost everybody else?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>It is the British Government who led the way to the globalisation declaration that happened on Friday; it is we who are pushing the global agenda on Europe; it is we who are saying that we must forward that agenda because it is in the interests of all the countries of Europe to have a more global perspective; and, of course on the environment, we are pushing ahead with other countries in Europe. We are playing our full part in Europe and will continue to do so.</seg>
+         </u>
+
+         <u who="#BRYANT">
+            <seg>Was there any discussion last week of EU relations with Russia? It seems clear that the recent elections to the Duma were wholly unfair and far from free; there is systematic use of torture throughout the criminal justice system in Russia; every single independent television network has been closed down; and now the British Council offices outside Moscow in Russia will be closed as well. Is it not time that Europe spoke clearly and with one voice to make sure that Russia does not again become a totalitarian state?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I agree with my hon. Friend about what has happened to the British Council offices. It is completely unacceptable, and in our view the treatment meted out to people doing a good job both in Russia and to promote global understanding is illegal. We believe that it is not only unjustifiable, but should cease. I hope that there will be a statement from the presidency of the European Union on these matters, because the voice of 27 members of the EU against what is happening is better than the voice of simply one. I believe that all members of the EU are appalled by the behaviour of Russia in this regard.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>The Prime Minister mentioned competitiveness, and he will be aware that the British labour market is under threat from measures opposed by the Government on temporary workers and changes to the working time directive. However, is he aware that the new so-called reform treaty mandates new and additional measures in harmonising employment practices across Europe? Is he aware of those articles and can he tell the House whether he read all 257 pages of the treaty before he signed it?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>If the right hon. Gentleman is referring to the charter, it does not affect employment law. I see nothing in the treaty that justifies the assertions that he is putting forward. I have to remind him that he was the deputy Chief Whip when the Maastricht Bill was going through the House of Commons under a Conservative Government.</seg>
+         </u>
+
+         <u who="#MACSHANE">
+            <seg>Can the Prime Minister confirm that the treaty of Maastrichtthe
+               biggest sharing of power with our European partnerswas signed by the most junior
+               Foreign Office Minister on the Tory payroll at the time? So all this froth is just
+               that. May I say how much I disagreed with the Prime Minister when he said in his
+               reply to the Leader of the Opposition that he hoped that the Conservative party would
+               start to become sensible and engaged on Europe? I want the Conservatives to stay
+               exactly where they are, because then they will never be elected to power. In his
+               statement, he said, that now <quote>"we can, by working together, maximise our
+                  influence".</quote> That is the European Union - utterly opposed to the
+               isolationism of the Conservative party.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My right hon. Friend is absolutely right. The Conservative party refused to answer the single most important question that it has to address: is it in favour of a referendum after ratification or not? Some 47 Conservative Members of Parliament have signed a motion calling for it. Two shadow Ministers have called for it. The shadow Foreign Secretary wants it. What is the position of the Conservative party? Unless the Conservatives can tell us, everything else is froth and has no substance at all.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>I welcome the eventual UK signature on the draft treaty, however
+               clumsily we got there, but does the Prime Minister acknowledge that, as we move into
+               ratification scrutiny here, it is not just going to be a matter of winning votes in
+               Parliament? Those of us who support the treaty and Britains future in Europe are
+               going to have to start winning the argument in the country. Towards that end, may I
+               make the following plea to him, and through him, to all his Ministers? They are not
+               going to persuade the British public about the long-term merits of Europe by using
+               Eurosceptical language to justify the treaty they have just signed. The Prime
+               Minister was at it again this afternoon, saying, <quote>"We have safeguarded this",
+                  "We have defended that", and, "We have seen off the following".</quote> Why does
+               he not say, <quote>"The status quo that we have today, and what we have just put our
+                  names to as a country on your behalf, is an improvement?" </quote>That is what he
+               believes - is it not?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>It is what I said: the co-operation across Europe on the environment, security and the economy, and what we decided at the Council, are to the benefit of not just this country but the whole world, and we should push forward with them. But it is also right for me to point out the inaccuracies in the statements that have been made from the Opposition Benches about what the amending treaty tries to achieve. As far as the charter of rights is concerned, it is not justiciable in British law. As far as foreign policy is concerned, it is still intergovernmental. As far as justice and home affairs are concerned, we have an opt-in and, in certain circumstances, an opt-out. As far as national security is concerned, it is not considered in the amending treaty. On social security, we have an emergency brake. It is right that we point out, against those who allege the opposite, what is happening. I agree with the right hon. Gentleman that there should be a campaign in the country to show people the benefits of the amending treaty and membership of the European Union, and we will work together on that.</seg>
+         </u>
+
+         <u who="#CORBYN">
+            <seg>The Prime Minister mentioned that there had been discussions about relations with Turkey during the Council meeting. What concerns were expressed about the rights of Kurdish people in south-east Turkey, the growing militarisation of that part of the country and the incursions by Turkish forces into Iraq at present? What meetings are being sought with the Turkish Government to try to reduce tensions and bring about peace and cultural respect in that area?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>While Turkey was not discussed in detail at the Council, it was the subject of discussion at previous Councils. I can assure my hon. Friend that it is a modern, reforming Turkey that we wish to be part of the discussions to join the European Union, and I hope that he would support me in that.</seg>
+         </u>
+
+         <u who="#ANCRAM">
+            <seg>I wonder whether the Prime Minister can assist me. Where do I find the basis for his claimed mandate not only to sign the European treaty last Thursday, but to seek ratification from this Parliament without the consent of the British people? I revisited his manifesto from the last election and I cannot find any trace of such a mandate being sought. Have I missed something?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I should remind the Opposition that, in the case of the old treaty, which was rejected, nine countries proposed to have a referendum. Only one now proposes to have a referendum: Ireland. The reason why the Dutch, the Danish, the French and others have rejected a referendum is that the constitutional concept was abandoned.</seg>
+         </u>
+
+         <u who="#FLYNN">
+            <seg>Do not the gathering storm in Kosovo and its possible implications for our stretched armed services mean that there is an even more urgent reason to re-examine not our general commitment in Afghanistan, but the particular commitment in Helmand province, which is failing to meet all its original objectives, at a grievous cost in human lives?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I do not accept what my hon. Friend says. Last week, I made it absolutely clear that the process in which we are involved in Afghanistan is one of moving towards greater Afghan control of security by building up Afghanistans military and policing forces, and having a programme of economic, social and political development that can benefit the Afghan people. I believe that there is wide support for that among the coalition. Yes, it is true that the purpose of being in Afghanistan was to remove the Taliban and to prevent al-Qaeda from getting control. However, it is also true that now that Afghanistan is a democracy, we must bolster it and help its economic, social and political development.</seg>
+         </u>
+
+         <u who="#CAMPBELL-GREGORY">
+            <seg>In relation to the European treaty, the Prime Minister referred to legally binding protocols. Given that there is a growing political view in Northern Ireland, Scotland and Wales that the people of those parts of the UK should be able to express a view on the treaty through a referendum, will he ensure that all the people of all the United Kingdom can cast their vote on this issue in a referendum?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The United Kingdom Government sign treaties on behalf of the United Kingdom and I believe that that is the right course of action. I have answered the point about a referendum. The constitutional concept was abandoned, and no country except Ireland is having a referendum. Having won in the negotiations the red lines that we suggested were necessary, there is no reason why we need a referendum, because there is no fundamental constitutional change.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>May I welcome the decisions of the Council, as expressed in paragraph 27 of the conclusions, concerning police and judicial co-operation? Is the Prime Minister content with the timetable for the full establishment of Europol, which will be in June 2008? What steps does he propose to take with our EU partners to ensure that we work with them in the fight against terrorism?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My right hon. Friend, as Chairman of the Home Affairs Committee, will agree that when there is crime and a need for judicial co-operation across borders, that is the right thing to do - it is what the treaty is about. In these areas we have opt-ins and, in some cases, opt-outs.</seg>
+         </u>
+
+         <u who="#REDWOOD">
+            <seg>If the Prime Minister, not having offered the House a vote on the treaty before he signed it, finds that either the Lords or Commons votes to amend any part of the implementing legislation, what will he do?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I remember that the right hon. Gentleman expressed exactly the same fears when he said that the Amsterdam treaty would abolish Britain. Britain is still here.</seg>
+         </u>
+
+         <u who="#HOEY">
+            <seg>Although I disagree with the Prime Ministers decision not to give the people a referendum, I congratulate him on his principled stand of staying away from the summit with Africa. In his discussions with European leaders at the margins of the Council, did any of them profess, even secretly, that they felt that their judgment in allowing Mugabe to be there was wrong? Did he get any movement on his desire to have an EU envoy sent to Zimbabwe?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The important thing is that a message is sent to Mugabe and his supporters that the whole European Union is against the abuse of human rights in Zimbabwe and the damage that is being inflicted on that country, when there are 4 million refugees in South Africa, when 80 per cent. of the population is in poverty, when inflation is running into thousands of per cent., and when there is real suffering. I believe that there is a common view across Europe that we should support the people of Zimbabwe. If there is a move towards human and democratic rights in that country and a change of Government there, I believe that the whole European Union will join us in helping the reconstruction activities of the people of Zimbabwe.</seg>
+         </u>
+
+         <u who="#CORMACK">
+            <seg>As the Prime Minister has once again promised full debate on the treaty in Parliament, will he promise the House that there will be no timetable, and that if Parliament amends the treaty, he will listen?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>That is a matter for the usual channels in the House. Many days will be allocated to the debate on this important amending treaty.</seg>
+         </u>
+
+         <u who="#CLAPPISON">
+            <seg>Is the Prime Minister in favour of a common defence? If not, is it advisable to sign up to a process leading to it?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The role of NATO, and the importance that we attach to NATO, is safeguarded in the decisions that were made in discussions on the amending treaty. Whatever co-operation takes place within Europe is in the context of the important role of NATO.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

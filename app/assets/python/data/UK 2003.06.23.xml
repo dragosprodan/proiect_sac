@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200203/cmhansrd/vo030623/debtext/30623-05.htm#30623-05_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>23 June 2003</date>
+               <date when="2003-06-23"></date>
+               <activity>Draft Constitutional Treaty</activity>
+               <locale>Thessaloniki</locale>
+               <persName>Blair II</persName>
+               <name>91st ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="SMITH">
+                  <persName>Mr. Iain Duncan Smith</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Chingford and Woodford Green</residence>
+               </person>
+
+               <person xml:id="BERCOW">
+                  <persName>Mr. John Bercow</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Buckingham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ross, Skye and Inverness, West</residence>
+               </person>
+
+               <person xml:id="CUNNINGHAM-JACK">
+                  <persName>Dr. Jack Cunningham</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Copeland</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="BARNES">
+                  <persName>Mr. Harry Barnes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North-East Derbyshire</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BLUNT">
+                  <persName> Mr. Crispin Blunt</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Reigate</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="DAVIES-DENZIL">
+                  <persName>Mr. Denzil Davies</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Llanelli</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BROWNING">
+                  <persName>Mrs. Angela Browning</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Tiverton and Honiton</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BORROW">
+                  <persName>Mr. David Borrow</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>South Ribble</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="MITCHELL">
+                  <persName>Mr. Andrew Mitchell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Sutton Coldfield</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="DUNWOODY">
+                  <persName>Mrs. Gwyneth Dunwoody</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Crewe and Nantwich</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="THOMAS">
+                  <persName>Mr. Simon Thomas</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Ceredigion</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="JONES-KEVAN">
+                  <persName>Mr. Kevan Jones</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>North Durham</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="TAYLOR-IAN">
+                  <persName>Mr. Ian Taylor</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Esher and Walton</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="RUDDOCK">
+                  <persName>Joan Ruddock</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Lewisham, Deptford</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="OSBORNE">
+                  <persName>Mr. George Osborne</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Tatton</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="KAUFMAN">
+                  <persName>Mr. Gerald Kaufman</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Gorton</residence>
+               </person>
+
+               <person xml:id="BALDRY">
+                  <persName>Tony Baldry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Banbury</residence>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="BRADY">
+                  <persName>Mr. Graham Brady</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Altrincham and Sale, West</residence>
+               </person>
+
+               <person xml:id="BEARD">
+                  <persName>Mr. Nigel Beard</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bexleyheath and Crayford</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>With permission, Mr Speaker. I shall make a statement on the European Council,
+               which I attended in Greece on 19 and 20 June. I should like to offer my thanks to
+               Prime Minister Simitis and the Greek Government, who have conducted an effective
+               presidency in a particularly difficult period.</seg>
+            <seg>The European Council took delivery of the draft constitutional treaty prepared by
+               the European Convention under the expert chairmanship of Valéry Giscard d'Estaing. We
+               agreed that the draft is a good basis for starting the intergovernmental conference
+               in October. The 10 countries joining the European Council will participate fully
+               alongside the existing member Governments. The aim is to conclude it in time for a
+               new treaty to be signed after 1 May next year.</seg>
+            <seg>The Convention sets out clearly what Europe is for, its aims and objectives, the
+               rights of its citizens, the powers and responsibilities of its institutions and the
+               way it takes forward its policies. It recognises expressly that what we want is a
+               Europe of nations, not a federal superstate, and that issues to do with taxation,
+               foreign policy, defence policy and our own British borders will remain the
+               prerogative of our national Government and Parliament.</seg>
+            <seg>The draft makes clear in the very first article that the Union only has those
+               powers that member states give it. It introduces a Chair of the European Council to
+               prepare and follow through the European Council agenda. It will bring an end to the
+               present system of six-monthly presidencies, which is no longer feasible in a Union of
+               25. It will provide a greater role for national Parliaments, which will be able to
+               vet all new legislation and make the principle of subsidiarity work at the political
+               level.</seg>
+            <seg>There are of course areas where there is continuing negotiation—for example, over
+               enhanced co-operation, the structure of the presidency and the role of qualified
+               majority voting—but above all the new draft treaty offers the prospect of stability
+               in the way in which Europe works.</seg>
+            <seg>I should like to pay tribute to the work done by Ministers and to other hon.
+               Members, for the contribution that they made to the work of the Convention. In
+               addition to the Convention outcome, reflecting the work of its 200 members, Mr
+               Giscard d'Estaing also referred to a minority report put forward in the Convention,
+               including by the right hon. Member for Wells <note>Mr. Heathcoat-Amory</note>, the
+               representative of the Conservative party. That report would turn the existing
+               treaties into an association of states that would replace, and dismantle, the
+               existing European Union.</seg>
+            <seg>The European Council agreed a range of actions to secure our frontiers, to ensure
+               better co-operation with third countries on migration issues and to enable us to take
+               the action we need to deal more effectively with asylum claims. Among the issues that
+               we discussed was one on which we have been working closely with the European
+               Commission and the United Nations High Commissioner for Refugees. The aim is to
+               strengthen the protection of refugees in their regions of origin so that, in a
+               crisis, it is possible to offer effective and accessible sanctuary to refugees closer
+               to their homes. To test whether such a scheme can work, we—with the support of the
+               Commission—proposed pilot projects, which had widespread support. While the unanimity
+               requirement in the Council prevented the idea from being specifically endorsed, that
+               will not prevent the pilot projects from being taken forward by a number of member
+               states and the Commission will report back on them within the year.</seg>
+            <seg>The Council discussed a paper by the EU High Representative, Javier Solana, for an
+               overall strategy in the field of foreign and security policy. He proposed a
+               comprehensive approach to dealing with the global problems of poverty, terrorism, and
+               weapons of mass destruction, stressing the importance of the relationship with the
+               United States, the need to improve our military capability and the necessity, in the
+               last resort, for pre-emptive military action. The Council endorsed a comprehensive
+               plan for tackling the spread of weapons of mass destruction. This will be a
+               particular theme of this week's EU-US summit as we take forward our joint work on
+               curbing the export of WMD. The summit will also focus on the trade and economic
+               agenda, especially the need for a successful meeting of the World Trade Organisation
+               in Cancun, and foreign policy co-operation, notably in the middle east.</seg>
+            <seg>President Chirac and I had proposed, following the G8 summit, that the EU should
+               match the US by contributing up to Euro1 billion in 2004 to the global health fund to
+               combat HIV/AIDS, tuberculosis and malaria. Although this had majority support, some
+               member states objected and, because of the unanimity requirement, we could not secure
+               agreement at the Council to that sum, but we did agree that the Union would determine
+               the extent of its contribution at the pledging conference on 16 July.</seg>
+            <seg>There was a strong focus at the meeting on the EU's relations with the wider world.
+               Putting our support behind the middle east peace process, we called on Hamas and
+               other groups to declare a ceasefire and endorsed an urgent examination of the case
+               for wider action against Hamas fundraising. We expressed serious concern at aspects
+               of the Iranian nuclear programme and our full support for the International Atomic
+               Energy Agency in its effort to conduct a comprehensive examination of Iran's nuclear
+               programme. We made it clear that the way in which Iran behaves on human rights,
+               terrorism and the middle east peace process is crucial to the future development of
+               EU-Iran relations.</seg>
+            <seg>Finally, we held a positive discussion about Iraq. The European Council affirmed
+               the European Union's readiness to take part in the reconstruction of Iraq within the
+               framework of UN Security Council resolution 1483. We commissioned further work on the
+               details of the help that the EU can provide.</seg>
+            <seg>The Council took stock of the economic situation following the spring summit on
+               economic reform. It set a clear agenda for action in line with the objectives, which
+               Britain and a number of other member states have been advocating. The Council also
+               endorsed the appointment of Jean-Claude Trichet as the next President of the European
+               Central Bank, in accordance with the agreement reached during the last UK
+               presidency.</seg>
+            <seg>What is clear is that Europe at 25 nations will be very different from Europe at
+               15. In the coming years, Europe will expand still further to welcome Romania,
+               Bulgaria, Turkey and possibly others. Plainly, this means that Europe must change the
+               way it works. There are several areas in which the Convention proposes moving to
+               qualified majority voting, including on trade in services and in the fight against
+               terrorism, drugs and illegal immigration. We should not, however, fear every
+               extension of qualified majority voting as hostile to Britain. In some areas, we need
+               QMV. The only reason we have any hope of achieving reform in, for example, the common
+               agricultural policy is that decisions in the Agriculture Council are determined by
+               QMV. It was thanks to QMV that we opened up energy markets. If we want to drive
+               through economic reform, liberalise markets, and break down state subsidies, then, in
+               a Europe of 25, QMV on such issues as trade in services and mutual recognition of
+               qualifications is essential for the British national interest. Britain needs Europe
+               to work and, for Europe to work, it needs to change.</seg>
+            <seg>That is not all that will be different in a Europe of 25 or 30. The new nations
+               joining the EU share, in many ways, the British perspective. They are firmly in
+               favour of the transatlantic alliance. Freed from communism, they do not fear economic
+               reform; they welcome it. Freed from subjugation by the former Soviet Union, the
+               central and east Europeans have no intention or desire to yield up the nationhood for
+               which they have fought so hard. It is no surprise, therefore, that the Convention so
+               explicitly ruled out a European federal superstate.</seg>
+            <seg>It is not only the new members that will sign up to that vision of Europe.
+               Increasingly, Europe knows that the focus for its economy and for its security has to
+               be outward, not inward. The danger for Britain is that, at the very time when Europe
+               is moving closer to the view of Europe with which we are most comfortable, and which
+               we can advocate so well, we should lose the chance to take our proper place in Europe
+               by fighting battles long since over, and by turning away at the very point when
+               Europe is turning towards us.</seg>
+            <seg>There are real battles, of course —for example, over tax or defence— but they are
+               battles that we can win. At this point in time, with Europe at a crucial point of
+               evolution, this nation, Britain, has to have the confidence to stride forward in
+               Europe, not hang back. The next year will determine the shape of Europe of which we
+               are a member. There will be critical alliances to be made and choices to be faced,
+               but I have no doubt that a Europe that now stretches from Finland and the Baltic
+               states to the shores of the Aegean sea, Cyprus and Malta is a Europe that should
+               have, and will have, Britain at its heart.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>I thank the Prime Minister for his statement and congratulate the Greek Government
+               on their hard work. I welcome the recent signing of the accession treaty in Athens. I
+               also welcome the statement of support for the middle east road map for peace.</seg>
+            <seg>There were, however, three failures arising from Thessaloniki. First, yet another
+               European summit has passed with no commitment to, or even discussion of, real reform
+               of the common agricultural policy, despite the Prime Minister's QMV. Secondly, the
+               Prime Minister failed to obtain EU backing for his offshore asylum centres; his pilot
+               projects will not hide his failure. Thirdly, we got the European constitution.</seg>
+            <seg>The Government have claimed that the proposed European constitution is just
+                  <quote>"a tidying-up exercise"</quote>; yet is it not the case that the
+               constitution will set up a European president, transfer asylum and immigration policy
+               to Brussels, establish a binding charter of fundamental rights and create an
+               overarching constitutional settlement in which the EU can expand its powers without
+               the approval of national Parliaments? The Government have completely understated the
+               all-embracing nature of that constitution.</seg>
+            <seg>Recently, the German Foreign Minister said that the constitution is <quote>"the
+                  most important treaty since the formation of the European Economic
+                  Community"</quote>. At the same time, our Prime Minister says that the
+               constitution <quote>"does not involve a fundamental change to the British
+                  constitution"</quote>.</seg>
+            <seg>
+               <bibl type="source">Official Report, 18 June 2003; Vol. 407, c. 352.</bibl>
+            </seg>
+            <seg>What nonsense! The constitution will fundamentally change the way in which every
+               country in Europe is governed. Everybody else sees that. The Prime Minister always
+               talks about his red lines in the debate on the constitution, so will he tell us why
+               they keep moving? Will he tell us why he opposed a binding charter of fundamental
+               rights, but now accepts it; why he opposed an EU Foreign Minister, but now supports
+               one; why he wanted to limit QMV, but now, apparently, wants even more of it; and why
+               he rejected the need for a written EU constitution, but now embraces it?</seg>
+            <seg>The Laeken declaration rightly stated that <quote>"the European institutions must
+                  be brought closer to its citizens"</quote>. Is it not the case, however, that the
+               constitution is top down and even more centralising? The Prime Minister wants to hide
+               his Government's failure by setting up a false debate about staying in the EU or
+               leaving it. The real debate is not about staying or leaving. The Conservative party
+               does not want Britain to leave the EU; we want to make it work. I remind the Prime
+               Minister that he is the one who wants to make Europe a superpower — that is his
+               policy. That is the real debate and he will do absolutely anything to avoid it.</seg>
+            <seg>The President of the Convention, whom the Prime Minister was lauding during his
+               statement, said that <quote>"constitutions are created by citizens and adopted by
+                  them in referendums"</quote>. A growing number of European countries are
+               committing to a referendum on the matter, and 88 per cent. of the British people say
+               that they want a referendum. So, if the Prime Minister believes that he is doing the
+               right thing, why does he not hold a referendum and let the British people
+               decide?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, let us deal with the common agricultural policy. The right hon. Gentleman
+               says that it was a great failure that the policy was not dealt with at the
+               Council</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>Let me deal with the CAP first. The reason why we did not deal with the CAP at the
+               European Council is simple: it would have been quite disastrous to have transferred
+               discussion of the CAP from the Agriculture Council, where there is QMV, to the
+               European Council, where there is unanimity. For that very reason, everyone who was in
+               favour of common agricultural reform asked us not to take it at the European Council,
+               but to leave it at the Agriculture Council.</seg>
+            <seg>The right hon. Gentleman is right to say that other member states objected to the
+               pilot projects and that, because of the unanimity requirement, we cannot get them
+               through on the basis that we originally anticipated. However, because the United
+               Nations High Commissioner for Refugees supports the projects, we are able to
+               undertake them and the Council agreed that the European Commission should report back
+               on those issues.</seg>
+            <seg>The full-time president of the Council, whom the right hon. Gentleman mentioned, is
+               good for this country because it allows us to make sure that we have the Council with
+               an agenda that is driven through, rather than 25 nation states having a rotating
+               six-monthly presidency.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>You were against it.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I am sorry; it was our proposal. Our proposal is to replace the rotating
+               six-monthly president with a full-time chairman; otherwise, we will not be able to
+               get a consistent agenda, driven by the Council—the intergovernmental body that covers
+               all the work of Europe.</seg>
+            <seg>The right hon. Gentleman mentioned QMV, on which our position is that if it is in
+               our interests, we accept it; if it is not, we do not. It is quite wrong to say that
+               every extension of QMV is always hostile to Britain. May I simply remind him that,
+               under the Single European Act and the Maastricht treaty, there were massive
+               extensions of qualified majority voting, for entirely sensible reasons to do with the
+               British national interest? Indeed, most of those on his Front Bench, though not him,
+               voted in favour of those extensions. The right hon. Gentleman is right to say,
+               however, that the divide between the parties is very clear. The right hon. Member for
+               Wells <note>Mr. Heathcoat-Amory</note> has published his alternative convention
+               document, which the Conservatives say is very good and effective.</seg>
+         </u>
+
+         <u who="#BERCOW">
+            <seg>It is first class.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Thank you. That is now the Conservatives' policy, but let me tell them what it
+               says. Let us look at the document that is now being endorsed by those on the
+               Conservative Front Bench. It says: <quote>"We propose to transform the EU into a
+                  Europe of Democracies... which shall be a treaty association of free and
+                  self-governing European states"</quote>.</seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>Fine: they are all in agreement with that. It goes on to say: <quote>"A national
+                  parliament shall have a veto on an issue it deems important."</quote>
+            </seg>
+            <seg>So that is an end to any concept of any issue being driven through by Europe in
+               that way. The right hon. Member for Wells may be right, he may be wrong—many Members
+               are nodding and saying that he is right—but let us be quite clear that that is
+               effectively redrawing Britain's membership of the European Union.</seg>
+            <seg>If Conservative Front Benchers endorse that policy document, their policy is wholly
+               inconsistent with Britain's present membership of the European Union. </seg>
+            <incident>
+               <desc>Hon. Members: "No, it is not."</desc>
+            </incident>
+            <seg>Yes, it is, and it would mean that we would have to redraw and renegotiate
+               Britain's membership of the EU. That is now the position of the right hon. Member for
+               Chingford and Wood Green <note>Mr. Duncan Smith</note>, and it is fundamentally
+               opposed to everything that even the Conservative party has stood for up until
+               now.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>What about the referendum?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We have already given the reasons why we do not agree with the right hon. Gentleman
+               on the referendum, but let me just say that it is now absolutely clear what the
+               dividing line is. There is no way that that document—signed, I think, by only eight
+               other members of the Convention—is anything other than a plea for a new type of
+               British membership of the EU. That is what it is, and it would mean renegotiating our
+               membership, and that is why the dividing line between our two parties is: this side,
+               constructive engagement in the EU; that side, withdrawal from the EU.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>My right hon. and hon. Friends and I certainly welcome the acceptance of the
+               Convention's proposals in principle, and it is worth reminding ourselves that, not
+               that many years ago, it would have been unthinkable that 15 existing member states
+               and 10 accession countries could reach even this degree of consensus for sensible
+               co-operation over the development of the EU.</seg>
+            <seg>There will be an intergovernmental conference later in the year, albeit that we do
+               not know how long it will last, and I gather that the Government now acknowledge that
+               there will be an opportunity for a further debate before the recess on the Convention
+               proposals.</seg>
+            <seg>We obviously welcome that, but do the Government acknowledge that it would assist
+               the House's capacity to discuss these matters in even more detail if they were to
+               publish a White Paper outlining with more specific intent their approach to the
+               forthcoming negotiations and their position on the relevant articles?</seg>
+            <seg>It was good to hear the Prime Minister make the positive case, where appropriate,
+               for the relevant extensions to qualified majority voting and for the relevant
+               applications of that process, and to begin to destroy some of the myths attached to
+               that by opponents of the process. The Government have described the proposals as they
+               stand as a "good basis" for discussion. Surely, a dividing line must be drawn between
+               what is a good basis for the ensuing discussion and allowing the unravelling of the
+               basis of the Convention proposals, which is what some of the wreckers want to happen.
+               Does the Prime Minister acknowledge the inherent dangers in that?</seg>
+            <seg>The Prime Minister mentioned the minority report that was issued by the right hon.
+               Member for Wells <note>Mr. Heathcoat-Amory</note> and six other members of the
+               Convention. In an article in last week's The Wall Street Journal, the right hon.
+               Gentleman referred to foreign and security policy and mutual solidarity, as it is
+               described. That goes to the central issue, which the Prime Minister may want to
+               address. The right hon. Member for Wells argued: <quote>"Since this solidarity
+                  requirement will be enshrined in a constitution, it will be legally
+                  binding."</quote>
+            </seg>
+            <seg>Does the Prime Minister agree that it is incumbent on him, the Foreign Secretary
+               and all those involved to make the case for a strengthened conduct of EU external
+               relations based on the institutions of the Union, which remain emphatically
+               intergovernmental under these processes? Does he also agree that that will provide
+               sufficient safeguards for independent foreign policy making by member states,
+               including any British Government coming before the House of Commons?</seg>
+            <seg>In that respect, the proposed Foreign Minister role is to be welcomed, as is the
+               solidarity shown over Iran and the middle east peace process. Does the Prime Minister
+               agree that if that solidarity could be extended to Iraq it would assist the cause
+               against weapons of mass destruction?</seg>
+            <seg>The proposed intergovernmental agency for defence issues, not least research and
+               procurement, is to be welcomed. Many a Committee of the House has examined this area,
+               and we all know about the excessive wastage on procurement measures over the years.
+               Equally welcome is the fact that taxation policy is to remain within the ambit of
+               nation states, Governments and Parliaments.</seg>
+            <seg>On asylum, immigration and cross-border crime, not much progress seems to have been
+               made on the first two. The Prime Minister said that the European Commission will
+               report back on the pilot projects that did not command unanimity. What is the time
+               scale for that report back, and what force will it have? The whole point of a
+               constitution for Europe is to codify the relevant levels of responsibility and
+               competence. That should satisfy Euro-supporters and Eurosceptics alike. In the House
+               and in the debate in Britain, we must identify and make clear the difference between
+               reassuring those who are constructively sceptical about aspects of Europe and those
+               diehards who can never be satisfied. The leader of the Conservative party talks about
+               a false debate. Is it not important that for the first time we have a voluntary exit
+               clause for EU member states, which will place an obligation on each and every
+               political party in British politics to make it clear whether it would ever wish to
+               avail itself of such a clause?</seg>
+            <seg>In so far as the Convention moves us forward towards a Europe that is more
+               democratic, more accountable and more transparent, it is to be welcomed. As a
+               country, only inside Europe can we continue to make that case constructively—not
+               increasingly destructively outside it.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, in relation to how we proceed from now, the issue of a White Paper is being
+               discussed by the usual channels, and that is one possible alternative.</seg>
+            <seg>It is important to emphasise that, in a Europe of 25, it must be in our
+               interests—except in vital sets of circumstances such as foreign policy, defence or
+               tax—to extend QMV, without which we cannot make Europe work effectively. I agree with
+               the right hon. Gentleman entirely about that, although it is important that we do not
+               unravel what was seen—not always here, but certainly abroad—as essentially a good
+               deal for Britain.</seg>
+            <seg>It is important to retain unanimity on the common foreign and security policy. We
+               want Europe to develop a better and more effective common foreign and security
+               policy, which is why, for example, we are backing France in the Congo through the EU
+               mission, which is very important. We expect reports on the pilot projects in June
+               2004.</seg>
+            <seg>On the whole, most aspects of the Convention have been seen, elsewhere but not
+               here, as a substantial retention of the concept—indeed, perhaps for the first time, a
+               proper elaboration of the concept—that as Europe co-operates more it should be on the
+               basis of nation states and not on the basis of a federal superstate.</seg>
+         </u>
+
+         <u who="#CUNNINGHAM-JACK">
+            <seg>May I commend the important progress made at the European summit and congratulate
+               my right hon. Friend on safeguarding so effectively Britain's important national
+               interests? Is it not clear from the Leader of the Opposition's suggestion that
+               agriculture reform should be taken at the summit that he is abysmally ignorant of the
+               processes of the European Union? Will my right hon. Friend redouble his efforts to
+               end the serious dislocation between the European Union and the United States of
+               America? If we do not do so, summits will come and go, but in the middle east and
+               Africa, famine, war, pestilence and death will gallop ahead unchecked.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, I thank my right hon. Friend for what he says about the Agriculture Council,
+               which is very important. Clearly, if we had to take matters related to agriculture in
+               the full European Council, it would prevent any prospect of reform or change. </seg>
+            <seg>In respect of the dislocation, as he describes it, between Europe and the United
+               States of America, some signs exist that, whatever the differences over Iraq, people
+               are coming together, which is welcome. I hope very much that at the European
+               Union-American summit this week we will be able to take significant steps forward
+               again for the re-establishment of good relations. The truth is that on issues related
+               to terrorism, weapons of mass destruction, the middle east peace process and global
+               poverty, the EU and the US are on the same side and share the same values. Working
+               together, we can achieve a great deal. The general mood of the Council was to make
+               sure that we repair the transatlantic alliance and make it function
+               effectively.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>The Prime Minister was rather coy about the list of red line issues that he wants
+               removed from the draft constitution. Will he agree, however, that it is rather a long
+               list now, including majority voting on criminal laws and procedures and on aspects of
+               tax and foreign policy, all of which are in the present draft, as well as the
+               compulsory co-ordination of national economic and employment policies, which he did
+               not mention, plans for a European public prosecutor, harmonisation of social security
+               measures, and late plans for a wholesale transfer from national veto to majority
+               voting, without any reference back to national parliaments or people? As he is now
+               diverging from his absurd claim that this is just a tidying-up exercise, will he put
+               in a public document where and what his red lines are? If he is so confident that he
+               can overturn all of them, why does he not have the confidence to put the result to
+               the British people in a referendum?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I have explained on many occasions why I do not believe that this is a proper
+               subject for a referendum. I repeat once again that neither the Single European Act
+               nor the Maastricht treaty was put to a referendum by the then Conservative
+               Government.</seg>
+            <seg>In respect of the right hon. Gentleman's other points, issues remain, of course, in
+               relation to tax administration. Let us not forget, however, that, for example, on
+               tax, we have effectively won that battle in Europe. In respect of common foreign and
+               security policy, we have effectively won that battle. Surely there will still be
+               issues that we need to get right, but let us be quite clear about the
+               situation.</seg>
+            <seg>There are, of course, issues that we must debate here, but the right hon. Gentleman
+               will accept that his ideas on the Convention, which I think have been effectively
+               agreed by his party today, would mean that Britain would become a different type of
+               member of the European Union. That is exactly what he wants; it is a perfectly
+               honourable position but a position of which people should be aware. We could end up
+               effectively in a situation in which, for example, as he says, a national Parliament
+               could effectively veto the application of any issues in its country. People might
+               agree with that but there is no way that single market measures could be driven
+               though in those circumstances. If we ended up with associate membership of the
+               European Union, which he is advocating, it would effectively result in a complete
+               change in our relationship with Europe. I think that he has the intellectual honesty
+               to admit that and, if it is the case, it represents a fundamental dividing line
+               between the two political parties.</seg>
+         </u>
+
+         <u who="#BARNES">
+            <seg>Will my right hon. Friend tell me the gains and losses, in democratic terms, of the
+               draft treaty proposals both for United Kingdom citizens and the totality of citizens
+               of the European Union? If his answer requires a couple of volumes by way of response,
+               perhaps it could be placed in the Library, but a brief, taut and penetrating reply
+               would be welcome.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I do not think that my answer will require a couple of volumes. The principal gains
+               for our own involvement and that of national Parliaments, for example, will be
+               involvement in legislation for the first time. Powers of co-decision will also be
+               extended for the European Parliament. The basic issue is that there were those in
+               Europe who argued that we should effectively move to some sort of federal superstate.
+               That argument has been decisively rejected, which is why it is so important that,
+               apart from the British Conservative party—which is, let us say, eccentric on the
+               issue—every other country in Europe has accepted that this is indeed a strike against
+               federalism and in favour of a Europe of nations. The Conservative party might explode
+               with indignation about that but it represents literally the only part of Europe in
+               which that is being said.</seg>
+         </u>
+
+         <u who="#BLUNT">
+            <seg>The Prime Minister has made it clear that the draft constitution is unacceptable in
+               its current form, so why has he so undermined his negotiating position at the
+               intergovernmental conference by pre-emptively ruling out a referendum?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Because I do not believe that that undermines our negotiating position at all.
+               Indeed, the very reason why we have got as far as we have is that we have negotiated
+               sensibly, built alliances and shown—as Britain does when it puts its mind to it—that
+               in Britain we can win.</seg>
+         </u>
+
+         <u who="#DAVIES-DENZIL">
+            <seg>On the common agricultural policy, my right hon. Friend reminded the House that
+               decisions taken at the European Council require unanimity, but decisions taken at the
+               Agriculture Ministers Council use qualified majority voting. In view of that, can he
+               give us some hope that before long proposals for substantial reform will come from
+               the Agriculture Ministers Council and that that will happen in good time before world
+               trade negotiations in the autumn?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I think that I can give at least qualified hope on that. The Agriculture Council
+               meets again on Wednesday. I think that it secured significant advances last week.
+               There is every hope that we will get agreement there and, of course, it is the only
+               place where we will get agreement precisely because QMV applies.</seg>
+         </u>
+
+         <u who="#BROWNING">
+            <seg>When the Prime Minister brought this Mary-Anne back through the nothing-to-declare
+               channel at the weekend, had he spent any time discussing the British interest in
+               terms of European fraud, accounting systems, the way in which European accounts are
+               audited and Neil Kinnock?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I do not agree with some of the hon. Lady's remarks. She talks about discussing the
+               British national interest, which is precisely what we have represented throughout.
+               Our disagreement with her and her colleagues is that we believe that the British
+               national interest is best served by being in Europe and inside the European Union,
+               not by moving towards associate membership that would leave us without any influence
+               on issues relating to fraud or anything else.</seg>
+         </u>
+
+         <u who="#BORROW">
+            <seg>Can I refer my right hon. Friend to the reconstruction of Iraq? When I visited Iraq
+               about a week ago, I was impressed by the work of our forces to reconstruct Basra.
+               Water and electricity supplies are better now than they were before the war, 15
+               schools have been refurbished, medical centres have been re-equipped, police stations
+               are being painted and decorated, and new Iraqi police officers are being trained and
+               are out on the streets. However, I raise with my right hon. Friend UN Security
+               Council resolution 1483 and the EU's reaction to it. It is clear to me that if we are
+               to make a success of reconstruction in Iraq, it is no use leaving it simply to our
+               troops and the UK taxpayer. Successful reconstruction needs a much bigger input from
+               both the EU and aid agencies across the world.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, I echo what my hon. Friend says about the contribution of British troops
+               and, indeed, British aid workers and people from the Foreign Office and the
+               Department for International Development. They are making a huge difference to the
+               reconstruction of Iraq and work is proceeding. As he rightly says, many schools have
+               reopened and many businesses and homes are being rebuilt. There is an atmosphere,
+               whatever the difficulties, of real hope for the future.</seg>
+            <seg>My hon. Friend is also right in saying that 1483, the new United Nations
+               resolution, calls on everyone to develop as secure a programme as possible in giving
+               greater amounts of help. I hope very much that over the coming months we can get that
+               help under way in Iraq. The prospects are extremely good if we can lever in the right
+               expertise and change from the outside.</seg>
+         </u>
+
+         <u who="#MITCHELL">
+            <seg>Does the Prime Minister think that the structure of the six-monthly European
+               jamborees has largely outlived its usefulness? If, as reported, he came home halfway
+               through the Council to see his children, who, frankly, could complain about that? Why
+               does he not appoint another Minister to go to the meetings, take a few notes and
+               report back on the personalities? He could consider the Leader of the House, who has
+               now gone plural. As Secretary of State for Wales, he might also have time, in
+               addition to reforming the tax system, to report back to him on European
+               junketing.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>First, I attended the whole of the European Council. Secondly, the hon. Gentleman's
+               idea that I should not go to the European Council but instead send someone to take
+               notes for me is slightly strange. It would mean that 24 nations in the European
+               Council would be represented by their Head of Government or Head of State and we
+               would have a notetaker. That would be a really good thing for Britain, wouldn't
+               it?</seg>
+         </u>
+
+         <u who="#DUNWOODY">
+            <seg>Is my right hon. Friend satisfied that the ratchet clause in the treaty will not
+               consistently remove from national Governments their right to veto any legislation
+               that is not in the interests of their nation?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It is precisely because of our concerns about the so-called passerelle clause that
+               we believe that we need fundamental change to ensure that national Parliaments cannot
+               be bypassed in that way. Such a thing could only be agreed by unanimity in the
+               European Council, but I think that we need further protections for national
+               Parliaments, too.</seg>
+         </u>
+
+         <u who="#THOMAS">
+            <seg>I am sure the Prime Minister will join me in welcoming the new countries into the
+               European Union—places such as Malta, Cyprus, the Baltic states and Slovenia—to become
+               part of something that will now be a union of member states.</seg>
+            <seg>Does he agree that that union will be characterised by member states that tend to
+               be of a smaller size than those that joined in the past? Many of them will be the
+               same size as Wales and Scotland and have similar economies. What did the right hon.
+               Gentleman do in the European Council over the weekend to protect the needs of Wales
+               and Scotland, especially with regard to their ability to gain direct access to
+               structural funds and other funding?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We have protected, in so far as we possibly can, the structural funds through the
+               deal that we secured at Berlin a few years ago, and it is important that we continue
+               to do so. However, it is also important to recognise that this country, as a major
+               contributor to the European Union, needs an effective and efficient way of limiting
+               the overall budget for Europe. In respect of Wales and Scotland, I believe the
+               procedures in place offer the best protection for their interests.</seg>
+         </u>
+
+         <u who="#JONES-KEVAN">
+            <seg>Does my right hon. Friend agree that expansion of the EU to 25 nations provides a
+               great opportunity for British businesses, especially those in the north-east of
+               England which rely on 78 per cent. of their exports going to the EU? Does he also
+               agree that future business opportunities and job creation are put at risk by those
+               who advocate either withdrawal from the EU or associate membership of it?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>What is absolutely extraordinary is any position that says that we should
+               renegotiate our basic terms of membership of the European Union when 10 countries
+               that are essentially supportive of the British point of view are coming into Europe
+               and we have a better chance of winning these debates in Europe than we have probably
+               ever had since we became members. To end up, when we are about to create literally
+               the single biggest economic market in the world, redrawing our essential terms of
+               membership would be an act almost of extraordinary folly for this country. The fact
+               that the Conservative party now takes that position says a great deal about its
+               present state.</seg>
+         </u>
+
+         <u who="#TAYLOR-IAN">
+            <seg>Does the Prime Minister agree that to make the European Union work, as my right
+               hon. Friend the Leader of the Opposition said, we will have to make changes?
+               Increasingly, there are decisions that cannot be made by nation states alone. Was the
+               Prime Minister aware how Thatcherite he was when welcoming the extension of qualified
+               majority voting? In the 1980s, Margaret Thatcher made it quite clear that qualified
+               majority voting was in the national interest, as it would overcome the protectionist
+               instinct of other member countries. Was there a chance at the summit to discuss
+               Europe's economic problems and the reform programmes that Germany and France need to
+               put in place because of the consequences of a single monetary zone?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>There was a lot of discussion of the basic economic situation and the importance of
+               reform programmes. As for the point that the hon. Gentleman made about QMV, of course
+               that is right.</seg>
+            <seg>Any country that seriously adopted the position that the Conservative Front-Bench
+               team is now taking would inevitably, because of its total unreasonableness, have to
+               renegotiate its essential terms of membership.</seg>
+            <incident>
+               <desc>Mr. Eric Forth (Bromley and Chislehurst) indicated assent. </desc>
+            </incident>
+            <seg>The shadow Leader of the House is nodding. The debate is beginning, and we will
+               have an opportunity through the workings of the Convention to have that debate in the
+               House. It is extraordinary that today the Conservative party is taking a more extreme
+               position than Margaret Thatcher used to take.</seg>
+         </u>
+
+         <u who="#RUDDOCK">
+            <seg>Did the foreign affairs discussion include the deteriorating situation in
+               Afghanistan? Is my right hon. Friend aware that there is great concern, particularly
+               among women, that the Constitution Commission may not be able to carry out its work
+               effectively because of the lack of security? How will he respond to the pleas of
+               Presidents Karzai and Musharraf and 80 non-governmental organisations working in
+               Afghanistan for real security to be provided by the international community outside
+               the capital of Kabul?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>We want to respond positively to those claims. Obviously, I had an opportunity to
+               discuss that with President Karzai a few weeks ago, and it is worth pointing out that
+               when I told him that it is often said here that Afghanistan is in no better shape
+               than it was when the Taliban were in charge, his response was that anyone who
+               seriously believed that could not have been to the same country that he had been in.
+               There have been huge strides forward, but my hon. Friend is absolutely right to
+               identify the fact that the problem with security is outside Kabul, which is why we
+               are in discussion with Germany and other countries to try to make sure that we extend
+               the remit of the security force. We will be taking part in some of the regional teams
+               that will try to make sure that the Afghan army is built up sufficiently so that it
+               can operate in all areas of Afghanistan and so that its writ runs from the centre to
+               all those areas.</seg>
+            <seg>The point that my hon. Friend made about the constitution is right. I believe that
+               we can safeguard the position of women and other minorities in terms of the ethnic
+               mix in Afghanistan - </seg>
+            <incident>
+               <desc>Interruption.</desc>
+            </incident>
+            <seg>The different ethnic mix of minorities has to be protected too. There is also a
+               great deal of recognition of the importance of getting the right co-operation on the
+               drugs issue, but I am satisfied that we will be able to make progress in all those
+               things.</seg>
+         </u>
+
+         <u who="#OSBORNE">
+            <seg>On Iran, does the Prime Minister agree with President Bush that the students on the
+               streets of Tehran deserve our support?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I think people who are fighting for freedom everywhere deserve our support, but the
+               exact nature of the support that we are able to give is an open and different
+               question. However, people in whatever part of the world who are trying to achieve
+               basic human rights and civil liberties deserve support from all of us.</seg>
+         </u>
+
+         <u who="#KAUFMAN">
+            <seg>I am surprised that the Prime Minister, when referring to the middle east peace
+               process, did not join the United States Secretary of State in denouncing the
+               sabotaging by the Israeli Prime Minister of the peace process with a policy of
+               targeted assassinations, which inevitably bring on Palestinian terrorist suicide
+               bombings of innocent Israeli civilians, whose blood rests on the head of the Israeli
+               Prime Minister as much as on their murderers. Will my right hon. Friend now make it
+               clear that this rogue elephant Sharon must be reined in and, if he will not assist in
+               the peace process, sanctions and an arms ban must be imposed on him?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>At point 85 of the Council conclusions, we made clear our opposition to
+               extra-judicial killings and to aspects of Israeli policy with which we disagree. I
+               know my right hon. Friend will also want me to say that it is important that we deal
+               with all aspects of the violence. We should recognise and remember that many innocent
+               Israeli citizens are dying in the most appalling terrorist acts. In the end, if we
+               want to play a part in resolving that situation, it will be incumbent on us less to
+               condemn people and more to get the situation sorted out.</seg>
+         </u>
+
+         <u who="#BALDRY">
+            <seg>The House will know that one of the advantages of European Council meetings is not
+               only the formal sessions, but the opportunity that they provide for informal and
+               private discussions between Heads of Government. Can the Prime Minister assure the
+               House that he took those informal opportunities to make clear to fellow Heads of
+               Government the urgent need to reform the common agricultural policy? We understand
+               his point about the need for formal discussions to take place in the Agriculture
+               Ministers Council, but if the World Trade Organisation is to succeed at Cancun, as
+               the Prime Minister said when he came back and reported on the G8 summit, reform of
+               the CAP is vital. There is not much time between now and Cancun, and we should like
+               to hear him assure the House that he took every opportunity informally to impress
+               upon his colleagues the need for action to be taken on reform of the common
+               agricultural policy.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I can assure the hon. Gentleman that we take every opportunity we can to press the
+               case for CAP reform. The one hope that we have is that at Cancun in September the WTO
+               must reach an agreement, and we must have a proper offer from Europe in place by that
+               time. That is concentrating minds. I am not saying that we will reach agreement in
+               the Agriculture Council, but it is fair to say that we have come a significant
+               distance in the past few days. I can assure the hon. Gentleman that we lose no
+               opportunity whatever to tell people what we think. Essentially, we are in a majority
+               on the issue, but obviously we need to move others too.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>In the discussions on enlargement, was any mention made of the early-warning
+               letters that have been sent by the Commission to some of the members-designate? As
+               the champion of enlargement, will my right hon. Friend give
+               an assurance that his Government will work as closely as possible with countries that
+               have received such letters to ensure that all outstanding points are dealt with
+               before 1 May, to avoid the possibility of infraction proceedings being issued against
+               some of them as soon as they become members?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The matter was not discussed at the European Council. There are issues that still
+               have to be resolved in respect of that, and it is important that all the countries
+               coming into the European Union abide by the rules of the EU. I am hopeful that these
+               issues will be resolved. The implicit assumption of the entire meeting, which was the
+               first time that we had met from the beginning as 25, was that the issues would be
+               overcome and countries would be able to accede to the European Union in the way
+               anticipated.</seg>
+         </u>
+
+         <u who="#BRADY">
+            <seg>The Prime Minister is refusing the British people the right to vote on the future
+               European constitution, on the ground that previous treaties have been signed without
+               referendums. Does he not understand what is blindingly obvious to the British people:
+               that the changes and the process of handing over power to European institutions are
+               cumulative? The British people take the view that the process has gone far enough.
+               They want an opportunity to say no. Why is he depriving them of that right?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The hon. Gentleman certainly let the cat out of the bag at the end of his question.
+               The difference between us is that I do not believe that unless there is a fundamental
+               alteration of the essential constitutional arrangements, a referendum is the proper
+               way to proceed. The reason why we have said that we will have a referendum on the
+               single currency, should we recommend it, is that it does represent a fundamental
+               change in our constitutional arrangements; these proposals do not. Therefore, I do
+               not agree that we require a referendum. The reason why I point out that previous
+               Conservative Governments did not hold a referendum in those circumstances is to show
+               the difference between being in government, where one has to take some responsibility
+               for getting these things right, and in opposition, where one does not.</seg>
+         </u>
+
+         <u who="#BEARD">
+            <seg>Did the European Council consider the need to amend the stability and growth pact
+               in order to give member states greater freedom to stimulate their economies while
+               maintaining fiscal discipline? The Prime Minister: There was not a specific
+               discussion at the European Council on that matter, but as my hon. Friend knows,
+               discussions are going on about how the stability and growth pact can be made more
+               flexible to take account of the different economic conditions through which countries
+               live. The ideas that we have put forward on that meet with a certain amount of
+               approval.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>The Prime Minister has simply failed to answer the very direct question about a
+               referendum. Let me remind him that, before 1997, he made a personal pledge to hold a
+               referendum on European integration if it was not in the manifesto. The European
+               constitution was not in his manifesto. Will he please stop avoiding the issue and
+               tell the House why he really will not have a referendum on this constitution?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>I have said why—it is for the reasons that I have given today. I am glad that the
+               right hon. Gentleman has got up for a second time, because he was saying earlier that
+               it was no part of the Conservative party's desire to leave the European Union, but I
+               have his quotes from the Frost programme a couple of weeks ago—</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption.</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. Let the Prime Minister answer.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>This is what the right hon. Gentleman said: <quote>"It's not us leaving Europe,
+                  it's actually the others making this finally something which we don't
+                  want."</quote> That is the true dividing line. The reason why the right hon.
+               Gentleman wants a referendum is so that he can say no, paralyse the European Union
+               and get out. That is the real dividing line between the two political parties and it
+               has been made even more clear today. I suggest that he gets up another time.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

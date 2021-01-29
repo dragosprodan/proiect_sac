@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   <teiHeader>
+      
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200607/cmhansrd/cm061218/debtext/61218-0003.htm#0612182000002"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>18 December 2006</date>
+               <date when="2006-12-18"></date>
+               <activity>Welcoming Bulgaria and Romania on 1 January 2007</activity>
+               <locale>Brussels</locale>
+               <persName>Blair III</persName>
+               <name>92nd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="BECKETT">
+                  <persName>Margaret Beckett</persName>
+                  <sex>female</sex>
+                  <occupation>Secretary of State for Foreign and Commonwealth Affairs</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="MOORE">
+                  <persName>Mr. Michael Moore</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Berwickshire, Roxburgh and Selkirk</residence>
+               </person>
+
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="HOSIE">
+                  <persName>Stewart Hosie</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Dundee, East</residence>
+               </person>
+
+               <person xml:id="DUNWOODY">
+                  <persName>Mrs. Gwyneth Dunwoody</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Crewe and Nantwich</residence>
+               </person>
+
+               <person xml:id="SPRING">
+                  <persName>Mr. Richard Spring</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>West Suffolk</residence>
+               </person>
+
+               <person xml:id="MACSHANE">
+                  <persName>Mr. Denis MacShane</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rotherham</residence>
+               </person>
+
+               <person xml:id="HOGG">
+                  <persName>Mr. Douglas Hogg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sleaford and North Hykeham</residence>
+               </person>
+
+               <person xml:id="MACKINLAY">
+                  <persName>Andrew Mackinlay</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Thurrock</residence>
+               </person>
+
+               <person xml:id="HOWARTH-DAVID">
+                  <persName>David Howarth</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Cambridge</residence>
+               </person>
+
+               <person xml:id="CORBYN">
+                  <persName>Jeremy Corbyn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Islington, North</residence>
+               </person>
+
+               <person xml:id="JENKIN">
+                  <persName>Mr. Bernard Jenkin</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North Essex</residence>
+               </person>
+
+               <person xml:id="BORROW">
+                  <persName>Mr. David S. Borrow</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>South Ribble</residence>
+               </person>
+
+               <person xml:id="BLUNT">
+                  <persName>Mr. Crispin Blunt</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Reigate</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="RANDALL">
+                  <persName> Mr. John Randall</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Uxbridge</residence>
+               </person>
+
+               <person xml:id="DAVIDSON">
+                  <persName>Mr. Ian Davidson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Glasgow, South-West</residence>
+               </person>
+
+               <person xml:id="CABLE">
+                  <persName>Dr. Vincent Cable</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Twickenham</residence>
+               </person>
+
+               <person xml:id="DAVID">
+                  <persName>Mr. Wayne David</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Caerphilly</residence>
+               </person>
+
+               <person xml:id="HANDS">
+                  <persName>Mr. Greg Hands</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Hammersmith and Fulham</residence>
+               </person>
+
+               <person xml:id="HOPKINS">
+                  <persName>Kelvin Hopkins</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Luton, North</residence>
+               </person>
+
+               <person xml:id="HARPER">
+                  <persName>Mr. Mark Harper</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Forest of Dean</residence>
+               </person>
+
+               <person xml:id="GAUKE">
+                  <persName>Mr. David Gauke</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>South-West Hertfordshire</residence>
+               </person>
+
+               <person xml:id="HOLLOBONE">
+                  <persName>Mr. Philip Hollobone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Kettering</residence>
+               </person>
+
+               <person xml:id="DISMORE">
+                  <persName>Mr. Andrew Dismore</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Hendon</residence>
+               </person>
+
+               <person xml:id="BAYLEY">
+                  <persName>Hugh Bayley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>City of York</residence>
+               </person>
+
+               <person xml:id="BRYANT">
+                  <persName>Chris Bryant</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rhondda</residence>
+               </person>
+
+               <person xml:id="YOUNGER-ROSS">
+                  <persName>Richard Younger-Ross</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Teignbridge</residence>
+               </person>
+
+               <person xml:id="HAGUE">
+                  <persName>Mr. William Hague</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Richmond (Yorks)</residence>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BECKETT">
+            <seg>With permission, Mr. Speaker, I should like to make a statement on the European
+               Council held in Brussels last Thursday and Friday. As the House knows, it is
+               customary for my right hon. Friend the Prime Minister to make the statement, but I
+               have been asked to convey his apologies as he is currently on an official visit to
+               the middle east.</seg>
+            <seg>There were two main outcomes to the Council. The first, as expected, related to
+               enlargement. The Council endorsed the agreement reached earlier in the week by
+               Foreign Ministers on what action the European Union should take in response to
+               Turkeys failure to implement the Ankara agreement protocol. There was also a wider
+               discussion on enlargement strategy.</seg>
+            <seg>There had been widespread predictions that the discussion on Turkey at the General
+               Affairs Council would be extremely divisive, would spill over into the European
+               Council and might risk derailing the process of Turkish accessionthe so-called train
+               wreck scenario. But that was avoided. The UK, along with others, made a strong
+               strategic case for Turkish membershipa case that I know is shared across the Houseand
+               the train remains very much on the track. Negotiations can move forward on 27 of the
+               35 chapters of the acquis and, for the first time in an EU of 25, there is positive
+               language, which will be adopted by the Council in January, on resuming work without
+               delay on a direct trade regulation to end the economic isolation of the Turkish
+               Cypriots. No one is in any doubt that Turkey must meet all the requirements and
+               obligations of membership before joining the European Union. But as the House has
+               consistently agreed, a European Union with Turkey as a member will be stronger,
+               richer and more secure.</seg>
+            <seg>The conclusions of the European Council further stressed the strategic importance
+               of enlargement more generallyin inspiring reform, driving prosperity and
+               competitiveness, and strengthening the EUs weight in the world. Those conclusions
+               reaffirmed that the EU should keep its commitments towards all the countries that are
+               in the enlargement process, moving forward on the basis of strict conditionality at
+               all stages of the negotiations and judging each country on its own merits.</seg>
+            <seg>The second focus of the Council was to make progress on the very practical issues
+               that resonate with, and matter to, the people of Europe and where, through joint
+               action, the European Union can make a positive difference on the ground. On climate
+               change and energy, the Council built on progress made at the informal summit in
+               Lahti. We agreed that the spring Council will discuss options for a global post-2012
+               agreement on climate change, consistent with the EUs objective of a maximum global
+               temperature increase of 2 C above pre-industrial levels. We reiterated the need for a
+               global carbon market and reaffirmed the crucial role and the long-term ambition of
+               the EU emissions trading scheme.</seg>
+            <seg>The Council called for the priority measures in the Commissions action plan on
+               energy efficiency to be implemented rapidly and endorsed the setting up of a network
+               of energy security correspondents early next year. The spring 2007 European Council
+               is due to adopt a prioritised action plan as part of an integrated approach for a
+               secure, environmentally friendly and competitive energy policy for Europe. We also
+               agreed that European energy and climate change policy will be discussed by the
+               European Council on a regular basis in the future, beginning with an integrated
+               debate on those issues at the spring 2007 meeting.</seg>
+            <seg>On Africa, we welcomed the progress report on the implementation of the EU strategy
+               The EU and Africa: Towards a Strategic Partnership and called for the implementation
+               of the priority actions for next year that are identified in that report. We also
+               reaffirmed our commitment to working towards a joint EU-Africa strategy, which is to
+               be adopted at the second EU-Africa summit in the latter half of 2007.</seg>
+            <seg>On the globalisation agenda, we asked the Commission to take a number of concrete
+               steps to promote further innovation in Europe. They included presenting a
+               comprehensive intellectual property rights strategy in the course of 2007, working up
+               proposals for industry-led joint technology initiatives with a view to launching the
+               most advanced ones next year, and, in consultation with relevant stakeholders, coming
+               up with ways in which to improve the working methods and overall resources of the
+               European standardisation bodies. We also agreed to do further work on the idea of a
+               European institute of technology.</seg>
+            <seg>On justice and home affairs, the Council agreed to consider options for
+               strengthening the framework for decision making in order to respond effectively to
+               the current challenges in the areas of freedom, security and justice.</seg>
+            <seg>On migration, we agreed that we needed to strengthen our efforts on the global
+               approach and to make sure that we addressed migration in a comprehensive manner. The
+               Council agreed on the next steps that the EU should take in 2007, including detailed
+               action in three areas with regard to illegal migration: first, strengthening and
+               deepening international co-operation with third countries of origin and transit, for
+               example by doing more to integrate migration issues into aid policies and working
+               more effectively with third countries to combat human trafficking; secondly,
+               strengthening co-operation among members states, for example by intensifying measures
+               against illegal employment and developing identification technology at borders; and,
+               thirdly, improving the management of the EUs external border, for example by finding
+               sustainable and effective ways to enhance the capacity of Frontex. The Council also
+               agreed to have a common European asylum system in place by the end of 2010, starting
+               with a preliminary evaluation of its first phase next year.</seg>
+            <seg>The Council issued separate declarations on Lebanon, Afghanistan, Iran and Africa
+               issues. On the middle east peace process, the European Council set out how it would
+               engage with a legitimate Palestinian Government who adopted a platform reflecting the
+               Quartet principles.</seg>
+            <seg>The European Council quite rightly concentrated on areasnot least enlargementin
+               which the European Union can make a real difference to the lives of the people of
+               Europe. The progress that we made at the Council, and, perhaps just as importantly,
+               the dangers that we avoided, demonstrate again the benefit of having a UK Government
+               with not just a clear strategy on Europe, but the strong influence, based on
+               consistent and close engagement, to see that strategy through. I commend the outcome
+               to the House.</seg>
+         </u>
+
+         <u who="#HAGUE">
+            <seg>The focus of the summit, as the Foreign Secretary said, was enlargement, which has
+               been the European Unions greatest achievement. We join in welcoming Romania and
+               Bulgaria to the European Union. As she said, we have long supported Turkeys
+               membership of the EU, so we have much agreement with her on that. However, does she
+               still agree with us that, as she put it before the summit, the measures proposed, and
+               indeed agreed, were too harsh on, and possibly counter-productive towards, Turkey?
+               She obviously agrees that Turkey must work to resolve the dispute over access to its
+               ports, but that is a challenge to overcome, not an opportunity to deny Turkey
+               membership in the future. To resolve these matters, what will the Government and our
+               European partners do not only to end the economic isolation of Turkish Cypriots, but
+               to ensure that there is movement over time towards Turkeys eventual recognition of
+               the Republic of Cyprus and on other measures necessary to bring about Turkish
+               membership?</seg>
+            <seg>A larger Europe should mean a more flexible Europe, not a less flexible one. It is
+               thus right that proposals to abolish vetoes over criminal justice and to move that
+               area from an intergovernmental pillar to full Community jurisdiction were not
+               adopted. Will the Foreign Secretary make it clear that any such proposal in the
+               future will be rejected by Britain? A Government spokesman apparently said at the
+               summit: <quote>We are prepared to give up the veto on some security issues</quote>.
+               Will she say what those issues are?</seg>
+            <seg>Does the Foreign Secretary not agree with the European Scrutiny Committee that the
+               use of the so-called gangplank clause would be of constitutional importance and, as
+               the Committee said, <quote>it is vital that there should be no doubt or equivocation
+                  about the Governments position?</quote>
+            </seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I use the Committees form of words. Are the Government in fact willing to give up
+               the veto on some of these issues? Does the right hon. Lady accept our view that that
+               would be a serious mistake that would limit British sovereignty in a sensitive
+               area?</seg>
+            <seg>Will the Foreign Secretary tell the House why the employment chapter is being used
+               to introduce EU legislation on migration? Should that not be done through immigration
+               provisions or not at all? Why is the EU now extending its powers into Community
+               integration, in paragraph 24 of the Council conclusions? Does not a common asylum
+               policy run the risk of losing national control in that area?</seg>
+            <seg>Our view is that the EU should concentrate on where it can add value to its peoples
+               priorities, so we welcome what the Council agreed on climate change. Does the right
+               hon. Lady agree that the EU does not need new powers here but must make better use of
+               existing ones? Europe is not on track to meet its Kyoto target, so will the
+               Government ensure that the revision of the EU trading scheme receives urgent
+               attention?</seg>
+            <seg>On global poverty, the Council discussed the Africa strategy; it is right to make
+               that a priority. But does the Foreign Secretary agree that many of the EUs
+               policiesthe common agricultural policy, trade barriers and so oncontinue to make
+               poverty in developing countries worse? Nevertheless, climate change and global
+               poverty are real, tangible issues on which the European Union should be
+               concentrating.</seg>
+            <seg>The Foreign Secretary, however, failed to mention one thingthe European
+               constitution. It was on the agenda and a summit has been called of the 18 nations
+               that have ratified it. Her predecessor, who is sitting next to her, the right hon.
+               Member for Blackburn <note>Mr. Straw</note>, said that <quote>"it was hard to argue
+                  that the Constitution is not dead".</quote>
+               <note>The Leader of the House of Commons (Mr. Jack Straw) indicated assent.</note>
+            </seg>
+            <seg>The right hon. Gentleman nods. The Dutch Government have said that the constitution
+               is dead. But some people are now arguing for its resuscitation, so will the Foreign
+               Secretary make it clear that the Government have no plans to ratify the constitution
+               and will not revive such plans? Her predecessor stated that the Government would not
+               bring in any part of the constitution through the back door, so will the right hon.
+               Lady guarantee that any new treaty that contains any significant part of the
+               constitution or increases the EUs powers in any way would merit the promised
+               referendum?</seg>
+            <seg>The European Union has the potential to be a great force for good in the world, but
+               if it returns to the old ways of deeper integration, the constitutions failure will
+               be repeated again and again. So is it not the Governments urgent task to lead that
+               debate and convince our partners of the need for an open, flexible, modern European
+               Union which all its nations need?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>First, to pick up on what the right hon. Gentleman said about Turkey, I recognise
+               and much appreciate the common ground in the House on that issue. On the
+               relationships between Turkey and the Republic of Cyprus, he may be aware that one of
+               the declarationsthe presidential statement that accompanied the Council
+               conclusionshas encouraged a return to the United Nations process to begin to resolve
+               some of the issues. I sincerely hope that that will indeed be successful.</seg>
+            <seg>The right hon. Gentleman spoke about the need for greater flexibility as the
+               European Union becomes larger, and I agree with that, but he also spoke about what he
+               was reluctant to call the passerelle on justice and home affairs issues. I am not
+               aware of the statement that he quoted from a Government spokesman. I simply repeat
+               what we have said to him before: there is flexibility on this issue in existing
+               treaties and we do not rule out, as a matter of principle, ever exercising such
+               flexibility. Certainly there are no proposals at present to which we are particularly
+               attracted, but given that that flexibility is in existing treaties, it would be a
+               mistake automatically to rule out its use. We would discuss and consider issues on
+               their merits and make a decision on that basis. I feel confident that this will be an
+                  ongoing<seg> exchange, but I remind the right hon. Gentleman yet again that no
+                  Labour Government have given up the principle of the vetothat was done under Lady
+                  Thatcher.</seg> On asylum, we understand the right hon. Gentlemans concern. We are
+               anxious to preserve the right kind of flexibility on the issue, certainly in the
+               United Kingdom, where we believe that that can be achieved. I share his view that the
+               European Union should increasingly concentrate on areas where it adds value. He
+               touched on the emissions trading scheme, and I hope that the House is aware that the
+               United Kingdom is the only member state to have its proposals for the next round of
+               the emissions trading scheme accepted. Everyone else was told that their proposals
+               were not sufficiently stringent, so we are making progress and are heading in the
+               right direction. I share his view that we must look at our wider policies, including
+               the common agricultural policy, if we are to deal with global poverty, not least
+               through trade.</seg>
+            <seg>Finally, the right hon. Gentleman says that the constitutional treaty is dead, but
+               in my first debate on the subject as Foreign Secretary, we had an interesting
+               theological discussion in which my hon. Friend the Member for Rhondda <note>(Chris
+                  Bryant)</note>, who happily is present this afternoon, defined the treaty,
+               theologically and very accurately, as being in limbo, on the grounds that that was
+               the place for the unborn. That is certainly incontestable. As to bringing things
+               back, whether through the front or back door, there is no suggestion that we would do
+               any such thing, but we will see what proposals are put forward.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>May I also welcome the statement? The Foreign Secretary referred to keeping
+               commitments to all the countries involved in the enlargement process. Was there a
+               detailed discussion of the situation in the Balkans, in light of the forthcoming
+               election in Serbia and the negotiations about the final status of Kosovo, and does
+               the European Union still have as firm a commitment as it did to enlargement to
+               include south-east Europe?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>First, I should say that on this occasion there was no particularly detailed
+               discussion of the issues surrounding Serbias potential moves towards the European
+               Union, as there has been a lot of detailed discussion of the subject on previous
+               occasions, and nothing has changed. There was not that detailed discussion, but it is
+               still our firm intention to keep open the door for future enlargement, not least
+               because we believe that that will be a strong driver towards reform. Again, I think
+               that that is common ground, shared by hon. Members on both sides of the House.</seg>
+         </u>
+
+         <u who="#MOORE">
+            <seg>This was hardly the most spectacular of summits, but in its own way, I suppose that
+               that may be regarded as a triumph. In this country, there will be a broad welcome of
+               the intention to focus early attention on climate change, and to consider ways of
+               achieving greater co-operation and co-ordination on migration. There is also support
+               on both sides of the House for the reaffirmation of the enlargement process as
+               regards Turkey. It was right for the summit to emphasise that all applicants must
+               meet the tough entry requirements in full, but is the Foreign Secretary confident
+               that the new impact assessments will not simply provide the opponents of enlargement
+               with a new method of blocking Turkey?</seg>
+            <seg>On the middle east, we welcome the Councils recognition of the deterioration of the
+               socio-economic situation in the occupied territories, and of the extension of the
+               temporary international mechanism for a further three months. Will she clarify what
+               funding the British Government and their EU partners have pledged in support of that
+               extension? On the wider peace process, how will the Prime Ministers latest efforts in
+               the region be linked to the new European initiative agreed at the summit, and what
+               other British input will there be? Finally, given the approach of the 50th
+               anniversary of the treaty of Rome, can we expect, sometime soon, an updated White
+               Paper on the necessary reform of Europes institutions to cope with current and future
+               enlargement?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>First, may I thank the hon. Gentleman for his welcome on some of the issues? One
+               must always view such matters with caution, but I am reasonably confident that having
+               rigorous requirements that are properly monitored will not necessarily prove to be
+               just a stumbling block and an obstacle to any future enlargement, whether in respect
+               of Turkey or any other applicant state. There was a discussion on precisely that
+               issue. The overwhelming majority of the member states have ruled outat least three
+               times so far, in my experiencethe idea that we should introduce some kind of new
+               conditionality. There is a clear recognition among member states, just as there is
+               across the House, of the value of applications in driving reform. On the extension of
+               the temporary international mechanism, I am not carrying in my head the latest
+               figures, but I can tell the hon. Gentleman both that the European Union as a whole
+               has put more money than last year into helping the Palestinian people through the
+               present crisis, and that the UK is the largest donor to that overall EU funding. If
+               we obtain information in the near future about what the extension will mean, I will
+               let him know.</seg>
+            <seg>With regard to the Prime Ministers present visit, the House is aware that he is
+               hoping to communicate support and concern for moves towards the middle east peace
+               process and towards the road map, and to hear from those on the ground what the
+               latest position is and what, if anything, the UK or the EU can do to help. On the
+               notion of an updated White Paper, I have not given thought to that. I will consider
+               it. I am not giving an undertaking at this time.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>My right hon. Friend mentioned enlargement. She is aware that next year we will see
+               the presidencies of Germany and of Portugal, followed by the presidency of France.
+               Would it not be appropriate during their presidencies to seek a deeper integration of
+               the present Union in relation to promotion of the Lisbon agenda and the services
+               directive, so that we are in a better position to face the global challenges of India
+               and China?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>My hon. Friend, who I know has long taken a great interest in these matters, makes
+               an interesting point. With regard to the Lisbon agenda, progress is certainly being
+               made. It is the intention that all the countries of the European Union will work more
+               closely together and seek areas where we can co-operate, and at the same time look
+               for areas where we can be genuinely effective and genuinely add value, as opposed to
+               merely duplicating what is happening elsewhere, as is sometimes the risk.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>I have just returned from a visit to Berlin with the European Scrutiny Committee.
+               Would the Foreign Secretary endorse the idea, which we heard there quite a lot, that
+               the acquis is inviolable? Would she rule out in principle the idea that Westminster
+               legislation should be passed in the House to override the European Communities Act
+               1972 as and when required, and to require the judiciary to give effect to it?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>That was a slightly convoluted sentence, if I may say so to the hon.
+               Gentleman.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>It was a very simple sentence.</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>Yes, but experience leads me to conclude that if I do not entirely understand what
+               he is asking, I should not run the risk of agreeing with him.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>May I join others in congratulating my right hon. Friend on pursuing the
+               enlargement agenda and making sure that the train carrying Turkey is kept firmly on
+               track, despite efforts by others to derail the process? In respect of the justice and
+               home affairs agenda, can she confirm that notwithstanding the retention of our veto,
+               which I welcome, we will continue to co-operate with our EU partners and our agencies
+               will work with their agencies in order to deal with those who wish to traffic people
+               or drugs or behave in a manner that could help terrorists?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I am grateful to my right hon. Friend. He is entirely right. The House will always
+               be extremely cautious about any movement on the veto in such a sensitive area. I
+               agree with the point made by the right hon. Member for Richmond, Yorks</seg>
+            <note>Mr. Hague</note>
+            <seg>. One of the reasons why I have always approached the matter with considerable
+               caution is that there are some very difficult issues of cross-border crime, people
+               trafficking, narcotics and so on, on which we need stronger and deeper co-operation.
+               If we ever came to the conclusion that that required some change, we should not rule
+               it out.</seg>
+         </u>
+
+         <u who="#HOSIE">
+            <seg>I thank the right hon. Lady for an advance copy of the statement, which suggests
+               that on justice and home affairs the Council agreed to consider options for
+               strengthening the framework for decision making in order to respond effectively to
+               the current challenges in the area of freedom, security and justice. That is likely
+               to mean a far more uniform and unified approach across Europe to sharing police
+               information and intelligence. Given that Scotland has a separate legal system, eight
+               separate police forces and the Scottish Drug Enforcement Agency, all under the
+               responsibility of the Scottish Executive, how does the right hon. Lady envisage that
+               that strengthened framework will embrace each of those in that regard?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>Of course there are different legal systems and jurisdictions throughout the EU,
+               but when it comes to the need to share information in order to combat security risks
+               or cross-border crime, in most jurisdictions, most police forces and other security
+               forces are only too happy to co-operate.</seg>
+         </u>
+
+         <u who="#DUNWOODY">
+            <seg>Can my right hon. Friend assure me that the United Kingdom would never support any
+               suggestion of a modification of our rights, particularly the right to strike for UK
+               citizens?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I am just wondering what my hon. Friend has in mind, but certainly I have seen no
+               such proposal, nor have I seen one that I would support.</seg>
+         </u>
+
+         <u who="#SPRING">
+            <seg>Given the welcome remarks of the right hon. Lady regarding enlargement, would she
+               be good enough to elaborate on any discussions on Ukraine, given its huge
+               geopolitical significance and the fact that so much of the energy supplies are routed
+               through Ukraine to the rest of Europe?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>There was not detailed discussion about Ukraine, but the point was made clearly and
+               firmly on a number of occasions, not least by some of the newer member states, that
+               this is a country that they would also wish to see on the path ultimately to
+               membership of the European Unionsome considerable distance away, no doubt, but that
+               point was made.</seg>
+         </u>
+
+         <u who="#MACSHANE">
+            <seg>Next year, Britain will celebrate two great acts of unionthat with Scotland and
+               that within the European Union. May I invite my right hon. Friend to take off her
+               sober Foreign Secretary garb and, now and then, return to Margaret the great
+               campaigner and campaign against some of the rancid rabble on the Opposition Benches
+               who reject both the EU and the Act of Union with Scotland?</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order. The hon. Gentleman makes a habit of this. He did it the last time that I
+               called him. I did him a favour this time and called him thinking that he had learned
+               the lesson. He is running the risk of not being called.</seg>
+         </u>
+
+         <u who="#HOGG">
+            <seg>May I ask the Foreign Secretary whether in the margins of the Council</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. I heard the remark made by the right hon. Member for Rotherham</seg>
+            <note>Mr. MacShane</note>
+            <seg>. He has been long enough in the House. Of course, he can raise political matters,
+               but he is questioning a Minister on her responsibility. If he cannot learn that, I
+               will not be long in teaching him.</seg>
+         </u>
+
+         <u who="#HOGG">
+            <seg>May I ask the Foreign Secretary whether in the margins of the Council either she or
+               the Prime Minister talked to their counterparts from Germany and France, or indeed
+               their counterparts from any NATO country, as to their willingness to deploy more
+               troops into the Helmand province so as to reinforce British forces when under attack?
+               If she or he did, what was the response? If they did not, perhaps they should have
+               done.</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>There are considerable and detailed ongoing discussions about the issue, as I am
+               sure the right hon. and learned Gentleman knows. It is not just a matter of
+               personnel, although that is an area where there is an interest, it is also a matter
+               of equipment and the role that people can play. Those discussions continue, not only
+               with those two colleague states but also with others.</seg>
+         </u>
+
+         <u who="#MACKINLAY">
+            <seg>May I tell the Secretary of State that I am uncomfortable about the cosy consensus
+               between the three Front-Bench spokesmen on Turkey? Indeed, I noted that the shadow
+               Foreign Secretary said that our conditions as regards Turkey were over-harsh. There
+               are still some people who are alarmed about the prospect of enlarging the EU to
+               include Turkey, which would mean that we would have common borders with Iraq, Iran,
+               Syria and a number of other friendly states, and who believe that this really is not
+               the most sensible or strategic approach to our collective security, nor in the best
+               interests of Turkey or the EU.</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I say to my hon. Friend, with affection as well as respect, that he is never
+               comfortable with any cosy consensus, whatever it may be about. I take his point
+               entirely. However, it would be a huge strategic error for the European Union not to
+               hold out the prospect of membership to Turkey and not to take Turkey into membership.
+               We have already talked about cross-border terrorism, people trafficking, narcotics
+               and so on. Those are all issues where we have a lot of common interest and where
+               Turkey can do a great deal to help and support us, as it can as a conduit for energy
+               and on security matters. I am mindful of the fact that across the middle east people
+               are watching to see whether the EU will stand by its word in being prepared to take
+               in a country such as Turkey. People are also watching the process of reform that the
+               prospect of EU membership is bringing about in Turkey, not least to see whether it is
+               a model for them. I would be reluctant to lose any of those advantages.</seg>
+         </u>
+
+         <u who="#HOWARTH-DAVID">
+            <seg>Does the Foreign Secretary agree with what Mr. Barroso said about relations with
+               Russia this morning in Strasbourg in the equivalent debate therethat is, that the
+               Union must avoid the twin risks of business as usual on the one hand and outright
+               confrontation on the other, but must instead always stick to its basic principles,
+               including those of human rights? If so, does she further agree that those principles
+               should also apply to our relations with other countriesfor example, Saudi
+               Arabia?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>Who can query the notion that whether dealing with Russia or with other countries,
+               we should always bear in mind those principles, as indeed we do?</seg>
+         </u>
+
+         <u who="#CORBYN">
+            <seg>When the Council met, what discussions took place about the humanitarian crisis
+               facing people who have migrated from west Africa to the Canary islands, many of whom
+               have perished in the sea on that perilous journey, and about the increasing
+               militarisation of the Mediterranean, which has resulted in the loss of many lives of
+               people trying to cross from north Africa to Europe? Does she accept that we need a
+               much more human and humanitarian approach to migration and asylum? Can she assure the
+               House that any common asylum policy agreed will be based entirely on the 1951 Geneva
+               convention and will not become a system of cherry-picking skilled people who happen
+               to be asylum seekers from those who have different skills or no particular skills
+               suited to an industrial society?</seg>
+         </u>
+
+
+         <u who="#BECKETT">
+            <seg>There was a certain amountif not a massive amountof discussion about migration and
+               asylum, which is recognised as a common problem and, in many cases, a very serious
+               one. A common approach to asylum will be developed over a considerable period of
+               time. I share my hon. Friends concern about the humanitarian aspects of the problem,
+               as does everyone, but I take the viewwhich I suspect that he might, on this occasion,
+               sharethat one of the best ways to tackle the issue is through tackling global poverty
+               and the trade barriers that create the circumstances that drive people to consider
+               leaving their homeland.</seg>
+         </u>
+
+         <u who="#JENKIN">
+            <seg>The Foreign Secretary might agree that it was a very quiet summit. Why would that
+               be so? What has happened to the rhetoric about bringing the Union closer to its
+               citizens? Has it been abandoned in the light of the French and Dutch
+               referendums?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>No. Indeed, the view expressed by our Prime Minister at the Hampton Court summit
+               during the British presidencythat one of the best ways to bring Europe closer to its
+               citizens is for Europe to devote itself to things that its citizens actually care
+               aboutis widely welcomed and is an approach that people are increasingly trying to
+               follow. As for why it was such a quiet Council, perhaps it was because people were
+               leaving space for a train wreck that did not happen.</seg>
+         </u>
+
+         <u who="#BORROW">
+            <seg>It has been suggested that the question of enlargement be linked to a resolution of
+               the difficulties over the EU constitution. Does my right hon. Friend agree that it
+               would be wrong for any of the accession countries, whether Turkey, Croatia or
+               Macedonia, to be refused membership, having reached all the criteria required of
+               them, on the basis that the EU has been unable to resolve its constitutional
+               difficulties?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I can assure my hon. Friend that we have not only resisted any attempt to put in
+               new criteria for membership but rejected, on every occasion when it has been raised,
+               any attempt to suggest that there is an automatic link between future enlargement and
+               institutional reform.</seg>
+         </u>
+
+         <u who="#BLUNT">
+            <seg>In the declaration on the middle east peace process, the European Council noted the
+               importance of a ceasefire in Gaza. Was there any discussion about reports that
+               American Government agencies have been channelling funds to one of the parties in
+               Gaza with the precise objective of undermining that ceasefire?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>None at all.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>May I press the Foreign Secretary a little bit further on Afghanistan, which was
+               the subject of a separate declaration of the Council? Did we know or were we warned
+               about the withdrawal of French troops in advance, and if so what was our
+               response?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I am afraid that that is not something that I have had time to familiarise myself
+               with since the Council finished.</seg>
+         </u>
+
+         <u who="#RANDALL">
+            <seg>What discussions were held on the future status of Kosovo, particularly considering
+               the current stance of both Russia and China?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>There was no discussion really about the future status of Kosovo, but that was
+               partly because there had been much discussion previously about Serbia and its
+               potential application, as I said to my hon. Friend the Member for Ilford, South</seg>
+            <note>(Mike Gapes)</note>
+            <seg>, and in that context there was also much discussion about Kosovo. So the issue has
+               been extensively aired lately and, consequently, it was not raised at the European
+               Council.</seg>
+         </u>
+
+         <u who="#DAVIDSON">
+            <seg>May I seek further clarification from the Minister on the question of the common
+               asylum policy, which is to be introduced by 2010? Given that we have already lost
+               powers to deport many criminals that we would wish to deport, is there anything in
+               that policy, or anything that the Government would accede to, that would force us to
+               accept people that the British Government would not wish to accept?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>My hon. Friend is right to highlight the fact that that is a potential danger. A
+               range of issues will have to be considered, and that is one of the reasons why we
+               think that the timetable for this policy may be a little ambitious, although
+               obviously we shall work on that basis. We strongly take the view that we have to
+               maintain the flexibility for different nation states to handle this issue in a way
+               that is best suited to their particular needs, and I can assure my hon. Friend that
+               we are mindful of the sort of danger that he has identified.</seg>
+         </u>
+
+         <u who="#CABLE">
+            <seg>Does the Secretary of State endorse the comments made by Mr. Peter Mandelson this
+               morning that the French Governments proposals for trade restrictions on countries
+               that do not implement the Kyoto protocol are foolish and counter-productive? If she
+               does agree with that, how do the British Government propose to reconcile global trade
+               and environment rules?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>There is already a mechanism for taking into account environmental issues and
+               concerns alongside the work of the World Trade Organisation with the multilateral
+               environment agreements, so this is not a new issue. I was not familiar with the fact
+               that the French Government have made such a proposal and would wish to study exactly
+               what has been said, but certainly I take the view that we should be easing trade
+               restrictions rather than tightening them.</seg>
+         </u>
+
+         <u who="#DAVID">
+            <seg>While I agree with the former Foreign Secretary that the constitutional treaty is
+               probably dead, does the present Foreign Secretary agree with me that, nevertheless,
+               treaty changes are needed in the foreseeable future so that the European Union
+               continues to function effectively?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>Certainly, there are some issues that will have to be considered because the Union
+               has already made a decision that we shall look again at, for example, the numbers in
+               the Commission once Romania and Bulgaria join the European Union. As to whether
+               changes are needed, that is obviously exactly the kind of issue on which the Germans
+               will be taking soundings in the early part of their presidency to see whether there
+               is a process that they can recommend as to how we might consider these matters in the
+               future.</seg>
+         </u>
+
+         <u who="#HANDS">
+            <seg>The German Government have said that central Asia will be one of their priorities
+               for their presidency starting on 1 January and their G8 presidency. I ask the right
+               hon. Lady to ensure that there is no relaxation of Britains position on civil and
+               human rights in central Asia during the German presidency. What effort is she making,
+               perhaps with the Minister for Europe, to persuade others, including the German
+               Government, to keep up pressure on the Uzbek and Turkmen regimes in particular, and
+               to maintain the EU sanctions regime against Uzbekistan?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>We do not envisage relaxation of our stance on civil and humanitarian rights, nor
+               have I read into what the German Government have said that that is their idea
+               either.</seg>
+         </u>
+
+         <u who="#HOPKINS">
+            <seg>My right hon. Friend will be aware that Chancellor Merkel has suggested not just
+               that a revised version of the constitution be driven forward, but that she wishes to
+               use the German presidency to drive all member states to join the eurozone. Will my
+               right hon. Friend make it clear to Mrs. Merkel that we have no intention of joining
+               the eurozone, and that if the Germans want to reduce their unemployment they would do
+               well to withdraw from the eurozone and reduce their interest rates?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I shall not venture to advise Chancellor Merkel on the policy that the German
+               Government should pursue. Although she has made it clear that she would prefer to be
+               able to move forward on the constitutional treaty, she has also made it clear that
+               the main thrust of the German presidencys approach will be to establish whether there
+               is a consensus and, if so, what it is, and that she is under no illusions that
+               decisions can be made under the German presidency.</seg>
+         </u>
+
+
+         <u who="#HARPER">
+            <seg>The French are alleged to have withdrawn their special forces from Helmand
+               province. Given the pressure that our forces are under, that seems completely at
+               variance with the statement made by the Defence Secretary after the Riga summit. If,
+               as the Foreign Secretary indicated, she has not familiarised herself with that
+               position, when will she do so, and when will she make representations to the
+               French?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>Let me gently point out to the hon. Gentleman that I am the Secretary of State for
+               Foreign and Commonwealth Affairs, not the Secretary of State for Defence. To some
+               extent, this is a question for my right hon. Friend.</seg>
+         </u>
+
+         <u who="#DISMORE">
+            <seg>In relation to Turkeys application to join the EU, will my right hon. Friend say
+               what discussions took place about the continuing involvement of the military in
+               Turkish politics and about Turkeys human rights record, particularly with reference
+               to the enclave people of the Karpas, who continue to suffer appalling
+               oppression.</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>People are mindful that those are among the reforms and changes that we would wish
+               to see in Turkey. My hon. Friend will know, I am sure, that Turkey has made some
+               progress in the right direction on such issues, but there is a general view that much
+               more progress would be desirable, which is another reason for Turkey to maintain its
+               move towards the standards required for EU membership.</seg>
+         </u>
+
+         <u who="#GAUKE">
+            <seg>The Foreign Secretary referred to EU policy towards Africa. I am sure that she will
+               agree that removing trade barriers is one of the most important things that the EU
+               can do. What progress was made, if any, to ensure that the EU takes a more flexible
+               approach to the Doha World Trade Organisation negotiations?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>There was not much discussion of the Doha round at the European Council. As the
+               hon. Gentleman will know, Pascal Lamy has recently taken steps to reactivate those
+               talks. I strongly share the view expressed that it is important that the talks have a
+               successful outcome and that the EU should play whatever role is necessary to help to
+               secure that.</seg>
+         </u>
+
+         <u who="#BAYLEY">
+            <seg>Given that the problems with the Doha round have been due, to a considerable
+               extent, to the EUs inflexibility on modifying the common agricultural policyand
+               particularly the stance taken by the President of Francenow that the Foreign
+               Secretary has announced that the next EU-Africa summit will be in the latter half of
+               next year, after the next French presidential elections, can she reassure me that the
+               UK Government will press colleagues in the EU for further changes to the CAP, so that
+               progress can be made at the EU-Africa summit to facilitate the Doha round?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I find myself slightly torn. While I entirely share my hon. Friends point of view,
+               both as to what is a desirable outcome and the fact that the EU must contribute to
+               it, I say with some slight regret - as this is not easy for us to overcome - that the
+               EU has not been the major stumbling block in the Doha round negotiations. The major
+               reforms of the CAP that we negotiated in 2003 made a huge difference to the stance
+               that the EU was able to take. Unfortunately, until now the failure of others to move
+               has been the stumbling block. I share his underlying view that those stumbling blocks
+               should be removed and that progress should be made.</seg>
+         </u>
+
+         <u who="#HOLLOBONE">
+            <seg>Given the Foreign Secretarys enthusiasm for Turkish membership of the EU and the
+               experience of the miscalculation over the number of migrants from eastern Europe, do
+               Her Majestys Government have any projections about the number of Turkish immigrants
+               expected to come to this country if Turkey accedes?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I am afraid that we are rather a long way from an agreement for Turkey to join the
+               European Union. As for miscalculations, I have pointed out to the House previously
+               that the Government made no calculation; we commissioned a piece of research that
+               turned out not to be as accurate as perhaps one might wish.</seg>
+         </u>
+
+         <u who="#BRYANT">
+            <seg>Further to the question from the hon. Member for Cambridge</seg>
+            <note>David Howarth</note>
+            <seg>, may I ask whether there was any discussion of EU relations with the Russian
+               Federation? Was there any discussion of Amnesty Internationals recent report on the
+               widespread use of torture in Russian jails and police cells? Was there any discussion
+               of the murder of 21 journalists in Russia since President Putin came to power? And
+               was there any discussion of the fact that at present, following the undermining of
+               property rights in Russia, many people are finding it difficult to invest in the
+               energy market that we so desperately need for Europe?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>My hon. Friend has made a number of points in expressing his concernwhich I know
+               many will shareabout various events in Russia. No, there was not an extensive
+               discussion about Russia; that was not a major item on the agenda.</seg>
+         </u>
+
+         <u who="#YOUNGER-ROSS">
+            <seg>I apologise for missing the beginning of the Ministers statement. Further to the
+               question from the hon. Member for Birmingham, Edgbaston (Ms Stuart), can the
+               Secretary of State confirm that the situation in Afghanistan is not like that in
+               Iraq, that great progress is being made in terms of both reconstruction and
+               peacekeeping, and that the EU, like Britain, remains firmly committed in the long
+               term to solving Afghanistans problems?</seg>
+         </u>
+
+         <u who="#BECKETT">
+            <seg>I can certainly confirm that there has been substantial progress. One always says
+               that with great trepidation, fearing that someone will come along and describe all
+               the problems that still exist, but the hon. Gentleman is right: a great deal of
+               excellent work has been done in Afghanistan, and we need to continue that work.</seg>
+         </u>
+      </body>
+   </text>
+</TEI>

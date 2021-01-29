@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm091102/debtext/91102-0005.htm#09110211000003"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>2 November 2009</date>
+               <date when="2009-11-02"></date>
+               <activity>Institutional issues, Treaty of Lisbon</activity>
+               <locale>Brussels</locale>
+               <persName>Brown</persName>
+               <name>93rd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BROWN">
+                  <persName>Mr. Gordon Brown</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Witney</residence>
+               </person>
+
+               <person xml:id="BRYANT">
+                  <persName>Chris Bryant</persName>
+                  <sex>male</sex>
+                  <occupation>Undersecretary of State for Foreign Affairs (Minister for Europe)</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rhondda</residence>
+               </person>
+
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CLEGG">
+                  <persName>Mr. Nick Clegg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sheffield, Hallam</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="FLYNN">
+                  <persName>Paul Flynn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Newport, West</residence>
+               </person>
+
+               <person xml:id="REDWOOD">
+                  <persName>Mr. John Redwood</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wokingham</residence>
+               </person>
+
+               <person xml:id="ROBINSON">
+                  <persName>Mr. Geoffrey Robinson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Coventry, North-West</residence>
+               </person>
+
+               <person xml:id="MORLEY">
+                  <persName>Mr. Elliot Morley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Scunthorpe</residence>
+               </person>
+
+               <person xml:id="EFFORD">
+                  <persName>Clive Efford</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Eltham</residence>
+               </person>
+
+               <person xml:id="TAYLOR-DARI">
+                  <persName>Ms Dari Taylor</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Stockton, South</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="DAVIDSON">
+                  <persName>Mr. Ian Davidson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Glasgow, South-West</residence>
+               </person>
+
+               <person xml:id="LLWYD">
+                  <persName>Mr. Elfyn Llwyd</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Meirionnydd Nant Conwy</residence>
+               </person>
+
+               <person xml:id="MALINS">
+                  <persName>Mr. Humfrey Malins</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Woking</residence>
+               </person>
+
+               <person xml:id="MACKAY">
+                  <persName>Mr. Andrew Mackay</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Bracknell</residence>
+               </person>
+
+               <person xml:id="GREENWAY">
+                  <persName>Mr. John Greenway</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ryedale</residence>
+               </person>
+
+               <person xml:id="BRAZIER">
+                  <persName>Mr. Julian Brazier</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Canterbury</residence>
+               </person>
+
+               <person xml:id="ROWEN">
+                  <persName>Paul Rowen</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Rochdale</residence>
+               </person>
+
+               <person xml:id="ROBATHAN">
+                  <persName>Mr. Andrew Robathan</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Blaby</residence>
+               </person>
+
+               <person xml:id="BONE">
+                  <persName>Mr. Peter Bone</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wellingborough</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BROWN">
+            <seg> First of all, I am sure the whole House will want to join me in sending our
+               condolences to the family and friends of Staff Sergeant Olaf Schmid, of 11 Explosive
+               Ordnance Disposal Regiment, who died in Afghanistan on Saturday afternoon. As we come
+               closer to Remembrance Sunday, we recognise that we owe him and all who have given
+               their lives in the service of our country, and indeed everyone who has served in our
+               armed forces, an immeasurable debt of gratitude. With permission, Mr. Speaker, I
+               would like to make a statement on the European Council held in Brussels last Thursday
+               and Friday. The Copenhagen climate change conference, for which the European Council
+               was preparing, is now less than 40 days away. If carbon emissions are to be reduced
+               and dangerous climate change averted, it is essential that we achieve an ambitious,
+               comprehensive and binding agreement. Concluding a climate change deal will also drive
+               investment in the low-carbon economy and speed up world economic recovery. It will
+               demonstrate that, as at the G20, the world can come together to address the great
+               global challenges that we face together.</seg>
+            <seg>In all of this, European Union leadership is fundamental, and now, as we approach
+               Copenhagen, we need to drive forward the negotiations. Let me explain the urgency: to
+               achieve the ambitious, effective and fair deal we need, it is not only developed
+               countries which must act; developing countries too must cut their emissions, reduce
+               deforestation and be able to adapt to climate change. However, to enable them to make
+               an offer by December, we as a European Union and as developed countries need to make
+               a credible offer of financial assistance to them now. That is why earlier this year I
+               proposed a long-term financial agreement between developed and developing countries.
+               On Friday last week the European Council agreed to put on the table for Copenhagen
+               three conditional offers. First, we agreed that Europe will contribute its fair share
+               of the costs of mitigation and adaptation in developing countries, and we endorsed
+               the European Commission view that these are expected to require-including the
+               developing countries' own contributions-around 100 billion of private and public
+               finance annually by 2020.</seg>
+            <seg>Secondly, we set out our offer of public finance, agreeing that the overall level
+               of the international public support required to make sure that a Copenhagen deal
+               would benefit developing countries is estimated to lie in the range of 22 billion to
+               50 billion per year by 2020. </seg>
+            <seg>Thirdly, we agreed that we should start support immediately to help developing
+               countries cut carbon emissions and adapt to climate change, contributing over the
+               next three years, as a European Union, our fair share of a global fast-track
+               initiative of 5 billion to 7 billion per year. These offers are rightly conditional
+               on <quote>"other key players making comparable efforts"</quote>, and on developing
+               countries coming forward with substantial commitments on emissions reductions.
+               Importantly, the Council also agreed that climate financing should <quote>"not
+                  undermine or jeopardize the fight against poverty and continued progress towards
+                  the Millennium Development Goals"</quote>, and as the United Kingdom has proposed,
+               the Council supported the establishment of a high-level body under the United Nations
+               to provide an overview of international sources of climate financing.</seg>
+            <seg>The European Union has already committed to cut our emissions by 30 per cent. on
+               1990 levels by 2020 as part of the right international agreement. Now these financial
+               offers yet again show the determination of the whole European Union to ensure an
+               ambitious climate change deal in Copenhagen. I can also report that the Council
+               agreed that at the time of the next accession treaty, the protocol on the charter of
+               fundamental rights will be applied to the Czech Republic. The next step is for the
+               Czech constitutional court to make its ruling, which is rightly a matter for that
+               court. I believe that we have made real progress, but it is only after we are sure
+               that the treaty will come into force that a new European Commission will be appointed
+               and the Council will be able to appoint its new president. Investment across Europe
+               is forecast to contract by 10 per cent. this year with an expected loss of 8.5
+               million jobs. So at the European Council we had to decide first whether we should
+               withdraw the fiscal stimulus now or maintain it until recovery was secured. We agreed
+               unanimously-with no country dissenting-that <quote>"the supporting policies should
+                  not be withdrawn until the recovery is fully secured."</quote> Secondly, we had to
+               decide whether to support public investment to maintain jobs in our economy or simply
+               to let the recession take its course. The Council agreed unanimously to draw up a
+                  <quote>"European strategy for jobs and growth"</quote> with <quote>"continued
+                  political commitment to active labour market policies".</quote> We also agreed to
+               take all necessary measures to <quote>"prevent high unemployment levels from becoming
+                  persistent."</quote> Thirdly, within our commitment to action for fiscal
+               sustainability once the recovery is assured, we also agreed on the need for active
+               industrial strategies to ensure <quote>"investment in the industries and jobs of the
+                  future"</quote>, including low-carbon technologies, advanced manufacturing and the
+               digital economy. We stressed the importance of new measures that would
+                  <quote>"strengthen the internal market"</quote> and help growth in our services as
+               well as our industries, and we affirmed the need to <quote>"promote increased
+                  trade".</quote>
+            </seg>
+            <seg>In addition to the completion of the Doha trade round next year, progress on
+               bilateral trade deals and the recent trade agreement with Korea will create up to 20
+               billion in new export opportunities for firms across the European Union. We also
+               agreed on reform of our banking systems, which includes putting in place new rules on
+               capital and liquidity and bonuses. We also agreed to the continuation of work to
+               strengthen the supervisory framework in the European Union, following the decisions
+               taken at the Council in June.</seg>
+            <seg>The Council also expressed its deep condolences to the families of those killed in
+               last week's Taliban attack in Kabul. We reaffirmed our determination to fight
+               terrorism in every part of the world and our resolve to see our commitments through
+               in Afghanistan. And we emphasised our <quote>"confidence in the United Nations'
+                  leadership in coordinating the international community's efforts".</quote> We
+               welcomed plans to <quote>"strengthen the civilian capacity of the state institutions
+                  in Afghanistan and Pakistan"</quote>- something that has been at the heart of
+               British efforts in recent years. And the European Council expressed its concern about
+               the security situation in Pakistan and reiterated Europe's readiness to assist
+               further the displaced members of the Pakistan population. This afternoon, I have
+               spoken to President Karzai and discussed the importance of moving quickly to set out
+               a unity programme for the future governance of Afghanistan. Afghanistan now needs new
+               and urgent measures for tackling corruption, strengthening local government and
+               reaching out to all parts of Afghan society, and to give the Afghan people a real
+               stake in their future. President Karzai agreed with me that Afghanistan now needs to
+               strengthen its army and police numbers so that over time we can reduce the number of
+               British troops.</seg>
+            <seg>Finally on Iran, the Council expressed its <quote>"continuing concern about the
+                  situation of staff members of European Union missions and European citizens in
+                  Iran who recently have been on trial"</quote> and called, in support of our
+               efforts, for <quote>"their prompt and unconditional release".</quote> We reaffirmed
+               our <quote>"grave concern over the development of Iran's nuclear programme"</quote>
+               and over Iran's <quote>"persistent failure to meet its international
+                  obligations."</quote> Once again, we have shown that by acting not alone but
+               together, by working not against our mainstream European partners, but with them, and
+               by putting Britain not on the fringes of Europe, but at the heart of Europe, Britain
+               will be stronger, and Europe and Britain will be better off for that.</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>May I join the Prime Minister in paying tribute to Staff Sergeant Olaf Schmid,
+               killed in Afghanistan at the weekend? We owe a debt of gratitude to him and his
+               family that we must never forget. In Afghanistan, now that Hamid Karzai has been
+               confirmed as President, will the Prime Minister ensure that our support for the
+               Karzai Government is not a blank cheque, but is contingent on serious progress being
+               made on tackling corruption and upholding the rule of law? I want to ask the Prime
+               Minister about the three main issues that were raised at the summit, climate change,
+               the economy and the Lisbon treaty, and of course the two words that did not pass his
+               lips-Tony Blair - because I cannot believe that the Prime Minister did not mention
+               the one issue that seemed to be discussed wherever the leaders met: who should be the
+               president of Europe. When considering his efforts to get Tony Blair the job, will
+               most people in Britain not feel that it is completely unacceptable to see an
+               unelected Prime Minister pushing for an unelected president, under a treaty that no
+               one was allowed to vote for?</seg>
+            <seg>Climate change is an area where the EU has a vital role to play. Will the Prime
+               Minister confirm that it already has the powers that it needs to do so? There is
+               nothing in the Lisbon treaty that adds anything to the EU's ability in this area. We
+               welcome the commitments on carbon reductions, which were repeated at the summit, and
+               the agreement on the 100 billion climate change fund. However, is it not the case
+               that, despite that headline figure, there was no agreement on which European
+               countries should pay what or by when, and that there was no firm commitment on the
+               financial help to be given in the vital first three years after an agreement at
+               Copenhagen is signed? The Swedish Prime Minister seemed to say that the European
+               contributions would only be voluntary. Can the Prime Minister explain what that
+               meant?</seg>
+            <seg>Next, on the economy, the Prime Minister said at his press conference that there
+               was a target of 10 million new jobs in Europe by 2014. Yet is it not the case that
+               unemployment in the UK is now higher than it was in 1997, that 5 million people are
+               on out-of-work benefits and that we have practically the highest youth unemployment
+               in Europe? When he looked across the table at other EU leaders, did he recall that
+               Belgium, the Czech Republic, Greece, Poland, Portugal, Sweden, France and Germany
+               have already come out of recession, while Britain is still stuck in recession? Last
+               Wednesday the Prime Minister said in this House: <quote>"We always said that we would
+                  come out of recession by the end of this year."</quote>
+               <note>Official Report, 28 October 2009; Vol. 498, c. 278.</note>
+            </seg>
+            <seg>That simply is not right. The forecast last autumn was for recovery in July. This
+               June he said that Britain was <quote>"leading the rest of the world...out of
+                  recession."</quote>
+               <note>Official Report, 3 June 2009; Vol. 493, c. 268.</note>
+            </seg>
+            <seg>Will he now confirm that he got it completely wrong? While we are still in
+               recession and other countries in the EU grow, will he also confirm that we are
+               forecast to have practically the highest budget deficit in the whole of Europe next
+               year? The summit conclusions endorse the ECOFIN statement that some countries should
+               start to rebuild their public finances before 2011. As we are forecast to have the
+               largest deficit in the whole of the OECD next year, should that not include us? Is it
+               not the height of irresponsibility to sit there, as the leader of a lame duck
+               Government with deteriorating public finances, making pledge after pledge of further
+               public spending and never saying anything about how he would deal with the crisis
+               that he has created? The third issue is Lisbon and whether Europe needs a president.
+               Does this debate not tell people all that they need to know about this Government? On
+               the one hand, the Government went round saying that the treaty was just a tidying-up
+               exercise, that there was no threat to national sovereignty and that the
+               constitutional principle had been abandoned. But on the other, now we see the Prime
+               Minister using all his offices to try to foist on Europe an executive president, with
+               every intention of maximising the power of this new office. Is it not the case that
+               the Government have not been straight on the treaty from start to finish?</seg>
+            <seg>The only silver lining is that the bid to make Tony Blair president seems to have
+               got into a bit of difficulty. Just a few days ago it was all going so well</seg>
+         </u>
+
+         <u who="#BRYANT">
+            <seg>Who's your candidate?</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>Who is my candidate? Perhaps the hon. Gentleman-never someone to go naked into the
+               conference chamber. It was all going so well. As the Prime Minister left for
+               Brussels, one British official was quoted as saying: <quote>"Tony Blair is the ideal
+                  candidate and he has a lot of support from all quarters...It is hard to see how he
+                  can be stopped."</quote> Shortly afterwards, the Prime Minister gave Tony Blair
+               his personal backing. He threw the weight of the Government spin machine behind the
+               Blair campaign. He broke into his schedule to appear before the Party of European
+               Socialists. He told them all to <quote>"get real"</quote> and back Tony Blair. Ever
+               since then, Tony Blair's campaign has been in free fall. Does that not demonstrate an
+               eternal truth in British politics: that no cause is truly hopeless until it is
+               endorsed by this Prime Minister?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Once again, not one policy from the Opposition-it is all about personalities, never
+               anything about policy. Let us first turn to Afghanistan. I did say earlier that I had
+               talked to President Karzai and I did say to him that it was absolutely essential that
+               he brought forward a unity programme that would include tackling corruption,
+               strengthening the anti-corruption commission and taking action in individual areas,
+               as well as bringing forward measures to strengthen local government. Of course, it is
+               also important to us to build up the army from 90,000 now to 135,000 and to build up
+               the police force, which is under 100,000 at the moment but is not sufficiently
+               effective. So we have made the offer of further troops in Afghanistan conditional on
+               Afghanistan showing that it can deal with its problems by making available new forces
+               to be trained. At the same time, we await the decisions that will be made in other
+               capitals about their contribution to the next stage of Afghanisation, which is
+               increasing the number of Afghan troops but allowing them to be trained by forces from
+               Britain and other countries.</seg>
+            <seg>I am also grateful for what the right hon. Gentleman said about climate change. It
+               is absolutely essential that we come together to make sure that we have a deal at
+               Copenhagen, but European leadership and European unity in this are absolutely
+               crucial. The right hon. Gentleman asked whether the 2020 deal was a voluntary one.
+               No, it is not. What is voluntary is the fast-track offer, which is the offer for the
+               first three years according to which different European countries will choose to make
+               their own contributions. But, again, a deal at Copenhagen is possible on finance only
+               because Europe, as a European Union, has led the way in making that finance
+               available.</seg>
+            <seg>When it comes to the economy, I just have to say that the Government support fiscal
+               action continuing. The right hon. Gentleman's party wants to withdraw the fiscal
+               stimulus; I found no support in any country in Europe for withdrawing the fiscal
+               stimulus now. His party has refused to back direct action using Government funds
+               against unemployment; I found no party in Europe supporting that action either. His
+               party, of course, has rejected many of the proposals that we have brought forward to
+               deal with the recession; I find support for what we are doing in Europe, not support
+               for the Conservative position. The right hon. Gentleman also mentioned the Lisbon
+               treaty and its ratification. We know the position of the Conservative party. Its
+               leader said: <quote>"I will give this cast-iron guarantee: If I become PM a
+                  Conservative government will hold a referendum on any EU treaty that emerges from
+                  these negotiations."</quote> That is the position of the Conservative party</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. Mr. Grayling, contain yourself and try to exercise what self-restraint you
+               can muster.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Whenever the word "Europe" is mentioned, the Opposition seem to become both extreme
+               and wild in the actions that they take. The right hon. Gentleman is demanding a
+               referendum on Lisbon. He is also-I see Back Benchers nodding, but not the Leader of
+               the Opposition-demanding withdrawal from the social chapter and from European Union
+               employment legislation, for which he would need the agreement of every one of the 26
+               other countries in the European Union. When the challenge is actually to secure
+               growth, a climate change agreement and greater security from the European Union, is
+               it going to be the best use of British influence to fight yesterday's battles the
+               minute that the European Union has moved on from them when there is so much that we
+               have to do to promote jobs, growth and trade? Is it really in the British national
+               interest for the Conservative party to leave aside the alliances that it has had for
+               years with the Christian Democrats in Germany and with President Sarkozy's party in
+               France and to go into an alliance with a small group on the far right of Europe? The
+               only reason the Conservatives are doing that is not in the national interest; they
+               are putting their own party interests first and letting Euroscepticism take over
+               their party. If they had really changed, they would have changed on Europe, and just
+               as they are wrong on the recession, they are wrong on Europe as well.</seg>
+         </u>
+
+         <u who="#CLEGG">
+            <seg>I should like to thank the Prime Minister for his statement and, of course, join
+               him in sending expressions of sympathy and condolence to the family and friends of
+               Staff Sergeant Olaf Schmid, who tragically lost his life in Afghanistan this week. On
+               Afghanistan, I note that the Prime Minister has already called President Karzai to
+               congratulate him today on his unopposed continuation as president of that country,
+               but surely the Prime Minister must recognise that Karzai simply cannot lead the
+               dramatic change in direction that Afghanistan needs unless he commits now to work
+               with his opponents, including Dr. Abdullah, to reach across ethnic and tribal
+               divisions, stamp out corruption and start to build the legitimate institutions of
+               central Government that Afghanistan so desperately lacks. The only way to do that is
+               to commit now to a Government of national unity, and not the vaguer "unity programme"
+               to which the Prime Minister just referred. What pressure are the Government bringing
+               to bear on the Karzai Administration to make that happen? Or is the Prime Minister
+               going to ignore the lack of legitimacy of the Karzai presidency and so risk failure
+               for our brave troops as they try to prop up a Government in whom no one
+               believes?</seg>
+            <seg>Turning to the rest of the weekend's summit, the event was remarkable for two
+               reasons: first, the discussion of the historic negotiations to be held in Copenhagen;
+               secondly, the Government's misguided attempt to install Tony Blair as president of
+               Europe. On Copenhagen, I welcome in principle the agreement on a funding package to
+               help developing countries to fight climate change, but does the Prime Minister not
+               see that the European Union's leadership in this area is in jeopardy while he and
+               other leaders remain silent on how the cost of those proposals for adaptation and
+               mitigation will be met in practice? What consideration has he given, for instance, to
+               funding these commitments, in whole or in part, through a tradeable levy on maritime
+               and aviation fuels? Is it not time we asked the aviation and shipping industries,
+               which currently remain outside any international carbon fuel levy system, to pay for
+               the damage that they cause to our environment by asking them to help to fund the
+               fight against climate change in the developing world?</seg>
+            <seg>On the second issue, I congratulate the Prime Minister on what turns out to have
+               been a very cunning plan indeed to block the career aspirations of his predecessor.
+               Does he agree, however, that the outcome of the discussions on Tony Blair has been to
+               strengthen Britain's hand in arguing for the position that we should have been
+               lobbying for in the first place - that of the High Representative? The president will
+               be a glorified chairman, without his own resources, like an admiral without a navy,
+               but the High Representative will have real powers-a general with troops, by
+               comparison. So will the Prime Minister confirm that that is the job that we are now
+               aiming for? Will he also give us an indication of who he would like to see in the
+               role? We all know that he is pushing the right hon. Member for South Shields
+                  <note>David Miliband</note>, but will he also look beyond his party ranks for
+               other candidates <incident>
+                  <desc>Hon. Members: "Hurrah!"</desc>
+               </incident> No, no, no - that is for another day. I meant other candidates such as
+               Lord Patten, who I am sure would be welcome on these Benches, or indeed Lord
+               Ashdown.</seg>
+            <seg>The Prime Minister referred to the summit's deliberations on banking. When I asked
+               him a couple of weeks ago, he refused even to contemplate splitting up the banks, yet
+               it is now clear that the European Commission is driving forward a process to break
+               them up. Will he explain why, if he is willing to hive off huge divisions of the
+               banks at the behest of Europe, he will not go the whole way and separate retail and
+               investment banking completely? Why will he not split up the banks in the only way
+               that would protect the public interest for good?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I do not think that there has ever been a more public application for a European
+               job than what we have heard this afternoon. I could see the sense of opportunity in
+               the eyes of the right hon. Gentleman's colleagues as they thought about his future
+               prospects. On climate change, we have done more than any continent in the world to
+               put forward proposals to sort out a major problem that has to be addressed - the
+               financing gap. If developing countries are to be persuaded to make their use of
+               energy more efficient, and if they are to be given help to deal with adaptation, it
+               is essential that we put an offer on the table. So Europe has done three things: it
+               has put an offer on the table relating to the overall funding required; it has now
+               said what the public amount of that money would be; and it has said that it will be
+               engaged in giving fast-track financing. So the process would start even before the
+               new treaty would come in. We have also made it clear that Europe would pay its fair
+               share of that money. We are therefore further on in pushing this forward than any
+               other continent. We need other continents to respond to this but, most of all, we put
+               this offer last week because we want the developing countries to consider what offers
+               they can make to reduce their carbon emissions by the time they get to Copenhagen.
+               Europe has taken the lead on this matter, and while the right hon. Gentleman wishes
+               us to do more, he would be right if he said that Europe had taken the first steps
+               towards the necessary financial agreement.</seg>
+            <seg>On Afghanistan, I made it clear while talking to President Karzai twice this
+               weekend that we are expecting him to take strong action on tackling corruption in his
+               own country. This is what Afghanistan is about: it is not simply a country that
+               requires national Government; it requires good effective local government and good
+               provincial and district governors, and we expect the appointments of those people to
+               be in line with the needs of the country. That includes tackling corruption and
+               getting the economy and social facilities moving. For us, it is also crucial that the
+               Afghan Government agree to train more troops and more police. The way that we will be
+               able to deliver greater security to the Afghan people, to prevent a Taliban
+               Government from returning to power and to prevent al-Qaeda from having a greater
+               foothold in the country is by building up the strength of the Afghan forces.</seg>
+            <seg>I hope that the right hon. Gentleman will appreciate that these messages to
+               President Karzai are very clear. He will, of course, make a speech tomorrow and then
+               there will be his inauguration address. I hope that what we have asked him to do and
+               what he has agreed to do - it is also what he wants to do-will be included in that
+               address. As far as the European Council is concerned, let me be absolutely clear. The
+               Lisbon treaty is not yet ratified. When it is ratified there will have to be a
+               meeting of the European Council, and only at that stage will decisions be made about
+               either the presidency of the Council or the future of the Commission. Unlike some
+               Conservative Members, I hope that the Czech Government will be able to ratify the
+               treaty very soon. I hope that we can see a decision from the Czech constitutional
+               court tomorrow, and were that to be the case, I would expect ratification to proceed
+               very soon afterwards. We will then be able to make decisions on these important
+               positions in the European Union as soon as possible. It is not in anybody's interest
+               to have no Commission re-nominated for the future; we will be electing a president of
+               the Council for the first time.</seg>
+         </u>
+
+         <incident>
+            <desc>Several hon. Membersrose</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Mr. Speaker:Order. Many Members wish to take part, so I am looking for brief
+               questions and, of course, brief replies.</seg>
+         </u>
+
+         <u who="#ROBINSON">
+            <seg>May I congratulate the Prime Minister on a generally very satisfactory outcome to
+               the European Council's meetings, and may I press him on Afghanistan? How are we going
+               to eliminate corruption there as long as the President-and particularly his brother
+               in Kandahar-remain in office? It is difficult, I know, but this has to be confronted
+               one way or another.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I agree with my hon. Friend, who has taken a big interest in this matter. It is
+               very important to appoint district and provincial governors who will take action to
+               build up facilities in health, education and schools in the areas for which they are
+               responsible, but it is also important to prevent drug barons and those who would
+               practise corrupt activities from either seizing power or influencing those who have
+               power. Therefore, part of the programme for Afghanistan must be to match
+               anti-corruption activity at the centre with ensuring that local government is in the
+               hands of those who are responsible to the people and not connected to the country's
+               drug overlords.</seg>
+         </u>
+
+         <u who="#REDWOOD">
+            <seg>Will any British bank be cancelling bonuses this year in the light of the decision
+               on banking bonuses?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The right hon. Gentleman knows the G20 decision on this matter, which is that
+               bonuses can be earned, but only over a three-year period and subject to clawback and
+               to being paid not in cash, but in shares. Those are the issues that we are now
+               debating with the banks in Britain.</seg>
+         </u>
+
+         <u who="#DAVIDSON">
+            <seg>Is the Prime Minister aware that many of us who are in favour of a referendum on
+               the Lisbon treaty before it is signed intend to remain in favour of a referendum on
+               it even if it is signed? Does he agree that those who capitulate and decide to change
+               their position simply because the treaty has been signed are, in fact, betraying not
+               only their own principles but the policies of the British people?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The Leader of the Opposition has given a "cast-iron guarantee" that he will have a
+               referendum; it is for him to answer to us about what he is now going to do.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>Does the Prime Minister recall that at the start of the reform process European
+               leaders were instructed to create a Europe closer to its citizens. Does he think that
+               the spectacle of EU Heads of Government engaging in private bargaining sessions to
+               hand out between themselves the unelected jobs in Europe is more likely to increase
+               or to diminish the public's respect for the European Union? Which is it?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We know where the right hon. Gentleman comes from; he is against the European Union
+               altogether. I have to tell him that at the formal sessions, which lasted many hours,
+               we discussed jobs, we discussed growth, we discussed climate change and we discussed
+               foreign policy issues. What the right hon. Gentleman suggests was being discussed in
+               the corridors was not discussed in the Council. We discussed the issues that matter
+               to the people of Europe.</seg>
+         </u>
+
+         <u who="#MORLEY">
+            <seg>I warmly welcome the outcome of the Council's discussions on climate change, and
+               the clear lead that it has given. I also pay tribute to my right hon. Friend's
+               contribution. The funds will constitute an essential part of any agreements resulting
+               from Copenhagen, but there is also real potential for a low-carbon economy in this
+               country and in my region. My right hon. Friend mentioned the trade talks. Has any
+               thought been given to such issues as reducing VAT in the eurozone and reducing
+               tariffs for low-carbon products for the benefit of our country, Europe and developing
+               countries?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My right hon. Friend is absolutely right. Huge progress can be made towards a
+               low-carbon economy. In particular, as countries emerge from recession, they can
+               invest in the low-carbon technologies of the future. Europe has agreed to sponsor and
+               help to finance carbon capture and storage. It is important that we have some of the
+               demonstration plants, and we are trying hard to ensure that Britain has a number of
+               them for future years. He is also right to suggest that we should consider how we can
+               do more to promote low-carbon goods and services, and that is certainly one of the
+               items that will be discussed at Copenhagen.</seg>
+         </u>
+
+         <u who="#LLWYD">
+            <seg>Will the Prime Minister please confirm that the annual payment of between 22
+               billion and 50 billion to developing countries will be additional money, and that
+               existing EU budgets will not be raided?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We made it clear that the existing level of support for environmental projects in
+               the overseas development aid budget was about 10 per cent., and that we would not go
+               beyond that. The money that we are putting towards climate change is therefore
+               additional. I hope that all parties will feel able to agree to that, because
+               otherwise poor countries will find that what they are doing for development has been
+               cut so that they can finance new investments in the environment. I do not think that
+               all parties have yet reached that view, but I hope that they will reach the same view
+               as us.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>The Prime Minister said that the protocol relating to the charter of fundamental
+               rights for the Czech Republic would be attached to the next accession treaty. Would
+               he like to hazard a guess as to which country will be next to accede, and when that
+               might take place?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>An accession treaty for Croatia is currently the subject of negotiations. Perhaps
+               the right hon. Member for Witney</seg>
+            <note>Mr. Cameron</note>
+            <seg>will reflect on the fact that he would want that to be put to a referendum as well,
+               because it will include aspects related to the protocol. I understand that he would
+               have to advocate a yes vote, because he is in favour of Croatia's joining the
+               European Union.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>Does the Prime Minister accept that what he is proposing is effectively to bring
+               the treaty into force on the basis of an unenforceable political deal? Does he accept
+               that that simply adds to the cynicism that people should feel about this entire
+               process, and that we therefore need not only to eradicate the false promises but to
+               have a referendum in any event?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The hon. Gentleman is now in the mainstream of the Conservative party. His policies
+               in favour of withdrawing and relegating the European Union's relationship with
+               Britain are well known. I must say to him, however, that when the new treaty was
+               drawn up and agreed, the first words of the communiqu were that the constitutional
+               concept had been abandoned. He should recognise that the Lisbon treaty met all our
+               negotiating requirements, and that that is why we were able to recommend it to the
+               House of Commons.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>The Prime Minister is right to emphasise the leadership given by the European Union
+               over many years in confronting global warming and reducing emissions of carbon and
+               other greenhouse gases. May I plead with him to continue his unremitting efforts to
+               ensure that, after the Copenhagen conference on climate change, there will indeed be
+               another protocol to follow the one from Kyoto?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am grateful to my hon. Friend, who has been one of the leaders in strengthening
+               our relationships with the European Union. During the coming week I shall be meeting
+               Ban Ki-moon, the Secretary-General of the United Nations, and then Mr. Rasmussen, the
+               Prime Minister of Denmark, so that we can move forward our negotiations for a climate
+               change deal in Copenhagen. Britain is determined to do everything that we can to make
+               a deal in Copenhagen possible, and it was our original proposal on finance that has
+               commended itself to the European Union. We will continue to press forward to ensure
+               that we make the maximum possible progress to secure a deal at Copenhagen.</seg>
+         </u>
+
+         <u who="#MALINS">
+            <seg>One of the reasons why we are in Afghanistan is, I think, to help to slow down and
+               preferably stop the flow of heroin on to our streets, which causes so much misery and
+               crime, but I believe that that flow is still very fast indeed. Can the Prime Minister
+               give us some sort of progress report, and hopefully some optimism?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The number of poppy-free provinces in Afghanistan is, I think, now 20. The hon.
+               Gentleman may have looked at the initiative we undertook in Helmand this year. Under
+               the Department for International Development, we persuaded large numbers - 30,000, I
+               think - of farmers to switch from poppy production to wheat, and they have, of
+               course, benefited from the high price of wheat during the course of the year. We are
+               proposing to do even more next year in persuading more farmers to resist the
+               temptations of growing poppies and at the same time getting them support so that they
+               can grow grain. This is one of the best ways to advance our policy to rid the parts
+               of Afghanistan for which we have some responsibility of as much of the heroin trade
+               as possible.</seg>
+         </u>
+
+         <u who="#EFFORD">
+            <seg>May I draw my right hon. Friend's attention to the issue of the use of
+               hydrofluorocarbons? It is essential that we deal with them alongside dealing with CO2
+               as part of a Europe-wide agreement. I urge my right hon. Friend to discuss this
+               matter with the Secretaries of State for Environment, Food and Rural Affairs and for
+               Energy and Climate Change to ensure that we get Europe-wide agreement on a reduction.
+               I do not expect my right hon. Friend to give a detailed answer on that now, but I do
+               want to draw it to his attention and urge him to discuss it.</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am grateful to my hon. Friend. The Minister of State, Department of Energy and
+               Climate Change, the hon. Member for Lewisham, Deptford</seg>
+            <note>Joan Ruddock</note>
+            <seg>, is sitting near me and she will talk to him about this very matter in a few
+               minutes.</seg>
+         </u>
+
+         <u who="#MACKAY">
+            <seg>Why did the Prime Minister's notorious powers of persuasion fail to convince his
+               European colleagues of the merits of Tony Blair's presidency?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Is it not typical of the Conservative party that its Members only ask questions
+               about personalities? The position of the presidency of the Council has not yet been
+               set up and the Lisbon treaty has not yet gone through. Once the Lisbon treaty has
+               gone through and has been ratified-as I hope it will be-we can discuss these
+               matters.</seg>
+         </u>
+
+         <u who="#FLYNN">
+            <seg>How much confidence has the Prime Minister got in an Afghan army armed and trained
+               by the west, as the mujaheddin once were, and their commitment to lay down their
+               lives and slaughter fellow Afghans in the name of a corrupt President who has just
+               rigged his re-election?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The Afghan forces that have fought alongside the British forces in recent years
+               have been brave, determined and professional. The problem is that we do not have
+               enough of them. We wish the Afghan forces, Afghan police and Afghan security
+               personnel to be able to take responsibility for the management of law and order in
+               the provinces and then throughout Afghanistan. That is what we are trying achieve,
+               and in order to do so we will need to help train Afghan forces. So far as the rest of
+               the question is concerned, we know there are problems of corruption in Afghanistan
+               and we know they have got to be dealt with. The key step is to persuade the
+               Government of Afghanistan that they must take these problems even more
+               seriously.</seg>
+         </u>
+
+         <u who="#GREENWAY">
+            <seg>May I bring the Prime Minister back to the issue of enlargement? Does he agree that
+               the accession of not only Croatia, but other Balkan countries and Turkey, could help
+               to bring about success in respect of many of the items in the discussion that he has
+               reported to us today, such as energy supply, the fight against terrorism and, above
+               all, making Europe a more safe and secure continent for all of us?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The hon. Gentleman is absolutely right. The only difficulty his party faces is
+               that, because there are 27 countries in the European Union, we have had to have a new
+               treaty so we can deal with the institutional mechanisms necessary for the governance
+               of the EU. I therefore hope that at the same time as supporting enlargement, the hon.
+               Gentleman will support the measures that are necessary to make enlargement
+               work.</seg>
+         </u>
+
+         <u who="#TAYLOR-DARI">
+            <seg>I warmly support the Prime Minister's determination to achieve an ambitious
+               Copenhagen conference on climate change. With that in mind, will the growth in the
+               consumption of animal wheat be on the agenda, as it significantly adds to CO2
+               emissions? If it is not, will my right hon. Friend allow me to invite scientists from
+               Teesside, who will prove to him that it is essential that the item is on the
+               Copenhagen agenda?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My hon. Friend puts her case with great force. I am told that livestock is on the
+               climate change agenda. We will have to make progress in a large number of areas. It
+               was mentioned earlier that we have to make progress in the maritime and aviation
+               areas, and we must also make progress in deforestation-or, rather, reforestation. All
+               these issues are part of the climate change agreement.</seg>
+         </u>
+
+         <u who="#BRAZIER">
+            <seg>The Prime Minister made one passing reference to allied troop contributions to
+               Afghanistan. May I ask him whether he asked the Germans and other allies who already
+               have troops there when they are planning to deploy them forward to the sharp
+               end?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Before the original election in Afghanistan, I and others were party to persuading
+               a number of countries to send additional troops to Afghanistan-that happened in a
+               number of cases within the European Union. The issue now, which was raised by the
+               McChrystal report, is what numbers different countries will be prepared to offer
+               following the elections. That is a matter for discussion at NATO in the next few
+               days. I believe not only that we will have proposals arising from McChrystal very
+               soon, but that we have already taken the right decision, which is that we are
+               prepared to put additional forces in, subject to the conditions that I laid down in
+               Parliament: that Afghan forces are available to be trained, and that we have an
+               agreement among the coalition.</seg>
+         </u>
+
+         <u who="#ROWEN">
+            <seg>In the light of continuing terrorist attacks in Pakistan, including this morning's
+               bombing in Rawalpindi, what additional support did the Council agree to aid the
+               security situation in that country?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We are doing a great deal to co-operate with the Pakistan security forces, now that
+               they are prepared to take action, not just in the areas where they have been tackling
+               the Pakistan Taliban, but in areas near to where al-Qaeda is based. We are also
+               giving the Pakistan authorities help when there are displaced people as a result of
+               the conflict, and our overseas development aid to Pakistan is being raised for those
+               areas of Pakistan that have been most susceptible to these activities. We are giving
+               more money, in particular, to help the education of young children in the northern
+               areas of Pakistan.</seg>
+         </u>
+
+         <u who="#ROBATHAN">
+            <seg>Does the Prime Minister think that people would be more likely to believe what he
+               has to say about matters such as climate change if he had kept his promise to have a
+               referendum on the EU constitution-now renamed the "Lisbon treaty"? Could he tell us
+               what his moral compass tells him about that broken promise?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I reported to the House that the constitutional concept had been abandoned as a
+               result of the talks that led to the treaty. The House voted on this issue of a
+               referendum on the treaty itself. The Conservative party voted in favour of a
+               referendum on this treaty. The Leader of the Opposition gave a "cast-iron guarantee"
+               that he would have a referendum. We must also be clear that the Opposition have voted
+               that they wish to withdraw from the social chapter and European employment
+               legislation, but for that they would need the support of 26 other members of the
+               European Union. From what I saw when I was in Brussels this week, there was very
+               little support for the position of the Conservative leader.</seg>
+         </u>
+
+         <u who="#BONE">
+            <seg>What keeps the Prime Minister awake more at night: the prospect of my right hon.
+               Friend the Member for Witney</seg>
+            <note>Mr. Cameron</note>
+            <seg>becoming Prime Minister or that of Tony Blair becoming president of Europe?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I sleep very well at night. I must tell the hon. Gentleman that it would be in
+               Britain's national interests to have a former Prime Minister of our country as
+               president of the European Council. I think that the Conservatives are making a
+               mistake if they want to send out a message to the rest of Europe that they do not
+               want a British person to hold this job. Presumably they want someone from another
+               country to hold this job-presumably someone who also holds a federalist position in
+               Europe. The Conservatives should go back to the drawing board on this and think
+               again.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200809/cmhansrd/cm081215/debtext/81215-0004.htm#0812153000001"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>15 December 2008</date>
+               <date when="2008-12-15"></date>
+               <activity>Treaty of Lisbon, General questions</activity>
+               <locale>Brussels</locale>
+               <persName>Brown</persName>
+               <name>93rd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BROWN">
+                  <persName>Mr. Gordon Brown</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Witney</residence>
+               </person>
+
+               <person xml:id="CLEGG">
+                  <persName>Mr. Nick Clegg</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Sheffield, Hallam</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="VAZ-KEITH">
+                  <persName>Keith Vaz</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Leicester, East</residence>
+               </person>
+
+               <person xml:id="ANCRAM">
+                  <persName>Mr. Michael Ancram</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Devizes</residence>
+               </person>
+
+               <person xml:id="FLYNN">
+                  <persName>Paul Flynn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Newport, West</residence>
+               </person>
+
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+
+               <person xml:id="BLUNT">
+                  <persName>Mr. Crispin Blunt</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Reigate</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+
+               <person xml:id="ARBUTHNOT">
+                  <persName>Mr. James Arbuthnot</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North-East Hampshire</residence>
+               </person>
+
+               <person xml:id="TAPSELL">
+                  <persName>Sir Peter Tapsell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Louth and Horncastle</residence>
+               </person>
+
+               <person xml:id="LLWYD">
+                  <persName>Mr. Elfyn Llwyd</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Plaid Cymru</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Meirionnydd Nant Conwy</residence>
+               </person>
+
+               <person xml:id="DREW">
+                  <persName>Mr. David Drew</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Stroud</residence>
+               </person>
+
+               <person xml:id="LLOYD">
+                  <persName>Tony Lloyd</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Central</residence>
+               </person>
+
+               <person xml:id="SOAMES">
+                  <persName> Mr. Nicholas Soames</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Mid-Sussex</residence>
+               </person>
+
+               <person xml:id="CORBYN">
+                  <persName>Jeremy Corbyn</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Islington, North</residence>
+               </person>
+
+               <person xml:id="KEETCH">
+                  <persName>Mr. Paul Keetch</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Hereford</residence>
+               </person>
+
+               <person xml:id="RIFKIND">
+                  <persName>Sir Malcolm Rifkind</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Kensington and Chelsea</residence>
+               </person>
+
+               <person xml:id="BLACKMAN-WOODS">
+                  <persName>Dr. Roberta Blackman-Woods</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>City of Durham</residence>
+               </person>
+
+               <person xml:id="BURDEN">
+                  <persName>Richard Burden</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Northfield</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BROWN">
+            <seg>I am sure the whole House will join me in sending our profound condolences to the
+               family and friends of Corporal Lee Churcher, of the Royal Engineers, who died while
+               serving in Iraq, and Corporal Marc Birch, Marine Damian Davies, Lance-Corporal Jamie
+               Fellows and Sergeant John Manuel of the Royal Marines, who lost their lives in
+               Afghanistan. This is a tragic loss. We owe them and all those who have lost their
+               lives in the service of our country our gratitude for their service and sacrifice. As
+               a House and as a nation, we will never forget them. As I saw in Afghanistan on
+               Saturday, our troops are serving with great skill, great courage and enormous
+               dedication. It can truly be said that Britains armed forces are the best in the
+               world, and we are immensely proud of all who serve in them.</seg>
+            <seg>With permission, Mr. Speaker, I would like to make a statement on the European
+               Council held last Thursday and Friday, and on my visits to Afghanistan, India and
+               Pakistan this weekend. The European summit focused on two global challenges -
+               economic recovery and climate change. I can report, first of all, that the Council
+               agreed measures worth around 1.5 per cent. of European GDP - that is, around 200
+               billion - which will provide a fiscal stimulus for the European economy. This 1.5 per
+               cent. fiscal boost is in addition to the work of the automatic stabilisers. The
+               measures agreed included support for <quote>"increased public spending, judicious
+                  reductions in tax burdens and direct aid to households, especially those which are
+                  most vulnerable"</quote> - exactly the measures that Britain has already taken,
+               just as France has announced a package of measures worth 26 billion, Spain measures
+               worth 11 billion, and Germany a fiscal package worth 32 billion.</seg>
+            <seg>Just as Europe came together in October and November to lead the recapitalisation
+               of the banks, so too Europe has agreed unanimously co-ordinated action which will
+               support employment and growth. The Council agreed that its action was in a
+                  <quote>"united, strong, rapid and decisive manner"</quote>, and while committing
+               to medium-term sustainable public finances, it agreed to <quote>"mobilise all the
+                  instruments available to it".</quote>
+            </seg>
+            <seg>By acting in a co-ordinated and concerted way, the impact on jobs in each country
+               is much greater than if we acted on our own, and the action across Europe will be of
+               help to Britain, where nearly 60 per cent. of our trade is with the rest of Europe.
+               The co-ordinated European action includes a speeding up of public procurement, a
+               continued and general <quote>"reduction in administrative burdens on
+                  business"</quote>, and an additional 30 billion from the European Investment Bank
+               to be invested in Britain and throughout Europe in the coming year.</seg>
+            <seg>So the debate about the use of fiscal policy to stimulate our economy and to give
+               direct support for families and businesses in Europe is resolved. Europe favours
+               substantial fiscal stimulus alongside cuts in interest rates. I am confident that the
+               new American Administration of President-elect Obama will also introduce a large
+               fiscal stimulus. This European set of announcements is the answer to those who said
+               that nothing could be done and that the recession must take its course, and who
+               believe that fiscal policy has no role to play. Indeed, even at this time of
+               difficulty, they believe that public spending should be cut.</seg>
+            <seg>To back up the loan guarantee scheme, the export credits and the deferral of tax,
+               today the Chancellor will announce new measures to speed up the resumption of lending
+               to businesses and home owners, and the Minister for Housing will announce a 400
+               million package of measures which, building on our help with mortgages to avoid
+               repossessions, will help up to 18,000 first-time buyers draw on the home shared
+               equity scheme to get on their first rung on the housing ladder - real help to
+               families and businesses now, possible only because we are prepared to make a fiscal
+               stimulus in the economy.</seg>
+            <seg>In advance of Copenhagen next year, the summit agreed a new energy and climate
+               change policy supported by all member states. When it is approved by the European
+               Parliament, as I believe it will be, the programme will put into European law four
+               far-reaching commitments: a 20 per cent. cut in greenhouse gas emissions by 2020,
+               which, as part of the right international agreement, we will raise to 30 per cent.; a
+               target that 20 per cent. of the European Unions energy will come from renewables by
+               2020; a strengthened European Union emissions trading scheme with 100 per cent.
+               auctioning of permits in the power sector, the introduction of auctioning for other
+               sectors of the economy and help to ensure that businesses in international markets
+               can adjust; and a financing mechanism to make potentially around 9 billion available
+               for the commercial demonstration of carbon capture and storage.</seg>
+            <seg>Carbon capture is a transformative technology that every major economy will need,
+               to ensure that it can continue to use coal, oil and gas without contributing to
+               climate change. These commitments make Europe the first continent to make legally
+               binding the detailed policies required to set itself on a path to a low-carbon
+               economy. They provide a clear signal to the rest of the world that an international
+               agreement on climate change can be achieved in Copenhagen next year. This was matched
+               by agreement at the United Nations talks in Poznan at the same time, where a
+               framework for countering deforestation was agreed. Britain will make a contribution
+               of 100 million to that from our environmental transformation fund for sustainable
+               forestry activities in developing countries.</seg>
+            <seg>At the European Council, agreement was also reached on measures to answer concerns
+               expressed to us by Ireland. All countries were agreed that there could be no change
+               or amendment to the Lisbon treaty and that we should proceed to ratification, with
+               the Irish agreeing to hold a referendum within the next year. At the same time, to
+               meet Irish concerns, it was agreed: that the Lisbon treaty, as we have always made
+               clear, in no way affects the rights of member states to make taxation decisions; that
+               the treaty in no way affects the individual defence policies of member states,
+               including our obligations to NATO and Irelands traditional neutrality; and that
+               because, as we have been clear, the charter of fundamental rights creates no new
+               rights at a European Union level, the Irish constitution provisions on the right to
+               life, education and family are not affected by its incorporation into the treatynor
+               are they affected by the justice and home affairs provisions of the treaty from which
+               Ireland has an opt-out. The Lisbon treaty allows for the Council, by a unanimous
+               decision, to agree to ensure that each member state retains a Commissionerand this,
+               we stated, we would be prepared to agree to.</seg>
+            <seg>The Council also made an important statement on the middle east process. The
+               Council welcomed efforts to give renewed momentum to the Arab peace initiative and
+               affirmed that the EU will do all it can, practically and politically, to support the
+               peace process and to urge the new US Administration to make it a major priority in
+               the new year.</seg>
+            <seg>Let me turn to Afghanistan, India and Pakistan. I have already paid tribute to, and
+               I reiterate, the service, sacrifice and dedication of our armed forces. Today, I can
+               inform the House that the increased compensation payments have come into forcea
+               doubling, for the most serious injuries, to a new maximum lump sum of 570,000 for
+               armed forces personnel wounded in action or otherwise, an increase that means that
+               around 10 million will be paid to 2,700 troops who have been awarded lump-sum
+               payments.</seg>
+            <seg>While in Afghanistan, I and the Chief of the Defence Staff met President Karzai and
+               took stock of our strategy with commanders and senior officials. We saw at first hand
+               the hard and dangerous work that the armed forces are doing in very arduous
+               conditions, far from home. Our goals in Afghanistan are clear: to support democracy
+               and confront terror at its source; to build the Afghan capability by training its
+               army and police to spread the rule of law into empty spaces on the map which shelter
+               terrorism, narcotics and other problems; in all this, to root out corruption, respect
+               local ways of life and strengthen traditional Afghan structures; and to give Afghan
+               people an economic stake in the future.</seg>
+            <seg>Free and fair elections are an essential part of Afghans taking control of their
+               own security and destiny. So as we approach the Afghan elections planned for next
+               year, on top of the work that we are doing with NATO and the Afghan army to ensure
+               security for those elections, we are pledging to contribute $10 million to help with
+               voter registration. In return for this renewed commitment, and others, that we will
+               make from Britain, I have asked for quicker progress on the decisions at the NATO
+               summit on burden sharing, and I have asked President Karzai for leadership in
+               tackling corruption. For our part, we are offering a multi-agency taskforce which we
+               are ready to send immediately to tackle corruption. Five years on from the first free
+               and fair elections Afghanistan has seen in decades, we should reflect on what has
+               been achieved. As Governor Mangal of Helmand, whom I met on Saturday, said,
+                  <quote>"it has been a hard year for our brave police and soldiers, but it has been
+                  a much harder year for our enemies who have found through experience that they
+                  cannot defeat us".</quote>
+            </seg>
+            <seg>Today, with 5 million refugees returning to Afghanistan, 4 million more children in
+               school, great improvements in health care, including massive reductions in child
+               mortality, and the national income up 70 per cent., our task is to ensure that
+               violence and insecurity do not threaten that progress. Security depends on proper
+               burden sharing. In recent weeks we have had to respond to the threat from insurgents
+               in the district of Nad-e Ali near the provincial capital of Helmand. The operation
+               involves 1,800 troops, not just from Britain but from Denmark, the USA and Estonia.
+               It is a model of burden sharing that we need to see replicated across the whole of
+               Afghanistan. Forty-one countries are involved in the NATO mission, but the burden is
+               not always shared equally. As the international community and the American
+               President-elect contemplate strengthening our commitment to Afghanistan, it is vital
+               that all members of the coalition contribute fairly. This will be a subject of the
+               NATO meeting on 3 and 4 April.</seg>
+            <seg>The second pillar of security in Afghanistan is enabling the Afghan people to take
+               greater control of their own affairs by training thousands of Afghan soldiers and
+               thousands of police. With our help, Governor Mangal is starting to work with tribal
+               leaders, whom I met in Musa Qalaa place that only last year was in Taliban hands, but
+               is now building basic services such as roads, power and water, and new schools and
+               hospitals, which are having a tangible impact on the lives of Afghan people. This is
+               starting to bring to Helmand the wider progress that we have seen in other parts of
+               Afghanistan. To reinforce this progress, and having been briefed on the decision by
+               the British commanderas is his rightto call forward reserves to work with our allies
+               and deploy them on a temporary basis in the campaign in central Helmand, the Defence
+               Secretary and I have decided, on advice from the defence chiefs, to approve until
+               August, including the period of preparation for the elections, an increase in the
+               number of British troops deployed to Afghanistan from just over 8,000 to around
+               8,300.</seg>
+            <seg>We, the Americans and the international community as a whole increasingly recognise
+               that we cannot deal with Afghanistan in isolation from Pakistan. There is a chain of
+               terror that links the mountains of Afghanistan and Pakistan right through to the
+               streets of the UK and other countries around the world, and that chain of terror must
+               be broken. On 27 November, the whole world learned that terrorists based in Pakistan
+               can strike anywhere, when a murderous assault condemned by the whole world saw 12
+               terrorists kill 175 people in Mumbai, including British citizens. This weekend, I met
+               Prime Minister Singh and President Zardari to discuss action that now has to be
+               taken. I expressed my condolences to Dr. Singh, and through him to the Indian people,
+               and assured him that the whole of Britain stands fully alongside India in its
+               determination to see those responsible brought to justice.</seg>
+            <seg>I pay tribute to the efforts in Pakistan to deny the federally administered tribal
+               areas as a training ground for terrorism and for the insurgency in Afghanistan and
+               for terrorism. Indeed, more than 100 Pakistani troops have died since July this year
+               in that area. Plots hatched in the FATA have a direct impact on the UK: of the
+               security services top-priority terrorist investigations, three quarters have links to
+               Pakistan. So our commitment to countering terrorism and the empty spaces that shelter
+               terrorism, and to building local capacity in Pakistan to do so, must be just as
+               strong in Pakistan as in Afghanistan. The time has come not for more words but for
+               more action. We will offer our support to the democratically elected Government of
+               Pakistan, but that Government must act rapidly and decisively against the terror
+               networks based on their soil. Pakistans own future depends on action against those
+               within its borders who are bent on the destruction of its elected Government and
+               Pakistans relations with its neighbours. To make this effective, Britain will work
+               with both India and Pakistan to continue building counter-terrorism capability.
+               Yesterday, I was able to announce more help on bomb disposal capability, scanning
+               devices and airport security, and help to draw up new laws and to set up
+               counter-extremism centres. Our assistance programme to Pakistan is the most
+               comprehensive we have with any country, and will now include a programme, initially
+               worth 6 million, to tackle the causes of radicalisation.</seg>
+            <seg>No matter how serious the other tasks we face, security is the first duty of
+               Government. We will always maintain our vigilance against the evils of terrorism. I
+               commend this statement to the House.</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>I join the Prime Minister in paying tribute to our servicemen Marine Damian Davies,
+               Sergeant John Manuel, Corporal Marc Birch and Lance-Corporal Jamie Fellows, who were
+               all killed in Afghanistan, and Corporal Lee Churcher, who was killed in Basra. It is
+               particularly poignant talking about their families tragic loss at this time of year,
+               but it should remind us of the bravery our troops show every day of the year. Let me
+               deal with the Prime Ministers visits first. On Afghanistan, one of the lessons of
+               Iraq was that the Government must give clear and frank assessments of what is
+               happening on the ground. Does he agree that there are real causes for concern? The
+               Taliban are operating closer and closer to Kabul, the road network is increasingly
+               unsafe, and the number of Taliban and their armaments appear to be growing rather
+               than shrinking. Does he agree that as well as a realistic assessment of conditions,
+               we need a realistic mission? Should it not focus predominantly on security and
+               rooting out terrorist training, not on an unrealistic objective of completely
+               transforming a society thousands of miles away?</seg>
+            <seg>Clearly, our servicemen and women are doing a great job, but what about the others
+               who are key to success? Can the Prime Minister tell us more about the representations
+               he made to President Karzai, not just about fraud in his Government, but about drug
+               dealing by those associated with them, and corruption by public officials? On troop
+               numbers, the Petraeus review is vital and it would be helpful if the Prime Minister
+               could tell us about our contribution to that review, but surely we should send more
+               troops only if there is a proper political strategy to help to deliver security, if
+               there is more effective burden sharing with our NATO allies and if there is a
+               corresponding increase in vital equipment, especially Chinook helicopters and
+               armoured vehicles.</seg>
+            <seg>Just as important is progress in Pakistan. Does the Prime Minister agree that the
+               British public will not understand why we are making sacrifices to prevent terrorist
+               training camps from being established in Afghanistan if they are still operating
+               across the border in Pakistan? He said that he received assurances from President
+               Zardari about taking action, but what is the Prime Ministers assessment of the
+               ability of the Pakistan army, and the Pakistan intelligence services, to deliver on
+               the commitments that he was given? Did he raise those matters directly with the
+               Pakistan chief of general staff, General Kayani?</seg>
+            <seg>Turning to Mumbai, I know that the Prime Minister agrees that we must strengthen
+               our relationship with India. Can he tell us more about the close co-operation we need
+               between our security services? Clearly, this style of attack on a major city in an
+               open society is a new tactic. Can the Prime Minister tell the House what the
+               Government will do to address that threat here?</seg>
+            <seg>Turning to the European Council, on climate change we support the so-called
+               20/20/20 package, but will the Prime Minister confirm that the UK target for
+               renewables is actually lower than 20 per cent., at 15 per cent. of total energy
+               consumption by 2020? Would he accept that this environmental agreement shows that it
+               is possible for Europe to take important decisions on important issues without new
+               treaties and without new constitutions? The Lisbon treaty, by the way, has just seven
+               words on the environment; that is all that it has on the subject. On the Lisbon
+               treaty -</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>- Yes, I read it, actually - Europes leaders had to make a big decision: do they
+               respect the wishes of the people? The answer was a resounding no. Just what is it
+               with this Prime Minister and elections? An unelected Prime Minister wants to force
+               the Irish people to vote twice because he did not like the result the first time, and
+               he refuses to allow the British people to vote once because he is afraid that he
+               would not like the result of that, either. Does he agree that one of the advantages
+               of an early election here in Britain would be that the Lisbon treaty could be put to
+               the people in a referendum, and we could let them decide?</seg>
+            <seg>Turning to the economic package, the Prime Minister makes three claims. First, he
+               says that Britain is well prepared. If that is true, can he tell us why the pound has
+               fallen to another record low? Is he aware that this lunchtime, his Olympics Minister
+               said that Britain is <quote>"facing a recession deeper than any that we have known,
+                  almost certainly"</quote>? So is it not clear that we are not well prepared?</seg>
+            <seg>Secondly, the Prime Minister says that those in the EU all agreed with him that
+               every country should take part in the same sort of fiscal stimulus, regardless of
+               their situation. So why does the European Commission statement for the Council state:
+                  <quote>"It is clear that not all Member States are in the same position. Those
+                  that took advantage of the good times to achieve more sustainable public finance
+                  positions... have more room for manoeuvre now"</quote>. The Prime Minister did not
+               read that out. It continues: <quote>"For those Member States, in particular those
+                  outside the euro area, which are facing significant imbalances, budgetary policy
+                  should essentially aim at correcting such imbalances".</quote> In other words,
+                  <quote>"If you're in a hole like the one the Prime Minister has put us into, stop
+                  digging".</quote>
+            </seg>
+            <seg>Thirdly, the Prime Minister said that he is setting the agenda with his particular
+               measureshe is leafing through his papers to try to find them. Let us take VAT. The
+               French Finance Minister said: <quote>"As far as were concerned...were not certain
+                  that when prices go down, a VAT reduction is that effective".</quote> The German
+               Social Democrat budget spokesman said that the cut in VAT was
+               counter-productive.</seg>
+            <seg>That brings me to the Germans. I note that the Prime Minister did not really
+               mention themor perhaps he did once, but he thinks he got away with it. Is not it true
+               that the German Finance Minister - another Social Democrat, by the way - has
+               completely blown the Prime Ministers credibility out of the water? He described his
+               approach as <quote>"crass"</quote> and mistaken. He criticised Britains debt, which
+               he believes will <quote>"take a whole generation to work off"</quote>.</seg>
+            <seg>In response, the Prime Minister claims that Germanys fiscal expansion backs up his
+               own plans. However, Germany went into the downturn with a budget surplus; it fixed
+               the roof when the sun was shining. In contrast, the Prime Minister led Britain into
+               the downturn with the largest budget deficit in the industrialised world. Next, he
+               claimed that this was all to do with internal German politics, but has not that claim
+               been shattered, too? The Christian Democrats budget spokesman said that the German
+               Finance Ministers comments have <quote>"nothing whatsoever to do with internal German
+                  politics... the tremendous amount of debt being offered by Britain shows a
+                  complete failure of Labour policy".</quote>
+            </seg>
+            <seg>The Prime Minister is always telling us that he wants a consensus. He certainly got
+               one in Germany: they all think that he has got it wrong. With the EU Council in mind,
+               will the Prime Minister act to deal with what the Governor of the Bank of England
+               says is the most pressing challenge: getting banks lending again? Will he adopt our
+               proposal for a national loan guarantee scheme? I have the draft Bill here. Will he
+               support it, so that we can get business trading and Britain out of the recession?
+               Instead of dreaming about saving the world, when will the Prime Minister start saving
+               businesses here in Britain?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Let me say first of all that I agree with what the right hon. Gentleman says about
+               the losses of life in Iraq and Afghanistan. It is particularly poignant, as we face
+               Christmas, that so many families will be without their loved ones as a result of
+               those deaths. I thank the right hon. Gentleman for his support for what we are doing
+               on Afghanistan, Pakistan and India. Our plan in Afghanistan is clear: to complement
+               the military action that we have to takebecause this is the front line against the
+               Talibanby helping Afghan people take more control of their lives and have a stake in
+               the future. To do thatyes, we must tackle corruption. That is why we have offered
+               President Karzai a multi-agency taskforce, which we will put at his side in Kabul to
+               help him deal with the problems. It is also why we have taken the necessary action to
+               increase our troop numbers in central Helmand so that they can deal with the Taliban
+               in that vital area of Helmand.</seg>
+            <seg>When I was in Musa Qala, I could see that a place that the Taliban held a year ago
+               is now a place where there is law and order. A school and a hospital had just been
+               built and opened as a result of the investment that we and others are making. Afghan
+               people are now taking control of the judiciary system and law and order in that area.
+               If that can be done in Musa Qala, it can be done in other parts of the region. I have
+               to dispute what the right hon. Gentleman says about the money that we are providing
+               for helicopters and vehicles. We announced only last week more provision for
+               helicopters, and we have spent 1 billion on vehicles. We are determined that our
+               troops have the best and most modern equipment. I agree with the right hon. Gentleman
+               that we must deal with the root of the problems in Pakistan, and I support what
+               President Zardari is doing. I did meet General Kayani and talked to him about his
+               responsibilities and those of the Pakistani army and the ISI to ensure that
+               terrorists who have operated from Pakistan to do damage in India are properly rooted
+               out, that the training camps of TEL are closed down and that order is brought back to
+               the FATA areas. I believe that General Kayani shares President Zardaris view that
+               those things must be done, so that Pakistan can show the world that it is taking the
+               action that is necessary.</seg>
+            <seg>I now turn to the European meeting. The right hon. Gentleman did not say much about
+               climate change, but he questioned whether we were doing enough. I believe that the
+               agreement that we have reached on a 20 per cent. cut in emissions by 2020 is an
+               historic agreement. This is the first time that 27 countries have come together, and
+               that was possible only because we are part of the European Union. It is now possible
+               to move forward to the next stage, which is to win a worldwide treaty at Copenhagen,
+               because the European Unionand, hopefully, the American Governmentcan join together in
+               taking the action that is necessary.</seg>
+            <seg>As for Ireland, let me repeat to the right hon. Gentleman that the agreement to
+               meet Irish concerns means that the Lisbon treaty in no way affects the rights of
+               member states to make taxation decisions or individual member states defence
+               policiesboth things that we in Britain have always insisted on. We have also made it
+               clear that the charter of fundamental rights creates no new rights at the EU level.
+               That is something that we have always insisted on, and which the Irish now want as
+               part of their protocol. Therefore, it was perfectly proper for us to support the
+               Irish in their determination to get those three things made absolutely clear, as well
+               as to have a Commissioner of their own.</seg>
+            <seg>The right hon. Gentleman talked about what the European Union is doing on the
+               economy, but it is interesting to read what President Sarkozy has said:
+                  <quote>"Everybody agrees that there is a need for economic recovery along the
+                  lines of the... Barroso plan, around 1.5 per cent."</quote> and what Chancellor
+               Merkel has said: <quote>"Germany has.. .declared its willingness with regard to this
+                  1.5 per cent.... You know... in January we will discuss the matter of further
+                  steps."</quote>
+            </seg>
+            <seg>The one thing that the right hon. Gentleman tries to deny, by quoting people whom
+               he would never quote in ordinary circumstancesGerman Finance Ministers and European
+               Union politiciansis the one thing that is absolutely true: that the whole of the rest
+               of Europe wants a fiscal stimulus, and wants it to complement the interest rate cuts
+               that are being made. The Conservative party does not even have the Czech social forum
+               with it on this occasion. Not one of the leading parties in Europe supports the
+               position of the Conservative party. Why is that the case? Because the Conservative
+               party has committed itself not only to doing nothing during this period, but to
+               public spending cuts. The Conservatives say that they will cut public spending from
+               2010. Just at the point when people need help, they revert to the old policies of the
+               1980s and 1990s. That is what made people think of the Conservative party as the
+               nasty party. The Conservatives will give no help to home owners and no help to small
+               businesses, because they will spend no money. They have announced support for a
+               national business guarantee scheme, but there is no public money behind it, as a
+               result of their decisions to cut public spending, and there is no help for the
+               unemployed. This is the Conservative party that we are coming to see. At a time when
+               people need help at Christmas, the Conservatives would pull the help away. It is the
+               same old uncaring Conservative party of the past.</seg>
+         </u>
+
+         <u who="#CLEGG">
+            <seg>May I add my expressions of sympathy and condolence to the family and friends of
+               Lance-Corporal Steven Fellows, Corporal Marc Birch, Sergeant John Manuel and Marine
+               Damian Davies, who tragically lost their lives in Afghanistan, and to the family and
+               friends of Lee Churcher, who, sadly, died in Iraq? We all owe them a huge debt for
+               their service and sacrifice.</seg>
+            <seg>Like so many European Union summits before it, last weeks summit was stronger on
+               words than action, richer in promises than in delivery. I welcome the summit
+               proposals for a fiscal stimulus to boost the economy, in the shape of tax cuts and
+               public investment. The question, then, is: why is the Prime Minister not properly
+               practising here at home what he has preached in the European Union? Instead of having
+               his short-term VAT cut, why will he not make the big, permanent, fair tax cuts for
+               ordinary families that were called for at the European summit? Instead of wasting
+               extra borrowed money on that VAT cut, why will the Prime Minister not invest in green
+               infrastructure for Britains future, creating green jobs and green growth, as were
+               also called for at the summit? Does the Prime Minister not see that if he does not
+               boost growth in that waypermanent tax cuts and green jobsBritain will fall behind
+               those countries in Europe that he has been boasting about beating for about a decade?
+               Already, in some places one can no longer buy a whole euro for a pound. Does the
+               Prime Minister recognise that many eurozone economies could surge ahead of Britain,
+               under his leadership, leaving us once again as the sick man of Europe?</seg>
+            <seg>The summit was a wasted opportunity to defeat climate change. All those of us who
+               want our children to have a planet worth living on will be disappointed that dirty
+               industry has been given extra time to clean up its act. Will the Prime Minister tell
+               us when the commitments will be reviewed, and when the loopholes for dirty industry
+               will finally be closed? The Prime Minister also told us about his visits to
+               Afghanistan, India and Pakistan. I welcome his words of commitment to those countries
+               and support the temporary increase of troops until August in Afghanistan. Does he now
+               recognise that any lasting peace in that country will have to come from a regional
+               agreementlike the Dayton peace accords in the Balkansand that we need to start
+               talking now to China, Russia and Iran? Does he also agree that, if the local
+               pragmatists in the Taliban are to be split from the national fundamentalists, the
+               talks with the moderate Taliban that are going on in the shadows need to be brought
+               out into the light and given new emphasis?</seg>
+            <seg>Finally, I was disturbed to see that Zimbabwe warranted only a few words in the
+               conclusions of the summit, even as millions face disease and starvation, and no words
+               at all from the Prime Minister this afternoon. The Government have got their
+               priorities wrong: instead of being tough on Mugabe, they are being tough on his
+               victims, by refusing to allow Zimbabwean asylum seekers here to work, and, despite
+               assurances to the contrary, by still deporting Zimbabweans to their fateincluding
+               Privilege Thalambo, who was arrested with her two daughters for deportation just last
+               Friday. The Prime Minister talks with great passion about Africa, but he is not
+               providing the right leadership. He has given the wrong leadership on the Congo. Why,
+               instead of encouraging EU leaders to send EU troops, has he encouraged them not to
+               send them? He has also given the wrong leadership on Zimbabwe. Why has he not pushed
+               for international action by the United Nations under the new doctrine of
+               responsibility to protect? Does the Prime Minister not agree that, on the economy, on
+               climate change and on Africa, making the right promises is the easy bit, but
+               delivering them is the real test?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The right hon. Gentlemans whole theme was that the summit was stronger on words
+               than on action; if any group in the world is stronger on words than on action, it is
+               the Liberal party. I shall answer individually each of the questions that the right
+               hon. Gentleman has asked. On troops in Afghanistan, I am grateful for his support for
+               the additional mission to ensure that central Helmand is free of the Taliban.</seg>
+            <seg>On Zimbabwe, I disagree that we have done little; we have done a huge amount to try
+               to get humanitarian aid to the people who are affected by cholera, to persuade the
+               southern African states to take the necessary action, to bring this forward to the
+               Security Council, as we are doing, and to ensure that the whole world understands the
+               blood-stained regime that we are dealing with in Zimbabwe. We will continue our
+               efforts to try to persuade African leaders to take a tougher stand on the
+               issue.</seg>
+            <seg>On the Congo, I think that the right hon. Gentleman realises that, in preference to
+               rushing to deploy an EU force at the moment, the most important thing is to
+               strengthen the UN force. It is to rise from 17,000 to 20,000, and we have put aside
+               some money to help the recruiting of the additional troops for work in the Congo. By
+               far the quickest and most effective way of getting help to people there, and of
+               dealing with the incursions that are taking place, is to strengthen the numbers, the
+               quality and the leadership of the UN force on the ground. On climate change, I also
+               disagree with the right hon. Gentleman. There is a debate to be had about carbon
+               leakage, and there is to be a rigorous examination of its impact. No action will be
+               taken to exclude the non-power sectors of the economy from auctioning until that
+               rigorous examination has been carried out. The proposals will then go back to the
+               Council for further discussion within six months, so that we can be clear that carbon
+               leakage is not being used as an excuse to escape responsibility for taking action on
+               climate change. Our objectives of a 20 per cent. cut in emissions, of 100 per cent.
+               power auctioning and of a 9 billion commitment to carbon capture and storage were all
+               achieved at the summit, and, for all the difficulties that the right hon. Gentleman
+               has raised about carbon leakagea matter that has still to come back to be discussed
+               in full laterthere have been enormous advances that will put Europe in a position to
+               take the lead in Copenhagen in securing a climate change agreement.</seg>
+            <seg>I know that the right hon. Gentleman does not favour the VAT cuts that have taken
+               place, but I believe that they are already making a difference, and I hope that he
+               will support the increase in public spending that is taking place as a result of
+               decisions that we have made. Not only has 5 billion already been allocated to small
+               businesses, with a great deal more to come, but a 10 billion increase in the capital
+               budget from last year to next year will enable us to proceed with our plans for
+               roads, transport, schools and hospitals in a way that will employ more people. I hope
+               that the Liberal party will continue to support that action, which is necessary to
+               inject more capital spending into the economy at a time when it is most needed.</seg>
+            <seg>The fact of the matter is that monetary policy has a transmission mechanism that is
+               impaired, and we cannot rely totally on monetary policy. No other major country in
+               the world is saying that monetary policy alone can do this work, apart from the
+               people who represent the Conservative party at the moment. Fiscal policy is
+               absolutely essential, especially at a time of low inflation and low interest rates:
+               the case for using fiscal policy is even stronger then. It is unfortunate that the
+               Conservatives have not learned the basic lesson of the 1970s and 1980s that a
+               recession is prolonged by a failure to invest and a failure to use capital spending.
+               The Liberals and I are agreed on the need for capital investment. The Conservative
+               party should go back to the drawing board and think again.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>The Prime Minister has rightly referred to his efforts to improve the climate
+               between India and Pakistan and to secure greater co-operation against terrorism, but
+               does he not agree that the Afghan Government also have a responsibility to improve
+               co-operation with Pakistan so that there is a collective effort? He referred to
+               burden sharing. What discussions has he had with his German partners in NATO about
+               Germanys beginning at last to pull its weight in European and NATO security,
+               especially in the context of the dangerous areas in Afghanistan?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I should point out to my hon. Friend that the German Government have taken
+               responsibility for the training of police in Afghanistan. They have a number of
+               people allocated from Germany to do that, and they are taking responsibility for the
+               rest of the European Union to do that. If we are to succeed in Afghanistan, we will
+               have to increase not only the number of soldiers and armed forces trained70,000 are
+               being trained at the momentbut the quality and quantity of police on the ground to do
+               the job. Those who visit Musa Qala, as I did, will see that the police force is
+               working in providing law and order. In every other part of Afghanistan we must carry
+               out the training that is absolutely essential, and the German Government have agreed
+               to take the lead in that.</seg>
+         </u>
+
+         <u who="#ARBUTHNOT">
+            <seg>As I listened to the Prime Minister reading out the list of reasons why we needed
+               to be in Afghanistan, I found myself agreeing with them, but not inspired or enthused
+               by them. Is there anything that he can do to inspire the country so that it actually
+               starts to believe, with some enthusiasm, the reasons why we need to be in
+               Afghanistan?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I have said before and I say again - and I think that the country understands this
+               - that Afghanistan is the front line against the Taliban as well as al-Qaeda. If we
+               are to prevent terrorists from Pakistan and Afghanistan from entering our country, we
+               need to be both in Afghanistan and working with the Pakistani authorities to deal
+               with terrorism. Afghanistan is now a democracy. Schools have been built and young
+               people, including girls, are going to school and receiving an education. Health
+               centres are also being built. Yes, the Taliban have changed their tactics and it is
+               now guerrilla warfare that is being practised through roadside devices, suicide
+               bombings and other means, but we are in a position to turn the Taliban back in many
+               areas in Helmand, and where we have not yet done so, we are taking action to do so. I
+               believe that if we are to protect ourselves at home, we must remember that the
+               terrorism that affects us in Britain starts from Pakistan and Afghanistan.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>I welcome the Prime Ministers statement that the European Council has endorsed the
+               European Commissions recommendation that 200 billion should be put into the European
+               economies, building on the 62 billion from France, the 32 billion from Germany and
+               the 2.18 billion from Portugal, as well as a future $800 billion from the United
+               States. Given the flawed monetary policy to which the Prime Minister has referred, is
+               it not beyond peradventure that a monetary policy plus fiscal stimulus is the only
+               way out of the difficulties, and that to talk consistently of a national loans scheme
+               for small businesses when one already exists is simply a camouflage for having no
+               policy at all?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>My hon. Friend is absolutely right that what used to be called the one-club policy
+               of using only interest rates - of using only monetary policy - will not work in the
+               circumstances that we now face. The more the Conservative party ties itself to that,
+               the more it ties itself to the failed policies of the past. The reason why fiscal
+               policy is important is that we are in a period of low inflation with low interest
+               rateslow inflation next year, following the low interest rates we currently have.
+               That is why fiscal policy can have the greatest effect. If the Conservative party is
+               going to say that this is the right time to stop building schools, to stop building
+               hospitals, to cut back on transport and to cut back on the roads, and to say that it
+               will severely cut public spending from 2010 onwards, it will have to explain why it
+               is making nurses, doctors, teachers and others unemployed. That is the policy of the
+               Conservative party.</seg>
+         </u>
+
+         <u who="#TAPSELL">
+            <seg>May I remind the Prime Minister that several years and four Defence Secretaries ago
+               - the first of whom, the right hon. Member for Ashfield</seg>
+            <note>Mr. Hoon</note>
+            <seg>, is now sitting next to him - when we sent our first small contingent to
+               Afghanistan, I warned that, as the Russians had found in the 1980s, 300,000 men would
+               not be sufficient to achieve military victory in that country, and that the Pashtun
+               Taliban are a religious-tribal sect with no international ambitions who have always
+               disliked the al-Qaeda Arabs and will be thankful to be rid of them if they can be rid
+               of all foreign troops at the same time? Now that the Prime Minister has at last
+               recognised that the threat of international terrorism comes primarily from Pakistan,
+               why can we not have a settlement with the Afghans on that basis?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The hon. Gentleman cannot deny the evidence of the Taliban working with al-Qaeda.
+               He cannot deny the evidence that people are coming across the borders from Pakistan
+               to support the Taliban in action against British troops, as we saw in the suicide
+               bombing carried out by a young child in Afghanistan last week. He cannot deny the
+               interrelationship between what is happening in Pakistan and Afghanistan. We have got
+               to take action to protect our troops in Afghanistan, but also to protect the
+               democracy of Afghanistan, and we have got to take action to persuade a democratically
+               elected Government in Pakistan and their army to take action against terrorism within
+               their borders.</seg>
+         </u>
+
+         <u who="#VAZ-KEITH">
+            <seg>May I warmly welcome the Prime Ministers visit to India so soon after the events in
+               Mumbai? That underlines the fact that we have a very special relationship with India;
+               the Prime Minister was, of course, the first Head of Government to visit India after
+               the Mumbai tragedies. When he told the President of Pakistan that 75 per cent. of the
+               plots being investigated were rooted in Pakistan, what was the Presidents reaction?
+               Will my right hon. Friend confirm that the Government will provide any additional
+               resources that are necessary for our high commission in Islamabad, in order to deal
+               with this very serious problem?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I am grateful to my right hon. Friend for his comments. I passed on the condolences
+               of the entire British people for the loss of 175 lives as a result of the terrorist
+               activities of only 12 people in Mumbai a few days ago. I offered the Indian
+               Government any help with the investigations that we can give, and we talked about how
+               we could increase our counter-terrorism activities together so that India and Britain
+               can work more closely to identify terrorism and the sources of it. My right hon.
+               Friend is also absolutely right that a heavy responsibility falls upon Pakistan. It
+               has already been identified that the terrorists who struck in India came from
+               Pakistan. It is also true that many people from Pakistan have gone into Afghanistan
+               and attacked British troops there. My right hon. Friend is absolutely right that the
+               evidence suggests that three quarters of the terrorist plots we have had to
+               investigate in Britain have links in one way or another with Pakistan. That is why I
+               said to the President of Pakistan, and the Prime Minister, that we will be prepared
+               to give them help to counter terrorism - help in their capabilities, in advice, in
+               strengthening their laws, and in building up action against extremism, particularly
+               in the education of their children, so that they can expose the perversion of Islam
+               that is taking place. However, that requires the Pakistan Government to take
+               responsibility by taking the necessary action, particularly in the tribal areas. The
+               President of Pakistan assured me that he was determined to take action, and we said
+               that we would monitor what is done over the next few days.</seg>
+         </u>
+
+         <u who="#LLWYD">
+            <seg>I fully associate myself with the words of condolence expressed by the Prime
+               Minister earlier in his statement. On Afghanistan, he has announced the multi-agency
+               taskforce, which as part of its remit will have some work to do rooting out fraud. Is
+               it not therefore logical that it should also oversee the rebuilding of
+               infrastructure?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>There are other means by which the rebuilding of infrastructure is taking place in
+               Afghanistan. The importance of clearing the roads of bombs and making the roads safe
+               was mentioned earlier. The dam project is moving ahead as a result of international
+               action and a lot of reconstruction is taking place in Afghanistan itself, so I do not
+               think that a multi-agency taskforce should be the organisation that deals with
+               corruption. The relationships at the centre of Afghanistan are trying to move forward
+               the reconstruction, and of course, we are taking action in Helmand itself to build
+               new facilities.</seg>
+         </u>
+
+         <u who="#DREW">
+            <seg>My right hon. Friend is absolutely right to ignore the siren voices who are
+               opposing reflationary measures at this time. In talking about the Germans - or some
+               of them - may I say how disappointed some of us are to hear that they were against a
+               number of the measures relating to further developments on climate change? That is a
+               marked departure from their previous record. Would my right hon. Friend like to say
+               to them that we would like them to be where they were previously, on both economic
+               policy and environmental policy?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I can say that Chancellor Merkel supported all the main principles of the climate
+               change package. The issue has been how we deal with carbon leakage, and a lot more
+               work has got to be done on that, but 100 per cent. auctioning is to take place in the
+               power sector, and there is an agreed 20 per cent. cut in carbon emissions. To be able
+               to do that as a European Union, and also to invest in carbon capture and storage - 9
+               billion is to be invested in that - is substantial progress. Everybody who looks at
+               the history of action on the environment knows that we have to build a consensus. If
+               we can build one in Europe and persuade America that it is right that it takes
+               action, it is possible that we will achieve for the first time an environmental
+               agreement that all countries are prepared to sign. I agree with my hon. Friend on the
+               economy that it is important that all countries support the fiscal stimulus, but he
+               must recognise that the German Government have made a fiscal stimulus and are
+               planning another. The only party of any significance that I can see that is against a
+               fiscal stimulus is the Conservative party, because it made a terrible decision last
+               week that it would cut public spending.</seg>
+         </u>
+
+         <u who="#ANCRAM">
+            <seg>As it now appears from the Irish example that holding a referendum on the Lisbon
+               treaty and voting no leads the European Union to make substantial concessions, why
+               does the Prime Minister not, even now, take the same route and hold the referendum
+               that he promised us before the last election?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We have had this argument in the House on many occasions, and every time that it is
+               put to the vote, this side of the House wins and that side loses.</seg>
+         </u>
+
+         <u who="#LLOYD">
+            <seg>My right hon. Friend will know very well that after many years of military rule,
+               Inter-Services Intelligence, Pakistans security service, is far from trusted as being
+               under proper civilian control. Did he have a chance to discuss with President Zardari
+               whether it is possible for Britain to lend assistance that will ensure that the
+               democratic Government of Pakistan can bring the internal security service under that
+               proper democratic control?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We did talk about how we can support the Pakistani authorities in many different
+               ways, including helping them to rewrite laws to deal with terrorism, as we have had
+               to do ourselves. I did offer support in a number of different ways to President
+               Zardari. I also repeated to Mr. Kayani, who is the head of the armed forces, our
+               offer of help to the Pakistani authorities, and we will continue to work with them to
+               do everything that we can to support the Pakistani effort against terrorism in their
+               own country. It is important to recognise that many Pakistan citizens have also been
+               the victims of suicide bombings and that there have been many terrorist incidents
+               within Pakistan itself. We want to give support to the Pakistan Government, but at
+               the same time we are urging them to take more action, particularly against the
+               organisation TEL, which has been held responsible for the Bombay bombings.</seg>
+         </u>
+
+         <u who="#SOAMES">
+            <seg>I understand that the Prime Minister is leading a wider review on Afghanistan
+               within Whitehall. If he decides to deploy more troops to Afghanistan, will he
+               consider tasking them principally with the training of more men of the Afghan army
+               and police, that being by far the most effective way of enabling the Afghans to take
+               some control of their own affairs?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I agree with the hon. Gentleman, because it is important that the number of Afghan
+               troops in Afghanistan is increased. Some 70,000 are being trained at the moment and
+               more is being done every month - about 1,500 are being trained every month - but the
+               figure will have to be a lot higher than that for a country the size and scale of
+               Afghanistan. A new target of 120,000 has already been set. I do not think that that
+               is big enough for the size of the country. I saw British troops training Afghan
+               soldiers and working with them, and the Afghan soldiers are courageous and strong,
+               but there needs to be more of them - the hon. Gentleman is absolutely right. That is
+               something that we continue to push on President Karzai.</seg>
+         </u>
+
+         <u who="#FLYNN">
+            <seg>The previous increase in British troops in Afghanistan two years ago resulted in an
+               increase in the deaths of our brave soldiers, from a total of seven to a total of
+               132. Is there not a grave danger that an increase in the number of troops means more
+               targets for the Taliban? Is not the best way of consolidating the gains made in
+               Afghanistan to embark on a new policy, based not on a military victory but on
+               tackling the causes of terrorism with a peace strategy?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I should point out to my hon. Friend that our strategy is based on complementing
+               the military intervention that is necessary to keep peace in Afghanistan and maintain
+               democracy with other measures that will build up the confidence of the Afghan people
+               so that they are enabled to govern themselves. That includes, as I have just said,
+               training the Afghan forces and police, as well as building up local government,
+               working with the tribes to create a means by which localities are properly governed
+               and cleaning out corruption from the centre - on which I have pressed President
+               Karzai, and why our multi-agency taskforce is going in. It also includes giving
+               Afghan people a stake in their future - by helping them to become wheat farmers, for
+               example, rather than farmers of drugs and narcotics - whether they are in villages,
+               towns or in the countryside. That is our strategy for Afghanistan. It is necessary
+               that we have the number of troops to deal with the Taliban, but it is also necessary
+               that we train the Afghan army and police and that we invest in building the
+               facilities that are necessary so that people have a stake in Afghanistans
+               future.</seg>
+         </u>
+
+         <u who="#KEETCH">
+            <seg>The Prime Minister says that there are more helicopters on the way, but may I ask
+               him the same question that I asked him on 21 November 2007? When will the dedicated
+               Chinook helicopters that were ordered by John Major for our special forces and
+               delivered to Tony Blair in 2001 be fully available to be deployed by UK special
+               forces in Afghanistan?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I agree that we have set aside a huge amount of money for additional helicopters.
+               The timetable for their introduction depends on re-equipping many of them and, at the
+               same time, training the forces to do so. I shall write to the hon. Gentleman
+               specifically about the Chinook helicopters, but I can tell him that the money and the
+               resources have been provided for the additional helicopters.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>At this weekends international conference on Afghanistan in France, the Iranian
+               Foreign Minister did not turn up, even though he was expected. Given what the Prime
+               Minister has said about Afghanistan and the need to work with neighbouring countries,
+               did he discuss either at the EU Council or on his visit to Afghanistan and Pakistan
+               how to bring the Iranians into discussions about the future?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>It is very difficult to say, when we are debating with the Iranians at the moment,
+               whether they will accept that they will be under the non-proliferation treaty that
+               they have signed up to. We have presented Iran with a choice: it can either be part
+               of the international community and get all the advantages of being such a part,
+               including being free of sanctions, or it can allow itself to become isolated by
+               defying the international community on nuclear weapons. That is the choice that Iran
+               has to make, and it affects all the other areas in which we operate.</seg>
+         </u>
+
+         <u who="#RIFKIND">
+            <seg>When the Prime Minister calls upon the Pakistani Government to do more to destroy
+               the Taliban in the frontier areas, is he aware that the Pakistani army and
+               intelligence agencies have always been influenced by the fact that successive Afghan
+               Governments, over 60 years, have refused to recognise the legitimacy of the
+               international frontier between Afghanistan and Pakistan, and that they believe that
+               that thereby gives them reason to suspect that Afghanistan harbours aspirations to
+               incorporate those provinces into its own country? Will he therefore seek to persuade
+               President Karzai to reconsider this policy and, in the interests of Afghanistan
+               itself and stability in the region, to recognise the legitimate frontier as that
+               which currently exists between the two countries?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I understand the difficulties and the challenges that the right hon. and learned
+               Gentleman raises, which result from history, but when I talked to President Zardari
+               he informed me that he had made big changes. There has been a change at the head of
+               the ISI and there are further changes in the departmental heads. It remains to be
+               seen what happens as a result of that, but President Zardari was determined to tell
+               me that the army is dedicated to the pursuit of terrorism. We will hold him to those
+               words.</seg>
+         </u>
+
+         <u who="#CORBYN">
+            <seg>The Prime Minister will be aware that it is now more than seven years since
+               coalition forces were sent to Afghanistan, and he tells us today that there will be a
+               small increase in British forces there until next August. If the situation is
+               unchanged by then, will we have another increase? Is it not time for a complete
+               rethink on the policy towards Afghanistan and are we not just heading down the route
+               of the same failed philosophy that the Americans pursued in Vietnam - endlessly
+               putting troops into a failing situation?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>I have to point out to my hon. Friend that 41 countries are involved in this
+               coalition, not just one or two. There are 41 countries determined not only to bring
+               peace and reconciliation to Afghanistan, but to help to build a stronger democracy
+               there. I have also to tell him that we will discuss at the NATO meeting on 3 and 4
+               April the burden sharing that is necessary for the future. I am determined, too, that
+               other countries play their part in Afghanistan. This is the fundamental question,
+               which brought us to Afghanistan in the first place: there is the front line against
+               the Taliban. We have removed the Taliban from power in Afghanistan. I think that it
+               is our duty to help to uphold the new democracy in that country.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>How does the Prime Minister justify his endorsement of the deceitful bullying of
+               the Irish people in these conclusions with his claim to be a democrat?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>The Irish brought to the EU concerns that they had expressed about the
+               interpretation of the treaty and the treaty. We agreed that there would be an extra
+               Commissioner, but that is within the power of the Lisbon treaty. We also agreed to
+               reiterate what is important to us in Britain as well: the Lisbon treaty in no way
+               affects the right of members on taxation decisions and in no way affects our defence
+               policy. As we have a protocol on the charter of fundamental rights, it was right that
+               the Irish be given assurances on that as well. That is what has happened. I would
+               have thought that people in the House would support it.</seg>
+         </u>
+
+         <u who="#BLACKMAN-WOODS">
+            <seg>I am sure that my right hon. Friend agrees that it is necessary to see through the
+               process of reconstruction in Afghanistan until a stable, strong and fully democratic
+               state emerges. Will he say more about the efforts he is making to get other countries
+               to play a greater role in burden sharing so that that state can emerge sooner rather
+               than later?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>As my hon. Friend will know, France and other countries have upped their
+               contribution of forces during the past year. I think that we have 52,000 troops in
+               total from a large number of countries in Afghanistan at the moment, but I have made
+               it clear that we need further burden sharing. Whether it is by providing more forces
+               or more help with training forces or the police, or whether it is by providing
+               equipment such as the helicopter fund that has been formed so that people can
+               contribute as we and others will to other countries bringing helicopters to Iraq, we
+               are determined to continue the process. If 41 countries are part of the project, they
+               must make a contribution to it. The burden sharing that I have talked about will be
+               discussed at NATO on 3 and 4 April.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>As the Irish people are to be made to vote again on the Lisbon treaty on the ground
+               that they made a mistake last time, will the Prime Minister call an early general
+               election on the ground that the British people made a mistake last time?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>No, and I would have thought that when the right hon. Gentleman looked at the Irish
+               statement as a result of the European Council, he would support most of it, not
+               oppose it.</seg>
+         </u>
+
+         <u who="#BURDEN">
+            <seg>In relation to matters discussed at the European Council, does the Prime Minister
+               agree that one of the things that will be vital to long-term economic recovery is
+               ensuring that strategically important industries can weather the current storm and
+               prosper into the future? In that context, will he say a little more about efforts
+               being made at a European level in relation to the automotive industry, whose health
+               is vital to many EU member states?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>Decisions on the automotive industry will be made by individual countries, which
+               will look at the situation and make their own judgments about what is likely to
+               happen. My hon. Friends question prompts a more fundamental question about whether
+               one is prepared to help families and businesses in times of great difficulty. We are
+               prepared to do so; the Opposition would not.</seg>
+         </u>
+
+         <u who="#BLUNT">
+            <seg>The evidence is that the position of the international community, including the
+               Karzai Government, in Afghanistan is becoming more difficult day by day. It is also
+               evident that public support in the UK for our troops in Afghanistan is declining
+               rather than increasing. The Prime Minister is conducting this important and
+               much-needed review of policy towards Afghanistan. Can the House of Commons have the
+               opportunity to contribute to the review through at least a day, but preferably two
+               days, of debate before it is completed?</seg>
+         </u>
+
+         <u who="#BROWN">
+            <seg>We have regular debates in the House of Commons, such as the debate on defence that
+               took place very recently. Of course a debate on Afghanistan can take place, if the
+               Opposition choose to propose that subject. At the same time, we will keep the House
+               fully informed of any decisions that we propose to make on Afghanistan.</seg>
+         </u>
+      </body>
+   </text>
+</TEI>

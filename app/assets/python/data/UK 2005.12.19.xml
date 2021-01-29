@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Desktop/PutSegAroundText.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Naomi Truan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>CC BY 4.0</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Available from <ref target="http://www.publications.parliament.uk/pa/cm200506/cmhansrd/vo051219/debtext/51219-05.htm#51219-05_head0"></ref></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0" xml:id="docxtotei">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <orgName>House of Commons</orgName>
+               <date>19 December 2005</date>
+               <date when="2005-12-19"></date>
+               <activity>Future of Europe, Migration</activity>
+               <locale>Brussels</locale>
+               <persName>Blair III</persName>
+               <name>92nd ministry</name>
+            </setting>
+         </settingDesc>
+
+         <particDesc>
+            <listPerson type="parliamentarians">
+               <person xml:id="BLAIR">
+                  <persName>Mr. Tony Blair</persName>
+                  <sex>male</sex>
+                  <occupation>Prime Minister</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+               <person xml:id="SPEAKER">
+                  <persName>Mister Speaker</persName>
+                  <sex>male</sex>
+                  <occupation>Speaker</occupation>
+                  <affiliation>none</affiliation>
+                  <trait type="party">
+                     <desc>none</desc>
+                  </trait>
+                  <floruit>none</floruit>
+                  <nationality>UK</nationality>
+                  <residence>none</residence>
+               </person>
+               <person xml:id="CAMERON">
+                  <persName>Mr. David Cameron</persName>
+                  <sex>male</sex>
+                  <occupation>Leader of Her Majesty's Official Opposition</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Witney</residence>
+               </person>
+               <person xml:id="KENNEDY">
+                  <persName>Mr. Charles Kennedy</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ross, Skye and Inverness, West</residence>
+               </person>
+               <person xml:id="BELL-STUART">
+                  <persName>Mr. Stuart Bell</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Middlesbrough</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="HOWARD">
+                  <persName>Mr. Michael Howard</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Folkestone and Hythe</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="STUART">
+                  <persName>Ms Gisela Stuart</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Birmingham, Edgbaston</residence>
+               </person>
+               <person xml:id="PAISLEY">
+                  <persName>Rev. Ian Paisley</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Democratic Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>North Antrim</residence>
+               </person>
+               <person xml:id="MCFALL">
+                  <persName>Mr. John McFall</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Dumbarton</residence>
+               </person>
+               <person xml:id="CASH">
+                  <persName>Mr. William Cash</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Stone</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="TAYLOR-DARI">
+                  <persName>Ms Dari Taylor</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>Stockton, South</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="FABRICANT">
+                  <persName>Michael Fabricant</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <residence>Lichfield</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="SMITH">
+                  <persName>Mr. Iain Duncan Smith</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Chingford and Woodford Green</residence>
+               </person>
+               <person xml:id="HENDERSON">
+                  <persName>Mr. Doug Henderson</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Newcastle upon Tyne, North</residence>
+               </person>
+               <person xml:id="SALMOND">
+                  <persName>Mr. Alex Salmond</persName>
+                  <sex>male</sex>
+                  <occupation>Deputy Leader</occupation>
+                  <affiliation>Scottish National Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Banff and Buchan</residence>
+               </person>
+               <person xml:id="BAYLEY">
+                  <persName>Hugh Bayley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <residence>City of York</residence>
+                  <nationality>UK</nationality>
+               </person>
+               <person xml:id="ANCRAM">
+                  <persName>Mr. Michael Ancram</persName>
+                  <sex>male</sex>
+                  <occupation>Shadow Secretary of State for Defence</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Devizes</residence>
+               </person>
+               <person xml:id="ELLMAN">
+                  <persName>Mrs. Louise Ellman</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Liverpool, Riverside</residence>
+               </person>
+               <person xml:id="VIGGERS">
+                  <persName>Peter Viggers</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Gosport</residence>
+               </person>
+
+               <person xml:id="BALLS">
+                  <persName>Ed Balls</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Normanton</residence>
+               </person>
+
+               <person xml:id="PUGH">
+                  <persName>Dr. John Pugh</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Lib-Dem</affiliation>
+                  <trait type="party">
+                     <desc>Liberal</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Southport</residence>
+               </person>
+
+               <person xml:id="LEVITT">
+                  <persName>Tom Levitt</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>High Peak</residence>
+               </person>
+
+               <person xml:id="SHEPERD">
+                  <persName>Mr. Richard Shepherd</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Aldridge-Brownhills</residence>
+               </person>
+
+               <person xml:id="GAPES">
+                  <persName>Mike Gapes</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour Co-operative</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Ilford, South</residence>
+               </person>
+
+               <person xml:id="BINLEY">
+                  <persName>Mr. Brian Binley</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Northampton, South</residence>
+               </person>
+
+               <person xml:id="EAGLE">
+                  <persName>Angela Eagle</persName>
+                  <sex>female</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wallasey</residence>
+               </person>
+
+               <person xml:id="CURRY">
+                  <persName>Mr. David Curry</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Skipton and Ripon</residence>
+               </person>
+
+               <person xml:id="SHERIDAN">
+                  <persName>Jim Sheridan</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Paisley and Renfrewshire, North</residence>
+               </person>
+
+               <person xml:id="LEIGH">
+                  <persName>Mr. Edward Leigh</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Gainsborough</residence>
+               </person>
+
+               <person xml:id="LLOYD">
+                  <persName>Tony Lloyd</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Manchester, Central</residence>
+               </person>
+
+               <person xml:id="HEATHCOAT-AMORY">
+                  <persName>Mr. David Heathcoat-Amory</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Tories</affiliation>
+                  <trait type="party">
+                     <desc>Conservative</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Wells</residence>
+               </person>
+
+               <person xml:id="DAVID">
+                  <persName>Mr. Wayne David</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Labour</affiliation>
+                  <trait type="party">
+                     <desc>Left</desc>
+                  </trait>
+                  <floruit>no opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Caerphilly</residence>
+               </person>
+
+               <person xml:id="DODDS">
+                  <persName>Mr. Nigel Dodds</persName>
+                  <sex>male</sex>
+                  <occupation>MP</occupation>
+                  <affiliation>Democratic Unionist Party</affiliation>
+                  <trait type="party">
+                     <desc>Independent</desc>
+                  </trait>
+                  <floruit>opposition</floruit>
+                  <nationality>UK</nationality>
+                  <residence>Belfast, North</residence>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <u who="#BLAIR">
+            <seg>With permission, Mr. Speaker, I should like to make a statement about the European
+               Council in Brussels on 15–16 December. The main issue at this European Council was
+               the European Union budget for 2007–13, the first budget ever for the enlarged Europe
+               of 25 member states, soon to become 27 with the accession of Bulgaria and Romania.
+               This country can be proud of the part that we played in the enlargement of the EU.
+               The countries of central and eastern Europe that for so long suffered under communist
+               dictatorship are now free democracies and   vibrant new members of the EU. To
+               have   championed the cause of those new states, to have welcomed them into NATO and
+               Europe and then to have refused to agree a budget that protects their future economic
+               development would have been a betrayal of everything that Britain has rightly stood
+               for in the past 15 years or more since the fall of the Berlin wall. They are our
+               allies. It is our duty to stand by them. But it is also massively in our national
+               interest. These new member states have fast-growing, open economies, new ideas, human
+               capital and a political vision of Europe that is close to ours.</seg>
+            <seg>However, although they are catching up economically, they are still much poorer
+               than most of the original European Union 15; their people half as   wealthy as in the
+               rest of Europe. The purpose of the   budget is rightly to transfer resources from the
+               wealthiest west of Europe to the poorer east of Europe. Over the coming years, within
+               a broadly stable budget, funds for the new member states will increase from
+               €24 billion to €174 billion, a seven-fold increase.</seg>
+            <seg>In time, of course, this makes them prosperous and us too. If we look at the
+               example of Ireland and Spain, bilateral trade with those countries in goods alone is
+               now more than €60 billion a year. Investment in the future prosperity and stability
+               of eastern Europe brings big and lasting benefits to this country. The reason that it
+               was so important to reach agreement at the European Council is as follows: as all
+               central and eastern European leaders made clear to me, it was essential to have a
+               December deal to allow those countries to plan and prepare for using the EU funds
+               when those funds start in 12 months' time. It was clear that the prospects for a deal
+               next year were negligible, and, if there were to be no deal, then in 2007 the
+               European Parliament would take over the budget process. That would mean the
+               Parliament setting annual budgets, on the existing financial agreements, which would
+               have meant that countries such as Poland would have lost around two thirds of their
+               EU funds. That is why they wanted a deal now. Of course, there is also a need for
+               fundamental reform of the EU budget. As I said in June, what we need is to settle the
+               budget on the basis of everyone paying their fair share of the costs of enlargement
+               now; and then to open up the prospect of a radically reformed budget midway through
+               the next budget period. The agreement reached on Saturday morning differed from that
+               of the Luxembourg proposal in four key respects. The overall budget is smaller. The
+               proposal in June was that the UK rebate should be reduced in commitment terms by
+               about €22.5 billion; under this deal, the maximum we shall pay is €10.5 billion. In
+               the review clause in June, the common agricultural policy agreement of 2002 was
+               specifically endorsed. Now it is clear that all aspects of the budget can be examined
+               in 2008–09. However, crucially for Britain, this agreement states expressly — unlike
+               that of June — that the British rebate remains in full on all expenditure in the
+               original 15 member states. It remains in full on all common agricultural policy
+               market expenditure everywhere in the Union, including in the new member states. We
+               have, however, agreed to disapply a proportion of the rebate on structural and
+               cohesion spending in the new member states — in effect, on the spending directly
+               designed for economic development. As I have said, the cost of this is up to a
+               maximum of €10.5 billion or about £7 billion over the next seven years of the
+               financing period. Moreover, because the rebate stays on all common agricultural
+               policy and all spending in the original European 15, the rebate will rise, not fall,
+               to an average of €5.8 billion in payments terms annually from 2007. Overall, the
+               rebate will get us about €41 billion back in the next budget period — substantially
+               more than in this period. That is then the crucial leverage for future reform.</seg>
+            <seg>As the strongest supporter of enlargement among all member states, I strongly
+               believe that it was right — indeed, essential — that the UK should contribute
+               properly to enlargement. The fact is that if we support and, indeed, drive through a
+               policy of ending the post-war division of Europe, we have to be ready to accept our
+               fair share of the costs of that policy. Enlargement was never, and could never be, a
+               cost-free policy, and this Government are prepared to shoulder their responsibilities
+               in this area, because it is the right   thing to do. In this context, I want to
+               dispel one misunderstanding that has arisen — the impression that only the UK is
+               contributing to the costs of enlargement. All wealthier countries are contributing.
+               In terms of net contributions, our contribution will increase by 63 per cent. over
+               the next financing period in comparison with 2000–06. France's contribution will
+               increase by 124 per cent. Italy's contribution will increase by 126 per cent. Spain
+               will lose in the region of €40 billion. Moreover, after some 20 years of our paying,
+               under the original rebate, twice as much as France, UK and French contributions will,
+               from 2007, for the first time, be in rough parity. Because the UK economy is now
+               bigger than the French economy, we will, in fact, on the Commission's figures, be
+               contributing a smaller share of our national wealth.</seg>
+            <seg>Alongside this agreement on support for the modernisation of eastern Europe, we
+               also agreed on a fundamental review of all aspects of the EU budget, including the
+               common agricultural policy, to be led by President Barroso, with the recommendation
+               that it begin in 2008. As the language in the European Council conclusions makes
+               absolutely clear, it is then possible for changes to be made to this budget structure
+               in the course of this financing period. This will also allow us to take account of
+               any changes agreed in the World Trade Organisation round, including the decision to
+               phase out all export subsidies for agriculture by 2013. In addition, it was agreed
+               that any CAP spending for Romania and Bulgaria — about €8 billion — should be fitted
+               within existing CAP ceilings, which is a significant budgetary discipline.</seg>
+            <seg>So to summarise, when people ask what we got for agreeing to pay our fair share of
+               enlargement, the answer is an agreement that sees us, for the first time since we
+               joined the EU, paying no more than similar countries, such as France and Italy; the
+               rebate staying put on all CAP spending and rising, not falling, in value; and a
+               process that can, in the years to come, lead to the necessary fundamental reform of
+               both rebate and CAP that we all want to see.</seg>
+            <seg>I should report briefly that the Council also agreed on a strategic partnership
+               between the European Union and Africa, on a new and strengthened policy on illegal
+               migration and on a counter-terrorism plan. We also agreed that Macedonia should be
+               granted candidate status — the next step in its path towards membership of   the
+               European Union. As a strong supporter of Macedonia's ambitions, I want to
+               congratulate the Macedonian Government on the progress that they have made towards
+               that goal.</seg>
+            <seg>The European Council also unreservedly condemned the Iranian President's recent
+               remarks about Israel and warmly welcomed the 15 December elections in Iraq as a
+               further step towards democracy and stability in that country. Over the past six
+               months, the UK presidency has delivered the historic launch of accession negotiations </seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>It has delivered the launch of accession negotiations with Turkey and Croatia — a
+               long-standing British objective. We have delivered a number of important pieces of
+               legislation, including the REACH — registration, evaluation, authorisation and
+               restriction of chemicals — regulations and the data retention directive, which is an
+               important measure against terrorism. We have delivered reform of the EU sugar regime
+               and a strengthening of the EU position on climate change</seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. Mr. Bellingham, you are out of order, and you are not the only one. After
+               the Prime Minister has finished, I shall seek to protect the Leader of the
+               Opposition, and I cannot do that if hon. Members are shouting at the Prime
+               Minister.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>And we have delivered an EU budget deal that is €160 billion cheaper than the
+               original Commission proposals, provides for a huge transfer of spending from the
+               original 15 to the new member states of eastern Europe, and preserves the British
+               rebate in full on the CAP and all spending in the   EU 15. I commend all this to the
+               House.</seg>
+         </u>
+
+         <u who="#CAMERON">
+            <seg>This was the year that Europe needed to change direction; this was the year that
+               the people of Europe rejected the constitution; and this was the year that people
+               called for the end of the obscenity of protectionism that damages the developing
+               world. The Prime Minister rightly talked at the time of a crisis in European
+               leadership, so the question for him is whether the British presidency and the new
+               budget even begin to measure up to those challenges.</seg>
+            <seg>We warmly welcome the accession talks with Turkey and Croatia. We welcome what the
+               Prime Minister said about Macedonia and the EU partnership with Africa, but has not
+               progress elsewhere been desperately slow?</seg>
+            <seg>On the budget, does the Prime Minister remember having three clear objectives:
+               first, to limit its size, when almost every country in Europe is taxing and borrowing
+               too much; secondly, to ensure fundamental reform of the CAP; and, thirdly, to keep
+               the British rebate unless such reform occurs? Is it not now clear that he failed in
+               every single one?</seg>
+            <seg>First, the Prime Minister said that he wanted the size of the budget to be set at
+               1 per cent. of Europe's income. Can he confirm that the budget that he has just
+               agreed is higher than that, higher than the compromise that he tabled and will mean
+               £25 billion in extra spending? The Prime Minister says that that is intended to pay
+               for enlargement, so will he confirm that Ireland, which is richer per capita than
+               Britain, is getting more per head than Lithuania, Slovakia and Poland?</seg>
+            <seg>Secondly, the Prime Minister wanted to change the things that the budget was spent
+               on. Is it not clear that he has failed to do that as well? Is it not the case that
+               CAP spending will be higher next year, the year after that and in every year up to
+               2013? The Chancellor said that CAP reform was necessary to make poverty history. The
+               Prime Minister told the House in June that he wanted to get rid of the CAP. Will he
+               confirm that, four months later, his own Europe Minister said that the Government had
+               not made any detailed proposals to reform the CAP? Is it not the case that the entire
+               Government spent four years doing nothing about something that the Prime Minister
+               thought was essential?</seg>
+            <seg>Will the Prime Minister be clear about what he has secured on the CAP? It is a
+               review and it takes place in 2008. Can he confirm that, in that year, the presidency
+               will be held by France? Is he aware that the French Foreign Minister has said that
+               Jacques Chirac has secured that there will be no reform to the common agricultural
+               policy before 2014? Is that not the opposite of what the Prime Minister actually
+               wanted? In other words, he has completely failed to deliver CAP reform.</seg>
+            <seg>What about the Prime Minister's third objective: if all else fails, keep the
+               rebate? All else did fail, and the Prime Minister's position was clear. He used to
+               say the rebate was non-negotiable. He said at that Dispatch Box in June: <quote>"The
+                  UK rebate will remain and we will not negotiate it away. Period."</quote>
+               <bibl type="source">Official Report, 8 June 2005; Vol. 434, c. 1234.</bibl> The
+               Chancellor said that it was non-negotiable and fully justified. Then the Prime
+               Minister changed his mind. The rebate could be negotiated, he said, provided that
+               there was fundamental reform of the CAP. So it was clear that the only circumstances
+               in which the rebate would be given up was if there were a commensurate and equal
+               giving up of farm subsidies.</seg>
+            <seg>That is not an unreasonable position and, at that time, he knew all about the other
+               considerations he mentioned today, including the importance of supporting
+               enlargement. But what happened? The farm subsidies remain and £7 billion of the
+               rebate has been negotiated away. If that was always the Government's plan, why was
+               not any reduction in the rebate in the Chancellor's pre-Budget report? We are told
+               that the Chancellor did not even know about the final deal. Normally, it is the
+               Chancellor who does not tell the Prime Minister about what is in the Budget; this
+               time the Prime Minister did not tell the Chancellor.</seg>
+            <seg>Can the Prime Minister confirm that, by 2011, the UK will be losing £2 billion a
+               year and that that will be the baseline from which we negotiate? Will he confirm that
+               the amount he has given up from the rebate is almost double our entire overseas aid
+               budget this year?</seg>
+            <seg>In June, the Prime Minister told the House that no deal was better than a bad deal.
+               He said: <quote>"Europe's credibility demands the right deal — not the usual
+                  cobbled-together compromise in the early hours of the morning."</quote>
+               <bibl type="source">Official Report, 20 June 2005; Vol. 435, c. 524.</bibl> Did he
+               remember that when he was cobbling together this compromise in the early hours of the
+               morning? Why did he give up £7 billion for next to nothing? Vitally, how is the
+               Chancellor going to pay for it — more taxes, more borrowing or cuts in spending?
+               Which is it?</seg>
+            <seg>A good budget deal would have limited spending; it would have reformed the CAP and
+               it would have helped change Europe's direction. Is it not the case that none of those
+               things happened under the British presidency? Europe needed to be led in a new
+               direction. Are we not simply heading in the same direction but paying a bigger
+               bill?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>No, we are not, for the very simple reason that the direction of Europe is towards
+               enlargement. That is why we have allowed those 10 new countries to come in. Let us
+               just see for a moment where we agree and disagree. The hon. Gentleman supports
+               enlargement; yes, he supports enlargement.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Come on. He supports the wealthy countries paying for the poorer countries. That is
+               right too; isn't it? Although he supports enlargement and he supports the wealthy
+               countries paying for the poorer countries, he does not support Britain paying any
+               money for it. He talks about a crisis in the European Union. What sort of crisis
+               would there be if he were in charge with that policy? The hon. Gentleman talks about
+               the rebate. Let me tell him that the rebate, as I have just explained, is rising not
+               falling</seg>
+            <incident>
+               <desc>Hon. Members: "No, it is not."</desc>
+            </incident>
+            <seg>Yes, it is, because it remains on all common agricultural policy money. He and his
+               Back Benchers say, <quote>"Why is not France paying for this?"</quote>, but France is
+               getting a bigger net contribution loss than Britain in the next financial
+               perspective.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>Let me explain to hon. Members what is actually happening: the structural and
+               cohesion fund budget covers about 35 per cent. of all spending. At the moment, it
+               mainly goes to wealthy countries, but it will mainly go to poorer countries. The
+               wealthy countries will therefore pay to the poorer countries, and we are a wealthy
+               country, which is why we should pay our fair share. People like the hon. Gentleman,
+               who say that they are in favour of enlargement but refuse to follow through on the
+               consequences of that position, are not exercising leadership; they are abdicating
+               leadership. The hon. Gentleman has said that he would have negotiated something
+               different, but let us work out who his allies would be in such a new European
+               Union.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>One of his first leadership decisions was to withdraw from the EPP, which contains
+               the other Conservative parties in Europe, and this is what his own Members of the
+               European Parliament have said about it. Mr. Struan Stevenson has said: <quote>"We
+                  would have to sit round the table on a weekly basis with these fascists and
+                  nutters"</quote>
+            </seg>
+         </u>
+
+         <incident>
+            <desc>Interruption</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>Order. If hon. Members stop shouting, I would be able to hear what the Prime
+               Minister has to say.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>It is actually worse than that. If the Conservatives withdraw from the EPP,
+               Jean-Marie Le Pen will sit there, Mrs. Mussolini will sit here, the Conservative
+               party will sit there and, worst of all, Robert Kilroy-Silk will sit there. <incident>
+                  <desc>Laughter</desc>
+               </incident> Before the hon. Gentleman attacks my leadership in the European Union, he
+               should start to exercise some himself.</seg>
+         </u>
+
+         <u who="#KENNEDY">
+            <seg>As the Prime Minister knows, the Liberal Democrat party has consistently supported
+               the enlargement of the EU and welcomes that development, which, following the
+               collapse of the Berlin wall, is good for us in Europe and for the world generally. I
+               acknowledge that that development must come with a financial price tag in order to
+               meet moral, political and economic objectives. Having achieved a degree of expansion,
+               we also welcome the opening of accession talks with Turkey and Croatia and the
+               approval of candidate status for Macedonia in this presidency.</seg>
+            <seg>G</seg>
+            <seg>iven the ideals that the Prime Minister properly set out at the beginning of the UK
+               presidency, there is a great deal of disappointment with its conclusion, not least
+               where common agricultural policy reform is concerned. First, is not the truth of the
+               matter that the stitch-up between France and Germany over CAP reform, to which the
+               Prime Minister had to put his name, that took place two years ago is what has made
+               the British position so difficult today?</seg>
+            <seg>Secondly, the French managed to call his bluff on the issue at the summit. The
+               Prime Minister has said: <quote>"and then to open up the prospect of a radically
+                  reformed Budget midway through the next Budget period."</quote> The French Foreign
+               Minister has said that there will be no reform of CAP before 2013.</seg>
+            <seg>Those two statements do not marry up. Will the Prime Minister confirm that when the
+               much-vaunted review takes place, it will consist of a review by the Commission, which
+               will result in a document being submitted to a subsequent Council of Ministers, which
+               will decide the matter? The review carries no more force or persuasiveness than
+               that.</seg>
+            <seg>In terms of pursuing long-term British interests, albeit that this has been a
+               somewhat disappointing presidency, does the Prime Minister agree that disengagement
+               within the European Parliament or elsewhere is a recipe for absolute disaster? This
+               at a time when someone is making speeches about pursuing a green environmental
+               agenda; indeed, Europe is a very logical place to pursue that. In the last European
+               Parliament, the British Conservatives held the chairmanship of the Environment
+               Committee. If they pursue their current course of action, they will not hold the
+               chairmanships of any committees. That will be a loss not only for them but for
+               Britain.</seg>
+            <seg>The outcomes of this summit are disappointing but not disastrous. It deserves to be
+               particularly disappointing for those Eurosceptics who want to see Britain fragmented
+               from Europe, rather than Europe succeeding in the longer term.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>I thank the right hon. Gentleman for his general welcome for what we have done. One
+               can only imagine what would have happened had we failed to reach a budget deal this
+               December in terms of our relationships with the central and eastern European
+               countries who are our allies, and of course with other new Governments, not least the
+               German Government.</seg>
+            <seg>The right hon. Gentleman is absolutely right to draw attention to what was said in
+               June. I would repeat what I said in this House, if I may, when I reported from the
+               Brussels Council: <quote>"I proposed that we have a fundamental review of the EU
+                  budget, reporting in time for us to be able — midway through the next financial
+                  period — to alter fundamentally the structure of the budget, dealing both with the
+                  rebate and the CAP."</quote> I went on to say: <quote>"In the meantime, of course,
+                  we would ensure that we paid our fair share of enlargement."</quote>
+               <bibl type="source">Official Report, 20 June 2005; Vol.   435, c. 524</bibl>
+            </seg>
+            <seg>The position is very clear. The opportunity to get the fundamental reform will come
+               through the review. Twelve other countries joined with France in saying that they do
+               not wish to disturb the CAP deal that was done in 2002. Of course, had we not been
+               able to conclude that deal in 2002, enlargement would not have happened, because that
+               summit concerned enlargement in respect of future spending. It is worth pointing out
+               to people who criticise the deal reached in 2002 that, without it, we would never
+               have got those countries coming into the European Union in 2004.</seg>
+            <seg>As the right hon. Gentleman said, there will, however, be a major battle when the
+               review is published. As the President of the Commission made clear today, it will be
+               a fundamental review of what the money is spent on and how it should be spent. It
+               will also, of course, be about a proper and sensible way of deciding that according
+               to wealth people should pay, and according to need they should receive. The one thing
+               that is obvious is that the   budget does indeed need fundamental change, but   the
+               whole point about getting this deal in December is that, without it, the new central
+               and eastern European countries could not have planned ahead for the next budget
+               period. That is why we had to have an immediate deal in December so that they could
+               have the certainty of the money coming to them, and then, in the medium and longer
+               term, the prospect of the mid-term review that would allow us fundamentally to change
+               the structure of the budget.</seg>
+            <seg>The right hon. Gentleman is right that there will be a   huge battle between the
+               reformers and the non-reformers. But who are our allies in the reform struggle? They
+               are the very countries in central and eastern Europe that, if we had not done a deal,
+               would have been completely alienated from this country. No one should be in any doubt
+               about that. After our ding-dong, I simply say to the Leader of the Opposition that it
+               is important for the Conservatives to think very carefully about their position of
+               withdrawing from the EPP. That would be a disaster in terms of this country being
+               able to procure a good deal in Europe.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The one thing that is very obvious from today's exchanges is that Euroscepticism is
+               alive and well in the Tory party.</seg>
+         </u>
+
+         <u who="#BELL-STUART">
+            <seg>Would it not have been absolutely shameful for this Government not to have agreed
+               under their presidency of the European Union for transfers from the richer countries
+               to the poorer countries? Would not we all be ashamed of ourselves had that not been
+               the case? Is it not a fact that the forward march of Europe was halted with the
+               referendums in Holland and France in the summer? Has it not been restarted with this
+               presidency, this budget and the reform that will ensure that such last-minute horse
+               trading will never happen again?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> My hon. Friend is absolutely right. As I said a moment or two ago, it would have
+               been disastrous for this country's future relationship with central and eastern
+               Europe had we not done our level best to get a budget deal. If we had not got a deal,
+               in 2007 the European Parliament would have taken over a   set of annual budgets on
+               the existing financial mechanisms, and those countries would have ended up with about
+               a third or a quarter of the amount of money that they needed. It is hard to overstate
+               the importance to those countries of getting this deal. That is why it would have
+               been a disaster for this country not to have pursued it to a successful
+               conclusion.</seg>
+         </u>
+
+         <u who="#HOWARD">
+            <seg>Did not the Prime Minister know about the costs of enlargement when he told the
+               House in June that he would not negotiate the rebate away, period?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Which is why the rebate is rising, not falling.</seg>
+         </u>
+
+         <u who="#STUART">
+            <seg>As it is the season of good will and new-found co-operation across the parties,
+               when my right hon. Friend addresses the European Parliament tomorrow, will he send
+               our condolences to Conservative Members about their new-found neighbours, now that
+               they have left the EPP? Will he also be very proud when we open negotiations with
+               Turkey on 3 October, because in years to come that will probably be seen as even more
+               significant than the budget negotiations? Will he say more about why he is so
+               confident that the review in 2008 will lead to true reforms of the CAP?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>I thank my hon. Friend for what she said. It is obviously extremely important that
+               we begin Turkey's accession negotiations. Three things will drive people towards
+               reform through the Commission's review. First, it is absolutely clear that people
+               want a budget that is more rationally directed towards what they need for the future,
+               including research and development and innovation. Even though the CAP has come down
+               in the last 20 years from about 70 per cent. of the budget to 40 per cent., that
+               still means that 40 per cent. of the budget is spent on 2 or, at most, 4 per cent. of
+               the working population.</seg>
+            <seg> </seg>
+            <seg>Secondly, the World Trade Organisation negotiations will push people towards that.
+               Thirdly, and perhaps most importantly - and this is why it is important that we keep
+               the rebate on all CAP spending and on all spending in the European member states -
+               there is absolutely no way that we will be able to get that reformed and restructured
+               budget unless everything is taken into account, and that was why it was important
+               that the review specifically mentioned both the CAP and the rebate.</seg>
+         </u>
+
+         <u who="#PAISLEY">
+            <seg>The Prime Minister mentioned that there was a discussion at the talks of terrorism
+               and the counter-terrorist plan. Did he discuss the counter-terrorist plan in Northern
+               Ireland? It seems strange to the people of Northern Ireland that the tragic situation
+               that is developing in Northern Ireland cannot be debated in this House of Commons,
+               but the Prime Minister can discuss it at the talks and skim over it when he makes his
+               report. I remind him of the promise that he made to me on Wednesday that he would
+               consider whether more information could be given to the House of Commons, and I hope
+               that he will keep that promise.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> On that last point, although it is obviously not the issue of the statement, I am
+               looking at what more we can say and put into the public domain, but it must be done
+               in accordance with the advice that we receive as to what is legally proper. We are
+               looking at that and I think that it would be helpful if we were able to give some
+               more information, but it can be done   only with the consent of the proper
+               authorities. I emphasise once again, and I hope that the right hon. Gentleman accepts
+               this from me, that neither I, the Secretary of State nor Ministers were involved in
+               the   decision. It was a decision taken by the Director of Public Prosecutions, as it
+               should be. I am looking carefully at what more can be said, but it has to be within
+               the bounds of what is legally proper.</seg>
+         </u>
+
+         <u who="#MCFALL">
+            <seg>I congratulate the Prime Minister on achieving a deal that ensures that enlargement
+               goes on. Does he agree with the shadow Foreign Secretary when he says that it holds
+               out the prospect of an enlarged area of   peace and stability, the former leader of
+               the Conservative party when he says that it will heal the   divide that scarred the
+               continent, and the Leader of   the Opposition, with his short-term memory, who
+               I   remind him stated that enlargement will be extremely important? Can the Prime
+               Minister detail for me how much the budget deal will cost year on year from 2007 to
+               2014 in addition to what has already been budgeted for?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> In respect of the first point, it is important that people understand that if we
+               support enlargement, it is absurd to say that we are not prepared to pay our fair
+               share of the costs of enlargement. Over the budget period, the result of giving up a
+               proportion of the rebate — it is only a proportion between 2007 and 2013 — is a
+               maximum cost of €10.5 billion. Once the increased budget is taken into account over
+               the next period — this illustrates the absurdity of the suggestion that only Britain
+               is paying — the total cost for France will be in the region of €31 billion. The
+               contribution of Britain will be significantly less than that.</seg>
+         </u>
+
+         <u who="#CASH">
+            <seg>In those heady days in 1997, I suggested to the Prime Minister that he was walking
+               on water now but that he would drown in Europe. With the failure of the European
+               constitution, the Lisbon agenda and his negotiations over the rebate, and having
+               conceded effective victory to Angela Merkel and Jacques Chirac and being outflanked
+               by them, does he accept that his European legacy is holed below the waterline?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>Virtually whatever we might do, the hon. Gentleman will think the same, which is no
+               surprise as we have fundamentally different views of   Europe. He wants Britain out
+               of the European Union, whereas I think, particularly when the European Union is
+               enlarging and pulling in countries that share our vision of Europe, that it is absurd
+               for Britain in the 21st   century to withdraw from Europe. We have a different set of
+               objectives from him, which makes him not a very good judge of whether we are
+               successful or failing.</seg>
+         </u>
+
+         <u who="#TAYLOR-DARI">
+            <seg>
+               <quote>"Countries such as Poland are crying out for investment in their
+                  infrastructure, and wise use of structural funds could be crucial in helping their
+                  economies to prosper."</quote>
+               <bibl type="source">Official Report, 5 June 2003; Vol. 406, c. 372.</bibl>
+            </seg>
+            <seg>I hope that my right hon. Friend agrees with that quotation from the previous
+               shadow Foreign Secretary. Is the budget that my right hon. Friend has been so bold in
+               negotiating sufficient to assist Poland and other countries that desperately need our
+               help?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> My hon. Friend is right that Poland stands to gain about €60 billion in economic
+               development funds over the next financial period. That is of enormous assistance. We
+               still have not had an answer from the Conservative party about whether it agrees that
+               we should pay anything towards the costs of enlargement. Perhaps it will tell us
+               now.</seg>
+         </u>
+
+         <u who="#FABRICANT">
+            <seg>You are in government.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>The hon. Gentleman says from a sedentary position that we are in government, as if
+               that is the answer. Occasionally, it is customary for the Opposition to have a
+               position.</seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>Back in June, the French were in disarray, President Chirac had lost the referendum
+               on the constitution and was in a weak position, and the Prime Minister looked strong.
+               Today, we are paying £1 billion more, and President Chirac has won the rebate and
+               denied CAP reform. Does the Prime Minister realise that Britain, and not only him,
+               now looks weak and pathetic in the eyes of the European leaders?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>How does the right hon. Gentleman therefore explain that France will pay more than
+               Britain in the next financial period? France is also paying money. Let me try to
+               educate him again. All the wealthy countries are paying more over the next budget
+               period because the whole point of enlargement is to transfer from the wealthy to the
+               poor. Let me read to him what he said about enlargement: <quote>"The Prime Minister
+                  is right to say that enlargement is a great prize that is worth fighting for. The
+                  10 countries seeking membership of the EU will bring 70 million customers for
+                  British goods and services in a single market extending from the Atlantic to the
+                  Baltic."</quote>
+               <bibl type="source">Official Report, 28 October 2002; Vol. 391, c.543.</bibl>
+            </seg>
+         </u>
+
+         <u who="#SMITH">
+            <seg>That is nothing to do with it.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The right hon. Gentleman says from a sedentary position that that is nothing to do
+               with it. The problem with the Tories is that they have not yet realised that
+               Euroscepticism is a problem for them, not a solution. At some point, they might wake
+               up to that. It is absurd, however, to say that one is in favour of enlargement, and
+               that everybody else should pay for it but that we should not.</seg>
+         </u>
+
+         <u who="#HENDERSON">
+            <seg>Perhaps the barmy army on the Opposition Benches does not understand the importance
+               of reaching a budget settlement and the link to future trade, but the British people
+               do, British industry does, British workers do and most Members of Parliament do. Can
+               my right hon. Friend give the Opposition more of what he has already given them this
+               afternoon?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I simply point out that in each of the central and eastern European countries, as
+               my hon. Friend rightly implies, there will be a tremendous development in trade in
+               goods and services. As a result of the economic development of Ireland and Spain, for
+               example, our trade over the past few years has grown enormously. Our trade with those
+               countries is now about £40 billion a year, which is of enormous benefit to this
+               country. When we pay our fair share — and it is our fair share, not more — we are
+               actually making an investment, not merely in countries that have supported us
+               politically but in countries whose economic success is of benefit to Britain. There
+               are orders for goods and services as their infrastructure improves, and so forth. My
+               hon. Friend is absolutely right. That is why it is important to recognise that this
+               is not just about a deal at the European Union. It is also about fulfilling our role
+               as champion of a Europe that is enlarging because enlargement, in the end, is in
+               Britain's interest.</seg>
+         </u>
+
+         <u who="#SALMOND">
+            <seg>The wealthy countries may well be paying more, but they are also getting more. Will
+               the Prime Minister confirm that as he sought agreement, he agreed to €2 billion extra
+               for Spain and regional development funding, €2 billion extra for Italy, the regions
+               of France and structural funding, €400 million extra for Germany, €150 million extra
+               for Sweden, and the same for Austria? Meanwhile, the highlands and islands and the
+               rest of Scotland will have a €500 million shortfall under the Commission's proposals
+               for the European regional development fund. Given that the Prime Minister achieved
+               such a wonderful deal on the rebate, will he guarantee to Scotland and the regions of
+               England and Wales that the Treasury will make up that shortfall pound for pound, euro
+               for euro?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I have made clear what we can and cannot do in respect of the structural funds.
+               Incidentally, the figures that the hon. Gentleman read out were completely wrong.
+               Spain, which has been a massive net recipient, will receive some €40 billion less.
+               Wealthy countries that have been big net recipients will become net contributors.
+               That process is inevitable when — as I tried to explain for, I think, the fifth time
+               — the wealthy countries pay more to the poorer countries. That is what enlargement is
+               about, and in the end it will benefit Scotland as well as the United Kingdom as a
+               whole.</seg>
+         </u>
+
+         <u who="#BAYLEY">
+            <seg>We all know who was responsible for blocking cuts in European agriculture
+               subsidies, and it was not our Prime Minister. Will he reassure Make Poverty History
+               that he will continue to campaign for trade justice? Will he also talk to the friends
+               that the United Kingdom has made in francophone Africa as a result of the progress
+               that has been made for Africa during our presidency and try to persuade them and the
+               Canadians to raise the case for CAP reform with France, Belgium and Luxembourg in the
+               Assemblée parlementaire de la Francophonie?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I certainly will. My hon. Friend is right that it is important for us to keep up
+               the pressure during the rest of the Doha trade round. The phasing out of agriculture
+               export subsidies by 2013 represents at least some progress, and the aid-for-trade
+               deal is also extremely important. However, I am aware — as, I think, are many others
+               in the international community — that we must do far more if the trade round is to be
+               a success.</seg>
+         </u>
+
+         <u who="#ANCRAM">
+            <seg>For all his histrionics, is the Prime Minister really impervious to the feelings of
+               betrayal among the people of this country who were led by him to believe that the
+               British rebate was safe in his hands? Is not the truth that last weekend he gave away
+               British jam today in return for French jamais tomorrow?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>I was pleased when the right hon. and learned Gentleman got to his feet, because I
+               have a quotation from a speech that he made when he was shadow Foreign Secretary.
+               This is what he said, talking of enlargement: <quote>"structural funds cannot
+                  continue to be used as they have been... Now these funds will be needed elsewhere.
+                  Countries such as Poland are crying out for investment in their infrastructure,
+                  and wise use of structural funds could be crucial in helping their economies to
+                  prosper. I hope that that will also be pursued."</quote>
+               <bibl type="source">Official Report, 5 June 2003; Vol. 406, c. 372.</bibl> Well, we
+               pursued it.</seg>
+         </u>
+
+         <u who="#ELLMAN">
+            <seg>The Prime Minister has reported that Iran was condemned for its President's recent
+               remarks about Israel. Did that refer to Iran's threat to wipe Israel off the map or
+               was it to do with holocaust denial? What discussions took place about how to prevent
+               Iran from acquiring nuclear weapons?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I can tell my hon. Friend that it was in respect of the remarks about holocaust
+               denial, as we had already condemned at an earlier Council the comments about the
+               state of Israel. We will continue to work closely with our European partners and with
+               the United States to try to make sure that Iran faces up to its international
+               responsibilities. As my hon. Friend rightly implies, those remarks caused enormous
+               offence right across the international community and raised a whole range of doubts
+               and concerns about the Iranian regime.</seg>
+         </u>
+
+         <u who="#VIGGERS">
+            <seg>These proposals have enormous financial implications, so what opportunity will the
+               House have to debate and then vote on them?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I am sure that there will be plenty of opportunity to debate them. It would be
+               nice if at least one of the Conservative Members who are asking me questions would
+               confirm whether they accept that we have to pay something for enlargement. Surely
+               that must be right.</seg>
+         </u>
+
+         <u who="#BALLS">
+            <seg>Given that in the 21 years since the rebate was first negotiated in 1984, we have
+               yet to see any fundamental reform of the common agricultural policy, does the Prime
+               Minister think that this weekend's deal brings forward the prospect of serious CAP
+               reform? What tangible steps does he believe that the Government and hon. Members can
+               take between now and 2008 to make the prospect of real reform more likely?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The important thing is that the Commission's review will relate to the whole of
+               the budget, including the CAP, abatement and everything to do with how the EU is
+               financed. The EU will then have to take decisions on the basis of that review, but
+               I think that there is increasing recognition that we need that fundamental
+               restructuring. It was never going to happen this December; it was going to happen
+               only once a deal was secured for the short term this December and then followed up by
+               a mid-term review that would allow us to make that fundamental reform. It is possible
+               to achieve that, but it will mean increasing the pressure for change within Europe.
+               Frankly, that is best achieved by forming alliances with other like-minded countries
+               in the EU, and those alliances would all have been put at risk if we had not tried to
+               secure a proper budget in the meantime.</seg>
+         </u>
+
+         <u who="#PUGH">
+            <seg>What provision is made in the settlement for structural funds received by Cornwall
+               and Merseyside?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I do not know the exact details, but perhaps I can write to the hon. Gentleman on
+               that matter. Overall, of course, one has to accept that the structural and cohesion
+               fund budget gets switched from the wealthy to the poor. That is true.</seg>
+         </u>
+
+         <u who="#LEVITT">
+            <seg>Does my right hon. Friend agree that we had a rebate in the first place only
+               because others acknowledged that there were injustices in the system? As we work
+               towards getting rid of those injustices — and, more importantly, as we work to ensure
+               that they are not meted out on those more vulnerable or weaker than ourselves — it is
+               natural for the rebate to be adjusted accordingly. Does he agree that the deal is not
+               only honourable and —</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg> Order. One supplementary question is fine.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>There is a simple way of testing the proposition that my hon. Friend has rightly
+               raised. Between 1984 and 2004, we paid roughly double the net contributions that
+               France paid, but for the next financial period and for the first time in the history
+               of the European Union, we will be in parity. That is why, frankly, it is so absurd to
+               say that we have somehow got nothing from the deal. We have actually achieved parity
+               for the first time. Naturally, both France and Britain will have to pay more if we
+               want to see developments in eastern Europe.</seg>
+            <seg>Underneath all the debates and arguments lies an important question — not just
+               about budget reform, but in relation to enlargement — about the direction of Europe.
+               Do we want further enlargement of the EU? Macedonia is a small country so enlargement
+               can happen fairly easily there, but Croatia and Turkey are also coming up for
+               membership. There is no way that we will be able to create the right context of
+               consent across Europe for those major enlargements — I happen to believe that they
+               are in the long-term interest of this country — unless we have a more rational
+               budget. Such a budget will have to be decided in the future.</seg>
+         </u>
+
+         <u who="#SHEPERD">
+            <seg>When the Prime Minister made a statement to the House and stressed that the rebate
+               was non-negotiable, he must surely have been aware that the EU had expanded to the
+               east and that the common agricultural policy was dire and had grievous effects on the
+               third world and the poorest nations, which the Government claim to be dedicated to
+               helping. Does he realise that the House and the country believe that he threw away a
+               good negotiating hand for nothing?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> </seg>
+            <seg>Except that the rebate is rising and we have to pay our fair share of enlargement.
+               But anyway, let me read out to the hon. Gentleman what I actually said back in June:
+                  <quote>"I proposed that we have a fundamental review of the EU budget, reporting
+                  in time for us to be able — midway through the next financial period"</quote> —
+               not now, but midway through the next financial period — <quote>"to alter
+                  fundamentally the structure of the budget, dealing both with the rebate and the
+                  CAP."</quote> I went on to say: <quote>"In the meantime, of course, we would
+                  ensure that we paid our fair share of enlargement."</quote>
+               <bibl type="source">Official Report,20 June 2005; Vol.435, c. 524.</bibl> That is
+               precisely what I have secured.</seg>
+         </u>
+
+         <u who="#GAPES">
+            <seg>The Prime Minister referred to the importance of our relations with the 10 new
+               member states of the European Union, and he will be aware that one of them — Slovakia
+               — will have the presidency of the EU in 2008. Is he also aware that there will be
+               great support in the Balkans generally for the decision to give Macedonia candidate
+               country status? Peace and security in the Balkans is vital for all of us in Europe
+               and without this agreement, it could have been put at risk.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>My hon. Friend is of course absolutely right and that is another reason why this
+               agreement is so important. Some Opposition Members seem to think that countries hold
+               the presidency for a year, when, in fact, they hold it for six months. As my hon.
+               Friend rightly says, the other presidency in 2008 is Slovakia, which is of course a
+               great supporter of reform, but in any event, the real point that he makes is worth
+               emphasising. In the end, we want to see the European Union expand to take in those
+               Balkan countries that for decades — for centuries, even — have been a huge problem
+               for the whole development of the European Union. If we ended up having no budget in
+               respect of this enlargement — relating to central and eastern Europe — there is no
+               way that we could have prepared the ground for future enlargement to include those
+               Balkan countries. Whatever people may say about agreements such as this — there is
+               always criticism of them — in the end, we had to do two things: to get an immediate
+               deal that secures the short term and to get a process agreed that allows us to get
+               the longer-term reform. My hon. Friend is absolutely right: had we not done the first
+               thing, the enlargement that I assume all of us want to see — toward Croatia and
+               Macedonia and, in time, other Balkan states — would have been put at risk.</seg>
+         </u>
+
+         <incident>
+            <desc>Mr. Brian Binley rose</desc>
+         </incident>
+
+         <u who="#SPEAKER">
+            <seg>I call Mike Penning.</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>I mean Mr. Brian Binley.</seg>
+         </u>
+
+         <u who="#BINLEY">
+            <seg>I am most grateful, Mr. Speaker; you may call me what you wish. There is clearly
+               going to be a shortfall in respect of Treasury expectations and the lost rebate. Will
+               the Prime Minister make it up through direct taxation, indirect taxation or more
+               stealth taxes?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Actually, as a result of the agreement, we start off with a zero percentage of
+               the   costs of enlargement and build up over time. I assume from what the hon.
+               Gentleman said that he does not agree with paying any money toward enlargement, which
+               is not very sensible.</seg>
+         </u>
+
+         <u who="#EAGLE">
+            <seg>May I warmly congratulate my right hon. Friend on his skill in bringing to a
+               successful conclusion the EU budget negotiations, and on reaching an agreement that
+               enables the new European Union countries — the EU 10 — to have at their disposal
+               during the next budget period a sum twice the size of the post-war Marshall plan in
+               order to develop their countries, which is in all our interests? Could he give me his
+               opinion</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order. That will do. Other hon. Members want to get in. </seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I thank my hon. Friend for that question and she is right to say that there will
+               be a big transfer of money, but there are other interesting points to note about the
+               central and eastern European countries. For example, my conversations with the Prime
+               Minister of Estonia and with representatives of many of the other central and eastern
+               European countries showed that they believe that they will very quickly become net
+               contributors to the European budget. Their economies are doing extremely well, they
+               are expanding quickly and they are massive economic reformers. What all of them
+               therefore need is this seed corn investment, which allows them to grow quickly. In
+               time, of course, the result will be a massive increase in trade between those
+               countries and this country. That is an example of the way in which the European Union
+               has granted us such prosperity over the years.</seg>
+         </u>
+
+         <u who="#CURRY">
+            <seg>What steps can the Prime Minister take to ensure that the Doha trade round does not
+               drift into failure in the early months of next year? Can he assure us that the
+               2008 expenditure review will not prevent the European Union from making a new offer
+               on agricultural subsidies a great deal earlier than that, given that, in the light of
+               world prices, the abolition of export rebates is a relatively low-cost option?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I actually think that the opposite is true. Obviously, it is important that we do
+               everything we can to secure progress in the Doha trade round, and that requires
+               action by the European Union, the United States and Japan, as well as by Brazil,
+               India and the other emerging economies. The review allows us to be in the position of
+               saying that we are going to need fundamental reform in order to meet our trade
+               obligations. The Doha round, even if it is fully successful, will not create
+               immediate agricultural reform: it will set that reform out over a period of time. For
+               example, export subsidies will be phased out by 2013. That helps us to get a better
+               deal in the mid-term review for Europe as well as the individual countries.</seg>
+         </u>
+
+         <u who="#SHERIDAN">
+            <seg>Can my right hon. Friend assure the House that the additional resources afforded to
+               our eastern European partners will not be used, directly, indirectly or through
+               creative accountancy, to undermine this country's manufacturing base?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I assure my hon. Friend that the rules that apply mean that the economic
+               development of those countries must take account of the criteria set out for all
+               spending of structural and cohesion funds. However, there is a bigger positive for
+               us. Those countries will increase in wealth and growth quickly, and that will be a
+               market for our manufacturing industry.</seg>
+         </u>
+
+         <u who="#LEIGH">
+            <seg>Would it be a fair summary to say that originally we were not going to give up any
+               of the rebate, then we would give it up only for fundamental reform of the CAP, and
+               now we will give it up to pay for enlargement? If that is not the case, what concrete
+               reforms will there be of the CAP before 2013? Would it not have been more honest of
+               the Prime Minister to have come to the House and said that to us six months
+               ago?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> I have just read out what I said six months ago, and that is not an accurate
+               summary of what I said. The rebate will rise in value and we will receive more back
+               in the rebate in the next financial period than in the last. The rebate will remain
+               on all   agricultural spending. The rebate will remain on all spending in the
+               original European 15. But we cannot say that those poorer countries should pay the
+               rebate in respect of the money going to their economic development. Otherwise we
+               would not be doing what I said in June that we should, which is in the meantime —
+               before the fundamental CAP reform takes place — to pay our fair share of the costs of
+               enlargement. If we had refused to do that, there would have been no budget deal and
+               there would have been crisis in all the central and eastern European states, and we
+               would have been blamed for that. That would not have been very sensible
+               negotiating.</seg>
+         </u>
+
+         <u who="#LLOYD">
+            <seg>My right hon. Friend rightly pointed out that our natural allies in central Europe
+               would have felt betrayed by Britain if we had failed to reach a deal. If we had
+               betrayed our own national interest in not getting a deal, with whom would we have
+               negotiated in the European Parliament and with whom would a future Tory Government
+               negotiate in that Parliament?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> As I understand it, the position of the Opposition is that they would withdraw
+               from the   Conservative party grouping in the European Parliament. That would have
+               the most serious repercussions for this country's ability to make its influence felt,
+               which is no doubt why the previous leaders of the Conservative party, including the
+               shadow Foreign Secretary, refused to do it.</seg>
+         </u>
+
+         <u who="#HEATHCOAT-AMORY">
+            <seg>This descent by the Prime Minister from tough talking in advance to concessions and
+               surrender is such a familiar path for his European policy that this latest
+               humiliation is no surprise. But why will we pay twice the amount into a budgetary and
+               control system in Brussels that is so riddled with corruption and inefficiency that
+               the auditors have not signed it off for the past 11 years? Was that raised at the
+               summit</seg>
+         </u>
+
+         <u who="#SPEAKER">
+            <seg>Order.</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> The right hon. Gentleman and I   just have a fundamental disagreement about
+               Europe. I happen to believe that having championed the cause of enlargement it would
+               be absurd for this country to say that we were not prepared to pay for it. That is
+               our position. He apparently wishes to support enlargement but would refuse to have
+               anything to do with paying for it. I would say that that is a ridiculous position.
+               Sometimes it is actually better to have a situation in which we work with our allies
+               to secure a proper deal, which will mean — as I said earlier — that France will
+               actually pay more than us in the difference between their net contributions in the
+               next period compared with the last. It is better to do such a deal than to end up
+               alienating every ally in Europe and getting nothing for this country.</seg>
+         </u>
+
+         <u who="#DAVID">
+            <seg>As part of this agreement, west Wales and the Valleys will receive £1.3 billion in
+               structural fund assistance over the next seven years. Does my right hon. Friend agree
+               that that will be a tremendous boost to the Welsh economy?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg> Of course, which is another reason why it is a good deal and I thank my hon.
+               Friend for reminding me of it.</seg>
+         </u>
+
+         <u who="#DODDS">
+            <seg>I note that the Chancellor has left the Chamber. Is that because he wants to lock
+               the Treasury against further raids by the Prime Minister or is it to find the
+               £7 billion? Can the Prime Minister assist the Chancellor and the House by telling us
+               which areas of public expenditure will be targeted for cuts as a result of his
+               largesse in Brussels?</seg>
+         </u>
+
+         <u who="#BLAIR">
+            <seg>From what the hon. Gentleman is saying and from what the Conservatives are saying,
+               they would not pay anything towards the costs of enlargement</seg>
+            <incident>
+               <desc>Interruption</desc>
+            </incident>
+            <seg>The Conservative party really has to understand that there is a choice. If we agree
+               with enlargement, and if we agree that enlargement means a transfer from the wealthy
+               to the poor, given that we are a wealthy country, I simply ask in all logic: how can
+               they say that all other wealthy countries should pay but we should not? That is not a
+               sensible position.</seg>
+         </u>
+
+      </body>
+   </text>
+</TEI>
